@@ -1,0 +1,3930 @@
+[
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "abencomo",
+      "robert-nado"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "OpenSPIFe",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/OpenSPIFe/wiki",
+    "Public Code Repo": "https://github.com/nasa/OpenSPIFe",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Scheduling and Planning Interface for Exploration (SPIFe) is an integrated planning and scheduling toolkit based on hundreds of hours of expert observation, use, and refinement of state-of-the-art planning and scheduling technology for several applications within NASA.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2",
+      "EPL",
+      "MPLv2",
+      "LGPL"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "Planning",
+      "tool",
+      "scheduling"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-08-20"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "VWoeltjen",
+      "harleigh",
+      "DanBerrios",
+      "danielpacak"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "MCT-Plugins",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/MCT-Plugins/wiki",
+    "Public Code Repo": "https://github.com/nasa/MCT-Plugins",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "This plug-in allows users to create satellites in MCT and track their orbits, in real-time, through various views: Satellite Orbits in 3D via the Earth View plug-in. Real-time locations on a 2D Mercator Projection (A new to MCT; created within this plug-in). All of the views that come standard with the core-MCT distribution (i.e.: MultiColumn View, Plots over time, Alpha, etc.).",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "MCT",
+      "Mission Critical Technologies",
+      "plug-in",
+      "telemetry",
+      "tracking",
+      "satellite",
+      "imagery"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-08-26"
+  },
+  {
+    "NASA Center": "Center of Excellence for Collaborative Innovation",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "nasarader",
+      "ambdiv"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NTL-Asteroid-Tracker",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NTL-Asteroid-Tracker",
+    "Public Code Repo": "https://github.com/nasa/NTL-Asteroid-Tracker",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "This algorithm code (from the Phase 1 Asteroid Tracker Challenge) provides the optimum subarray selection per set of object tracks provided in a predefined configuration using a fixed number of dishes - See more about the challenge at: http://www.topcoder.com/asteroids/tracker/ This code was generated via a challenge on the NASA Tournament Lab (NTL) supported by NASA's Center of Excellence for Collaborative Innovation (CoECI).",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2"
+    ],
+    "Languages": [
+      "C++"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "NTL",
+      "asteroid",
+      "tracker",
+      "algorithm"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-08"
+  },
+  {
+    "NASA Center": "NASA Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "chapman178",
+      "cheesie67",
+      "DanBerrios",
+      "danielpacak"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "T-MATS",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/T-MATS",
+    "Public Code Repo": "https://github.com/nasa/T-MATS",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "An open source thermodynamic modeling package completed on behalf of NASA. The Toolbox for the Modeling and Analysis of Thermodynamic Systems (T-MATS) package offers a MATLAB/Simulink toolbox that gives a developer the ability to create simulations of such thermodynamic systems as turbomachinery and gas turbines.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Matlab"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "tool",
+      "analysis",
+      "modeling",
+      "thermodynamics",
+      "TMATS",
+      "control system",
+      "numerical methods",
+      "Newton-Raphson",
+      "Jacobian Calculation",
+      "Propulsion",
+      "Aircraft Engine",
+      "Jet",
+      "Turbofan",
+      "Turbojet",
+      "Compressor",
+      "Turbine",
+      "Nozzle",
+      "Inlet",
+      "open source"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-08-26"
+  },
+  {
+    "NASA Center": "Marshall Space Flight Center",
+    "ProgramTeams": [
+      "Goddard Space Flight Center",
+      "Jet Propulsion Laboratory",
+      "Ames Research Center"
+    ],
+    "Contributors": [
+      "ambdiv",
+      "nasarader"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NTL-Lunar-Mapping-and-Modeling-Portal",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NTL-Lunar-Mapping-and-Modeling-Portal",
+    "Public Code Repo": "https://github.com/nasa/NTL-Lunar-Mapping-and-Modeling-Portal",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Lunar Mapping and Modeling Portal (LMMP) is a system that has been built to support lunar exploration activities that will enable return of both manned and unmanned missions to the Moon. It provides a web-based Portal and a suite of interactive visualization and analysis tools to enable mission planners, lunar scientists, and engineers to access mapped lunar data products from past and current lunar missions. It also addresses the lunar science community, the lunar commercial community, education and public outreach, and anyone else interested in accessing or utilizing lunar data.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "modeling",
+      "lunar",
+      "mapping",
+      "exploration",
+      "tool",
+      "analysis",
+      "visualization"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-08"
+  },
+  {
+    "NASA Center": "Marshall Space Flight Center",
+    "Program Teams": [
+      "Ames Research Center",
+      "Goddard Space Flight Center",
+      "Jet Propulsion Laboratory"
+    ],
+    "Contributors": [
+      "nasarader"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NTL-Planetary-Data-System-API",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NTL-Planetary-Data-System-API",
+    "Public Code Repo": "https://github.com/nasa/NTL-Planetary-Data-System-API",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Lunar Mapping and Modeling Portal (LMMP) is a system that has been built to support lunar exploration activities that will enable return of both manned and unmanned missions to the Moon. It provides a web-based Portal and a suite of interactive visualization and analysis tools to enable mission planners, lunar scientists, and engineers to access mapped lunar data products from past and current lunar missions. It also addresses the lunar science community, the lunar commercial community, education and public outreach, and anyone else interested in accessing or utilizing lunar data.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "modeling",
+      "planetary",
+      "data",
+      "system",
+      "API"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-08"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "VWoeltjen",
+      "DanBerrios",
+      "alpearson",
+      "harleigh",
+      "adamcrume",
+      "kptran",
+      "danielpacak",
+      "dtran320",
+      "phallbic",
+      "bhong",
+      "chriswebster"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "mct",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/mct/wiki",
+    "Public Code Repo": "https://github.com/nasa/mct",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Mission Control Technologies is a real-time monitoring and visualization platform.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "monitoring",
+      "visualization",
+      "MCT",
+      "control",
+      "application",
+      "spacelfight",
+      "mission"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-07-10"
+  },
+  {
+    "NASA Center": "NASA Center for Excellence for Collaborative Innovation",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "nasarader"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NTL-Solution-Mechanism-Guide",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NTL-Solution-Mechanism-Guide",
+    "Public Code Repo": "https://github.com/nasa/NTL-Solution-Mechanism-Guide",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Solution Mechanism Guide (SMG) is a tool to educate our scientists and managers about what tools are available for them to utilize in order to solve the challenges of spaceflight.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "tool",
+      "education",
+      "Solution Mechanism Guide"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-08-21"
+  },
+  {
+    "NASA Center": "NASA Langley Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "mrbcuda",
+      "mrbkt"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "CertWare",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/CertWare",
+    "Public Code Repo": "https://github.com/nasa/CertWare",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "CertWare is a collection of tools intended to support the development of safety, assurance, or dependability cases. CertWare adopts several types of structured argument models and provides an implementation of tools to support writing and verifying arguments using the chosen model. The implementations are a baseline meant to be enhanced and further integrated into development tools chains. Both textual and graphical editors are implemented. The implementation is done in Eclipse, as a large collection of Eclipse plugins and features, using several model generation tools to facilitate implementation and maintenance. See the Meta-Models section below for the kinds of models already incorporated into the workbench.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "CertWare",
+      "safety cases",
+      "project management",
+      "planning",
+      "metrics"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-08-15"
+  },
+  {
+    "NASA Center": "NASA Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "jasonduley"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Formation-Flying",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/Formation-Flying",
+    "Public Code Repo": "https://github.com/nasa/Formation-Flying",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Formation Flying.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "repository",
+      "formation flying"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-08-04"
+  },
+  {
+    "NASA Center": "NASA\u201a\u00c4\u00f4s Center of Excellence for Collaboration",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "rsial2"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "SCRD",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/SCRD",
+    "Public Code Repo": "https://github.com/nasa/SCRD",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The SCRD is a flexible system that can be easily updated or modified for ongoing legislative mandates and is able to provide robust accounting tools for posting and adjusting payments.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "repository",
+      "deposits",
+      "re-deposits",
+      "payment",
+      "tracking"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-07-30"
+  },
+  {
+    "NASA Center": "NASA Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "jasonduley"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NASA-3D-Resources",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NASA-3D-Resources",
+    "Public Code Repo": "https://github.com/nasa/NASA-3D-Resources",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Here you'll find a growing collection of 3D models, textures, and images from inside NSA. All of these resources are free to download and use.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "repository",
+      "3D",
+      "models",
+      "imagery",
+      "images",
+      "printing"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-06-17"
+  },
+  {
+    "NASA Center": "Center of Excellence for Collaboration",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "nasarader",
+      "rsial2",
+      "coderReview"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NTL-ISS-Food-Intake-Tracker",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NTL-ISS-Food-Intake-Tracker",
+    "Public Code Repo": "https://github.com/nasa/NTL-ISS-Food-Intake-Tracker",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "NASA Tournament Lab (NTL) International Space Station (ISS) Food Intake Tracker (FIT) app for ISS crew to use on their iPads.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "NTL",
+      "ISS",
+      "Food Intake Tracker",
+      "application",
+      "tracking"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-07-22"
+  },
+  {
+    "NASA Center": "NASA's Open Government Team",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "jasonduley",
+      "seanherron"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Digital-Strategy",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/digital-strategy",
+    "Public Code Repo": "https://github.com/nasa/digital-strategy",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Machine-readable schema for NASA's response to the president's digital strategy.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "CSS"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "repository",
+      "citizen",
+      "developer",
+      "digital strategy"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-17"
+  },
+  {
+    "NASA Center": "NASA Glenn Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "TTECTrA-SIM",
+      "skytland"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "TTECTrA",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/TTECTrA",
+    "Public Code Repo": "https://github.com/nasa/TTECTrA",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "An open source, semi-automated, control design tool for subsonic aircraft engine simulations written in the MATLAB/Simulink environment. The Tool for Turbine Engine Closed-loop Transient Analysis provides the user a preliminary estimate of the closed-loop transient performance of an engine model.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Matlab"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "MATLAB",
+      "Simulink",
+      "control",
+      "design",
+      "tool",
+      "engine simulations",
+      "analysis",
+      "Tool for Turbine Engine Closed-loop Transient Analysis"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-06-06"
+  },
+  {
+    "NASA Center": "NASA Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "acudmore"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "eefs",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/eefs/",
+    "Public Code Repo": "https://github.com/nasa/eefs/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "This is the EEPROM File System Project (EEFS). It is a simple file system for memory devices such as EEPROM, RAM, ROM, etc. t can be used as a simple file system to boot an embedded system running vxWorks, RTEMS, or even no operating system. An EEFS image can be created on the development host, providing a single file to burn into an image that is loaded on a target.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "file system",
+      "eefs",
+      "EEPROM File System Project"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-05-13"
+  },
+  {
+    "NASA Center": "NASA Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "acudmore"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "osal",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/osal",
+    "Public Code Repo": "https://github.com/nasa/osal",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "This distribution contains:The OS Abstraction Layer Library, Tests and example applications for the following targets: Generic PPC running vxWorks 6.x (Tested on vxWorks 6.4), Axiom m5235BCC Coldfire Evaluation board running the RTEMS 4.10 Operating System, A PC running Linux (Tested on CentOS 5.x and 6.x 32 bit), The sparc/sis simulator running RTEMS 4.10.2, A directory structure and makefiles to manage it all.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "operating system abstraction layer library",
+      "application",
+      "flight software systems"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-05-05"
+  },
+  {
+    "NASA Center": "NASA Langley Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "cesaramh",
+      "ds604"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Kodiak",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/Kodiak",
+    "Public Code Repo": "https://github.com/nasa/Kodiak",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Library for rigorous verification of non-linear arithmetic.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "library",
+      "repository",
+      "non-linear arithmetic",
+      "verification"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-05-02"
+  },
+  {
+    "NASA Center": "NASA Langley Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "cesaramh"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "WellClear",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/WellClear",
+    "Public Code Repo": "https://github.com/nasa/WellClear",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Well-Clear Boundary Models for Integration of UAS in the NAS.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Matlab"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "models",
+      "integration",
+      "boundary",
+      "UAS"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-04-23"
+  },
+  {
+    "NASA Center": "Center of Excellence for Collaboration (CoECI)",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "nasarader",
+      "rsial2"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "CoECI-CMS-Healthcare-Fraud-Prevention",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/CoECI-CMS-Healthcare-Fraud-Prevention",
+    "Public Code Repo": "https://github.com/nasa/CoECI-CMS-Healthcare-Fraud-Prevention",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Code from the Healthcare Fraud Prevention Partnership (HFPP) through United States Centers for Medicare & Medicaid Services (CMS) challenge in collaboration with NASA's Center of Excellence for Collaboration (CoECI), Harvard, and TopCoder developed software that supports a data exchange network that enables healthcare insurance-paying entities in both the public and private sector to safely and securely share information for purposes of prevention and detection of fraud, waste and abuse across partners.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "HFPP",
+      "Medicare & Medicaid Services",
+      "fraud prevention"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-04-07"
+  },
+  {
+    "NASA Center": "Center of Excellence for Collaboration (CoECI)",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "nasarader",
+      "rsial2"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NTL-Collective-Minds-and-Machines-Exploration",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NTL-Collective-Minds-and-Machines-Exploration",
+    "Public Code Repo": "https://github.com/nasa/NTL-Collective-Minds-and-Machines-Exploration",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "This code includes the algorithms that resulted from a challenge on the NASA Tournament Lab (NTL). This challenge was to study select satellite imagery of the region of the lost tomb of Genghis Khan and then develop an algorithm that will recognize human built, and potentially historically significant, structures found in those images.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ASL"
+    ],
+    "Languages": [
+      "C++"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "algorithm",
+      "NTL",
+      "imagery",
+      "satellite",
+      "archeology"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-01-16"
+  },
+  {
+    "NASA Center": "NASA\u201a\u00c4\u00f4s Center of Excellence for Collaboration (CoECI)",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "cyberjag",
+      "alamora",
+      "ksirmons"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "coeci-cms-mpsp",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/coeci-cms-mpsp",
+    "Public Code Repo": "https://github.com/nasa/coeci-cms-mpsp",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "This is the Medicaid Provider Enrollment Screening Portal Project multi-state, multi-program provider screening application capable of risk scoring, credentialing validation, identify authentication, and sanction checks, that lowered the burden on providers and reduced administrative and infrastructure expenses for states and federal programs.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "medicaid",
+      "enrollment",
+      "screening"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-01-14"
+  },
+  {
+    "NASA Center": "NASA\u201a\u00c4\u00f4s Center of Excellence for Collaboration (CoECI)",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "nasarader",
+      "athackst"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NTL-ISS-Robonaut-2-Vision-Algorithm-Challenge",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NTL-ISS-Robonaut-2-Vision-Algorithm-Challenge",
+    "Public Code Repo": "https://github.com/nasa/NTL-ISS-Robonaut-2-Vision-Algorithm-Challenge",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The NASA Tournament Lab (NTL) challenge to create an algorithm to help Robonaut 'see' objects and recognize them. This repository contains the set of winning algorithms that are being used to develop the next generation Robonaut control software.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C++"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "NTL",
+      "control",
+      "robotics",
+      "repository"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-01-09"
+  },
+  {
+    "NASA Center": "Center of Excellence for Collaboration (CoECI)",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "dlconner"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "cash",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/cash",
+    "Public Code Repo": "https://github.com/nasa/cash",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Cassini Structured Homepages uses LDAP authorization to provide a security layer to webpage content.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Shell"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "Cassini",
+      "security"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-12-31"
+  },
+  {
+    "NASA Center": "Ames Research Center\u201a\u00c4\u00f9",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "dlconner"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "autodoc",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/autodoc",
+    "Public Code Repo": "https://github.com/nasa/autodoc",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Automatic Documentation software creates Microsoft Documents automatically using Text and Template files.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ASL"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "document",
+      "templates",
+      "application",
+      "automation"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-12-31"
+  },
+  {
+    "NASA Center": "Center of Excellence for Collaboration (CoECI)",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "rsial2",
+      "AetBoston",
+      "nasarader"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "COECI-USAID-Atrocity-Prevention-Model",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/CoECI-USAID-Atrocity-Prevention-Model",
+    "Public Code Repo": "https://docs.google.com/file/d/0B5LAtOowzIeoNjNMZ1VZTzZDNTg/edit?pli=1",
+    "Instructional Material": "https://github.com/nasa/CoECI-USAID-Atrocity-Prevention-Model/blob/master/readme",
+    "Stats": "",
+    "Description": "Code from the United States Agency for International Development (USAID) and Humanity United (HU) challenge for Atrocity Prevention Modeling in collaboration with NASA's Center of Excellence for Collaboration (CoECI). This package contains the top 5 solutions submitted for the 'Tech Challenge for Atrocity Prevention' competition.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "Analytics",
+      "algorithm",
+      "data mining",
+      "prediction"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-12-03"
+  },
+  {
+    "NASA Center": "NASA Tournament Lab",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "nasarader"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NTL-Crater-Detection-Challenge",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NTL-Crater-Detection-Challenge",
+    "Public Code Repo": "https://github.com/nasa/NTL-Crater-Detection-Challenge",
+    "Instructional Material": "https://github.com/nasa/NTL-Crater-Detection-Challenge/blob/master/README.md",
+    "Stats": "",
+    "Description": "NASA Tournament Lab (NTL) challenge to develop an algorithm that can detect craters from imagery.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "Analytics",
+      "algorithm",
+      "data mining",
+      "imagery",
+      "detection"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-12-03"
+  },
+  {
+    "NASA Center": "Center of Excellence for Collaboration (CoECI)",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "nasarader"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "CoECI-CMS-Open-Payment",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/CoECI-CMS-Open-Payment",
+    "Public Code Repo": "https://github.com/nasa/CoECI-CMS-Open-Payment",
+    "Instructional Material": "https://github.com/nasa/CoECI-CMS-Open-Payment/blob/master/README.md",
+    "Stats": "",
+    "Description": "Code from the United States Centers for Medicare & Medicaid Services (CMS) challenge in collaboration with NASA's Center of Excellence for Collaboration (CoECI), Harvard, and TopCoder developed an iPhone app and reporting web application used to track and compile transfers of value (e.g. gift, meal, speaking fee) from industry manufacturers (e.g. pharmaceutical companies) to physicians.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "Analytics",
+      "reporting",
+      "tracking",
+      "application"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-11-06"
+  },
+  {
+    "NASA Center": "NASA Tournament Lab (NTL)",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "nasarader"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NTL-Electrocardiogram",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NTL-Electrocardiogram",
+    "Public Code Repo": "https://github.com/nasa/NTL-Electrocardiogram",
+    "Instructional Material": "https://github.com/nasa/NTL-Electrocardiogram/blob/master/README.md",
+    "Stats": "",
+    "Description": "Algorithm code to address the NTL Electrocardiogram (ECG) Challenge to develop an algorithm to optimize the contents for the medical kits that accompany astronauts on missions.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "Analytics",
+      "tracking",
+      "application",
+      "algorithm"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-11-06"
+  },
+  {
+    "NASA Center": "NASA Tournament Lab (NTL)",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "nasarader"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NTL-Disruption-Tolerant-Networking",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NTL-Disruption-Tolerant-Networking",
+    "Public Code Repo": "https://github.com/nasa/NTL-Disruption-Tolerant-Networking",
+    "Instructional Material": "https://github.com/nasa/NTL-Disruption-Tolerant-Networking/blob/master/README.md",
+    "Stats": "",
+    "Description": "DTN is an approach to computer network architecture that seeks to address the technical issues in heterogeneous networks that may lack continuous network connectivity.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "Analytics",
+      "network",
+      "application",
+      "algorithm"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-10-31"
+  },
+  {
+    "NASA Center": "Kennedy Space Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "skytland"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "39A",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/39A",
+    "Public Code Repo": "https://github.com/nasa/39A",
+    "Instructional Material": "https://github.com/nasa/39A/blob/master/README.rst",
+    "Stats": "",
+    "Description": "39A is the software used to power the 2013 International Space Apps Challenge, a global hackathon focusing on space technology and issues.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "software",
+      "International Space Apps Challenge",
+      "2013",
+      "operations"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-09-28"
+  },
+  {
+    "NASA Center": "Johnson Space Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "pmosbach",
+      "ecabuhay",
+      "jdtunage"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "VADER",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/VADER/wiki",
+    "Public Code Repo": "https://github.com/nasa/VADER",
+    "Instructional Material": "https://github.com/nasa/VADER/blob/master/README.txt",
+    "Stats": "",
+    "Description": "This repository consists of the various scripts required to make our VADER system work. The variable emissivity radiator aerogel insulation blanket dual zone thermal control experiment suite for responsive space (STP-H3-VADER) investigation tests a variable emissivity radiator and a new form of multilayer insulation that uses Aerogel as the thermal isolator in order to protect the spacecraft from the harsh extremes of the space environment. The Aerogel material provides a more durable, lighter and cheaper alternative to traditional spacecraft thermal blankets. The use of this material could reduce the costs related to spaceflight by reducing the required spacecraft mass and increasing design efficiency.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "software",
+      "operations",
+      "VADER"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-09-03"
+  },
+  {
+    "NASA Center": "Headquarters",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "seanherron"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "data.nasa.gov",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/data.nasa.gov",
+    "Public Code Repo": "https://github.com/nasa/data.nasa.gov",
+    "Instructional Material": "https://github.com/nasa/data.nasa.gov/blob/master/README.md",
+    "Stats": "",
+    "Description": "This is the source code for the WordPress theme that powers data.nasa.gov. Data.nasa.gov is NASA's flagship platform for sharing information about the vast data we collect and store over 100 years of U.S. aeronautics and space data. Developers, technologists, entrepreneurs, citizen scientists, and many others can contribute directly to the exploration of space and Earth by helping to create new ways of looking at this data.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "PHP"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "software",
+      "operations",
+      "open source",
+      "datasets",
+      "NASA"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-06-14"
+  },
+  {
+    "NASA Center": "Headquarters",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "seanherron"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "code.nasa.gov",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/code.nasa.gov",
+    "Public Code Repo": "https://github.com/nasa/code.nasa.gov",
+    "Instructional Material": "https://github.com/nasa/code.nasa.gov/blob/master/README.md",
+    "Stats": "",
+    "Description": "This is the source code for the WordPress theme that powers code.nasa.gov. Code.nasa.gov expands NASA's open source activities, surfaces existing activities, and guides internal and external groups in open development, release, and contribution. In doing so, NASA hopes to lower barriers to building open technology in partnership with the public.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "software",
+      "operations",
+      "open source",
+      "code",
+      "NASA"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-06-14"
+  },
+  {
+    "NASA Center": "Headquarters",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "skytland"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NASA-APIs",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/NASA-APIs",
+    "Public Code Repo": "https://github.com/nasa/NASA-APIs",
+    "Instructional Material": "https://github.com/nasa/NASA-APIs/blob/master/README.md",
+    "Stats": "",
+    "Description": "This is the source code for the WordPress theme that powers code.nasa.gov. Over the past 50 years, NASA has collected a vast amount of data that has helped us better understand Earth, other planets in our solar system, and the depths of space. Almost all of of this data is now in the public domain petabytes upon petabytes waiting for you to explore. Although the Agency offers petabytes of publicly available data to the world from a variety of missions, only a small portion is accessible through API interfaces. NASA sees huge promise in web APIs, as they can enhance our ability to deliver data to both established and new audiences. The Digital Strategy mandate directed NASA to use web APIs to make available high-value data and content for at least two existing major customer-facing systems.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "repository",
+      "issue tracking",
+      "open source",
+      "API",
+      "NASA"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-05-20"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "ramcdona"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "OpenVSP",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/OpenVSP",
+    "Public Code Repo": "https://github.com/nasa/OpenVSP",
+    "Instructional Material": "https://github.com/nasa/OpenVSP/blob/master/README",
+    "Stats": "",
+    "Description": "OpenVSP is a parametric aircraft geometry tool that allows the user to create a 3D model of an aircraft defined by common engineering parameters.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C++"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "repository",
+      "tool",
+      "open source",
+      "3D model",
+      "NASA"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-01-13"
+  },
+  {
+    "NASA Center": "Glenn Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "naylor-b",
+      "Kenneth-T-Moore",
+      "justinopenmdao",
+      "swryan",
+      "pziegfeld",
+      "setowns1",
+      "JustinSGray",
+      "cnkavanaugh",
+      "hschilling",
+      "kmarsteller",
+      "eshendricks"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "OpenMDAO-Framework",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/OpenMDAO-Framework",
+    "Public Code Repo": "https://github.com/nasa/OpenMDAO-Framework",
+    "Instructional Material": "https://github.com/nasa/OpenMDAO-Framework/blob/dev/README.txt",
+    "Stats": "",
+    "Description": "OpenMDAO is an open-source Multidisciplinary Design Analysis and Optimization (MDAO) framework, written in Python. It helps users solve complex problems by allowing them to link together analysis codes from multiple disciplines at multiple levels of fidelity. The development effort for OpenMDAO is being led out of the NASA Glenn Research Center in the MDAO branch. The development effort is being funded by the Fundamental Aeronautic Program, Subsonic Fixe Wing project. The ultimate goal is to provide a flexible common analysis platform that can be shared between industry, academia, and government.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Python"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "analytics",
+      "code",
+      "open source"
+    ],
+    "New Date": "",
+    "Update_Date": "2011-12-28"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "zmoratto",
+      "broxtronix",
+      "novas0x2a",
+      "khusmann",
+      "anefian",
+      "trey0",
+      "mstyer",
+      "rbeyer",
+      "mdhancher",
+      "harguess",
+      "saravkin"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "StereoPipeline",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/StereoPipeline",
+    "Public Code Repo": "https://github.com/nasa/StereoPipeline",
+    "Instructional Material": "https://github.com/nasa/StereoPipeline/blob/master/README",
+    "Stats": "",
+    "Description": "The NASA Ames Stereo Pipeline is a suite of automated geodesy & stereogrammetry tools designed for processing planetary imagery captured from orbiting and landed robotic explorers on other planets.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C++"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "NGT",
+      "Neo-Geography Toolkit",
+      "NASA",
+      "open source",
+      "geodesy",
+      "stereogrammetry",
+      "imagery"
+    ],
+    "New Date": "",
+    "Update_Date": "2011-12-21"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "tgaskins"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "World-Wind-Java",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/World-Wind-Java",
+    "Public Code Repo": "https://github.com/nasa/World-Wind-Java",
+    "Instructional Material": "https://github.com/nasa/World-Wind-Java/blob/master/README.txt",
+    "Stats": "",
+    "Description": "World Wind, an open source 3D interactive world viewer, was created by NASA's Learning Technologies project, and released in mid-2004. It is now developed by NASA staff and open source community developers.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "3D",
+      "SDK",
+      "imagery"
+    ],
+    "New Date": "",
+    "Update_Date": "2011-12-23"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "zmoratto",
+      "broxtronix",
+      "novas0x2a",
+      "khusmann",
+      "anefian",
+      "trey0",
+      "mstyer",
+      "mdhancher",
+      "harguess",
+      "iansaxton",
+      "radishman",
+      "ekpneo",
+      "mallan",
+      "iceboundflame"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "visionworkbench",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/visionworkbench",
+    "Public Code Repo": "https://github.com/nasa/visionworkbench",
+    "Instructional Material": "https://github.com/nasa/visionworkbench/blob/master/README",
+    "Stats": "",
+    "Description": "The NASA Vision Workbench is a general purpose image processing and computer vision library developed by the Autonomous Systems and Robotics (ASR) Area in the Intelligent Systems Division at the NASA Ames Research Center.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C++"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "image processing",
+      "imagery",
+      "computer vision library"
+    ],
+    "New Date": "",
+    "Update_Date": "2011-11-29"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "MatthewValverde"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NASA-Space-Weather-Media-Viewer",
+    "Internal Link": "",
+    "Public Code Repo": "https://github.com/nasa/NASA-Space-Weather-Media-Viewer",
+    "External Link": "https://play.google.com/store/apps/details?id=air.NasaSpaceViewer",
+    "Instructional Material": "https://github.com/nasa/NASA-Space-Weather-Media-Viewer/blob/master/README",
+    "Stats": "",
+    "Description": "Space weather media viewer.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "media",
+      "viewer",
+      "imagery",
+      "space",
+      "weather",
+      "Google",
+      "Android"
+    ],
+    "New Date": "",
+    "Update_Date": "2011-06-30"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      "Glenn Research Center",
+      "Goddard Space Flight Center",
+      "Jet Propulsion Laboratory",
+      "Langley Research Center",
+      "Marshall Space Flight Center"
+    ],
+    "Contributors": [
+      ""
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "NASA Technology Transfer Program 2014 Software Catalog",
+    "Internal Link": "",
+    "External Link": "http://technology.nasa.gov/NASA_Software_Catalog_2014.pdf",
+    "Public Code Repo": "http://technology.nasa.gov/NASA_Software_Catalog_2014.pdf",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The NASA Technology Transfer Program 2014 Software Catalog is now available. The technologies featured in this catalog represent NASA's best solutions to a wide array of complex problems, and they are on offer here to the public for use. They cover project management systems, design tools, data handling, and image processing, as well as solutions for life support functions, aeronautics, structural analysis, and robotic and autonomous systems.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "technology",
+      "transfer",
+      "image processing",
+      "project management",
+      "repository",
+      "catalog"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-12"
+  },
+  {
+    "NASA Center": "Marshall Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "pa-allen"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Tool for Analysis of Surface Cracks (TASC)",
+    "Internal Link": "",
+    "External Link": "http://sourceforge.net/projects/tascnasa/",
+    "Public Code Repo": "http://sourceforge.net/projects/tascnasa/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Tool for Analysis of Surface Cracks (TASC) is a computer program created in MATLAB to enable easy computation of nonlinear J-integral solutions for surface cracked plates in tension by accessing and interpolating between the 600 nonlinear surface crack solutions documented in NASA/TP-2011-217480. The only required inputs are the surface crack dimensions (2c and a), plate cross-section dimensions (W and B), and linear plus power law material properties of elastic modulus, yield strength, and strain hardening coefficient. With the geometry and material parameters entered, TASC interpolates to the appropriate J(Φ) vs. crack mouth opening displacement (CMOD) and far-field tension stress, σ, vs. CMOD solution, providing the full solution as CMOD ranges from zero out to the CMOD limit of the solution space for the given input parameters. TASC was developed by the Material and Processes Laboratory at NASA's Marshall Space Flight Center.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "MATLAB"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "technology",
+      "tool",
+      "analysis",
+      "surface",
+      "cracks",
+      "displacement"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-10"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      ""
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Data Quality Screening Service",
+    "Internal Link": "",
+    "External Link": "http://opensource.gsfc.nasa.gov/projects/DQSS/index.php",
+    "Public Code Repo": "http://opensource.gsfc.nasa.gov/projects/DQSS/index.php",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Data Quality Screening Service (DQSS) is designed to help automate the filtering of remote sensing data on behalf of science users. Whereas this process today involves much research through quality documents, followed by laborious coding, the DQSS can act as a Web Service to provide data users with data pre-filtered to their particular criteria, while at the same time guiding the user with filtering recommendations of the cognizant data experts.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "XML"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "remote sensing",
+      "filter",
+      "tool",
+      "web service",
+      "quality assurance"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-15"
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      ""
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Apache OODT",
+    "Internal Link": "",
+    "External Link": "http://oodt.apache.org",
+    "Public Code Repo": "http://svn.apache.org/repos/asf/oodt",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Apache OODT is NASA's first project to be stewarded at the open source Apache Software Foundation. OODT is middleware for information integration and for science data processing and retrieval. It provides components including file management, workflow management, resource management, and automated remote data acquisition, file crawling and ingestion, and science algorithm wrapping and integration.",
+    "Internal Code Repo": "",
+    "License": [
+      "ALv2"
+    ],
+    "Languages": [
+      "MATLAB"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "file",
+      "management",
+      "workflow",
+      "resource",
+      "automated",
+      "remote data",
+      "acquisition",
+      "file",
+      "crawling",
+      "ingestion",
+      "science",
+      "algorithm",
+      "wrapping",
+      "integration"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-15"
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "jplsr"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Earth Science Datacasting",
+    "Internal Link": "",
+    "External Link": "http://datacasting.jpl.nasa.gov/",
+    "Public Code Repo": "http://sourceforge.net/projects/datacasting/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Datacasting is a RSS publish-subscribe method for delivering Earth Science data. A Feed Reader provides feed filtering, data download, and the ability to mash-up data with information related to geophysical events.",
+    "Internal Code Repo": "",
+    "License": [
+      "BSD"
+    ],
+    "Languages": [
+      "XML"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "datacasting",
+      "RSS",
+      "data",
+      "filter",
+      "geophysical events",
+      "geophysics",
+      "earth science"
+    ],
+    "New Date": "",
+    "Update_Date": "2011-11-20"
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "jplsr",
+      "hkruse",
+      "sburleig",
+      "shawnostermann"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Interplanetary Overlay Network (ION) Software Distribution (DTN)",
+    "Internal Link": "",
+    "External Link": "http://sourceforge.net/projects/ion-dtn/",
+    "Public Code Repo": "http://sourceforge.net/projects/ion-dtn/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Interplanetary Overlay Network (ION) software distribution is an implementation of Delay-Tolerant Networking (DTN) architecture as described in Internet RFC 4838. It includes implementations of the DTN Bundle Protocol, the Licklider Transmission Protocol, and two CCSDS application protocols that have been adapted to run over the BP/LTP stack: the CCSDS File Delivery Protocol and Asynchronous Message Service.",
+    "Internal Code Repo": "",
+    "License": [
+      "BSD"
+    ],
+    "Languages": [
+      "XML"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "software",
+      "distribution",
+      "network",
+      "interplanetary overlay network",
+      "ION",
+      "earth science"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-07-08"
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "jplsr"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Data Productivity Toolkit",
+    "Internal Link": "",
+    "External Link": "http://sourceforge.net/projects/dptoolkit/",
+    "Public Code Repo": "http://sourceforge.net/projects/dptoolkit/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Data Productivity Toolkit is a collection of linux command-line tools designed to facilitate the analysis of text-based data sets. Modeled after the general linux pipeline tools such as awk, grep, and sed, the kit provides powerful tools for selecting/combining data, performing statistics, and visualizing results. The tools are all written in python and in many instances provide a command-line API to basic python and numpy/scipy/matplotlib routines.",
+    "Internal Code Repo": "",
+    "License": [
+      "BSD"
+    ],
+    "Languages": [
+      "Python"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "data",
+      "productivity",
+      "toolkit",
+      "data collection"
+    ],
+    "New Date": "",
+    "Update_Date": "2011-12-05"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "acudmore"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Core Flight Executive (cFE)",
+    "Internal Link": "",
+    "External Link": "http://sourceforge.net/projects/coreflightexec/files/cFE-6.1.1/",
+    "Public Code Repo": "http://sourceforge.net/projects/coreflightexec/files/cFE-6.1.1/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Core Flight Executive is a portable, platform independent embedded system framework developed by NASA Goddard Space Flight Center. This framework is used as the basis for the flight software for satellite data systems and instruments, but can be used on other embedded systems. The Core Flight Executive is written in C and depends on another software library called the Operating System Abstraction Layer (OSAL). The OSAL is available at http://osal.sf.net and will be hosted on http://code.nasa.gov.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "framework",
+      "flight",
+      "software",
+      "satellite",
+      "data",
+      "instruments",
+      "embedded",
+      "Operating System Abstraction Layer",
+      "OSAL"
+    ],
+    "New Date": "",
+    "Update_Date": "2012-01-20"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "segfaulthunter",
+      "Cadair",
+      "khughitt",
+      "ehsteve",
+      "wafels",
+      "derdon",
+      "ayshih",
+      "DanRyanIrish",
+      "aringlis",
+      "rhewett",
+      "drewleonard42",
+      "kaichogami",
+      "dpshelio",
+      "VaticanCameos",
+      "nabobalis",
+      "mattearnshaw",
+      "gunner272",
+      "amras1",
+      "CyclingNinja",
+      "ndchorley",
+      "quintusdias",
+      "mjm159",
+      "rubendv",
+      "rajul-iitkgp",
+      "Hypnus1803",
+      "ankit-maverick",
+      "ToyDragon",
+      "larrymanley",
+      "JordanBallew",
+      "transientlunatic",
+      "mateoi",
+      "examon",
+      "astrofrog",
+      "bmampaey",
+      "jaylenw",
+      "airyens",
+      "freekv"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "SunPy",
+    "Internal Link": "",
+    "External Link": "http://www.sunpy.org",
+    "Public Code Repo": "https://github.com/sunpy/sunpy",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The SunPy project is an effort to create an open-source software library for solar physics using the Python programming language. More information at http://www.sunpy.org.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Python"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "libary",
+      "repository",
+      "solar",
+      "physics"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-08"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "pkolano"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Synchronization, Archival, Validation, and IP Exchange (Save)",
+    "Internal Link": "",
+    "External Link": "http://save-ha.sourceforge.net",
+    "Public Code Repo": "http://sourceforge.net/projects/save-ha/files/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Save is a lightweight framework for creating high availability systems. Save manages IP addresses shared between multiple servers with the same function and monitors the health of those servers to determine which should be actively servicing requests at any given time. Save has additional features to facilitate the administration of high availability systems. Synchronization mechanisms allow configuration files to be kept consistent between systems as well as allowing commands to be executed across all servers of a particular type. Archival mechanisms provide automatic version control of configuration files to aid in recovery in case of errant configuration. Validation mechanisms allow configuration files to be automatically checked for correctness before they are installed on all peer servers.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Perl"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "framework",
+      "health",
+      "systems",
+      "administration",
+      "archive",
+      "validation",
+      "high availability"
+    ],
+    "New Date": "",
+    "Update_Date": "2010-11-19"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "pkolano"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Multi-Threaded Multi-Node Utilities (Mutil)",
+    "Internal Link": "",
+    "External Link": "http://mutil.sourceforge.net",
+    "Public Code Repo": "http://sourceforge.net/projects/mutil/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Mutil is a set of standard utilities that employ multiple types of parallelism and other optimizations to achieve maximum performance on modern file systems. Multi-threading is used to ensure that nodes are kept as busy as possible. Double buffering allows individual operations within a single task to be overlapped using asynchronous I/O. Multi-node cooperation allows different nodes to take part in the same task. Split file processing allows multiple threads to operate concurrently on the same file. Finally, additional optimizations such as buffer management help eliminate other bottlenecks that can reduce performance. Mutil currently includes drop-in replacements for cp and md5sum from GNU coreutils, which have achieved 10/30x rates on one/many nodes.",
+    "Internal Code Repo": "",
+    "License": [
+      "GPLv3"
+    ],
+    "Languages": [
+      "Perl"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "file",
+      "processing",
+      "utilities",
+      "nodes",
+      "multi-thread",
+      "optimization",
+      "parallelism"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-05-01"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "pkolano"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Middleware Using Existing SSH Hosts (MESH)",
+    "Internal Link": "",
+    "External Link": "http://mesh.sourceforge.net",
+    "Public Code Repo": "http://sourceforge.net/projects/mesh/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Mesh is a secure, lightweight grid middleware that is based on the addition of a single sign-on capability to the built-in public key authentication mechanism of SSH using system call interposition. Resources may be added to a Mesh-based grid in a matter of minutes using just five small files and two environment variable settings. Mesh adheres to fundamental security principles and was designed to be compatible with strong security mechanisms including two-factor authentication, SSH bastions, and restrictive firewalls. Mesh uses a remote command model, which is based on stock SSH clients and the syntax and commands already understood by users, thus requires no additional software or knowledge to utilize effectively. Several existing services have been integrated with Mesh to provide resource discovery and query, high performance file transfer, and job management.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Perl",
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "middleware",
+      "ssh",
+      "host"
+    ],
+    "New Date": "",
+    "Update_Date": "2012-09-06"
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "pkolano"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Balancing Load Across Systems (Ballast)",
+    "Internal Link": "",
+    "External Link": "http://ballast.sourceforge.net",
+    "Public Code Repo": "http://sourceforge.net/projects/ballast/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Ballast is a tool for balancing user load across SSH servers based on configurable criteria such as CPU load and system availability. Ballast is invoked as part of the SSH login process, hence has access to the user name, which is not available in traditional load balancers. This gives ballast the unique ability to perform user-specific load balancing, which has several benefits including separating users who have historically generated high loads and providing a common login interface to users who may be separated based on other criteria such as system accessibility. Ballast includes a simple client, a lightweight data server, and a data collection agent.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Perl",
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "ballast",
+      "ssh",
+      "host",
+      "clustering"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-05-13"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "pkolano"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Lossless Hyper-multi-spectral data compression software",
+    "Internal Link": "",
+    "External Link": "http://opensource.gsfc.nasa.gov/projects/LHD",
+    "Public Code Repo": "http://opensource.gsfc.nasa.gov/projects/LHD",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Software implementation of JPL published paper for performing lossless hyper-spectral and milti-spectral data compression. The implementation was executed to confirm the results obtained by JPL independently. Implemented JPL published paper and its revised version presented to the CCSDS hyper/multi-spectral data compression working group. The implementation follows every step listed in the relevant papers and usess C-code for simplicity. The software takes 3-dimensional test data provided by the CCSDS working group and created predictor error results that can be further encoded with other known techniques.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "lossless",
+      "hyper-spectral",
+      "milti-spectral",
+      "data",
+      "compression",
+      "CCSDS"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-08-12"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "btrivedi",
+      "clynnes",
+      "sberrick"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Simple, Scalable, Script-based Science Processor for Measurements (S4PM)",
+    "Internal Link": "",
+    "External Link": "http://sourceforge.net/projects/s4pm",
+    "Public Code Repo": "http://sourceforge.net/projects/s4pm",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Simple, Scalable, Script-based Science Processor for Measurements (S4PM) is a system for highly automated processing of science data, scalable up to large processing systems and scalable down to small, special-purpose processing strings.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Perl"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "science",
+      "process",
+      "automation",
+      "data",
+      "simple",
+      "scalable",
+      "script-based",
+      "measurements"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-03-08"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      ""
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Goddard Satellite Data Simulation Unit (G-SDSU)",
+    "Internal Link": "",
+    "External Link": "http://opensource.gsfc.nasa.gov/projects/G-SDSU/",
+    "Public Code Repo": "http://opensource.gsfc.nasa.gov/projects/G-SDSU/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "G-SDSU core modules enables users to insert their own satellite simulator to convert model-simulated atmosphere states to various types of satellite observable signals (radiance or backscattering signals), and to compare such data with comparable measurements collected by corresponding satellite level-1 measurement.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "modeling",
+      "GPM",
+      "satellite",
+      "mission",
+      "observation",
+      "atmoshpere",
+      "algorithm",
+      "measurements"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-16"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      ""
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Core HSEG Software Package",
+    "Internal Link": "",
+    "External Link": "http://opensource.gsfc.nasa.gov/projects/HSEG/",
+    "Public Code Repo": "http://opensource.gsfc.nasa.gov/projects/HSEG/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The RHSEG software provides hierarchical segmentation (pre-processing) of image and image-like data. The software significantly improves the extraction of patterns from complex data sets and is optimized for speed and accuracy. This algorithm provides the user with precise control for selecting the desired level of detail from the hierarchy of results.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C++"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "software",
+      "core",
+      "RHSEG",
+      "recursive",
+      "hierarchical",
+      "segmentation",
+      "HSEG",
+      "algorithm",
+      "image",
+      "analysis"
+    ],
+    "New Date": "",
+    "Update_Date": "2009-12-02"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "boller8"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Visual System for Browsing, Analysis and Retrieval of Data (ViSBARD)",
+    "Internal Link": "",
+    "External Link": "http://sourceforge.net/projects/visbard/",
+    "Public Code Repo": "http://sourceforge.net/projects/visbard/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "ViSBARD (Visual System for Browsing, Analysis, and Retrieval of Data) is an interactive visualization and analysis tool for space physics data. It provides an integrated 3-D/2-D environment to analyze measurements across many spacecraft and MHD models.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source",
+      "ALv2",
+      "GPLv3"
+    ],
+    "Languages": [
+      "C",
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "visual",
+      "system",
+      "browse",
+      "analysis",
+      "retrieval",
+      "data",
+      "tool",
+      "space",
+      "physics",
+      "MHD",
+      "models"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-04-24"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      ""
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Ground and space radar volume matching and comparison software",
+    "Internal Link": "",
+    "External Link": "http://opensource.gsfc.nasa.gov/projects/GSRadar/",
+    "Public Code Repo": "http://opensource.gsfc.nasa.gov/projects/GSRadar/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "This software enables easy comparison of ground- and space-based radar observations. The software was initially designed to compare ground radar reflectivity from operational, ground-based, S- and C-band meteorological radars with comparable measurements from the Tropical Rainfall Measuring Mission satellite's Precipitation Radar instrument. The software is also applicable to other ground-based and space-based radars. The software allows both ground and space based radar data to be compared for validation purposes.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "ground",
+      "space",
+      "radar",
+      "validation",
+      "volume",
+      "matching",
+      "comparison",
+      "software"
+    ],
+    "New Date": "",
+    "Update_Date": "2013-04-24"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      ""
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Orbit Determination Toolbox",
+    "Internal Link": "",
+    "External Link": "http://opensource.gsfc.nasa.gov/projects/ODTBX",
+    "Public Code Repo": "http://opensource.gsfc.nasa.gov/projects/ODTBX",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "ODTBX is an orbit determination analysis tool based on Matlab and Java that provides a flexible way to do early mission analysis, especially for formation flying and exploration systems. ODTBX is composed of both Matlab and Java code.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java",
+      "MATLAB"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "orbit",
+      "determination",
+      "tool",
+      "formation",
+      "flying",
+      "exploration",
+      "system",
+      "mission",
+      "analysis"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-16"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      ""
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "International Polar Orbiter Processing Package (IPOPP)",
+    "Internal Link": "",
+    "External Link": "http://directreadout.sci.gsfc.nasa.gov/?id=dspContent&cid=68",
+    "Public Code Repo": "http://directreadout.sci.gsfc.nasa.gov/?id=dspContent&cid=68",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The International Polar Orbiter Processing Package (IPOPP) is the primary processing package that will enable the Direct Readout community to process, visualize, and evaluate National Polar-orbiting Operational Environmental Satellite System (NPOESS) Preparatory Project (NPP) Sensor and Environmental Data Records, which is a necessity for the Direct Readout community during the transition from the Earth Observing System (EOS) era to the NPOESS era.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "Java"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "orbit",
+      "determination",
+      "tool",
+      "formation",
+      "flying",
+      "exploration",
+      "system",
+      "mission",
+      "analysis",
+      "earth science",
+      "Aqua",
+      "Terra",
+      "JPSS",
+      "direct readout laboratory"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-16"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      ""
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Global Precipitation Radar (GPM) space and ground radar comparison software",
+    "Internal Link": "",
+    "External Link": "http://opensource.gsfc.nasa.gov/projects/GPM/",
+    "Public Code Repo": "http://opensource.gsfc.nasa.gov/projects/GPM/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "NASA's Global Precipitation Missions (GPM) is designed as a constellation of satellites to measure precipitation with a 3-hour average revisit time over 80% of the globe, and the data will be available to users within 3 hours of observation time. A Ground Validation System (GVS) is an integral part of GPM.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "GPM",
+      "GVS",
+      "TRMM",
+      "satellite",
+      "precipitation",
+      "data",
+      "radar",
+      "microwave",
+      "rain rates",
+      "gauge",
+      "validation",
+      "weather",
+      "service",
+      "space",
+      "ground",
+      "comparison",
+      "software"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-16"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      ""
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "GEOS-5 GCM Modeling Software",
+    "Internal Link": "",
+    "External Link": "http://opensource.gsfc.nasa.gov/projects/GEOS-5/",
+    "Public Code Repo": "http://opensource.gsfc.nasa.gov/projects/GEOS-5/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Global Modeling and Assimilation Office (GMAO) has delivered the next generation general circulation model, GEOS-5. This system represents a new paradigm for systems development, in that GEOS-5 has been developed with the Earth System Modeling Framework (ESMF) for its internal architecture using the MAPL software toolkit developed for GEOS-5.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "Stand-alone",
+      "Atmosphere",
+      "Land",
+      "Ocean",
+      "Coupled",
+      "CGM",
+      "Climate",
+      "Biology",
+      "Model",
+      "Numerical",
+      "Weather",
+      "Prediction",
+      "Experimental",
+      "Seasonal",
+      "Forecasting",
+      "GEOS-5",
+      "software",
+      "earth science",
+      "circulation",
+      "analysis"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-16"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "djcinsb",
+      "jjkparker",
+      "qure0013",
+      "space_egd",
+      "stevenhughes",
+      "wendys-dev",
+      "dcooley",
+      "dktkgks",
+      "hykim9501",
+      "jbez",
+      "lindajun",
+      "mhkim0522",
+      "shawnhoffman",
+      "tgrubb",
+      "tnguye2"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "General Mission Analysis Tool",
+    "Internal Link": "",
+    "External Link": "http://gmat.gsfc.nasa.gov/",
+    "Public Code Repo": "http://sourceforge.net/projects/gmat",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The General Mission Analysis Tool (GMAT) is an open-source space mission analysis and design tool being developed by a team made up of NASA, private industry, and a range of academic, public, and private contributors. GMAT is intended both for real-world engineering design studies and as a tool for education and public engagement in the spirit of the NASA Charter.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C++"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "Simulations",
+      "visualization",
+      "mathematics",
+      "physics",
+      "mission",
+      "planning",
+      "tool"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-11"
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "bwiegand",
+      "mhandy"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Goddard Mission Services Evolution Center Architecture (GMSEC) API",
+    "Internal Link": "",
+    "External Link": "http://sourceforge.net/projects/gmsec/",
+    "Public Code Repo": "http://sourceforge.net/projects/gmsec/",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "The Goddard Mission Services Evolution Center (GMSEC) program was established in 2001 to coordinate ground and flight data systems development and services at GSFC with the ultimate goal to efficiently support current and future GSFC mission services. The GMSEC architecture is a ground systems architecture that spans the full mission lifecycle from development through operations. The architecture provides a secure, scalable and extensible communications and data system that supports all aspects of a mission from onboard processing through the Mission Operations Center (MOC) to public access on the Internet. The architecture includes an Application Programming Interface (API) and message bus to provide a publish and subscribe communication mechanism. The GMSEC architecture and source code are based on an enterprise architecture approach with a message-oriented cross-platform enterprise middleware (information software bus).",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "C++",
+      "C",
+      "Java",
+      "Perl"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "mission",
+      "support",
+      "GMSEC",
+      "API",
+      "MOC",
+      "ground",
+      "data",
+      "flight",
+      "systems",
+      "middleware"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-05-13"
+  }
+]
