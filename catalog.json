@@ -775,6 +775,62 @@
     "Update_Date": "2014-07-22"
   },
   {
+    "NASA Center": "NASA's Open Government Team",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "jasonduley",
+      "seanherron"
+    ],
+    "Sub-contractors": [
+      ""
+    ],
+    "Software": "Digital-Strategy",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/digital-strategy",
+    "Public Code Repo": "https://github.com/nasa/digital-strategy",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "Machine-readable schema for NASA's response to the president's digital strategy.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Languages": [
+      "CSS"
+    ],
+    "Platform Requirements": [
+      ""
+    ],
+    "Dependent modules": [
+      ""
+    ],
+    "Dependent module URLs": [
+      ""
+    ],
+    "Component modules": [
+      ""
+    ],
+    "Component module URLs": [
+      ""
+    ],
+    "Industry": [
+      ""
+    ],
+    "Functionality": [
+      ""
+    ],
+    "Categories": [
+      "repository",
+      "citizen",
+      "developer",
+      "digital strategy"
+    ],
+    "New Date": "",
+    "Update_Date": "2014-09-17"
+  },
+  {
     "NASA Center": "NASA Glenn Research Center",
     "Program Teams": [
       ""
