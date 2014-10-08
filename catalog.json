@@ -2553,7 +2553,14 @@
       ""
     ],
     "Contributors": [
-      ""
+            "Dr. Chris A. Mattmann", 
+            "Mr. Paul Ramirez",
+            "Mr. Maziyar Boustani", 
+            "Ms. Shakeh Khudikyan",
+            "Mr. Mike Joyce",
+            "Mr. Rishi Verma",
+            "Dr. Lewis John McGibbney",
+            "Mr. Tyler Palsulich" 
     ],
     "Sub-contractors": [
       ""
@@ -2562,7 +2569,7 @@
     "Internal Link": "",
     "External Link": "http://oodt.apache.org",
     "Public Code Repo": "http://svn.apache.org/repos/asf/oodt",
-    "Instructional Material": "",
+    "Instructional Material": "https://cwiki.apache.org/confluence/display/OODT/Home",
     "Stats": "",
     "Description": "Apache OODT is NASA's first project to be stewarded at the open source Apache Software Foundation. OODT is middleware for information integration and for science data processing and retrieval. It provides components including file management, workflow management, resource management, and automated remote data acquisition, file crawling and ingestion, and science algorithm wrapping and integration.",
     "Internal Code Repo": "",
@@ -2570,10 +2577,11 @@
       "ALv2"
     ],
     "Languages": [
-      "MATLAB"
+       "Java",
+       "Python"
     ],
     "Platform Requirements": [
-      ""
+      "*nix Environment"
     ],
     "Dependent modules": [
       ""
@@ -2582,13 +2590,65 @@
       ""
     ],
     "Component modules": [
-      ""
+            "agility",
+            "app",
+            "balance",
+            "catalog",
+            "cli",
+            "commons",
+            "core",
+            "crawler",
+            "curator",
+            "filemgr",
+            "grid",
+            "metadata",
+            "mvn",
+            "opendapps",
+            "pcs",
+            "pge",
+            "product",
+            "profile",
+            "protocol",
+            "pushpull",
+            "resource",
+            "sso",
+            "tools",
+            "webapp",
+            "workflow",
+            "xmlps",
+            "xmlquery"
     ],
     "Component module URLs": [
-      ""
+            "http://svn.apache.org/repos/asf/oodt/trunk/agility/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/app/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/balance/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/catalog/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/cli/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/commons/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/core/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/crawler/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/curator/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/filemgr/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/grid/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/metadata/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/mvn/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/opendapps/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/pcs/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/pge/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/product/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/profile/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/protocol/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/pushpull/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/resource/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/sso/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/tools/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/webapp/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/workflow/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/xmlps/",
+            "http://svn.apache.org/repos/asf/oodt/trunk/xmlquery/"
     ],
     "Industry": [
-      ""
+      "Federally Funded Research and Development Centre"
     ],
     "Functionality": [
       ""
@@ -2610,7 +2670,7 @@
       "integration"
     ],
     "New Date": "",
-    "Update_Date": "2014-09-15"
+    "Update_Date": "2014-10-08"
   },
   {
     "NASA Center": "Jet Propulsion Laboratory",
