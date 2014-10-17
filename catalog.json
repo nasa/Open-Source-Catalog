@@ -949,7 +949,7 @@
     "Program Teams": [
       ""
     ],
-    "Contributors": [
+    "Contributors":[ 
       "acudmore"
     ],
     "Sub-contractors": [
@@ -2858,8 +2858,8 @@
     ],
     "Software": "Core Flight Executive (cFE)",
     "Internal Link": "",
-    "External Link": "http://sourceforge.net/projects/coreflightexec/files/cFE-6.1.1/",
-    "Public Code Repo": "http://sourceforge.net/projects/coreflightexec/files/cFE-6.1.1/",
+    "External Link": "http://sourceforge.net/projects/coreflightexec/files/cFE-6.4.0/",
+    "Public Code Repo": "http://sourceforge.net/projects/coreflightexec",
     "Instructional Material": "",
     "Stats": "",
     "Description": "The Core Flight Executive is a portable, platform independent embedded system framework developed by NASA Goddard Space Flight Center. This framework is used as the basis for the flight software for satellite data systems and instruments, but can be used on other embedded systems. The Core Flight Executive is written in C and depends on another software library called the Operating System Abstraction Layer (OSAL). The OSAL is available at http://osal.sf.net and will be hosted on http://code.nasa.gov.",
@@ -2903,7 +2903,7 @@
       "OSAL"
     ],
     "New Date": "",
-    "Update_Date": "2012-01-20"
+    "Update_Date": "2014-10-15"
   },
   {
     "NASA Center": "Goddard Space Flight Center",
