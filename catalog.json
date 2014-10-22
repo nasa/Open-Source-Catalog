@@ -2568,7 +2568,7 @@
     "Software": "Apache OODT",
     "Internal Link": "",
     "External Link": "http://oodt.apache.org",
-    "Public Code Repo": "http://svn.apache.org/repos/asf/oodt",
+    "Public Code Repo": "http://oodt.apache.org/",
     "Instructional Material": "https://cwiki.apache.org/confluence/display/OODT/Home",
     "Stats": "",
     "Description": "Apache OODT is NASA's first project to be stewarded at the open source Apache Software Foundation. OODT is middleware for information integration and for science data processing and retrieval. It provides components including file management, workflow management, resource management, and automated remote data acquisition, file crawling and ingestion, and science algorithm wrapping and integration.",
@@ -3665,7 +3665,7 @@
     "Stats": "",
     "Description": "The International Polar Orbiter Processing Package (IPOPP) is the primary processing package that will enable the Direct Readout community to process, visualize, and evaluate National Polar-orbiting Operational Environmental Satellite System (NPOESS) Preparatory Project (NPP) Sensor and Environmental Data Records, which is a necessity for the Direct Readout community during the transition from the Earth Observing System (EOS) era to the NPOESS era.",
     "Internal Code Repo": "",
-    "License": [
+    "License": [GEOS
       "NASA Open Source"
     ],
     "Languages": [
