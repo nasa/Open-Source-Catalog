@@ -3665,7 +3665,7 @@
     "Stats": "",
     "Description": "The International Polar Orbiter Processing Package (IPOPP) is the primary processing package that will enable the Direct Readout community to process, visualize, and evaluate National Polar-orbiting Operational Environmental Satellite System (NPOESS) Preparatory Project (NPP) Sensor and Environmental Data Records, which is a necessity for the Direct Readout community during the transition from the Earth Observing System (EOS) era to the NPOESS era.",
     "Internal Code Repo": "",
-    "License": [GEOS
+    "License": [
       "NASA Open Source"
     ],
     "Languages": [
