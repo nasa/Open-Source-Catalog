@@ -4005,4 +4005,31 @@
     "New Date": "",
     "Update_Date": "2014-05-13"
   }
+  {
+    "NASA Center": "Marshall Space Flight Center",
+    "Program Teams": [
+      ""
+    ],
+    "Contributors": [
+      "dheater"
+    ],
+    "Software": "libSPRITE",
+    "Internal Link": "",
+    "External Link": "https://github.com/nasa/libSPRITE/wiki",
+    "Public Code Repo": "https://github.com/nasa/libSPRITE",
+    "Instructional Material": "",
+    "Stats": "",
+    "Description": "libSPRITE is a set of libraries that have been used on several past projects including flight, technology demonstration, and simulation projects.\n\nlibSPRITE provides a diverse set of functions to attempt to simplify coding and reduce code errors. For example, libSPRITE defines engineering units as types (i.e., Meters or Radians instead of double or int). It includes an engineering unit aware math library.\n\nlibSPRITE includes a task scheduling system that abstracts pthreads and includes a publish subscribe data system for data routing.\n\nIn addition, libSPRITE includes an optional binding to the Lua scripting language for configuring the program, setting parameters, running Lua scripts within C++ tasks and even interacting with the application during runtime.",
+    "Internal Code Repo": "",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "framework",
+      "library",
+      "middleware",
+    ],
+    "New Date": "",
+    "Update_Date": "2014-11-13"
+  }
 ]
