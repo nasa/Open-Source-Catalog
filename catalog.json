@@ -4038,8 +4038,8 @@
 	"bjax"
 ],
     "Software": "DAVEtools"
-    "External Link": "https://github.com/bjax/DAVEtools/wiki",
-    "Public Code Repo": "https://github.com/bjax/DAVEtools",
+    "External Link": "https://github.com/nasa/DAVEtools/wiki",
+    "Public Code Repo": "https://github.com/nasa/DAVEtools",
     "Description": "A Java package, nominally built in NetBeans, that provides utilities for dynamic models written in ANSI/AIAA-S-119 DAVE-ML markup, including translation to Matlab(R) and Simulink(R). See http://www.daveml.org",
     "Languages": [
 	"Java"
