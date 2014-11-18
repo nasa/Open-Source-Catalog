@@ -4031,13 +4031,13 @@
     ],
     "New Date": "",
     "Update_Date": "2014-05-13"
-  }
+  },
   {
     "NASA Center": "Langley Research Center",
     "Contributors": [
-	"bjax"
-],
-    "Software": "DAVEtools"
+		"bjax"
+	],
+    "Software": "DAVEtools", 
     "External Link": "https://github.com/nasa/DAVEtools/wiki",
     "Public Code Repo": "https://github.com/nasa/DAVEtools",
     "Description": "A Java package, nominally built in NetBeans, that provides utilities for dynamic models written in ANSI/AIAA-S-119 DAVE-ML markup, including translation to Matlab(R) and Simulink(R). See http://www.daveml.org",
@@ -4057,5 +4057,4 @@
     ],
     "Update_Date": "2014-11-18"
 }
-
 ]
