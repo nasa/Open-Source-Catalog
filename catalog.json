@@ -4056,5 +4056,31 @@
 	"Standards"
     ],
     "Update_Date": "2014-11-18"
-}
+  },
+  {
+    "NASA Center": "Johnson Space Center",
+    "Contributors": [
+      "alexlin0",
+      "jmpenn"
+    ],
+    "Software": "Trick Simulation Environment",
+    "External Link": "https://github.com/nasa/Trick/wiki",
+    "Public Code Repo": "https://github.com/nasa/Trick",
+    "Description": "The Trick Simulation Environment provides a framework and build utilities for creating high fidelity training and engineering simulations.  Trick simulations are designed for both real-time and non-realtime applications having both time-based scheduling requirements. Trick simulations may include math models, flight software, human input devices, and hardware control functions.  Trick provides the user with math model job scheduling, checkpoint/restore, data recording, batch input processing, and interactive variable manipulation.  Trick also includes tools to create plots and tables of simulation recorded data."
+    "Languages": [
+      "C++",
+      "C",
+      "Java",
+      "Python",
+      "Perl"
+    ],
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Simulation","Framework",
+    ],
+    "Update_Date": "2015-02-10"
+  }
+
 ]
