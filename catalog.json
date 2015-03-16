@@ -4099,11 +4099,7 @@
 	"License": [
 	"NASA Open Source"
 	],
-	"Categories": [
-	"Simulation",
-	"Modeling",
-	"Standards"
-	],
+	"Categories": ["Model Checker"],
 	"Update_Date": "2007-10-30"
 }
 
