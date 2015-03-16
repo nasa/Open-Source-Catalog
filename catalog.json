@@ -4081,6 +4081,30 @@
       "Simulation","Framework"
     ],
     "Update_Date": "2015-02-10"
-  }
+  },
+  {
+	"NASA Center": "Ames Research Center",
+	"Contributors": [
+		"sonielau"
+	],
+	"Software": "Java Path Finder", 
+	"External Link": "http://babelfish.arc.nasa.gov/trac/jpf/wiki",
+	"Public Code Repo": "http://babelfish.arc.nasa.gov/trac/jpf/wiki/install/repositories",
+	"Description": "You might have noticed that we were a bit vague about what JPF actually is. It started as a software model checker, but nowadays there are various different execution modes and extensions, hence we have to explain what JPF does without getting lost in details of its application. What all JPF modes, which are runtime configured and not hardwired, have in common is that they are used to verify Java programs, to: find and explain defects, collect \"deep\" runtime information like coverage metrics, deduce interesting test vectors and create corresponding test drivers and many more... Although classic SW model checking is only one of these applications, it is still what JPF is mostly associated with. People often confuse this with testing, and indeed JPFs notion of model checking can be close to systematic testing, so we throw in a little example that illustrates the differences. See http://babelfish.arc.nasa.gov/trac/jpf/wiki/intro/start",
+	"Languages": [
+	"Java"
+	],
+	"Industries": [
+	],
+	"License": [
+	"NASA Open Source"
+	],
+	"Categories": [
+	"Simulation",
+	"Modeling",
+	"Standards"
+	],
+	"Update_Date": "2007-10-30"
+}
 
 ]
