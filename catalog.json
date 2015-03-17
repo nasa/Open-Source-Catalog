@@ -4101,6 +4101,80 @@
 	],
 	"Categories": ["Model Checker"],
 	"Update_Date": "2007-10-30"
+},
+{
+    "NASA Center": "Marshall Space Flight Center",
+    "Contributors": [
+      "tjlang"
+    ],
+    "Software": "Marshall MRMS Mosaic Python Toolkit (MMM-Py)",
+    "External Link": "https://github.com/nasa/MMM-Py",
+    "Public Code Repo": "https://github.com/nasa/MMM-Py",
+    "Description": "The National Oceanic and Atmospheric Administration (NOAA) regularly produces national 3D radar reflectivity mosaics via its Multi-Radar/Multi-Sensor (MRMS) system. These mosaics are wonderful for storm and precipitation analysis and research, but they are distributed in odd formats that NOAA is ever changing. Sometimes you just want to read a file and make a plot! This is what MMM-Py is for. With it, you can read any version of the MRMS radar mosaics, past or present, and you can analyze, plot, subsection, and output custom mosaics of your own, which MMM-Py can ingest later. MMM-Py is free and open source. It is capable of producing publication-ready figures and analyses, but it also can do quicklook plots so you can check out the cool storm that just happened.",
+    "Languages": [
+      "Python"
+    ],
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Analysis",
+      "Visualization",
+      "Toolkit",
+      "MRMS",
+      "Radar",
+      "NMQ"
+    ],
+    "Update_Date": "2015-03-17"
+},
+{
+    "NASA Center": "Marshall Space Flight Center",
+    "Contributors": [
+      "tjlang"
+    ],
+    "Software": "Python Advanced Microwave Precipitation Radiometer Data Toolkit (PyAMPR)",
+    "External Link": "https://github.com/nasa/PyAMPR",
+    "Public Code Repo": "https://github.com/nasa/PyAMPR",
+    "Description": "Download AMPR data from http://ghrc.nsstc.nasa.gov. AMPR brightness temperature data from NASA field projects are in ASCII format. This python script defines a class that will read in single file from an individual aircraft flight and pull out timing, brightness temperatures from each channel, geolocation, and other information and store them as attributes using numpy arrays of the appropriate type. The approach is to ingest the entire file as a text string and then parse and type convert as necessary. The file is read and the data are populated when the class is instantiated with the full path and name of an AMPR file. Numerous visualization methods are provided, including track plots, strip charts, and Google Earth KMZs. In addition, polarization deconvolution is available.",
+    "Languages": [
+      "Python"
+    ],
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Analysis",
+      "Visualization",
+      "Toolkit",
+      "Radiometer",
+      "Airborne",
+      "Precipitation",
+      "AMPR"
+    ],
+    "Update_Date": "2015-03-17"
+},
+{
+    "NASA Center": "Marshall Space Flight Center",
+    "Contributors": [
+      "tjlang"
+    ],
+    "Software": "Python Turbulence Detection Algorithm (PyTDA)",
+    "External Link": "https://github.com/nasa/PyTDA",
+    "Public Code Repo": "https://github.com/nasa/PyTDA",
+    "Description": "This software provides Python functions that will estimate turbulence from Doppler radar data.",
+    "Languages": [
+      "Python"
+    ],
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Analysis",
+      "Doppler",
+      "Toolkit",
+      "Turbulence",
+      "Radar"
+    ],
+    "Update_Date": "2015-03-17"
 }
-
 ]
