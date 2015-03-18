@@ -1,4 +1,32 @@
 [
+   {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "Mr. Michael Joyce",
+      "Dr. Chris A. Mattmann",
+      "Mr. Paul Ramirez",
+      "Dr. Lewis John McGibbney",
+      "Dr. Kim Whitehall",
+      "Ms. Shakeh Khudikyan",
+      "Mr. Maziyar Boustani",
+    ],
+    "Software": "Apache Open Climate Workbench",
+    "External Link": "https://climate.apache.org/",
+    "Public Code Repo": "https://github.com/apache/climate",
+    "Description": "Apache Open Climate Workbench provides a Climate Science library and a suite of tools built on top of it to facilitate multi-model and multi-observation comparisons and visualizations for Climate Scientists.",
+    "License": [
+      "ALv2"
+    ],
+    "Categories": [
+      "Climate Science",
+      "Climate",
+      "Toolkit",
+      "Web",
+      "Visualization",
+      "Analysis",
+    ],
+    "Update_Date": "2015-03-16"
+  },
   {
     "NASA Center": "Marshall Space Flight Center",
     "Program Teams": [
