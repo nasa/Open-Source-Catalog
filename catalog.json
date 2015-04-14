@@ -1,4 +1,24 @@
 [
+{
+	
+	"NASA Center": "Glenn Research Center",
+	"Contributors": [ 
+		"ehariton" 
+	], 
+	"Software": "EADINLite", 
+    "External Link": "https://github.com/nasa/EADINLite/wiki",
+ 	"Public Code Repo": "https://github.com/nasa/EADINLite",
+    "Description": "This code was created to support the Distributed Engine Control task as part of the Fixed Wing Aeronautics project. The purpose of this research was to enable multiple microcontrollers to speak with eacho ther per the protocol specified in the preliminary release of EADIN BUS. EADIN BUS is a candidate for distributed control systems on aircraft engines. The primary use of this code was to assist in the modelling of small local networks which contain 16 or fewer nodes. This communication protocol differs from typical internet protocols by using a master node which distributes information between nodes through a call and response system. The RS-485 network is simplex and thus does not allow multiple nodes to talk at the same time. No time synchronization between  nodes is required for this network. These factors enable the master to request information from sensors and command actuators, one at a time. In the current implementation, no information is passed from individual nodes without first going through the master node. While other communication protocols do exist like ModbusMaster and simple-modbus, the speed of these communication protocols on the RS-485 network was not sufficient for our needs which required message send to reply receipt times of 1 millisecond. Additionally, the other protocols did not implement the same message system as specified by the preliminary documents regarding the EADIN protocol.",
+     "License": [ 
+       "ALv2" 
+     ], 
+     "Categories": [ 
+       "Communication", 
+       "Protocol", 
+       "Microcontroller" 
+  ], 
+    "Update_Date": "2015-04-13" 
+},
    {
     "NASA Center": "Jet Propulsion Laboratory",
     "Contributors": [
