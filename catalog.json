@@ -1,5 +1,27 @@
 [
 {
+    "NASA Center": "Ames Research Center",
+    "Contributors": [
+        "VWoeltjen",
+        "larkin",
+        "charlesh88",
+        "brianwyu"
+    ],
+    "Software": "Open MCT Web",
+    "External Link": "https://github.com/nasa/openmctweb",
+    "Public Code Repo": "https://github.com/nasa/openmctweb",
+    "Description": "A platform for web-based user interfaces for mission operations.",
+    "License": [
+        "Apache 2.0"
+    ],
+    "Categories": [
+        "Framework",
+        "Platform",
+        "Web"
+    ],
+    "Update_Date": "2015-06-15"
+},
+{
 	
 	"NASA Center": "Glenn Research Center",
 	"Contributors": [ 
