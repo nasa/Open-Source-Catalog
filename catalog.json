@@ -4,6 +4,29 @@
     "Contributors": [
       "tjlang"
     ],
+    "Software": "Python Interface to Dual-Pol Radar Algorithms (DualPol)",
+    "External Link": "https://github.com/nasa/DualPol/wiki",
+    "Public Code Repo": "https://github.com/nasa/DualPol",
+    "Description": "Python module that facilitates precipitation retrievals (e.g., hydrometeor type, precipitation rate, precipitation mass, particle size distribution information) from polarimetric weather radar data.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Earth Science",
+      "Toolkit",
+      "Meteorology",
+      "Precipitation",
+      "Radar",
+      "GPM"
+    ],
+    "Update_Date": "2015-07-07"
+},
+
+	{
+	"NASA Center": "Marshall Space Flight Center",
+    "Contributors": [
+      "tjlang"
+    ],
     "Software": "Single Doppler Retrieval Toolkit (SingleDop)",
     "External Link": "https://github.com/nasa/SingleDop/wiki",
     "Public Code Repo": "https://github.com/nasa/SingleDop",
