@@ -6,7 +6,7 @@
     ],
     "Software": "Single Doppler Retrieval Toolkit (SingleDop)",
     "External Link": "https://github.com/nasa/SingleDop/wiki",
-    "Public Code Repo": "https://github.com/nasa/SingleDop”,
+    "Public Code Repo": "https://github.com/nasa/SingleDop",
     "Description": "SingleDop is a software module, written in the Python programming language, that will retrieve two-dimensional low-level winds from either real or simulated Doppler weather radar data.",
     "License": [
       "NASA Open Source"
@@ -15,9 +15,9 @@
       "Earth Science",
       "Toolkit",
       "Meteorology",
-      “Radar”,
-      “Doppler”,
-      “Winds”
+      "Radar",
+      "Doppler",
+      "Winds"
     ],
     "Update_Date": "2015-07-07"
 },
