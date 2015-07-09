@@ -1,4 +1,27 @@
 [
+{
+	"NASA Center": "Marshall Space Flight Center",
+    "Contributors": [
+      "tjlang"
+    ],
+    "Software": "Python Polarimetric Radar Beam Blockage Calculation (PyBlock)",
+    "External Link": "https://github.com/nasa/PyBlock/wiki",
+    "Public Code Repo": "https://github.com/nasa/PyBlock”,
+    "Description": "This Python package will calculate beam blockage in polarimetric weather radar data using the specific differential phase (KDP) and fully self-consistent (FSC) methods of Timothy J. Lang et al. (2009; J. Atmos. Oceanic Technol.).",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Earth Science",
+      "Toolkit",
+      "Meteorology",
+      “Radar”,
+      "Precipitation",
+      "GPM"
+    ],
+    "Update_Date": "2015-07-07"
+},
+
 	{
 	"NASA Center": "Marshall Space Flight Center",
     "Contributors": [
