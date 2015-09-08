@@ -1,4 +1,27 @@
 [
+	{
+    "NASA Center": "Glenn Research Center",
+    "Contributors": [
+      "jishac"
+    ],
+    "Software": "Advanced IPv6 Socket Manipulation for Python",
+    "External Link": "https://github.com/nasa/ipv6_python/wiki",
+    "Public Code Repo": "https://github.com/nasa/ipv6_python",
+    "Description": "An extension module intended to allow more advanced manipulation of IPv6 sockets in Python (ie: flow labels)",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Python",
+      "Network",
+      "Networking",
+      "Sockets",
+      "IP",
+      "IPv6",
+      "Flow Labels"
+    ],
+    "Update_Date": "2015-09-08"
+}, 
   {
     "NASA Center": "Goddard Space Flight Center (GSFC)",
       "Contributors": [
