@@ -26,14 +26,16 @@
     "NASA Center": "Goddard Space Flight Center (GSFC)",
       "Contributors": [
         "Patrick Quinn",
-        "Bo Sun"
+        "Bo Sun",
+        "Matthew Crouch",
+        "Jeff Siarto"
       ],
       "Software": "Earthdata Search",
       "External Link": "https://search.earthdata.nasa.gov",
       "Public Code Repo": "https://github.com/nasa/earthdata-search",
       "Description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
       "License": [
-        "NASA Open Source"
+        "Apache 2.0"
       ],
       "Categories": [
         "Earth Science",
