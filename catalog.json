@@ -1,5 +1,28 @@
 [
 	{
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "Bob Deen"
+    ],
+    "Software": "VICAR",
+    "External Link": "http://www-mipl.jpl.nasa.gov/vicar_open.html",
+    "Public Code Repo": "https://github.com/nasa/VICAR",
+    "Description": "VICAR, which stands for Video Image Communication And Retrieval, is a general purpose image processing software system that has been developed since 1966 to digitally process multi-dimensional imaging data.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "VICAR",
+      "Image Processing",
+      "Toolkit",
+      "Visualization",
+      "Analysis",
+      "Graphics"
+    ],
+    "Update_Date": "2015-10-12"
+},
+
+	{
     "NASA Center": "Glenn Research Center",
     "Contributors": [
       "jishac"
