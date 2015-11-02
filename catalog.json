@@ -4105,13 +4105,13 @@
     "Sub-contractors": [
       ""
     ],
-    "Software": "General Mission Analysis Tool",
+    "Software": "General Mission Analysis Tool (GMAT)",
     "Internal Link": "",
     "External Link": "http://gmat.gsfc.nasa.gov/",
     "Public Code Repo": "http://sourceforge.net/projects/gmat/files/GMAT/GMAT-R2015a/",
     "Instructional Material": "",
     "Stats": "",
-    "Description": "The General Mission Analysis Tool (GMAT) is an open-source space mission analysis and design tool being developed by a team made up of NASA, private industry, and a range of academic, public, and private contributors. GMAT is intended both for real-world engineering design studies and as a tool for education and public engagement in the spirit of the NASA Charter.",
+    "Description": "The General Mission Analysis Tool (GMAT), developed at the Goddard Space Flight Center, is the world’s only enterprise, multi-mission, open source software system for space mission design, optimization, and navigation. The system supports missions in flight regimes ranging from low Earth orbit to lunar, libration point, and deep space missions. GMAT is developed by a team of NASA, private industry, public, and private contributors and is used for real-world mission support, engineering studies, as a tool for education, and public engagement.",
     "Internal Code Repo": "",
     "License": [
       "NASA Open Source"
