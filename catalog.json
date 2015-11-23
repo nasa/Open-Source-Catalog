@@ -848,59 +848,7 @@
     "New Date": "",
     "Update_Date": "2014-08-15"
   },
-  {
-    "NASA Center": "NASA Ames Research Center",
-    "Program Teams": [
-      ""
-    ],
-    "Contributors": [
-      "jasonduley"
-    ],
-    "Sub-contractors": [
-      ""
-    ],
-    "Software": "Formation-Flying",
-    "Internal Link": "",
-    "External Link": "https://github.com/nasa/Formation-Flying",
-    "Public Code Repo": "https://github.com/nasa/Formation-Flying",
-    "Instructional Material": "",
-    "Stats": "",
-    "Description": "Formation Flying.",
-    "Internal Code Repo": "",
-    "License": [
-      "NASA Open Source"
-    ],
-    "Languages": [
-      "Java"
-    ],
-    "Platform Requirements": [
-      ""
-    ],
-    "Dependent modules": [
-      ""
-    ],
-    "Dependent module URLs": [
-      ""
-    ],
-    "Component modules": [
-      ""
-    ],
-    "Component module URLs": [
-      ""
-    ],
-    "Industry": [
-      ""
-    ],
-    "Functionality": [
-      ""
-    ],
-    "Categories": [
-      "repository",
-      "formation flying"
-    ],
-    "New Date": "",
-    "Update_Date": "2014-08-04"
-  },
+  
   {
     "NASA Center": "NASA\u201a\u00c4\u00f4s Center of Excellence for Collaboration",
     "Program Teams": [
