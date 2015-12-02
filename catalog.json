@@ -1,5 +1,26 @@
 [
 	{
+	"NASA Center": "Langley Research Center",
+	"Contributors": [
+		"davidecox"
+	],
+	"Software": "GTM_DesignSim: Flight Dynamics Simulation of a Generic Transport Model",
+	"External Link": "https://github.com/nasa/GTM_DesignSim/wiki",
+	"Public Code Repo": "https://github.com/nasa/GTM_DesignSim",
+	"Description": "The GTM_DesignSim is a Matlab/Simulink simulation intended for design and analysis of flight control laws. It models the dynamics of a 5.5% scale model of a generic transport aircraft. The simulation was developed to allow fault accommodating control algorithms to be developed and refined in simulation before being tested on an experimental subscale model.",
+	"License": [
+		"NASA Open Source"
+	],
+	"Categories": [
+		"Framework",
+		"Toolkit",
+		"Web",
+		"Simulation",
+		"Flight Control"
+	],
+	"Update_Date": "2015-12-02"
+},
+	{
     "NASA Center": "Jet Propulsion Laboratory",
     "Contributors": [
       "Bob Deen"
