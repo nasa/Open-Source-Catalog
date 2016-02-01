@@ -6044,4 +6044,27 @@
 "Categories": ["ILIADS", "GIS", "lunar", "data visualization"],
 "Update_Date": "2015-02-27"
 }
+{
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "mcduffie", "mikesmyth"
+    ],
+    "Software": "RT Retrieval Framework",
+    "External Link": "https://github.com/nasa/RtRetrievalFramework",
+    "Public Code Repo": "https://github.com/nasa/RtRetrievalFramework",
+    "Description": "This software retrieves a set of atmospheric/surface/instrument parameters from a simultaneous fit to spectra from multiple absorption bands. The software uses an iterative, non-linear retrieval technique (optimal estimation). After the retrieval process has converged, the software performs an error analysis. The products of the software include all quantities needed to understand the information content of the measurement, its uncertainty, and its dependence on interfering atmospheric properties. Spectra from ground-based or space-based measurement with arbitrary observation geometry can be analyzed. The retrieved parameters can be chosen from a large set of atmospheric (e.g., volume mixing ratio of gases or aerosol optical depth), surface (e.g., Lambertian reflection), and instrument (e.g., spectral shift or instrument line shape parameters) parameters. The software uses an accurate, state-of-the-art, multiple-scattering radiative transfer code combined with an efficient polarization approximation to simulate measured spectra. The software enables fast and highly accurate simulations of broad spectral ranges by an optional parallelization of the frequency processing in the radiative transfer model. The framework was written with flexibility in mind. New algorithms and instruments are added by creating additional classes that implement the defined interfaces. Bindings are available for both Python and Lua.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Framework",
+      "Radiative Transfer",
+      "Forward Model",
+      "Atmosphere",
+      "Retrieval",
+      "Earth Science",
+      "C++", "Python", "Lua"
+    ],
+    "Update_Date": "2016-02-01"
+}
 ]
