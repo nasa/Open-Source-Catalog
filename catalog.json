@@ -6066,5 +6066,26 @@
       "C++", "Python", "Lua"
     ],
     "Update_Date": "2016-02-01"
+},
+{
+    "NASA Center": "Johnson Space Center",
+    "Contributors": [
+      "walshahi"
+    ],
+    "Software": "NASA LaTeX Docs",
+    "External Link": "https://github.com/nasa/nasa-latex-docs/wiki",
+    "Public Code Repo": "https://github.com/nasa/nasa-latex-docs",
+    "Description": "This is a flexible LaTeX document template designed to separate content from styling and remove all of the grunt work associated with creating professional documents. Can be used for technical reports as well as public documents such as research papers and conference papers.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "LaTeX",
+      "TeX",
+      "Documents",
+      "Reports",
+      "Papers"
+    ],
+    "Update_Date": "2016-02-05"
 }
 ]
