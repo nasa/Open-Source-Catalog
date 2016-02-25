@@ -6,11 +6,11 @@
 "url": "https://github.com/nasa/Open-Source-Catalog",
 "repo": "nasa/Open-Source-Catalog",
 "missions":["OCIO", "HQ"], 
-"categories": ["NASA", "Open Source", "Demo"], 
-"languages": ["JSON", "Angular"],
+"categories": ["NASA", "Open Source", "Code Sharing"], 
+"languages": ["JSON"],
 "operating_systems": ["Linux", "Windows", "Unix", "Mac"],  
-"poc": "Jason Duley", 
-"poc_mbox": " jason.duley@nasa.gov", 
+"poc": "Beth Beck", 
+"poc_mbox": " beth.beck@nasa.gov", 
 "license": "NASA Open Source Agreement Version 1.3", 
 "software_types": ["software", "catalog"]
 }
