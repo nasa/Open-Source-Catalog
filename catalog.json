@@ -1,5 +1,104 @@
 [
 	{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["support@earthdata.nasa.gov"],
+"Software": "Worldview Options Eosdis",
+"External Link": "https://github.com/nasa-gibs/worldview-options-eosdis",
+"Public Code Repo": "https://github.com/nasa-gibs/worldview-options-eosdis/archive/master.zip",
+"Description": "This repository contains the configuration used by Worldview on the Earthdata site. See the Worldview repository for more information. This code was originally developed at NASA/Goddard Space Flight Center for the Earth Science Data and Information System (ESDIS) project.",
+"License": [ "NASA Open Source" ],
+"Categories": ["worldview", "earth data science", "eosdis", "Tiled WMS","global imagery browse services", "gibs", "branding", "onearth"],
+"Update_Date": "2016-02-29"
+},
+{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["support@earthdata.nasa.gov"],
+"Software": "Worldview Design",
+"External Link": "https://github.com/nasa-gibs/worldview-design",
+"Public Code Repo": "https://github.com/nasa-gibs/worldview-design/archive/master.zip",
+"Description": "This repository contains the wireframes and designs for NASA Worldview. This code was originally developed at NASA/Goddard Space Flight Center for the Earth Science Data and Information System (ESDIS) project.",
+"License": [ "NASA Open Source" ],
+"Categories": ["worldview", "earth data science", "eosdis","Tiled WMS", "global imagery browse services", "gibs", "design", "onearth"],
+"Update_Date": "2016-01-28"
+},
+{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["support@earthdata.nasa.gov"],
+"Software": "Worldview Options Template",
+"External Link": "https://github.com/nasa-gibs/worldview-options-template",
+"Public Code Repo": "https://github.com/nasa-gibs/worldview-options-template/archive/master.zip",
+"Description": "This repository contains the generic branding with basic configuration for NASA Worldview.This code was originally developed at NASA/Goddard Space Flight Center for the Earth Science Data and Information System (ESDIS) project.",
+"License": [ "NASA Open Source" ],
+"Categories": ["worldview", "earth data science", "eosdis", "Tiled WMS","global imagery browse services", "gibs", "branding", "onearth"],
+"Update_Date": "2015-05-05"
+},
+{
+"NASA Center": "Jet Propulsion Laboratory",
+"Contributors": ["support@earthdata.nasa.gov"],
+"Software": "Meta Raster Format (mrf)",
+"External Link": "https://github.com/nasa-gibs/mrf",
+"Public Code Repo": "https://github.com/nasa-gibs/mrf/archive/master.zip",
+"Description": "The source code contains the Meta Raster Format (MRF) specification and plugin for GDAL, which is a part of the OnEarth software package. OnEarth consists of image formatting and serving modules which facilitate the deployment of a web service capable of efficiently serving standards-based requests for georeferenced raster imagery at multiple spatial resolutions including, but not limited to, full spatial resolution. The Meta Raster Format and OnEarth software were originally developed at the Jet Propulsion Laboratory (JPL) to serve global daily composites of MODIS imagery. Since then, it has been deployed and repurposed in other installations, including at the Physical Oceanography Distributed Active Archive Center (PO.DAAC) in support of the State of the Oceans (SOTO) visualization tool, the Lunar Mapping and Modeling Project (LMMP), and GIBS.",
+"License": [ "NASA Open Source" ],
+"Categories": ["worldview", "earth data science", "eosdis", "Tiled WMS","global imagery browse services", "gibs", "mrf", "onearth"],
+"Update_Date": "2016-02-05"
+},
+{
+"NASA Center": "Jet Propulsion Laboratory",
+"Contributors": ["support@earthdata.nasa.gov"],
+"Software": "Data Curtains",
+"External Link": "https://github.com/nasa-gibs/data-curtains",
+"Public Code Repo": "https://github.com/nasa-gibs/data-curtains/archive/master.zip",
+"Description": "NASA's Data Curtains from Space is a Google Summer of Code 2015 Project for the Cesium Community developed by Abhishek Potnis under the guidance of Mike McGann and Ryan Boller at NASA. Data Curtains from Space uses Cesium to better visualize data from the CALIPSO satellite, which is used to study clouds and aerosols in the atmosphere.",
+"License": [ "NASA Open Source" ],
+"Categories": ["worldview", "earth data science", "eosdis", "Tiled WMS","global imagery browse services", "gibs", "onearth", "data visualization"],
+"Update_Date": "2015-08-31"
+},
+{
+"NASA Center": "Jet Propulsion Laboratory",
+"Contributors": ["support@earthdata.nasa.gov"],
+"Software": "OnEarth",
+"External Link": "https://github.com/nasa-gibs/onearth",
+"Public Code Repo": "https://github.com/nasa-gibs/onearth/archive/master.zip",
+"Description": "OnEarth is a software package consisting of image formatting and serving modules which facilitate the deployment of a web service capable of efficiently serving standards-based requests for georeferenced raster imagery at multiple spatial resolutions including, but not limited to, full spatial resolution. The software was originally developed at the Jet Propulsion Laboratory (JPL) to serve global daily composites of MODIS imagery. Since then, it has been deployed and repurposed in other installations, including at the Physical Oceanography Distributed Active Archive Center (PO.DAAC) in support of the State of the Oceans (SOTO) visualization tool, the Lunar Mapping and Modeling Project (LMMP), and Worldview.",
+"License": [ "NASA Open Source" ],
+"Categories": ["worldview", "earth data science", "eosdis", "global imagery browse services", "gibs", "onearth", "Tiled WMS"],
+"Update_Date": "2016-02-12"
+},
+{
+"NASA Center": "Jet Propulsion Laboratory",
+"Contributors": ["support@earthdata.nasa.gov"],
+"Software": "OnEarth Boxes",
+"External Link": "https://github.com/nasa-gibs/onearth-boxes",
+"Public Code Repo": "https://github.com/nasa-gibs/onearth-boxes/archive/master.zip",
+"Description": "OnEarth-Boxes is a system that creates VM images for use in running, testing, and experimenting with the OnEarth and MRF tools. It uses Packer to produce a variety of pre-built VMs in different formats. OnEarth-Boxes comes pre-configured with NASA Blue Marble and MODIS Aerosol imagery layers, in 4 separate projections. There are OpenLayers endpoints for testing with WMTS, as well as TWMS/KML and Mapserver endpoints.",
+"License": [ "NASA Open Source" ],
+"Categories": ["worldview", "earth data science", "eosdis", "global imagery browse services", "gibs", "onearth", "Tiled WMS"],
+"Update_Date": "2016-02-12"
+},
+{
+"NASA Center": "Jet Propulsion Laboratory",
+"Contributors": ["support@earthdata.nasa.gov"],
+"Software": "GIBS Web Examples",
+"External Link": "https://github.com/nasa-gibs/gibs-web-examples",
+"Public Code Repo": "https://github.com/nasa-gibs/gibs-web-examples/archive/release.zip",
+"Description": "This project shows how to use GIBS as a tile source for OpenLayers, Leaflet, Cesium, Bing, and Google Maps.",
+"License": [ "NASA Open Source" ],
+"Categories": ["worldview", "earth data science", "eosdis", "global imagery browse services", "gibs", "onearth", "Tiled WMS"],
+"Update_Date": "2015-05-20"
+},
+{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["support@earthdata.nasa.gov"],
+"Software": "Open Layers 3",
+"External Link": "https://github.com/nasa-gibs/ol3",
+"Public Code Repo": "https://github.com/nasa-gibs/ol3/archive/worldview.zip",
+"Description": "This repository contains changes to OpenLayers 3 used by Worldview.",
+"License": [ "NASA Open Source" ],
+"Categories": ["worldview", "earth data science", "eosdis", "global imagery browse services", "gibs", "onearth", "Tiled WMS"],
+"Update_Date": "2015-04-03"
+},
+	{
 "NASA Center": "Langley Research Center",
 "Contributors": ["rwbutler4"],
 "Software": "WinASSIST",
