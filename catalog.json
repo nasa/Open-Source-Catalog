@@ -5166,7 +5166,7 @@
 {
 "NASA Center": "Ames Research Center",
 "Contributors": ["Dennis Koga"],
-"Software": "Pour",
+"Software": "QuIP",
 "External Link": "http://scanpath.arc.nasa.gov/quip/",
 "Public Code Repo": "http://scanpath.arc.nasa.gov/quip/quip-0.11.tar.gz",
 "Description": "QuIP (QUick Image Processing) is an interpreter for image processing, graphics, psychophysical experimentation and general scientific computing.",
