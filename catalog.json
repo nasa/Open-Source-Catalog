@@ -1,5 +1,5 @@
 [
-	{
+{
 "NASA Center": "Goddard Space Flight Center",
 "Contributors": ["support@earthdata.nasa.gov"],
 "Software": "Worldview Options Eosdis",
@@ -6198,7 +6198,7 @@
     "Public Code Repo": "https://github.com/nasa/isle",
     "Description": "This web application allows inventories of assets to be managed. Assets along with their specifications are added to the system and then used by users via a check-in/check-out function. The inventory can be browsed by category or using search. Users are given various roles within the system to allow them to perform certain functions such as view-only, check-in/check-out, modify, and full-control. Inventory managers can add and track detailed information on all inventory assets including manufacturer, storage location, custom attributes, and relationships with other assets. Assets can be found by browsing by category, search, location, or current user. Assets are checked out to specified locations by users.",
     "License": [
-      "NASA Open Source"
+      "Apache 2.0"
     ],
     "Categories": [
       "Web",
