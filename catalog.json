@@ -1,28 +1,28 @@
 [
 {
-    "NASA Center": "Ames Research Center",
-    "Contributors": [
-      "Jeff Mulligan"
-    ],
-    "Software": "QuIP - Quick Image Processing",
-    "External Link": "https://github.com/nasa/QuIP/wiki",
-    "Public Code Repo": "https://github.com/nasa/QuIP",
-    "Description": "QuIP provides an interactive environment for computing and presenting images and image sequences, manipulating and storing arbitrary data, and general scientific computing and plotting.  The current release supports unix-like operating systems (tested on Linux and Mac OSX), and Apple's iOS mobile operating system.  GPU acceleration is supported with either CUDA or OpenCL.  There is built-in support for psychophysical experimentation, with general-purpose staircase routines and analysis of psychometric functions.",
-    "License": [
-      "NASA Open Source"
-    ],
-    "Categories": [
-      "Image Processing",
-      "Graphics",
-      "Visualization",
-      "Psychophysics"
-      "Analysis",
-      "Mobile",
-      "Toolkit",
-      "Simulation",
-      "Framework",
-    ],
-    "Update_Date": "2016-04-18"
+	"NASA Center": "Ames Research Center",
+	"Contributors": [
+		"Jeff Mulligan"
+	],
+	"Software": "QuIP - Quick Image Processing",
+	"External Link": "https://github.com/nasa/QuIP/wiki",
+	"Public Code Repo": "https://github.com/nasa/QuIP",
+	"Description": "QuIP provides an interactive environment for computing and presenting images and image sequences, manipulating and storing arbitrary data, and general scientific computing and plotting.  The current release supports unix-like operating systems (tested on Linux and Mac OSX), and Apple's iOS mobile operating system.  GPU acceleration is supported with either CUDA or OpenCL.  There is built-in support for psychophysical experimentation, with general-purpose staircase routines and analysis of psychometric functions.",
+	"License": [
+	"NASA Open Source"
+	],
+	"Categories": [
+		"Image Processing",
+		"Graphics",
+		"Visualization",
+		"Psychophysics", 
+		"Analysis",
+		"Mobile",
+		"Toolkit",
+		"Simulation",
+		"Framework",
+	],
+	"Update_Date": "2016-04-18"
 },
 {
 "NASA Center": "Goddard Space Flight Center",
