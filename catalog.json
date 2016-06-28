@@ -5027,17 +5027,6 @@
 	{
 	"NASA Center": "Ames Research Center",
 	"Contributors": ["Dennis Koga"],
-	"Software": "EOS Clearinghouse (ECHO)",
-	"External Link": "http://ti.arc.nasa.gov/opensource/projects/echo/",
-	"Public Code Repo": "http://ti.arc.nasa.gov/m/opensource/downloads/ECHO501.zip",
-	"Description": "ECHO is a clearinghouse of Earth science Metadata under the EOS Program.",
-	"License": [ "NASA Open Source" ],
-	"Categories": ["earth science", "metadata", "EOS"],
-	"Update_Date": "2015-05-06"
-	},
-	{
-	"NASA Center": "Ames Research Center",
-	"Contributors": ["Dennis Koga"],
 	"Software": "Geometry Manipulation Protocol (GMP)",
 	"External Link": "http://ti.arc.nasa.gov/opensource/projects/gmp/",
 	"Public Code Repo": "http://ti.arc.nasa.gov/m/opensource/downloads/gmp-1.0.0.tar.gz",
