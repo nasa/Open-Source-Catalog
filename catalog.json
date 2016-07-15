@@ -666,7 +666,7 @@
 	      "Flow Labels"
 	    ],
 	    "Update_Date": "2015-09-08"
-	}, 
+	},
 		{
 	    "NASA Center": "Glenn Research Center",
 	    "Contributors": [
@@ -742,7 +742,7 @@
 	      "GPM"
 	    ],
 	    "Update_Date": "2015-07-07"
-	}, 
+	},
 	{
 		"NASA Center": "Marshall Space Flight Center",
 	    "Contributors": [
@@ -853,24 +853,24 @@
 	    "Update_Date": "2015-06-15"
 	},
 	{
-	
+
 		"NASA Center": "Glenn Research Center",
-		"Contributors": [ 
-			"ehariton" 
-		], 
-		"Software": "EADINLite", 
+		"Contributors": [
+			"ehariton"
+		],
+		"Software": "EADINLite",
 	    "External Link": "https://github.com/nasa/EADINLite/wiki",
 	 	"Public Code Repo": "https://github.com/nasa/EADINLite",
 	    "Description": "This code was created to support the Distributed Engine Control task as part of the Fixed Wing Aeronautics project. The purpose of this research was to enable multiple microcontrollers to speak with eacho ther per the protocol specified in the preliminary release of EADIN BUS. EADIN BUS is a candidate for distributed control systems on aircraft engines. The primary use of this code was to assist in the modelling of small local networks which contain 16 or fewer nodes. This communication protocol differs from typical internet protocols by using a master node which distributes information between nodes through a call and response system. The RS-485 network is simplex and thus does not allow multiple nodes to talk at the same time. No time synchronization between  nodes is required for this network. These factors enable the master to request information from sensors and command actuators, one at a time. In the current implementation, no information is passed from individual nodes without first going through the master node. While other communication protocols do exist like ModbusMaster and simple-modbus, the speed of these communication protocols on the RS-485 network was not sufficient for our needs which required message send to reply receipt times of 1 millisecond. Additionally, the other protocols did not implement the same message system as specified by the preliminary documents regarding the EADIN protocol.",
-	     "License": [ 
-	       "ALv2" 
-	     ], 
-	     "Categories": [ 
-	       "Communication", 
-	       "Protocol", 
-	       "Microcontroller" 
-	  ], 
-	    "Update_Date": "2015-04-13" 
+	     "License": [
+	       "ALv2"
+	     ],
+	     "Categories": [
+	       "Communication",
+	       "Protocol",
+	       "Microcontroller"
+	  ],
+	    "Update_Date": "2015-04-13"
 	},
 	   {
 	    "NASA Center": "Jet Propulsion Laboratory",
@@ -1496,7 +1496,7 @@
 	    "New Date": "",
 	    "Update_Date": "2014-08-15"
 	  },
-  
+
 	  {
 	    "NASA Center": "NASA\u201a\u00c4\u00f4s Center of Excellence for Collaboration",
 	    "Program Teams": [
@@ -3447,14 +3447,14 @@
 	      ""
 	    ],
 	    "Contributors": [
-	            "Dr. Chris A. Mattmann", 
+	            "Dr. Chris A. Mattmann",
 	            "Mr. Paul Ramirez",
-	            "Mr. Maziyar Boustani", 
+	            "Mr. Maziyar Boustani",
 	            "Ms. Shakeh Khudikyan",
 	            "Mr. Mike Joyce",
 	            "Mr. Rishi Verma",
 	            "Dr. Lewis John McGibbney",
-	            "Mr. Tyler Palsulich" 
+	            "Mr. Tyler Palsulich"
 	    ],
 	    "Sub-contractors": [
 	      ""
@@ -4818,7 +4818,7 @@
 	    "Contributors": [
 			"bjax"
 		],
-	    "Software": "DAVEtools", 
+	    "Software": "DAVEtools",
 	    "External Link": "https://github.com/nasa/DAVEtools/wiki",
 	    "Public Code Repo": "https://github.com/nasa/DAVEtools",
 	    "Description": "A Java package, nominally built in NetBeans, that provides utilities for dynamic models written in ANSI/AIAA-S-119 DAVE-ML markup, including translation to Matlab(R) and Simulink(R). See http://www.daveml.org",
@@ -4847,7 +4847,7 @@
 	    "Software": "Trick Simulation Environment",
 	    "External Link": "https://github.com/nasa/Trick/wiki",
 	    "Public Code Repo": "https://github.com/nasa/Trick",
-	    "Description": "The Trick Simulation Environment provides a framework and build utilities for creating high fidelity training and engineering simulations.  Trick simulations are designed for both real-time and non-realtime applications having both time-based scheduling requirements. Trick simulations may include math models, flight software, human input devices, and hardware control functions.  Trick provides the user with math model job scheduling, checkpoint/restore, data recording, batch input processing, and interactive variable manipulation.  Trick also includes tools to create plots and tables of simulation recorded data.", 
+	    "Description": "The Trick Simulation Environment provides a framework and build utilities for creating high fidelity training and engineering simulations.  Trick simulations are designed for both real-time and non-realtime applications having both time-based scheduling requirements. Trick simulations may include math models, flight software, human input devices, and hardware control functions.  Trick provides the user with math model job scheduling, checkpoint/restore, data recording, batch input processing, and interactive variable manipulation.  Trick also includes tools to create plots and tables of simulation recorded data.",
 	    "Languages": [
 	      "C++",
 	      "C",
@@ -4868,7 +4868,7 @@
 		"Contributors": [
 			"sonielau"
 		],
-		"Software": "Java Path Finder", 
+		"Software": "Java Path Finder",
 		"External Link": "http://babelfish.arc.nasa.gov/trac/jpf/wiki",
 		"Public Code Repo": "http://babelfish.arc.nasa.gov/trac/jpf/wiki/install/repositories",
 		"Description": "You might have noticed that we were a bit vague about what JPF actually is. It started as a software model checker, but nowadays there are various different execution modes and extensions, hence we have to explain what JPF does without getting lost in details of its application. What all JPF modes, which are runtime configured and not hardwired, have in common is that they are used to verify Java programs, to: find and explain defects, collect \"deep\" runtime information like coverage metrics, deduce interesting test vectors and create corresponding test drivers and many more... Although classic SW model checking is only one of these applications, it is still what JPF is mostly associated with. People often confuse this with testing, and indeed JPFs notion of model checking can be close to systematic testing, so we throw in a little example that illustrates the differences. See http://babelfish.arc.nasa.gov/trac/jpf/wiki/intro/start",
@@ -5892,7 +5892,7 @@
 	"License": [ "NASA Open Source" ],
 	"Categories": ["data processing", "data", "FITS", "flexible image transport system", "golang", "go"],
 	"Update_Date": "2015-02-06"
-	}, 
+	},
 	{
 	"NASA Center": "Goddard Space Flight Center",
 	"Contributors": ["John Dorband"],
@@ -6168,7 +6168,7 @@
 	"License": [ "NASA Open Source" ],
 	"Categories": ["ILIADS", "GIS", "lunar", "data visualization"],
 	"Update_Date": "2015-02-27"
-	}, 
+	},
 	{
 	    "NASA Center": "Jet Propulsion Laboratory",
 	    "Contributors": [
@@ -6260,8 +6260,8 @@
     "Categories": [
       "FEA",
       "Abaqus",
-      "Progressive Damage Analysis",
-      "Continuum Damage Mechanics",
+      "Progressive Damage",
+      "Continuum Mechanics",
       "Composite Materials",
       "Fortran"
     ],
