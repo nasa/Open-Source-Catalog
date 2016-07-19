@@ -836,19 +836,21 @@
 	        "VWoeltjen",
 	        "larkin",
 	        "charlesh88",
-	        "brianwyu"
+	        "brianwyu",
+	        "akhenry"
 	    ],
-	    "Software": "Open MCT Web",
+	    "Software": "Open MCT",
 	    "External Link": "https://github.com/nasa/openmctweb",
 	    "Public Code Repo": "https://github.com/nasa/openmctweb",
-	    "Description": "A platform for web-based user interfaces for mission operations.",
+	    "Description": "Open MCT is an open source and web-based mission control framework for visualization of data on desktop and mobile devices. Open MCT is designed for analysis, visualization, operation, and support of spacecraft missions. Open MCT provides an extensible plugin system allowing it to be integrated with existing ground systems, and adapted to support multiple missions as well as non-space applications.",
 	    "License": [
 	        "Apache 2.0"
 	    ],
 	    "Categories": [
 	        "Framework",
 	        "Platform",
-	        "Web"
+	        "Web",
+	        "operations"
 	    ],
 	    "Update_Date": "2015-06-15"
 	},
