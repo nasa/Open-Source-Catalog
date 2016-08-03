@@ -352,12 +352,12 @@
 		"NASA Center": "Ames Research Center Center",
 		"Contributors": ["arc-sra-team@mail.nasa.gov"],
 		"Software": "Constellation PRACA Extension of the Bugzilla Application",
-		"External Link": "https://software.nasa.gov/software/ARC-16033-1",
-		"Public Code Repo": "https://ftp.mozilla.org/pub/mozilla.org/webtools/bugzilla-5.0.2.tar.gz",
+		"External Link": "https://mas.nasa.gov/ARC-PRACA/about.cgi",
+		"Public Code Repo": "https://www.bugzilla.org/news/#release503",
 		"Description": "The Constellation PRACA I-1 system is a modified version of an open-source, Web-based defect tracking tool called Bugzilla. Bugzilla allows software developers to document and track outstanding bugs in their products; in the Constellation PRACA I-1 system, these core capabilities have been extended to provide the necessary functionality and usability defined in the PRACA processing requirements.",
 		"License": ["NASA Open Source"],
 		"Categories": ["Data and Image Processing"],
-		"Update_Date": "2015-07-07"
+		"Update_Date": "2016-06-16"
 	}, {
 		"NASA Center": "Langley Research Center",
 		"Contributors": ["larc-sra@mail.nasa.gov"],
