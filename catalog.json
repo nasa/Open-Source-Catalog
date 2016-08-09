@@ -6118,5 +6118,38 @@
 			"Fortran"
 		],
 		"Update_Date": "2016-07-13"
-	}
+	},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["rodney.martin@nasa.gov"],
+"Software": "Adverse Condition & Critical Event Prediction Toolbox (ACCEPT)",
+"External Link": "http://ti.arc.nasa.gov/opensource/projects/accept/",
+"Public Code Repo": "https://c3.nasa.gov/dashlink/static/media/algorithm/ACCEPT_osrelease_1.6.tar.gz",
+"Description": "ACCEPT is an open source machine learning code for model development to support both regression and detection modules, including fidelity analysis.",
+"License": [ "NASA Open Source" ],
+"Categories": ["machine learning", "model development", "regression", "detection"],
+"Update_Date": "2016-02-11"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["rodney.martin@nasa.gov"],
+"Software": "Kalman Filter Code Augmentation",
+"External Link": "http://ti.arc.nasa.gov/opensource/projects/kalman/",
+"Public Code Repo": "http://ti.arc.nasa.gov/m/opensource/downloads/KalmanFilterAugmentation.zip",
+"Description": "The Kalman Filter Code Augmentation release is a modification of Kalman Filter Toolbox, written by Kevin Murphy, 1998. It extends the existing open source software's capabilities and functionality by bookkeeping more detailed information on internal data structures, as well as ensuring the consistency of mathematical conventions used by subroutines that are part of a third-party tool called ASOS as part of the modification. Additional convergence criteria have also been included, as well as the possibility for establishing additional constraints and modelling paradigms.",
+"License": [ "NASA Open Source" ],
+"Categories": ["model development", "code augmentation"],
+"Update_Date": "2016-02-11"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["rodney.martin@nasa.gov"],
+"Software": "ROC Curve Code Augmentation",
+"External Link": "http://ti.arc.nasa.gov/opensource/projects/roc/",
+"Public Code Repo": "http://ti.arc.nasa.gov/m/opensource/downloads/ROC_Curve_Code_Augmentation.zip",
+"Description": "ROC (Receiver Operating Characteristic) curve Code Augmentation is a modification of ROC Curve code originally authored by G.C. Cawley that provides additional functionality. The inclusion of more detailed bookkeeping of new and existing internal data structures that provide more visibility into various performance measures is one of the new features.",
+"License": [ "NASA Open Source" ],
+"Categories": ["model development", "code augmentation"],
+"Update_Date": "2016-02-11"
+}
 ]
