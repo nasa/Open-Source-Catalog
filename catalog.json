@@ -1,5 +1,25 @@
 [{
 		"NASA Center": "Ames Research Center",
+		"Contributors": ["matthewjdaigle"],
+		"Software": "Prognostics Algorithm Library",
+		"External Link": "https://github.com/nasa/PrognosticsAlgorithmLibrary/wiki",
+		"Public Code Repo": "https://github.com/nasa/PrognosticsAlgorithmLibrary",
+		"Description": "The Prognostics Algorithm Library is a suite of algorithms implemented in the MATLAB programming language for model-based prognostics (remaining life computation). It includes algorithms for state estimation and prediction, including uncertainty propagation. The algorithms take as inputs component models developed in Matlab, and perform estimation and prediction functions. The library allows the rapid development of prognostics solutions for given models of components and systems. Different algorithms can be easily swapped to do comparative studies and evaluations of different algorithms to select the best for the application at hand.",
+		"License": ["NASA Open Source"],
+		"Categories": ["Framework", "Toolbox", "Prognostics", "PHM", "Health Management"],
+		"Update_Date": "2016-08-18"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["matthewjdaigle"],
+		"Software": "Prognostics Model Library",
+		"External Link": "https://github.com/nasa/PrognosticsModelLibrary/wiki",
+		"Public Code Repo": "https://github.com/nasa/PrognosticsModelLibrary",
+		"Description": "The Prognostics Model Library is a modeling framework focused on defining and building models for prognostics (computation of remaining useful life) of engineering systems, and provides a set of prognostics models for select components developed within this framework, suitable for use in prognostics applications for these components. The library currently includes models for valves, pumps, and batteries. The Prognostics Model Library is implemented in MATLAB. The implementation consists of a set of utilities for defining a model (specifying variables, parameters, and equations), simulating the model, and embedding it within common model-based prognostics algorithms. A user can use existing models within the library or construct new models with the provided framework.",
+		"License": ["NASA Open Source"],
+		"Categories": ["Framework", "Toolbox", "Prognostics", "PHM", "Health Management"],
+		"Update_Date": "2016-08-18"
+	}, {
+		"NASA Center": "Ames Research Center",
 		"Contributors": ["Jeff Mulligan"],
 		"Software": "QuIP - Quick Image Processing",
 		"External Link": "https://github.com/nasa/QuIP/wiki",
