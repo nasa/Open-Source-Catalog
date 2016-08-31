@@ -1,4 +1,15 @@
 [{
+"NASA Center": "Langley Research Center",
+"Contributors": ["cesar.a.munoz@nasa.gov"],
+"Software": "Integrated Configurable Algorithms for Reliable Operations of Unmanned Systems (ICAROUS)",
+"External Link": "http://shemesh.larc.nasa.gov/people/cam/ICAROUS/",
+"Public Code Repo": "http://github.com/nasa/icarous",
+"Description": "ICAROUS is a software architecture that enables the robust integration of mission specific software modules and highly assured core software modules for building safety-centric autonomous unmanned aircraft applications.",
+"License": [ "NASA Open Source" ],
+"Categories": ["UAV", "Geofencing", "Detect and Avoid"],
+"Update_Date": "2016-08-19"
+}, -
+	{
 		"NASA Center": "Ames Research Center",
 		"Contributors": ["matthewjdaigle"],
 		"Software": "Prognostics Algorithm Library",
