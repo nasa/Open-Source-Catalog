@@ -6182,5 +6182,25 @@
 "License": [ "NASA Open Source" ],
 "Categories": ["model development", "code augmentation"],
 "Update_Date": "2016-02-11"
+},
+{
+	"NASA Center": "Jet Propulsion Laboratory",
+	"Contributors": [
+		"David Nelson",
+		"Sebastian Val"
+	],
+	"Software": "MINX",
+	"External Link": "http://misr.jpl.nasa.gov/",
+	"Public Code Repo": "https://github.com/nasa/MINX",
+	"Description": "MINX, which stands for MISR INteractive eXplorer, is an interactive visualization and analysis program written in IDL and designed to make MISR data more accessible to science users. Its principal use is to retrieve heights and motion for aerosol plumes and clouds using stereoscopic methods.",
+	"License": [
+		"NASA Open Source"
+	],
+	"Categories": [
+		"Toolkit",
+		"Visualization",
+		"Analysis"
+	],
+	"Update_Date": "2016-09-06"
 }
 ]
