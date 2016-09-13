@@ -1,4 +1,15 @@
 [{
+"NASA Center": "Ames Research Center",
+"Contributors": ["terry.fong@nasa.gov"],
+"Software": "xGDS",
+"External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/xgds/",
+"Public Code Repo": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/xgds/",
+"Description": "xGDS (Exploration Ground Data Systems) synthesizes real world data (from sensors, robots, ROVs, mobile devices, etc) and human observations into rich, digital maps and displays for analysis, decision making, and collaboration. xGDS evolved from our work developing tools to control, monitor and collect data from autonomous rovers supporting NASA's terrestrial field science research. xGDS is a highly collaborative, interactive suite of web software.",
+"License": ["ALv2"],
+"Categories": ["Ground Data Systems", "Maps", "Decision Making"],
+"Update_Date": "2015-02-27"
+},
+	{
 "NASA Center": "Langley Research Center",
 "Contributors": ["cesar.a.munoz@nasa.gov"],
 "Software": "Integrated Configurable Algorithms for Reliable Operations of Unmanned Systems (ICAROUS)",
@@ -650,7 +661,7 @@
 		"Public Code Repo": "https://github.com/nasa/channel-emulator",
 		"Description": "The Channel  Emulator (CE) is a  software-based network testing tool.  Its primary functions are providing framing services, acting as a flexible protocol gateway, and providing network emulation capabilities.",
 
-		"License Short Name": ["GPLv2"],
+		"License": ["GPLv2"],
 		"License Long Name": "GNU General Public License (GPL) version 2",
 		"License Description": "This free and copyleft software license is an older version of GPL3.",
 		"License Link": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
@@ -679,7 +690,7 @@
 		"Public Code Repo": "https://github.com/nasa/earthdata-search",
 		"Description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
 
-		"License Short Name": ["ALv2"],
+		"License": ["ALv2"],
 		"License Long Name": "Apache License 2.0",
 		"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
 		"License Link": "https://www.apache.org/licenses/LICENSE-2.0",
@@ -813,7 +824,7 @@
 		"Public Code Repo": "https://github.com/nasa/openmctweb",
 		"Description": "Open MCT is an open source and web-based mission control framework for visualization of data on desktop and mobile devices. Open MCT is designed for analysis, visualization, operation, and support of spacecraft missions. Open MCT provides an extensible plugin system allowing it to be integrated with existing ground systems, and adapted to support multiple missions as well as non-space applications.",
 
-		"License Short Name": ["ALv2"],
+		"License": ["ALv2"],
 		"License Long Name": "Apache License 2.0",
 		"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
 		"License Link": "https://www.apache.org/licenses/LICENSE-2.0",
@@ -835,7 +846,7 @@
 		"Public Code Repo": "https://github.com/nasa/EADINLite",
 		"Description": "This code was created to support the Distributed Engine Control task as part of the Fixed Wing Aeronautics project. The purpose of this research was to enable multiple microcontrollers to speak with eacho ther per the protocol specified in the preliminary release of EADIN BUS. EADIN BUS is a candidate for distributed control systems on aircraft engines. The primary use of this code was to assist in the modeling of small local networks which contain 16 or fewer nodes. This communication protocol differs from typical internet protocols by using a master node which distributes information between nodes through a call and response system. The RS-485 network is simplex and thus does not allow multiple nodes to talk at the same time. No time synchronization between  nodes is required for this network. These factors enable the master to request information from sensors and command actuators, one at a time. In the current implementation, no information is passed from individual nodes without first going through the master node. While other communication protocols do exist like ModbusMaster and simple-modbus, the speed of these communication protocols on the RS-485 network was not sufficient for our needs which required message send to reply receipt times of 1 millisecond. Additionally, the other protocols did not implement the same message system as specified by the preliminary documents regarding the EADIN protocol.",
 
-		"License Short Name": ["ALv2"],
+		"License": ["ALv2"],
 		"License Long Name": "Apache License 2.0",
 		"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
 		"License Link": "https://www.apache.org/licenses/LICENSE-2.0",
@@ -861,7 +872,7 @@
 		"Public Code Repo": "https://github.com/apache/climate",
 		"Description": "Apache Open Climate Workbench provides a Climate Science library and a suite of tools built on top of it to facilitate multi-model and multi-observation comparisons and visualizations for Climate Scientists.",
 
-		"License Short Name": ["ALv2"],
+		"License": ["ALv2"],
 		"License Long Name": "Apache License 2.0",
 		"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
 		"License Link": "https://www.apache.org/licenses/LICENSE-2.0",
@@ -920,29 +931,7 @@
 		"Stats": "",
 		"Description": "The Scheduling and Planning Interface for Exploration (SPIFe) is an integrated planning and scheduling toolkit based on hundreds of hours of expert observation, use, and refinement of state-of-the-art planning and scheduling technology for several applications within NASA.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}, {
-				"License Short Name": ["EPL"],
-				"License Long Name": "Eclipse Public License",
-				"License Description": "This free software license removes broader patent retaliation language in the Common Public License, but remains incompatible with the GNU GPL.",
-				"License Link": "http://www.eclipse.org/legal/epl-v10.html"
-			}, {
-				"License Short Name": ["MPLv2"],
-				"License Long Name": "Mozilla Public License 2.0",
-				"License Description": "A free software license with indirect compatibility with GNU GPL v2 and later, but can have constraints that make it incompatible with secondary licenses.",
-				"License Link": "http://www.mozilla.org/MPL/2.0/"
-			}, {
-				"License Short Name": ["LGPL"],
-				"License Long Name": "GNU Library or 'Lesser' General Public License (LGPL)",
-				"License Description": "This free software license is not strong copyleft, as it permits linking with nonfree modules.",
-				"License Link": "http://www.gnu.org/licenses/lgpl.html"
-			}
-		],
+		"License": ["ALv2", "EPL", "MPLv2", "LGPL"],
 		"Languages": [
 			"Java"
 		],
@@ -1071,14 +1060,7 @@
 		"Stats": "",
 		"Description": "This algorithm code (from the Phase 1 Asteroid Tracker Challenge) provides the optimum subarray selection per set of object tracks provided in a predefined configuration using a fixed number of dishes - See more about the challenge at: http://www.topcoder.com/asteroids/tracker/ This code was generated via a challenge on the NASA Tournament Lab (NTL) supported by NASA's Center of Excellence for Collaborative Innovation (CoECI).",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"C++"
 		],
@@ -1205,14 +1187,7 @@
 		"Stats": "",
 		"Description": "The Lunar Mapping and Modeling Portal (LMMP) is a system that has been built to support lunar exploration activities that will enable return of both manned and unmanned missions to the Moon. It provides a web-based Portal and a suite of interactive visualization and analysis tools to enable mission planners, lunar scientists, and engineers to access mapped lunar data products from past and current lunar missions. It also addresses the lunar science community, the lunar commercial community, education and public outreach, and anyone else interested in accessing or utilizing lunar data.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -1269,14 +1244,7 @@
 		"Stats": "",
 		"Description": "The Lunar Mapping and Modeling Portal (LMMP) is a system that has been built to support lunar exploration activities that will enable return of both manned and unmanned missions to the Moon. It provides a web-based Portal and a suite of interactive visualization and analysis tools to enable mission planners, lunar scientists, and engineers to access mapped lunar data products from past and current lunar missions. It also addresses the lunar science community, the lunar commercial community, education and public outreach, and anyone else interested in accessing or utilizing lunar data.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -1450,14 +1418,7 @@
 		"Stats": "",
 		"Description": "CertWare is a collection of tools intended to support the development of safety, assurance, or dependability cases. CertWare adopts several types of structured argument models and provides an implementation of tools to support writing and verifying arguments using the chosen model. The implementations are a baseline meant to be enhanced and further integrated into development tools chains. Both textual and graphical editors are implemented. The implementation is done in Eclipse, as a large collection of Eclipse plugins and features, using several model generation tools to facilitate implementation and maintenance. See the Meta-Models section below for the kinds of models already incorporated into the workbench.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2064,14 +2025,7 @@
 		"Stats": "",
 		"Description": "This code includes the algorithms that resulted from a challenge on the NASA Tournament Lab (NTL). This challenge was to study select satellite imagery of the region of the lost tomb of Genghis Khan and then develop an algorithm that will recognize human built, and potentially historically significant, structures found in those images.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ASL"],
-				"License Long Name": "Apache Software License",
-				"License Description": "A whole class of free software licenses, with versions available for individual constraints.",
-				"License Link": "https://www.apache.org/licenses/"
-			}
-		],
+		"License": ["ASL"],
 		"Languages": [
 			"C++"
 		],
@@ -2286,14 +2240,7 @@
 		"Stats": "",
 		"Description": "The Automatic Documentation software creates Microsoft Documents automatically using Text and Template files.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ASL"],
-				"License Long Name": "Apache Software License",
-				"License Description": "A whole class of free software licenses, with versions available for individual constraints.",
-				"License Link": "https://www.apache.org/licenses/"
-			}
-		],
+		"License": ["ASL"],
 		"Languages": [
 			"Java"
 		],
@@ -2347,14 +2294,7 @@
 		"Stats": "",
 		"Description": "Code from the United States Agency for International Development (USAID) and Humanity United (HU) challenge for Atrocity Prevention Modeling in collaboration with NASA's Center of Excellence for Collaboration (CoECI). This package contains the top 5 solutions submitted for the 'Tech Challenge for Atrocity Prevention' competition.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2406,14 +2346,7 @@
 		"Stats": "",
 		"Description": "NASA Tournament Lab (NTL) challenge to develop an algorithm that can detect craters from imagery.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2466,14 +2399,7 @@
 		"Stats": "",
 		"Description": "Code from the United States Centers for Medicare & Medicaid Services (CMS) challenge in collaboration with NASA's Center of Excellence for Collaboration (CoECI), Harvard, and TopCoder developed an iPhone app and reporting web application used to track and compile transfers of value (e.g. gift, meal, speaking fee) from industry manufacturers (e.g. pharmaceutical companies) to physicians.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2525,14 +2451,7 @@
 		"Stats": "",
 		"Description": "Algorithm code to address the NTL Electrocardiogram (ECG) Challenge to develop an algorithm to optimize the contents for the medical kits that accompany astronauts on missions.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2638,14 +2557,7 @@
 		"Stats": "",
 		"Description": "39A is the software used to power the 2013 International Space Apps Challenge, a global hackathon focusing on space technology and issues.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2807,14 +2719,7 @@
 		"Stats": "",
 		"Description": "This is the source code for the WordPress theme that powers code.nasa.gov. Code.nasa.gov expands NASA's open source activities, surfaces existing activities, and guides internal and external groups in open development, release, and contribution. In doing so, NASA hopes to lower barriers to building open technology in partnership with the public.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -3461,12 +3366,7 @@
 		"Stats": "",
 		"Description": "Apache OODT is NASA's first project to be stewarded at the open source Apache Software Foundation. OODT is middleware for information integration and for science data processing and retrieval. It provides components including file management, workflow management, resource management, and automated remote data acquisition, file crawling and ingestion, and science algorithm wrapping and integration.",
 		"Internal Code Repo": "",
-		"License": [{
-			"License Short Name": ["ALv2"],
-			"License Long Name": "Apache License 2.0",
-			"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-			"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-		}],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java",
 			"Python"
@@ -3581,12 +3481,7 @@
 		"Stats": "",
 		"Description": "Datacasting is a RSS publish-subscribe method for delivering Earth Science data. A Feed Reader provides feed filtering, data download, and the ability to mash-up data with information related to geophysical events.",
 		"Internal Code Repo": "",
-		"License": [{
-			"License Short Name": ["BSD"],
-			"License Long Name": "Berkeley Source Distribution",
-			"License Description": "This permissive, free software license imposes minimal restrictions on the redistribution of covered software.",
-			"License Link": "http://en.wikipedia.org/wiki/BSD_licenses"
-		}],
+		"License": ["BSD"],
 		"Languages": [
 			"XML"
 		],
@@ -3644,12 +3539,7 @@
 		"Stats": "",
 		"Description": "The Interplanetary Overlay Network (ION) software distribution is an implementation of Delay-Tolerant Networking (DTN) architecture as described in Internet RFC 4838. It includes implementations of the DTN Bundle Protocol, the Licklider Transmission Protocol, and two CCSDS application protocols that have been adapted to run over the BP/LTP stack: the CCSDS File Delivery Protocol and Asynchronous Message Service.",
 		"Internal Code Repo": "",
-		"License": [{
-			"License Short Name": ["BSD"],
-			"License Long Name": "Berkeley Source Distribution",
-			"License Description": "This permissive, free software license imposes minimal restrictions on the redistribution of covered software.",
-			"License Link": "http://en.wikipedia.org/wiki/BSD_licenses"
-		}],
+		"License": ["BSD"],
 		"Languages": [
 			"XML"
 		],
@@ -3703,12 +3593,7 @@
 		"Stats": "",
 		"Description": "The Data Productivity Toolkit is a collection of linux command-line tools designed to facilitate the analysis of text-based data sets. Modeled after the general linux pipeline tools such as awk, grep, and sed, the kit provides powerful tools for selecting/combining data, performing statistics, and visualizing results. The tools are all written in python and in many instances provide a command-line API to basic python and numpy/scipy/matplotlib routines.",
 		"Internal Code Repo": "",
-		"License": [{
-			"License Short Name": ["BSD"],
-			"License Long Name": "Berkeley Source Distribution",
-			"License Description": "This permissive, free software license imposes minimal restrictions on the redistribution of covered software.",
-			"License Link": "http://en.wikipedia.org/wiki/BSD_licenses"
-		}],
+		"License": ["BSD"],
 		"Languages": [
 			"Python"
 		],
@@ -3967,7 +3852,7 @@
 		"Description": "Mutil is a set of standard utilities that employ multiple types of parallelism and other optimizations to achieve maximum performance on modern file systems. Multi-threading is used to ensure that nodes are kept as busy as possible. Double buffering allows individual operations within a single task to be overlapped using asynchronous I/O. Multi-node cooperation allows different nodes to take part in the same task. Split file processing allows multiple threads to operate concurrently on the same file. Finally, additional optimizations such as buffer management help eliminate other bottlenecks that can reduce performance. Mutil currently includes drop-in replacements for cp and md5sum from GNU coreutils, which have achieved 10/30x rates on one/many nodes.",
 		"Internal Code Repo": "",
 
-		"License Short Name": ["GPLv3", "GPL"],
+		"License": ["GPLv3", "GPL"],
 		"License Long Name": "GNU General Public License (GPL) version 3",
 		"License Description": "The latest version of the GNU GPL, this is a free software and copyleft license.",
 		"License Link": "http://www.gnu.org/licenses/gpl.html",
@@ -4369,19 +4254,7 @@
 		"Stats": "",
 		"Description": "ViSBARD (Visual System for Browsing, Analysis, and Retrieval of Data) is an interactive visualization and analysis tool for space physics data. It provides an integrated 3-D/2-D environment to analyze measurements across many spacecraft and MHD models.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}, {
-				"License Short Name": ["GPLv3", "GPL"],
-				"License Long Name": "GNU General Public License (GPL) version 3",
-				"License Description": "The latest version of the GNU GPL, this is a free software and copyleft license.",
-				"License Link": "http://www.gnu.org/licenses/gpl.html"
-			}
-		],
+		"License": ["ALv2", "GPLv3", "GPL"],
 		"Languages": [
 			"C",
 			"Java"
@@ -5945,12 +5818,7 @@
 		"External Link": "http://opensource.gsfc.nasa.gov/projects/gsca/index.php",
 		"Public Code Repo": "http://ojo-streamer.herokuapp.com/",
 		"Description": "The GeoSocial Consumer Application abstracts the work of interpreting the server interface, constructing workflows, and executing them by serving JavaScript executable code from each server.",
-		"License": [{
-			"License Short Name": ["ALv2"],
-			"License Long Name": "Apache License 2.0",
-			"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-			"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-		}],
+		"License": ["ALv2"],
 		"Categories": ["GEOSS", "space science", "data visualization"],
 		"Update_Date": "2015-02-27"
 	}, {
@@ -6105,12 +5973,7 @@
 		"External Link": "https://github.com/nasa/isle",
 		"Public Code Repo": "https://github.com/nasa/isle",
 		"Description": "This web application allows inventories of assets to be managed. Assets along with their specifications are added to the system and then used by users via a check-in/check-out function. The inventory can be browsed by category or using search. Users are given various roles within the system to allow them to perform certain functions such as view-only, check-in/check-out, modify, and full-control. Inventory managers can add and track detailed information on all inventory assets including manufacturer, storage location, custom attributes, and relationships with other assets. Assets can be found by browsing by category, search, location, or current user. Assets are checked out to specified locations by users.",
-		"License": [{
-			"License Short Name": ["ALv2"],
-			"License Long Name": "Apache License 2.0",
-			"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-			"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-		}],
+		"License": ["ALv2"],
 		"Categories": [
 			"Web",
 			"PHP",
