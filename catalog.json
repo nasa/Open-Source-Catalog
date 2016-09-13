@@ -1,5 +1,40 @@
 [{
 "NASA Center": "Ames Research Center",
+"Contributors": ["peter.c.mehlitz@nasa.gov"],
+"Software": "nu-Anomica",
+"External Link": "https://ti.arc.nasa.gov/opensource/projects/nu-anomica/",
+"Public Code Repo": "https://ti.arc.nasa.gov/opensource/projects/nu-anomica/",
+"Description": "One-class nu-Support Vector machine (SVMs) learning technique maps the input data into a much higher dimensional space and then uses a small portion of the training data (support vectors) to parametrize the decision surface that can linearly separate nu fraction of training points (labeled as anomalies) from the rest.",
+"License": ["NASA Open Source"],
+"Categories": ["SVM", "Support Vector Machine"],
+"Update_Date": "2009-11-06"
+},
+
+
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["peter.c.mehlitz@nasa.gov"],
+"Software": "Inverse Reinforcement Learning (IRL) Augmentation for PyMDPToolbox",
+"External Link": "http://nasarace.github.io/race/about.html",
+"Public Code Repo": "https://github.com/NASARace/race",
+"Description": "The Runtime for Airspace Concept Evaluation (RACE) is a software architecture and framework to build configurable, highly concurrent and distributed message based systems. Among other things, RACE can be used to rapidly build simulations that span several machines (including synchronized displays), interface existing hardware simulators and other live data feeds, and incorporate sophisticated visualization components such as NASA’s WorldWind viewer.",
+"License": ["ALv2"],
+"Categories": ["Airspace Simulation"],
+"Update_Date": "2016-04-26"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["michael.bloem@nasa.gov"],
+"Software": "Inverse Reinforcement Learning (IRL) Augmentation for PyMDPToolbox",
+"External Link": "https://github.com/nasa/pymdptoolbox",
+"Public Code Repo": "https://github.com/nasa/pymdptoolbox",
+"Description": "The MDP toolbox for Python by Sam Cordwell provides classes and functions for the resolution of descrete-time Markov Decision Processes. The list of algorithms that have been implemented includes backwards induction, linear programming, policy iteration, q-learning and value iteration along with several variations.",
+"License": ["NASA Open Source"],
+"Categories": ["Markov Decision Process", "MDP", "Decision Making", "IRL"],
+"Update_Date": "2015-02-27"
+},
+{
+"NASA Center": "Ames Research Center",
 "Contributors": ["terry.fong@nasa.gov"],
 "Software": "xGDS",
 "External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/xgds/",
