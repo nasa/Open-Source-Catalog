@@ -1,4 +1,163 @@
-[{
+[
+	{
+	"NASA Center": "Langley Research Center",
+	"Contributors": ["Jwely"],
+	"Software": "dnppy",
+	"External Link": "https://nasa-develop.github.io/dnppy/",
+	"Public Code Repo": "https://github.com/NASA-DEVELOP/dnppy",
+	"Description": "DEVELOP National Program Python package for use with NASA data and GIS. dnppy is a collection of functions and classes for download, format, and analysis of NASA satelite data and anciliary NOAA datasets",
+	"License": ["NASA Open Source"],
+	"Categories": ["GIS", "NOAA", "satellite DATA"],
+	"Update_Date": "2015-01-15"
+	},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["Seiji.Kato@NASA.gov"],
+"Software": "CERES/ARM Validation Experiment (CAVE)",
+"External Link": "http://www-cave.larc.nasa.gov/index.html",
+"Public Code Repo": "http://www-cave.larc.nasa.gov/LFLcode/Ed4_LaRC_FuLiou201501.tar.gz",
+"Description": "Data collected in the CAVE effort are meant for use in validation studies of Clouds & The Earths Radiant Energy System (CERES) instruments operating on the Suomi NPP and Earth Observing Systems(EOS)Terra & Aqua & Tropical Rainfall Measurement Mission (TRMM) satellites.",
+"License": ["NASA Open Source"],
+"Categories": ["validation", "CERES", "ARM"],
+"Update_Date": "2014-09-05"
+},
+{
+	"NASA Center": "Goddard Space Flight Center",
+	"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
+	"Software": "Memory Manager",
+	"External Link": "https://sourceforge.net/projects/cfs-mm/",
+	"Public Code Repo": "https://sourceforge.net/p/cfs-mm/code/ref/master/",
+	"Description": "The Memory Manager application (MM) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. ",
+	"License": ["NASA Open Source"],
+	"Categories": ["CFE", "CFS", "Core Flight System", "memory management"],
+	"Update_Date": "2015-02-27"
+},
+{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["dalia.b.kirschbaum@nasa.gov"],
+"Software": "Landslide Hazard Assessment for Situational Awareness (LHASA)",
+"External Link": "http://ojo-streamer.herokuapp.com/",
+"Public Code Repo": "https://github.com/vightel/ojo-processing",
+"Description": "Training materials on how to generate various products from NASA sources (and others) and store them on the cloud (AWS S3). Use the Open GeoSocial API for data distribution, visualization, discovery and sharing via social networks",
+"License": ["ALv2"],
+"Categories": ["earth sciences", "landslides"],
+"Update_Date": "2015-03-04"
+},
+{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["dalia.b.kirschbaum@nasa.gov"],
+"Software": "OJO Bot",
+"External Link": "https://github.com/vightel/ojo-bot",
+"Public Code Repo": "https://github.com/vightel/ojo-bot",
+"Description": "This is a prototype data processor/publisher for NASA.",
+"License": ["ALv2"],
+"Categories": ["earth sciences", "landslides"],
+"Update_Date": "2015-03-04"
+},
+	{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["eric.t.stoneking@nasa.gov"],
+"Software": "42",
+"External Link": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+"Public Code Repo": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+"Description": "Simulation for spacecraft attitude control system analysis and design",
+"License": ["NASA Open Source"],
+"Categories": ["simulator", "attitude control", "orbital dynamics"],
+"Update_Date": "2015-03-04"
+},
+{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["Steven.J.Kempler@nasa.gov"],
+"Software": "Simple, Scalable, Script-based Science Processing Archive (S4PA)",
+"External Link": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+"Public Code Repo": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+"Description": "The Simple, Scalable, Script-Based, Science Product Archive (S4PA) is a radically simplified data archive architecture for supporting our GES DISC users with online access to data. S4PA is already being used operationally and its deployment will beexpanded in the months and years to come.",
+"License": ["NASA Open Source"],
+"Categories": ["data archive", "GES"],
+"Update_Date": "2011-01-13"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["dimitra.giannakopoulou@nasa.gov"],
+"Software": "PSYCO: A Predicate-based Symbolic Compositional Reasoning environment",
+"External Link": "https://ti.arc.nasa.gov/m/groups/rse/papers/Giannakopoulou-CAV12.pdf",
+"Public Code Repo": "https://github.com/psycopaths/psyco",
+"Description": "jpf-psyco generates symbolic interfaces for software components using concolic execution.",
+"License": ["ALv2"],
+"Categories": ["symbolic learning", "temporal interfaces", "component methods"],
+"Update_Date": "2015-09-17"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["Paul.Kolano@nasa.gov"],
+"Software": "Restriping Tools for Lustre (Retools)",
+"External Link": "https://pkolano.github.io/projects/retools.html",
+"Public Code Repo": "https://github.com/pkolano/retools",
+"Description": "Retools is a set of modifications to the commonly used open source utilities bzip2, gzip, rsync, and tar that automatically selects the Lustre stripe count for created and/or extracted files according to the sizes of the files involved. By striping large files over a higher number of physical disks and small files over a lower number, aggregate I/O bandwidth for large files is maximized and the impact to the file system due to small files is minimized. These tools support the typical workflow in high performance computing environments where users compress large files and/or aggregate multiple small files into a single archive during remote transfers. Once uncompressed/unarchived into their original form, these files will be optimally striped for subsequent operations.",
+"License": ["NASA Open Source"],
+"Categories": ["utility", "disk striping", "Lustre file systems"],
+"Update_Date": "2014-01-28"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["stereo-pipeline@lists.nasa.gov",
+	"oleg-alexandrov",
+"ScottMcMichael",
+"broxtronix",
+"novas0x2a",
+"khusmann",
+"ljexplore",
+"anefian",
+"SmithB",
+"dshean",
+"trey0",
+"mstyer",
+"rbeyer",
+"harguess",
+"saravkin",
+"jlaura"],
+"Software": "Neo-Geography Toolkit (NGT)",
+"External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/ngt/stereo/",
+"Public Code Repo": "https://github.com/neogeographytoolkit/stereopipeline",
+"Description": "The NASA Ames Stereo Pipeline (ASP) is a suite of free and open source automated geodesy and stereogrammetry tools designed for processing stereo imagery captured from satellites (around Earth and other planets), robotic rovers, aerial cameras, and historical imagery, with and without accurate camera pose information. It produces cartographic products, including digital elevation models (DEMs), ortho-projected imagery, 3D models, and bundle-adjusted networks of cameras. ASP's data products are suitable for science analysis, mission planning, and public outreach.",
+"License": ["ALv2"],
+"Categories": ["geodesy", "stereogrammetry", "tools", "satellites imagery"],
+"Update_Date": "2012-05-11"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["maria.bualat@nasa.gov"],
+"Software": "Visual Environment for Remote Virtual Exploration (VERVE)",
+"External Link": "https://sourceforge.net/p/irg-verve/wiki/VERVE%20Wiki%20Home/",
+"Public Code Repo": "https://sourceforge.net/p/irg-verve/code/",
+"Description": "VERVE (Visual Environment for Remote Virtual Exploration) is a collection of software components for visualizing, monitoring, and commanding robots in remote environments. VERVE is developed by the Intelligent Robotics Group at NASA Ames Research Center and is part of the NASA Ensemble software ecosystem.",
+"License": ["ALv2"],
+"Categories": ["virtual environment", "robots"],
+"Update_Date": "2011-09-16"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["paul.kolano@nasa.gov"],
+"Software": "Multi-Threaded/Multi-Node Utilities (Mutil)",
+"External Link": "https://pkolano.github.io/projects/mutil.html",
+"Public Code Repo": "https://github.com/pkolano/mutil",
+"Description": "Copies between local file systems are a daily activity. Files are constantly being moved to locations accessible by systems with different functions and/or storage limits, being backed up and restored, or being moved due to upgraded and/or replaced hardware. Hence, maximizing the performance of copies as well as checksums that ensure the integrity of copies is desirable to minimize the turnaround time of user and administrator activities. Modern parallel file systems provide very high performance for such operations using a variety of techniques such as striping files across multiple disks to increase aggregate I/O bandwidth and spreading disks across multiple servers to increase aggregate interconnect bandwidth.",
+"License": ["LGPL"],
+"Categories": ["system administration", "file copying"],
+"Update_Date": "2010-09-27"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["corina.s.pasareanu@nasa.gov"],
+"Software": "Symbolic PathFinder (SPF)",
+"External Link": "http://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-symbc",
+"Public Code Repo": "http://babelfish.arc.nasa.gov/hg/jpf/jpf-symbc",
+"Description": "Symbolic PathFinder (SPF) combines symbolic execution with model checking and constraint solving for test case generation. In this tool, programs are executed on symbolic inputs representing multiple concrete inputs. Values of variables are represented as numeric constraints, generated from analysis of the code structure. These constraints are then solved to generate test inputs guaranteed to reach that part of code. Essentially SPF performs symbolic execution for Java programs at the bytecode level. Symbolic PathFinder uses the analysis engine of the Ames JPF model checking tool (i.e. jpf-core).",
+"License": ["NASA Open Source"],
+"Categories": ["symbolic execution", "model checking", "constraint solving", "Java"],
+"Update_Date": "2015-02-27"
+},
+{
 "NASA Center": "Ames Research Center",
 "Contributors": ["peter.c.mehlitz@nasa.gov"],
 "Software": "nu-Anomica",
@@ -9,8 +168,6 @@
 "Categories": ["SVM", "Support Vector Machine"],
 "Update_Date": "2009-11-06"
 },
-
-
 {
 "NASA Center": "Ames Research Center",
 "Contributors": ["peter.c.mehlitz@nasa.gov"],
@@ -248,7 +405,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) CCSDS File Delivery Protocol (CFDP) Version 2",
+		"Software": "Core Flight System (CFS) CCSDS File Delivery Protocol (CFDP)",
 		"External Link": "http://sourceforge.net/projects/cfs-cfdp",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-cfdp/files/latest/download",
 		"Description": "The CCSDS File Delivery Protocol (CFDP) application (CF) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The CFDP application provides the capability to transmit and receive files to/from the ground. Tables are used to allow flexibility in specifying directory priorities and configurations.",
@@ -258,7 +415,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Checksum Application Version 2",
+		"Software": "Core Flight System (CFS) Checksum Application",
 		"External Link": "http://sourceforge.net/projects/cfs-cs",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-cs/files/latest/download",
 		"Description": "The Checksum application (CS) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. Checksum (CS) is one of the reusable applications that make up the Core Flight System (CFS). The technology performs memory integrity management by verifying the contents of critical flight memory regions. Unexpected changes in memory (i.e., due to an SEU) are reported to ground operators.",
@@ -268,7 +425,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Data Storage (DS) Application Version 2",
+		"Software": "Core Flight System (CFS) Data Storage (DS) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-ds",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-ds/files/latest/download",
 		"Description": "The Data Storage application (DS) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The DS application provides the ability to store data (i.e., messages) into files. Tables are used to provide the flexibility for specifying messages.",
@@ -278,7 +435,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) File Manager (FM) Application Version 2",
+		"Software": "Core Flight System (CFS) File Manager (FM) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-fm",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-fm/files/latest/download",
 		"Description": "FM provides the user commands to perform the following operations: copy file, move file, rename file, delete file(s), close file, concatenate file, decompress file, delete directory contents, create directory, remove directory, obtain file information, obtain open file listing, and obtain directory listings.",
@@ -288,7 +445,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Health and Safety Application Version 2",
+		"Software": "Core Flight System (CFS) Health and Safety Application",
 		"External Link": "http://sourceforge.net/projects/cfs-hs",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-hs/files/latest/download",
 		"Description": "The plug-and-play CFS Health and Safety application is compatible with the Core Flight Executive (cFE) and uses the Operating System Abstraction Layer (OSAL), both of which were developed by Goddard Space Flight Center in order to provide a reusable, platform-independent, mission-independent, layered architecture for hosting applications. The technology can be used for any government or commercial spacecraft.",
@@ -298,7 +455,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Housekeeping (HK) Application Version 2",
+		"Software": "Core Flight System (CFS) Housekeeping (HK) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-hk",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-hk/files/latest/download",
 		"Description": "The Housekeeping application (HK) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The CFS Housekeeping application provides the ability to organize data from various packets into new packets in order to best utilize the telemetry bandwidth available for a mission.",
@@ -308,7 +465,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Limit Checker (LC) Application Version 2",
+		"Software": "Core Flight System (CFS) Limit Checker (LC) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-lc",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-lc/files/latest/download",
 		"Description": "The Limit Checker application (LC) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The Limit Checker (LC) application is responsible for monitoring telemetry values.",
@@ -318,7 +475,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Memory Dwell Application Version 2",
+		"Software": "Core Flight System (CFS) Memory Dwell Application",
 		"External Link": "http://sourceforge.net/projects/cfs-md",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-md/files/latest/download",
 		"Description": "The Memory Dwell application telemeters the contents of table-defined addresses at a table-defined dwell rate. Addresses can be processed using symbols if the target processor/operating system includes symbols.",
@@ -328,7 +485,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Scheduler Application Version 2",
+		"Software": "Core Flight System (CFS) Scheduler Application",
 		"External Link": "http://sourceforge.net/projects/cfs-sch",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-sch/files/latest/download",
 		"Description": "The Scheduler application (SCH) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The Scheduler application uses a one-second major timeframe, which is divided into a designer-determined collection of equally divided minor timeframes. The technology is configurable and table-driven to provide greater flexibility.",
@@ -338,7 +495,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Software Bus Network (SBN) Application, Version 1.0",
+		"Software": "Core Flight System (CFS) Software Bus Network (SBN) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-sbn",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-sbn/files/latest/download",
 		"Description": "The Software Bus Network application (SBN) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The SBN serves as a plug-in to the cFE framework to transfer messages across process/processor interfaces. The technology has three primary functions: to establish and maintain a connection to each peer over available process/processor interfaces; to distribute and maintain a subscription message database for each peer; and to distribute messages to peers that have subscribed to message identifiers.",
@@ -348,7 +505,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Stored Command (SC) Application Version 2",
+		"Software": "Core Flight System (CFS) Stored Command (SC) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-sc",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-sc/files/latest/download",
 		"Description": "The Stored Command application (SC) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The CFS SC application provides the ability to execute onboard absolute-time and relative-time command sequences. The technology offers a generic implementation that can be configured by a user to fit the needs of a specific mission.",
@@ -508,7 +665,7 @@
 	}, {
 		"NASA Center": "Ames Research Center Center",
 		"Contributors": ["arc-sra-team@mail.nasa.gov"],
-		"Software": "GeoCam, Version 2",
+		"Software": "GeoCam",
 		"External Link": "https://github.com/geocam/geocamShare",
 		"Public Code Repo": "https://github.com/geocam/geocamShare/",
 		"Description": "GeoCam is a geospatial system for disaster response that consists of (1) low-cost consumer hardware (i.e., a digital camera or cell phone, position/orientation sensors, and an optional embedded controller) and (2) a Web-based workflow that enables images and other geo-referenced data to be shared and viewed in a variety of ways. GeoCam includes software that computes image location and provides for geo-rectification, KML-formatted geospatial data generation, image management, and geo-referenced data sharing.",
@@ -518,7 +675,7 @@
 	}, {
 		"NASA Center": "Ames Research Center Center",
 		"Contributors": ["arc-sra-team@mail.nasa.gov"],
-		"Software": "Google Earth Offline Cache Pre-Loader (GEOCP), Version 1",
+		"Software": "Google Earth Offline Cache Pre-Loader (GEOCP)",
 		"External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/",
 		"Public Code Repo": "http://ti.arc.nasa.gov/m/groups/intelligent-robotics/geocp.zip",
 		"Description": "GEOCP enables disaster responders to utilize Google Earth quickly in the field, where Internet connectivity may be sporadic or even unavailable.",
@@ -578,7 +735,7 @@
 	}, {
 		"NASA Center": "Ames Research Center Center",
 		"Contributors": ["arc-sra-team@mail.nasa.gov"],
-		"Software": "Robot Application Programming Interface Delegate (RAPID), Version 2",
+		"Software": "Robot Application Programming Interface Delegate (RAPID)",
 		"External Link": "http://rapid.nasa.gov/index.html",
 		"Public Code Repo": "http://rapid.nasa.gov/index.html",
 		"Description": "RAPID is a software reference implementation framework for remote operations. The technology promotes interoperability between robot software modules and includes a standard programming interface and data distribution middleware. RAPID facilitates integration of experimental robot software modules created by a distributed development team; improves the compatibility and reusability of robotic functions; and offers speed prototype robot development in a wide range of configurations and environments.",
