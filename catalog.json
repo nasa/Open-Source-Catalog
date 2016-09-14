@@ -1,4 +1,58 @@
-[
+[{
+"NASA Center": "Langley Research Center",
+"Contributors": ["mrb364", "Jwely"],
+"Software": "M-SRM",
+"External Link": "https://github.com/NASA-DEVELOP/METRIC",
+"Public Code Repo": "https://github.com/NASA-DEVELOP/METRIC",
+"Description": "Modified Snowmelt Runoff model for forecasting snowmelt in central northern Chile.",
+"License": ["NASA Open Source"],
+"Categories": ["Snowmelt Runoff model", "NASA-DEVELOP"],
+"Update_Date": "2015-03-04"
+},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["mrb364", "Jwely"],
+"Software": "METRIC",
+"External Link": "https://github.com/NASA-DEVELOP/METRIC",
+"Public Code Repo": "https://github.com/NASA-DEVELOP/METRIC",
+"Description": "METRIC was developed for estimating evapotranspiration from landsat imagery and weather station data. It includes a short tutorial on the download method of properly formatted weather data. The easiest way to interface with the METRIC model is to add the python toolbox file \"pyt\" in arcmap and follow the user prompts.",
+"License": ["NASA Open Source"],
+"Categories": ["evapotranspiration", "landsat imagery", "NASA-DEVELOP"],
+"Update_Date": "2015-09-21"
+},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["mrb364", "Jwely", "vickiely", "Smewhen"],
+"Software": "DSAT",
+"External Link": "https://github.com/NASA-DEVELOP/DSAT",
+"Public Code Repo": "https://github.com/NASA-DEVELOP/DSAT",
+"Description": "Drought Severity Assessment Tool (formerly Drought Severity Assessment - Decision Support Tool)",
+"License": ["NASA Open Source"],
+"Categories": ["Drought", "water resources", "NASA-DEVELOP"],
+"Update_Date": "2016-06-16"
+},
+	{
+"NASA Center": "Langley Research Center",
+"Contributors": ["mrb364", "Jwely"],
+"Software": "LaSTMoV",
+"External Link": "https://github.com/NASA-DEVELOP/LaSTMoV",
+"Public Code Repo": "https://github.com/NASA-DEVELOP/LaSTMoV",
+"Description": "Land Surface Temperature MODIS Visualization (LaSTMoV). Used to create heat vulnerability maps for Maricopa County using MYD11A1 V005 data.",
+"License": ["NASA Open Source"],
+"Categories": ["Land Surface Temperature", "MODIS", "Visualization", "NASA-DEVELOP"],
+"Update_Date": "2016-08-01"
+},
+	{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["aakash.ahamed@nasa.gov"],
+"Software": "DRIP - SLIP",
+"External Link": "https://github.com/NASA-DEVELOP/DRIP-SLIP",
+"Public Code Repo": "https://github.com/NASA-DEVELOP/DRIP-SLIP",
+"Description": "Landslide identification and extreme precipitation monitoring software. Detect spectral changes from Landsat imagery that may indicate landslides in Nepal.",
+"License": ["NASA Open Source"],
+"Categories": ["landslide", "precipitation monitoring", "LANDSAT", "NASA-DEVELOP"],
+"Update_Date": "2016-06-24"
+},
 	{
 	"NASA Center": "Langley Research Center",
 	"Contributors": ["Jwely"],
