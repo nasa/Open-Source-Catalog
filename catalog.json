@@ -1,14 +1,114 @@
 [
 	{
 	"NASA Center": "",
-	"Contributors": ["rburkey2005"],
-	"Software": "virtualagc",
-	"External Link": "http://www.ibiblio.org/apollo/",
-	"Public Code Repo": "https://github.com/rburkey2005/virtualagc",
-	"Description": "Virtual Apollo Guidance Computer (AGC) software",
+	"Contributors": ["hpparvi"],
+	"Software": "PyTransit",
+	"External Link": "https://github.com/mrtommyb/ktransit",
+	"Public Code Repo": "https://github.com/mrtommyb/ktransit",
+	"Description": "Fast and easy-to-use tools for exoplanet transit light curve modelling with Python. PyTransit implements the quadratic Mandel & Agol and the Gimenéz transit models with various optimisations, and offers both a simple interface for model evaluation and a lower-level access for fine-tuning the model.",
 	"License": ["GPLv2"],
-	"Categories": ["Apollo", "guidance computer", "AGC"],
-	"Update_Date": "2008-07-23"
+	"Categories": ["Kepler"],
+	"Update_Date": "2013-12-02"
+	},
+
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["thomas.barclay@nasa.gov"],
+	"Software": "ktransit",
+	"External Link": "https://github.com/mrtommyb/ktransit",
+	"Public Code Repo": "https://github.com/mrtommyb/ktransit",
+	"Description": "This python package contains routines to create and/or fit a transiting planet model. The underlying model is a Fortran implementation of the Mandel & Agol (2002) limb darkened transit model. The code will calculate a full orbital model and eccentricity can be allowed to vary.",
+	"License": ["GPLv3"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-12-12"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["dfm"],
+	"Software": "kplr",
+	"External Link": "http://dan.iel.fm/kplr/",
+	"Public Code Repo": "https://github.com/dfm/kplr",
+	"Description": "kplr provides a lightweight Pythonic interface to the catalogs and data. Below, I’ll describe the features provided by kplr but to get things started, let’s see an example of how you would go about finding the published parameters of a KOI and download the light curve data.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-05-26"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["dfm"],
+	"Software": "ketu",
+	"External Link": "https://github.com/dfm/ketu",
+	"Public Code Repo": "https://github.com/dfm/ketu",
+	"Description": "The search for transiting exoplanets in K2 data.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-05-26"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["benjaminpope", "hpparvi"],
+	"Software": "k2ps",
+	"External Link": "https://github.com/hpparvi/k2ps",
+	"Public Code Repo": "https://github.com/hpparvi/k2ps",
+	"Description": "Oxford K2 planet search pipeline. Searches for transit-like signals from the k2sc-detrended light curves.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2016-06-10"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["rodluger"],
+	"Software": "everest",
+	"External Link": "http://staff.washington.edu/rodluger/everest_docs/",
+	"Public Code Repo": "https://github.com/rodluger/everest",
+	"Description": "EPIC Variability Extraction and Removal for Exoplanet Science Targets: A pipeline for de-trending K2 light curves with pixel level decorrelation and Gaussian processes. Here you'll find the Python code used to generate the EVEREST catalog, as well as tools for accessing and interacting with the de-trended light curves.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-11-24"
+	},
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["geert.barentsen@nasa.gov"],
+	"Software": "K2mosaic",
+	"External Link": "https://github.com/barentsen/k2mosaic",
+	"Public Code Repo": "https://github.com/barentsen/k2mosaic",
+	"Description": "K2mosaic is a command-line tool that makes it easy to combine CCD pixel data obtained by NASA's Kepler space telescope into wide-field images. The need for this tool arises from the fact that the two-wheeled extended Kepler mission, K2, observed large clusters and moving targets (e.g. planets, comets, and asteroids). ",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-11-24"
+	},
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["jessie.dotson@nasa.gov"],
+	"Software": "kadenza",
+	"External Link": "https://github.com/KeplerGO/kadenza",
+	"Public Code Repo": "https://github.com/KeplerGO/kadenza",
+	"Description": "Converts raw cadence target data from the Kepler space telescope into astronomer-friendly FITS files.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-11-24"
+	},
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["jessie.dotson@nasa.gov"],
+	"Software": "K2ephem",
+	"External Link": "https://keplerscience.arc.nasa.gov/software.html#k2ephem",
+	"Public Code Repo": "https://github.com/KeplerGO/K2ephem",
+	"Description": "Command-line tool to check whether a Solar System body is (or was) observable by NASA's K2 mission",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-11-24"
+	},
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["jessie.dotson@nasa.gov"],
+	"Software": "K2fov",
+	"External Link": "https://keplerscience.arc.nasa.gov/software.html#k2fov",
+	"Public Code Repo": "https://github.com/KeplerGO/K2fov",
+	"Description": "The K2fov Python package allows users to check whether a target is in the field of view of K2. In particular, the package adds the K2onSilicon and K2findCampaigns tools to the command line, which allow the visibility of targets to be checked during one (K2onSilicon) or all (K2findCampaigns) campaigns, respectively.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2014-02-07"
 	},
 	{
 	"NASA Center": "",
@@ -786,7 +886,7 @@
 		"Contributors": ["arc-sra-team@mail.nasa.gov"],
 		"Software": "Kepler Community Data Analysis Tools (PyKE)",
 		"External Link": "http://keplerscience.arc.nasa.gov/software.html#pyke",
-		"Public Code Repo": "https://github.com/KeplerGO/PyKE/releases",
+		"Public Code Repo": "https://github.com/KeplerGO/PyKE/",
 		"Description": "The Kepler archive contains time-series data calibrated and reduced from detector pixels. The pipelined reduction includes the removal of time-series trends systematic to a spacecraft and its environment. PyKE is a tool to create light curves with user-chosen pixel apertures and cotrend and/or detrend data.",
 		"License": ["NASA Open Source"],
 		"Categories": ["Environmental Science", "Earth", "Air", "Space", "Exoplanet"],
