@@ -1,4 +1,49 @@
-[{
+[
+	{
+	"NASA Center": "",
+	"Contributors": ["rburkey2005"],
+	"Software": "virtualagc",
+	"External Link": "http://www.ibiblio.org/apollo/",
+	"Public Code Repo": "https://github.com/rburkey2005/virtualagc",
+	"Description": "Virtual Apollo Guidance Computer (AGC) software",
+	"License": ["GPLv2"],
+	"Categories": ["Apollo", "guidance computer", "AGC"],
+	"Update_Date": "2008-07-23"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["chrislgarry@gmail.com"],
+	"Software": "Apollo-11",
+	"External Link": "https://github.com/chrislgarry/Apollo-11",
+	"Public Code Repo": "https://github.com/chrislgarry/Apollo-11",
+	"Description": "Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099)",
+	"License": [],
+	"Categories": ["Apollo", "guidance computer", "AGC"],
+	"Update_Date": "2016-07-23"
+	},
+{
+"NASA Center": "Marshall Space Flight Center",
+"Contributors": ["manil.maskey@nasa.gov"],
+"Software": "CMR",
+"External Link": "https://github.com/ghrcdaac/cmr",
+"Public Code Repo": "https://github.com/ghrcdaac/cmr",
+"Description": "Python client library that abstracts CMR (Common Metadata Repository) API calls for search, ingest, update, and deletion of collections and granules.",
+"License": ["NASA Open Source"],
+"Categories": ["CMR", "API client", "Common Metadata Repository"],
+"Update_Date": "2016-08-10"
+},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["Brian.D.Killough@nasa.gov"],
+"Software": "Data_Cube_v2",
+"External Link": "https://github.com/ceos-seo/Data_Cube_v2",
+"Public Code Repo": "https://github.com/ceos-seo/Data_Cube_v2",
+"Description": "The CEOS Data Cube Platform provides a flexible model to address these needs. The CEOS Data Cube Platform is a data processing platform for Earth science data, with a focus on remote-sensing data.",
+"License": ["ALv2"],
+"Categories": ["Data cube", "ceos-seo"],
+"Update_Date": "2016-06-20"
+},
+{
 "NASA Center": "Langley Research Center",
 "Contributors": ["mrb364", "Jwely"],
 "Software": "M-SRM",
