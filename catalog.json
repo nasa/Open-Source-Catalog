@@ -1,4 +1,448 @@
-[{
+[
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["creon@nas.nasa.gov"],
+	"Software": "Viewpoints: Software for Visualization of Multivariate Data",
+	"External Link": "https://app.assembla.com/spaces/viewpoints/wiki/Home",
+	"Public Code Repo": "https://app.assembla.com/spaces/viewpoints/documents",
+	"Description": "Viewpoints (vp) is a visualization tool for exploring large, multidimensional data. It enables rapid interactive analysis of data sets containing >> 106 samples, limited only by available RAM, with an arbitrary number of attributes (or dimensions) per sample. Viewpoints was originaly created for analyzing data sets from current and upcoming NASA space science missions but it has now been used in areas ranging from aeronautical engineering, quantum chemistry, and computational fluid dynamics to virology, finance, aviation safety, and web server log mining.",
+	"License": ["NASA Open Source"],
+	"Categories": ["visualization"],
+	"Update_Date": "2011-12-02"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["hpparvi"],
+	"Software": "PyTransit",
+	"External Link": "https://github.com/mrtommyb/ktransit",
+	"Public Code Repo": "https://github.com/mrtommyb/ktransit",
+	"Description": "Fast and easy-to-use tools for exoplanet transit light curve modelling with Python. PyTransit implements the quadratic Mandel & Agol and the Gimenéz transit models with various optimisations, and offers both a simple interface for model evaluation and a lower-level access for fine-tuning the model.",
+	"License": ["GPLv2"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2013-12-02"
+	},
+
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["thomas.barclay@nasa.gov"],
+	"Software": "ktransit",
+	"External Link": "https://github.com/mrtommyb/ktransit",
+	"Public Code Repo": "https://github.com/mrtommyb/ktransit",
+	"Description": "This python package contains routines to create and/or fit a transiting planet model. The underlying model is a Fortran implementation of the Mandel & Agol (2002) limb darkened transit model. The code will calculate a full orbital model and eccentricity can be allowed to vary.",
+	"License": ["GPLv3"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-12-12"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["dfm"],
+	"Software": "kplr",
+	"External Link": "http://dan.iel.fm/kplr/",
+	"Public Code Repo": "https://github.com/dfm/kplr",
+	"Description": "kplr provides a lightweight Pythonic interface to the catalogs and data. Below, I’ll describe the features provided by kplr but to get things started, let’s see an example of how you would go about finding the published parameters of a KOI and download the light curve data.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-05-26"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["dfm"],
+	"Software": "ketu",
+	"External Link": "https://github.com/dfm/ketu",
+	"Public Code Repo": "https://github.com/dfm/ketu",
+	"Description": "The search for transiting exoplanets in K2 data.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-05-26"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["benjaminpope", "hpparvi"],
+	"Software": "k2ps",
+	"External Link": "https://github.com/hpparvi/k2ps",
+	"Public Code Repo": "https://github.com/hpparvi/k2ps",
+	"Description": "Oxford K2 planet search pipeline. Searches for transit-like signals from the k2sc-detrended light curves.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2016-06-10"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["rodluger"],
+	"Software": "everest",
+	"External Link": "http://staff.washington.edu/rodluger/everest_docs/",
+	"Public Code Repo": "https://github.com/rodluger/everest",
+	"Description": "EPIC Variability Extraction and Removal for Exoplanet Science Targets: A pipeline for de-trending K2 light curves with pixel level decorrelation and Gaussian processes. Here you'll find the Python code used to generate the EVEREST catalog, as well as tools for accessing and interacting with the de-trended light curves.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-11-24"
+	},
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["geert.barentsen@nasa.gov"],
+	"Software": "K2mosaic",
+	"External Link": "https://github.com/barentsen/k2mosaic",
+	"Public Code Repo": "https://github.com/barentsen/k2mosaic",
+	"Description": "K2mosaic is a command-line tool that makes it easy to combine CCD pixel data obtained by NASA's Kepler space telescope into wide-field images. The need for this tool arises from the fact that the two-wheeled extended Kepler mission, K2, observed large clusters and moving targets (e.g. planets, comets, and asteroids). ",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-11-24"
+	},
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["jessie.dotson@nasa.gov"],
+	"Software": "kadenza",
+	"External Link": "https://github.com/KeplerGO/kadenza",
+	"Public Code Repo": "https://github.com/KeplerGO/kadenza",
+	"Description": "Converts raw cadence target data from the Kepler space telescope into astronomer-friendly FITS files.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-11-24"
+	},
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["jessie.dotson@nasa.gov"],
+	"Software": "K2ephem",
+	"External Link": "https://keplerscience.arc.nasa.gov/software.html#k2ephem",
+	"Public Code Repo": "https://github.com/KeplerGO/K2ephem",
+	"Description": "Command-line tool to check whether a Solar System body is (or was) observable by NASA's K2 mission",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2015-11-24"
+	},
+	{
+	"NASA Center": "Ames Research Center",
+	"Contributors": ["jessie.dotson@nasa.gov"],
+	"Software": "K2fov",
+	"External Link": "https://keplerscience.arc.nasa.gov/software.html#k2fov",
+	"Public Code Repo": "https://github.com/KeplerGO/K2fov",
+	"Description": "The K2fov Python package allows users to check whether a target is in the field of view of K2. In particular, the package adds the K2onSilicon and K2findCampaigns tools to the command line, which allow the visibility of targets to be checked during one (K2onSilicon) or all (K2findCampaigns) campaigns, respectively.",
+	"License": ["MIT"],
+	"Categories": ["Kepler"],
+	"Update_Date": "2014-02-07"
+	},
+	{
+	"NASA Center": "",
+	"Contributors": ["chrislgarry@gmail.com"],
+	"Software": "Apollo-11",
+	"External Link": "https://github.com/chrislgarry/Apollo-11",
+	"Public Code Repo": "https://github.com/chrislgarry/Apollo-11",
+	"Description": "Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099)",
+	"License": [],
+	"Categories": ["Apollo", "guidance computer", "AGC"],
+	"Update_Date": "2016-07-23"
+	},
+{
+"NASA Center": "Marshall Space Flight Center",
+"Contributors": ["manil.maskey@nasa.gov"],
+"Software": "CMR",
+"External Link": "https://github.com/ghrcdaac/cmr",
+"Public Code Repo": "https://github.com/ghrcdaac/cmr",
+"Description": "Python client library that abstracts CMR (Common Metadata Repository) API calls for search, ingest, update, and deletion of collections and granules.",
+"License": ["NASA Open Source"],
+"Categories": ["CMR", "API client", "Common Metadata Repository"],
+"Update_Date": "2016-08-10"
+},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["Brian.D.Killough@nasa.gov"],
+"Software": "Data_Cube_v2",
+"External Link": "https://github.com/ceos-seo/Data_Cube_v2",
+"Public Code Repo": "https://github.com/ceos-seo/Data_Cube_v2",
+"Description": "The CEOS Data Cube Platform provides a flexible model to address these needs. The CEOS Data Cube Platform is a data processing platform for Earth science data, with a focus on remote-sensing data.",
+"License": ["ALv2"],
+"Categories": ["Data cube", "ceos-seo"],
+"Update_Date": "2016-06-20"
+},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["mrb364", "Jwely"],
+"Software": "M-SRM",
+"External Link": "https://github.com/NASA-DEVELOP/METRIC",
+"Public Code Repo": "https://github.com/NASA-DEVELOP/METRIC",
+"Description": "Modified Snowmelt Runoff model for forecasting snowmelt in central northern Chile.",
+"License": ["NASA Open Source"],
+"Categories": ["Snowmelt Runoff model", "NASA-DEVELOP"],
+"Update_Date": "2015-03-04"
+},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["mrb364", "Jwely"],
+"Software": "METRIC",
+"External Link": "https://github.com/NASA-DEVELOP/METRIC",
+"Public Code Repo": "https://github.com/NASA-DEVELOP/METRIC",
+"Description": "METRIC was developed for estimating evapotranspiration from landsat imagery and weather station data. It includes a short tutorial on the download method of properly formatted weather data. The easiest way to interface with the METRIC model is to add the python toolbox file \"pyt\" in arcmap and follow the user prompts.",
+"License": ["NASA Open Source"],
+"Categories": ["evapotranspiration", "landsat imagery", "NASA-DEVELOP"],
+"Update_Date": "2015-09-21"
+},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["mrb364", "Jwely", "vickiely", "Smewhen"],
+"Software": "DSAT",
+"External Link": "https://github.com/NASA-DEVELOP/DSAT",
+"Public Code Repo": "https://github.com/NASA-DEVELOP/DSAT",
+"Description": "Drought Severity Assessment Tool (formerly Drought Severity Assessment - Decision Support Tool)",
+"License": ["NASA Open Source"],
+"Categories": ["Drought", "water resources", "NASA-DEVELOP"],
+"Update_Date": "2016-06-16"
+},
+	{
+"NASA Center": "Langley Research Center",
+"Contributors": ["mrb364", "Jwely"],
+"Software": "LaSTMoV",
+"External Link": "https://github.com/NASA-DEVELOP/LaSTMoV",
+"Public Code Repo": "https://github.com/NASA-DEVELOP/LaSTMoV",
+"Description": "Land Surface Temperature MODIS Visualization (LaSTMoV). Used to create heat vulnerability maps for Maricopa County using MYD11A1 V005 data.",
+"License": ["NASA Open Source"],
+"Categories": ["Land Surface Temperature", "MODIS", "Visualization", "NASA-DEVELOP"],
+"Update_Date": "2016-08-01"
+},
+	{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["aakash.ahamed@nasa.gov"],
+"Software": "DRIP - SLIP",
+"External Link": "https://github.com/NASA-DEVELOP/DRIP-SLIP",
+"Public Code Repo": "https://github.com/NASA-DEVELOP/DRIP-SLIP",
+"Description": "Landslide identification and extreme precipitation monitoring software. Detect spectral changes from Landsat imagery that may indicate landslides in Nepal.",
+"License": ["NASA Open Source"],
+"Categories": ["landslide", "precipitation monitoring", "LANDSAT", "NASA-DEVELOP"],
+"Update_Date": "2016-06-24"
+},
+	{
+	"NASA Center": "Langley Research Center",
+	"Contributors": ["Jwely"],
+	"Software": "dnppy",
+	"External Link": "https://nasa-develop.github.io/dnppy/",
+	"Public Code Repo": "https://github.com/NASA-DEVELOP/dnppy",
+	"Description": "DEVELOP National Program Python package for use with NASA data and GIS. dnppy is a collection of functions and classes for download, format, and analysis of NASA satelite data and anciliary NOAA datasets",
+	"License": ["NASA Open Source"],
+	"Categories": ["GIS", "NOAA", "satellite DATA"],
+	"Update_Date": "2015-01-15"
+	},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["Seiji.Kato@NASA.gov"],
+"Software": "CERES/ARM Validation Experiment (CAVE)",
+"External Link": "http://www-cave.larc.nasa.gov/index.html",
+"Public Code Repo": "http://www-cave.larc.nasa.gov/LFLcode/Ed4_LaRC_FuLiou201501.tar.gz",
+"Description": "Data collected in the CAVE effort are meant for use in validation studies of Clouds & The Earths Radiant Energy System (CERES) instruments operating on the Suomi NPP and Earth Observing Systems(EOS)Terra & Aqua & Tropical Rainfall Measurement Mission (TRMM) satellites.",
+"License": ["NASA Open Source"],
+"Categories": ["validation", "CERES", "ARM"],
+"Update_Date": "2014-09-05"
+},
+{
+	"NASA Center": "Goddard Space Flight Center",
+	"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
+	"Software": "Memory Manager",
+	"External Link": "https://sourceforge.net/projects/cfs-mm/",
+	"Public Code Repo": "https://sourceforge.net/p/cfs-mm/code/ref/master/",
+	"Description": "The Memory Manager application (MM) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. ",
+	"License": ["NASA Open Source"],
+	"Categories": ["CFE", "CFS", "Core Flight System", "memory management"],
+	"Update_Date": "2015-02-27"
+},
+{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["dalia.b.kirschbaum@nasa.gov"],
+"Software": "Landslide Hazard Assessment for Situational Awareness (LHASA)",
+"External Link": "http://ojo-streamer.herokuapp.com/",
+"Public Code Repo": "https://github.com/vightel/ojo-processing",
+"Description": "Training materials on how to generate various products from NASA sources (and others) and store them on the cloud (AWS S3). Use the Open GeoSocial API for data distribution, visualization, discovery and sharing via social networks",
+"License": ["ALv2"],
+"Categories": ["earth sciences", "landslides"],
+"Update_Date": "2015-03-04"
+},
+{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["dalia.b.kirschbaum@nasa.gov"],
+"Software": "OJO Bot",
+"External Link": "https://github.com/vightel/ojo-bot",
+"Public Code Repo": "https://github.com/vightel/ojo-bot",
+"Description": "This is a prototype data processor/publisher for NASA.",
+"License": ["ALv2"],
+"Categories": ["earth sciences", "landslides"],
+"Update_Date": "2015-03-04"
+},
+	{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["eric.t.stoneking@nasa.gov"],
+"Software": "42",
+"External Link": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+"Public Code Repo": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+"Description": "Simulation for spacecraft attitude control system analysis and design",
+"License": ["NASA Open Source"],
+"Categories": ["simulator", "attitude control", "orbital dynamics"],
+"Update_Date": "2015-03-04"
+},
+{
+"NASA Center": "Goddard Space Flight Center",
+"Contributors": ["Steven.J.Kempler@nasa.gov"],
+"Software": "Simple, Scalable, Script-based Science Processing Archive (S4PA)",
+"External Link": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+"Public Code Repo": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+"Description": "The Simple, Scalable, Script-Based, Science Product Archive (S4PA) is a radically simplified data archive architecture for supporting our GES DISC users with online access to data. S4PA is already being used operationally and its deployment will beexpanded in the months and years to come.",
+"License": ["NASA Open Source"],
+"Categories": ["data archive", "GES"],
+"Update_Date": "2011-01-13"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["dimitra.giannakopoulou@nasa.gov"],
+"Software": "PSYCO: A Predicate-based Symbolic Compositional Reasoning environment",
+"External Link": "https://ti.arc.nasa.gov/m/groups/rse/papers/Giannakopoulou-CAV12.pdf",
+"Public Code Repo": "https://github.com/psycopaths/psyco",
+"Description": "jpf-psyco generates symbolic interfaces for software components using concolic execution.",
+"License": ["ALv2"],
+"Categories": ["symbolic learning", "temporal interfaces", "component methods"],
+"Update_Date": "2015-09-17"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["Paul.Kolano@nasa.gov"],
+"Software": "Restriping Tools for Lustre (Retools)",
+"External Link": "https://pkolano.github.io/projects/retools.html",
+"Public Code Repo": "https://github.com/pkolano/retools",
+"Description": "Retools is a set of modifications to the commonly used open source utilities bzip2, gzip, rsync, and tar that automatically selects the Lustre stripe count for created and/or extracted files according to the sizes of the files involved. By striping large files over a higher number of physical disks and small files over a lower number, aggregate I/O bandwidth for large files is maximized and the impact to the file system due to small files is minimized. These tools support the typical workflow in high performance computing environments where users compress large files and/or aggregate multiple small files into a single archive during remote transfers. Once uncompressed/unarchived into their original form, these files will be optimally striped for subsequent operations.",
+"License": ["NASA Open Source"],
+"Categories": ["utility", "disk striping", "Lustre file systems"],
+"Update_Date": "2014-01-28"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["stereo-pipeline@lists.nasa.gov",
+	"oleg-alexandrov",
+"ScottMcMichael",
+"broxtronix",
+"novas0x2a",
+"khusmann",
+"ljexplore",
+"anefian",
+"SmithB",
+"dshean",
+"trey0",
+"mstyer",
+"rbeyer",
+"harguess",
+"saravkin",
+"jlaura"],
+"Software": "Neo-Geography Toolkit (NGT)",
+"External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/ngt/stereo/",
+"Public Code Repo": "https://github.com/neogeographytoolkit/stereopipeline",
+"Description": "The NASA Ames Stereo Pipeline (ASP) is a suite of free and open source automated geodesy and stereogrammetry tools designed for processing stereo imagery captured from satellites (around Earth and other planets), robotic rovers, aerial cameras, and historical imagery, with and without accurate camera pose information. It produces cartographic products, including digital elevation models (DEMs), ortho-projected imagery, 3D models, and bundle-adjusted networks of cameras. ASP's data products are suitable for science analysis, mission planning, and public outreach.",
+"License": ["ALv2"],
+"Categories": ["geodesy", "stereogrammetry", "tools", "satellites imagery"],
+"Update_Date": "2012-05-11"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["maria.bualat@nasa.gov"],
+"Software": "Visual Environment for Remote Virtual Exploration (VERVE)",
+"External Link": "https://sourceforge.net/p/irg-verve/wiki/VERVE%20Wiki%20Home/",
+"Public Code Repo": "https://sourceforge.net/p/irg-verve/code/",
+"Description": "VERVE (Visual Environment for Remote Virtual Exploration) is a collection of software components for visualizing, monitoring, and commanding robots in remote environments. VERVE is developed by the Intelligent Robotics Group at NASA Ames Research Center and is part of the NASA Ensemble software ecosystem.",
+"License": ["ALv2"],
+"Categories": ["virtual environment", "robots"],
+"Update_Date": "2011-09-16"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["paul.kolano@nasa.gov"],
+"Software": "Multi-Threaded/Multi-Node Utilities (Mutil)",
+"External Link": "https://pkolano.github.io/projects/mutil.html",
+"Public Code Repo": "https://github.com/pkolano/mutil",
+"Description": "Copies between local file systems are a daily activity. Files are constantly being moved to locations accessible by systems with different functions and/or storage limits, being backed up and restored, or being moved due to upgraded and/or replaced hardware. Hence, maximizing the performance of copies as well as checksums that ensure the integrity of copies is desirable to minimize the turnaround time of user and administrator activities. Modern parallel file systems provide very high performance for such operations using a variety of techniques such as striping files across multiple disks to increase aggregate I/O bandwidth and spreading disks across multiple servers to increase aggregate interconnect bandwidth.",
+"License": ["LGPL"],
+"Categories": ["system administration", "file copying"],
+"Update_Date": "2010-09-27"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["corina.s.pasareanu@nasa.gov"],
+"Software": "Symbolic PathFinder (SPF)",
+"External Link": "http://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-symbc",
+"Public Code Repo": "http://babelfish.arc.nasa.gov/hg/jpf/jpf-symbc",
+"Description": "Symbolic PathFinder (SPF) combines symbolic execution with model checking and constraint solving for test case generation. In this tool, programs are executed on symbolic inputs representing multiple concrete inputs. Values of variables are represented as numeric constraints, generated from analysis of the code structure. These constraints are then solved to generate test inputs guaranteed to reach that part of code. Essentially SPF performs symbolic execution for Java programs at the bytecode level. Symbolic PathFinder uses the analysis engine of the Ames JPF model checking tool (i.e. jpf-core).",
+"License": ["NASA Open Source"],
+"Categories": ["symbolic execution", "model checking", "constraint solving", "Java"],
+"Update_Date": "2015-02-27"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["peter.c.mehlitz@nasa.gov"],
+"Software": "nu-Anomica",
+"External Link": "https://ti.arc.nasa.gov/opensource/projects/nu-anomica/",
+"Public Code Repo": "https://ti.arc.nasa.gov/opensource/projects/nu-anomica/",
+"Description": "One-class nu-Support Vector machine (SVMs) learning technique maps the input data into a much higher dimensional space and then uses a small portion of the training data (support vectors) to parametrize the decision surface that can linearly separate nu fraction of training points (labeled as anomalies) from the rest.",
+"License": ["NASA Open Source"],
+"Categories": ["SVM", "Support Vector Machine"],
+"Update_Date": "2009-11-06"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["peter.c.mehlitz@nasa.gov"],
+"Software": "Inverse Reinforcement Learning (IRL) Augmentation for PyMDPToolbox",
+"External Link": "http://nasarace.github.io/race/about.html",
+"Public Code Repo": "https://github.com/NASARace/race",
+"Description": "The Runtime for Airspace Concept Evaluation (RACE) is a software architecture and framework to build configurable, highly concurrent and distributed message based systems. Among other things, RACE can be used to rapidly build simulations that span several machines (including synchronized displays), interface existing hardware simulators and other live data feeds, and incorporate sophisticated visualization components such as NASA’s WorldWind viewer.",
+"License": ["ALv2"],
+"Categories": ["Airspace Simulation"],
+"Update_Date": "2016-04-26"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["michael.bloem@nasa.gov"],
+"Software": "Inverse Reinforcement Learning (IRL) Augmentation for PyMDPToolbox",
+"External Link": "https://github.com/nasa/pymdptoolbox",
+"Public Code Repo": "https://github.com/nasa/pymdptoolbox",
+"Description": "The MDP toolbox for Python by Sam Cordwell provides classes and functions for the resolution of descrete-time Markov Decision Processes. The list of algorithms that have been implemented includes backwards induction, linear programming, policy iteration, q-learning and value iteration along with several variations.",
+"License": ["NASA Open Source"],
+"Categories": ["Markov Decision Process", "MDP", "Decision Making", "IRL"],
+"Update_Date": "2015-02-27"
+},
+{
+"NASA Center": "Ames Research Center",
+"Contributors": ["terry.fong@nasa.gov"],
+"Software": "xGDS",
+"External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/xgds/",
+"Public Code Repo": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/xgds/",
+"Description": "xGDS (Exploration Ground Data Systems) synthesizes real world data (from sensors, robots, ROVs, mobile devices, etc) and human observations into rich, digital maps and displays for analysis, decision making, and collaboration. xGDS evolved from our work developing tools to control, monitor and collect data from autonomous rovers supporting NASA's terrestrial field science research. xGDS is a highly collaborative, interactive suite of web software.",
+"License": ["ALv2"],
+"Categories": ["Ground Data Systems", "Maps", "Decision Making"],
+"Update_Date": "2015-02-27"
+},
+	{
+"NASA Center": "Langley Research Center",
+"Contributors": ["cesar.a.munoz@nasa.gov"],
+"Software": "Integrated Configurable Algorithms for Reliable Operations of Unmanned Systems (ICAROUS)",
+"External Link": "http://shemesh.larc.nasa.gov/people/cam/ICAROUS/",
+"Public Code Repo": "http://github.com/nasa/icarous",
+"Description": "ICAROUS is a software architecture that enables the robust integration of mission specific software modules and highly assured core software modules for building safety-centric autonomous unmanned aircraft applications.",
+"License": ["NASA Open Source"],
+"Categories": ["UAV", "Geofencing", "Detect and Avoid"],
+"Update_Date": "2016-08-19"
+},
+{
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["matthewjdaigle"],
+		"Software": "Prognostics Algorithm Library",
+		"External Link": "https://github.com/nasa/PrognosticsAlgorithmLibrary/wiki",
+		"Public Code Repo": "https://github.com/nasa/PrognosticsAlgorithmLibrary",
+		"Description": "The Prognostics Algorithm Library is a suite of algorithms implemented in the MATLAB programming language for model-based prognostics (remaining life computation). It includes algorithms for state estimation and prediction, including uncertainty propagation. The algorithms take as inputs component models developed in Matlab, and perform estimation and prediction functions. The library allows the rapid development of prognostics solutions for given models of components and systems. Different algorithms can be easily swapped to do comparative studies and evaluations of different algorithms to select the best for the application at hand.",
+		"License": ["NASA Open Source"],
+		"Categories": ["Framework", "Toolbox", "Prognostics", "PHM", "Health Management"],
+		"Update_Date": "2016-08-18"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["matthewjdaigle"],
+		"Software": "Prognostics Model Library",
+		"External Link": "https://github.com/nasa/PrognosticsModelLibrary/wiki",
+		"Public Code Repo": "https://github.com/nasa/PrognosticsModelLibrary",
+		"Description": "The Prognostics Model Library is a modeling framework focused on defining and building models for prognostics (computation of remaining useful life) of engineering systems, and provides a set of prognostics models for select components developed within this framework, suitable for use in prognostics applications for these components. The library currently includes models for valves, pumps, and batteries. The Prognostics Model Library is implemented in MATLAB. The implementation consists of a set of utilities for defining a model (specifying variables, parameters, and equations), simulating the model, and embedding it within common model-based prognostics algorithms. A user can use existing models within the library or construct new models with the provided framework.",
+		"License": ["NASA Open Source"],
+		"Categories": ["Framework", "Toolbox", "Prognostics", "PHM", "Health Management"],
+		"Update_Date": "2016-08-18"
+	}, {
 		"NASA Center": "Ames Research Center",
 		"Contributors": ["Jeff Mulligan"],
 		"Software": "QuIP - Quick Image Processing",
@@ -171,7 +615,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) CCSDS File Delivery Protocol (CFDP) Version 2",
+		"Software": "Core Flight System (CFS) CCSDS File Delivery Protocol (CFDP)",
 		"External Link": "http://sourceforge.net/projects/cfs-cfdp",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-cfdp/files/latest/download",
 		"Description": "The CCSDS File Delivery Protocol (CFDP) application (CF) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The CFDP application provides the capability to transmit and receive files to/from the ground. Tables are used to allow flexibility in specifying directory priorities and configurations.",
@@ -181,7 +625,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Checksum Application Version 2",
+		"Software": "Core Flight System (CFS) Checksum Application",
 		"External Link": "http://sourceforge.net/projects/cfs-cs",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-cs/files/latest/download",
 		"Description": "The Checksum application (CS) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. Checksum (CS) is one of the reusable applications that make up the Core Flight System (CFS). The technology performs memory integrity management by verifying the contents of critical flight memory regions. Unexpected changes in memory (i.e., due to an SEU) are reported to ground operators.",
@@ -191,7 +635,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Data Storage (DS) Application Version 2",
+		"Software": "Core Flight System (CFS) Data Storage (DS) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-ds",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-ds/files/latest/download",
 		"Description": "The Data Storage application (DS) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The DS application provides the ability to store data (i.e., messages) into files. Tables are used to provide the flexibility for specifying messages.",
@@ -201,7 +645,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) File Manager (FM) Application Version 2",
+		"Software": "Core Flight System (CFS) File Manager (FM) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-fm",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-fm/files/latest/download",
 		"Description": "FM provides the user commands to perform the following operations: copy file, move file, rename file, delete file(s), close file, concatenate file, decompress file, delete directory contents, create directory, remove directory, obtain file information, obtain open file listing, and obtain directory listings.",
@@ -211,7 +655,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Health and Safety Application Version 2",
+		"Software": "Core Flight System (CFS) Health and Safety Application",
 		"External Link": "http://sourceforge.net/projects/cfs-hs",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-hs/files/latest/download",
 		"Description": "The plug-and-play CFS Health and Safety application is compatible with the Core Flight Executive (cFE) and uses the Operating System Abstraction Layer (OSAL), both of which were developed by Goddard Space Flight Center in order to provide a reusable, platform-independent, mission-independent, layered architecture for hosting applications. The technology can be used for any government or commercial spacecraft.",
@@ -221,7 +665,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Housekeeping (HK) Application Version 2",
+		"Software": "Core Flight System (CFS) Housekeeping (HK) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-hk",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-hk/files/latest/download",
 		"Description": "The Housekeeping application (HK) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The CFS Housekeeping application provides the ability to organize data from various packets into new packets in order to best utilize the telemetry bandwidth available for a mission.",
@@ -231,7 +675,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Limit Checker (LC) Application Version 2",
+		"Software": "Core Flight System (CFS) Limit Checker (LC) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-lc",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-lc/files/latest/download",
 		"Description": "The Limit Checker application (LC) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The Limit Checker (LC) application is responsible for monitoring telemetry values.",
@@ -241,7 +685,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Memory Dwell Application Version 2",
+		"Software": "Core Flight System (CFS) Memory Dwell Application",
 		"External Link": "http://sourceforge.net/projects/cfs-md",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-md/files/latest/download",
 		"Description": "The Memory Dwell application telemeters the contents of table-defined addresses at a table-defined dwell rate. Addresses can be processed using symbols if the target processor/operating system includes symbols.",
@@ -251,7 +695,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Scheduler Application Version 2",
+		"Software": "Core Flight System (CFS) Scheduler Application",
 		"External Link": "http://sourceforge.net/projects/cfs-sch",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-sch/files/latest/download",
 		"Description": "The Scheduler application (SCH) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The Scheduler application uses a one-second major timeframe, which is divided into a designer-determined collection of equally divided minor timeframes. The technology is configurable and table-driven to provide greater flexibility.",
@@ -261,7 +705,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Software Bus Network (SBN) Application, Version 1.0",
+		"Software": "Core Flight System (CFS) Software Bus Network (SBN) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-sbn",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-sbn/files/latest/download",
 		"Description": "The Software Bus Network application (SBN) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The SBN serves as a plug-in to the cFE framework to transfer messages across process/processor interfaces. The technology has three primary functions: to establish and maintain a connection to each peer over available process/processor interfaces; to distribute and maintain a subscription message database for each peer; and to distribute messages to peers that have subscribed to message identifiers.",
@@ -271,7 +715,7 @@
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-		"Software": "Core Flight System (CFS) Stored Command (SC) Application Version 2",
+		"Software": "Core Flight System (CFS) Stored Command (SC) Application",
 		"External Link": "http://sourceforge.net/projects/cfs-sc",
 		"Public Code Repo": "http://sourceforge.net/projects/cfs-sc/files/latest/download",
 		"Description": "The Stored Command application (SC) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. The CFS SC application provides the ability to execute onboard absolute-time and relative-time command sequences. The technology offers a generic implementation that can be configured by a user to fit the needs of a specific mission.",
@@ -431,7 +875,7 @@
 	}, {
 		"NASA Center": "Ames Research Center Center",
 		"Contributors": ["arc-sra-team@mail.nasa.gov"],
-		"Software": "GeoCam, Version 2",
+		"Software": "GeoCam",
 		"External Link": "https://github.com/geocam/geocamShare",
 		"Public Code Repo": "https://github.com/geocam/geocamShare/",
 		"Description": "GeoCam is a geospatial system for disaster response that consists of (1) low-cost consumer hardware (i.e., a digital camera or cell phone, position/orientation sensors, and an optional embedded controller) and (2) a Web-based workflow that enables images and other geo-referenced data to be shared and viewed in a variety of ways. GeoCam includes software that computes image location and provides for geo-rectification, KML-formatted geospatial data generation, image management, and geo-referenced data sharing.",
@@ -441,7 +885,7 @@
 	}, {
 		"NASA Center": "Ames Research Center Center",
 		"Contributors": ["arc-sra-team@mail.nasa.gov"],
-		"Software": "Google Earth Offline Cache Pre-Loader (GEOCP), Version 1",
+		"Software": "Google Earth Offline Cache Pre-Loader (GEOCP)",
 		"External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/",
 		"Public Code Repo": "http://ti.arc.nasa.gov/m/groups/intelligent-robotics/geocp.zip",
 		"Description": "GEOCP enables disaster responders to utilize Google Earth quickly in the field, where Internet connectivity may be sporadic or even unavailable.",
@@ -453,7 +897,7 @@
 		"Contributors": ["arc-sra-team@mail.nasa.gov"],
 		"Software": "Kepler Community Data Analysis Tools (PyKE)",
 		"External Link": "http://keplerscience.arc.nasa.gov/software.html#pyke",
-		"Public Code Repo": "https://github.com/KeplerGO/PyKE/releases",
+		"Public Code Repo": "https://github.com/KeplerGO/PyKE/",
 		"Description": "The Kepler archive contains time-series data calibrated and reduced from detector pixels. The pipelined reduction includes the removal of time-series trends systematic to a spacecraft and its environment. PyKE is a tool to create light curves with user-chosen pixel apertures and cotrend and/or detrend data.",
 		"License": ["NASA Open Source"],
 		"Categories": ["Environmental Science", "Earth", "Air", "Space", "Exoplanet"],
@@ -501,7 +945,7 @@
 	}, {
 		"NASA Center": "Ames Research Center Center",
 		"Contributors": ["arc-sra-team@mail.nasa.gov"],
-		"Software": "Robot Application Programming Interface Delegate (RAPID), Version 2",
+		"Software": "Robot Application Programming Interface Delegate (RAPID)",
 		"External Link": "http://rapid.nasa.gov/index.html",
 		"Public Code Repo": "http://rapid.nasa.gov/index.html",
 		"Description": "RAPID is a software reference implementation framework for remote operations. The technology promotes interoperability between robot software modules and includes a standard programming interface and data distribution middleware. RAPID facilitates integration of experimental robot software modules created by a distributed development team; improves the compatibility and reusability of robotic functions; and offers speed prototype robot development in a wide range of configurations and environments.",
@@ -619,7 +1063,7 @@
 		"Public Code Repo": "https://github.com/nasa/channel-emulator",
 		"Description": "The Channel  Emulator (CE) is a  software-based network testing tool.  Its primary functions are providing framing services, acting as a flexible protocol gateway, and providing network emulation capabilities.",
 
-		"License Short Name": ["GPLv2"],
+		"License": ["GPLv2"],
 		"License Long Name": "GNU General Public License (GPL) version 2",
 		"License Description": "This free and copyleft software license is an older version of GPL3.",
 		"License Link": "http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
@@ -648,7 +1092,7 @@
 		"Public Code Repo": "https://github.com/nasa/earthdata-search",
 		"Description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.",
 
-		"License Short Name": ["ALv2"],
+		"License": ["ALv2"],
 		"License Long Name": "Apache License 2.0",
 		"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
 		"License Link": "https://www.apache.org/licenses/LICENSE-2.0",
@@ -782,7 +1226,7 @@
 		"Public Code Repo": "https://github.com/nasa/openmctweb",
 		"Description": "Open MCT is an open source and web-based mission control framework for visualization of data on desktop and mobile devices. Open MCT is designed for analysis, visualization, operation, and support of spacecraft missions. Open MCT provides an extensible plugin system allowing it to be integrated with existing ground systems, and adapted to support multiple missions as well as non-space applications.",
 
-		"License Short Name": ["ALv2"],
+		"License": ["ALv2"],
 		"License Long Name": "Apache License 2.0",
 		"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
 		"License Link": "https://www.apache.org/licenses/LICENSE-2.0",
@@ -804,7 +1248,7 @@
 		"Public Code Repo": "https://github.com/nasa/EADINLite",
 		"Description": "This code was created to support the Distributed Engine Control task as part of the Fixed Wing Aeronautics project. The purpose of this research was to enable multiple microcontrollers to speak with eacho ther per the protocol specified in the preliminary release of EADIN BUS. EADIN BUS is a candidate for distributed control systems on aircraft engines. The primary use of this code was to assist in the modeling of small local networks which contain 16 or fewer nodes. This communication protocol differs from typical internet protocols by using a master node which distributes information between nodes through a call and response system. The RS-485 network is simplex and thus does not allow multiple nodes to talk at the same time. No time synchronization between  nodes is required for this network. These factors enable the master to request information from sensors and command actuators, one at a time. In the current implementation, no information is passed from individual nodes without first going through the master node. While other communication protocols do exist like ModbusMaster and simple-modbus, the speed of these communication protocols on the RS-485 network was not sufficient for our needs which required message send to reply receipt times of 1 millisecond. Additionally, the other protocols did not implement the same message system as specified by the preliminary documents regarding the EADIN protocol.",
 
-		"License Short Name": ["ALv2"],
+		"License": ["ALv2"],
 		"License Long Name": "Apache License 2.0",
 		"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
 		"License Link": "https://www.apache.org/licenses/LICENSE-2.0",
@@ -830,7 +1274,7 @@
 		"Public Code Repo": "https://github.com/apache/climate",
 		"Description": "Apache Open Climate Workbench provides a Climate Science library and a suite of tools built on top of it to facilitate multi-model and multi-observation comparisons and visualizations for Climate Scientists.",
 
-		"License Short Name": ["ALv2"],
+		"License": ["ALv2"],
 		"License Long Name": "Apache License 2.0",
 		"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
 		"License Link": "https://www.apache.org/licenses/LICENSE-2.0",
@@ -889,29 +1333,7 @@
 		"Stats": "",
 		"Description": "The Scheduling and Planning Interface for Exploration (SPIFe) is an integrated planning and scheduling toolkit based on hundreds of hours of expert observation, use, and refinement of state-of-the-art planning and scheduling technology for several applications within NASA.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}, {
-				"License Short Name": ["EPL"],
-				"License Long Name": "Eclipse Public License",
-				"License Description": "This free software license removes broader patent retaliation language in the Common Public License, but remains incompatible with the GNU GPL.",
-				"License Link": "http://www.eclipse.org/legal/epl-v10.html"
-			}, {
-				"License Short Name": ["MPLv2"],
-				"License Long Name": "Mozilla Public License 2.0",
-				"License Description": "A free software license with indirect compatibility with GNU GPL v2 and later, but can have constraints that make it incompatible with secondary licenses.",
-				"License Link": "http://www.mozilla.org/MPL/2.0/"
-			}, {
-				"License Short Name": ["LGPL"],
-				"License Long Name": "GNU Library or 'Lesser' General Public License (LGPL)",
-				"License Description": "This free software license is not strong copyleft, as it permits linking with nonfree modules.",
-				"License Link": "http://www.gnu.org/licenses/lgpl.html"
-			}
-		],
+		"License": ["ALv2", "EPL", "MPLv2", "LGPL"],
 		"Languages": [
 			"Java"
 		],
@@ -1040,14 +1462,7 @@
 		"Stats": "",
 		"Description": "This algorithm code (from the Phase 1 Asteroid Tracker Challenge) provides the optimum subarray selection per set of object tracks provided in a predefined configuration using a fixed number of dishes - See more about the challenge at: http://www.topcoder.com/asteroids/tracker/ This code was generated via a challenge on the NASA Tournament Lab (NTL) supported by NASA's Center of Excellence for Collaborative Innovation (CoECI).",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"C++"
 		],
@@ -1174,14 +1589,7 @@
 		"Stats": "",
 		"Description": "The Lunar Mapping and Modeling Portal (LMMP) is a system that has been built to support lunar exploration activities that will enable return of both manned and unmanned missions to the Moon. It provides a web-based Portal and a suite of interactive visualization and analysis tools to enable mission planners, lunar scientists, and engineers to access mapped lunar data products from past and current lunar missions. It also addresses the lunar science community, the lunar commercial community, education and public outreach, and anyone else interested in accessing or utilizing lunar data.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -1238,14 +1646,7 @@
 		"Stats": "",
 		"Description": "The Lunar Mapping and Modeling Portal (LMMP) is a system that has been built to support lunar exploration activities that will enable return of both manned and unmanned missions to the Moon. It provides a web-based Portal and a suite of interactive visualization and analysis tools to enable mission planners, lunar scientists, and engineers to access mapped lunar data products from past and current lunar missions. It also addresses the lunar science community, the lunar commercial community, education and public outreach, and anyone else interested in accessing or utilizing lunar data.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -1419,14 +1820,7 @@
 		"Stats": "",
 		"Description": "CertWare is a collection of tools intended to support the development of safety, assurance, or dependability cases. CertWare adopts several types of structured argument models and provides an implementation of tools to support writing and verifying arguments using the chosen model. The implementations are a baseline meant to be enhanced and further integrated into development tools chains. Both textual and graphical editors are implemented. The implementation is done in Eclipse, as a large collection of Eclipse plugins and features, using several model generation tools to facilitate implementation and maintenance. See the Meta-Models section below for the kinds of models already incorporated into the workbench.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2033,14 +2427,7 @@
 		"Stats": "",
 		"Description": "This code includes the algorithms that resulted from a challenge on the NASA Tournament Lab (NTL). This challenge was to study select satellite imagery of the region of the lost tomb of Genghis Khan and then develop an algorithm that will recognize human built, and potentially historically significant, structures found in those images.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ASL"],
-				"License Long Name": "Apache Software License",
-				"License Description": "A whole class of free software licenses, with versions available for individual constraints.",
-				"License Link": "https://www.apache.org/licenses/"
-			}
-		],
+		"License": ["ASL"],
 		"Languages": [
 			"C++"
 		],
@@ -2255,14 +2642,7 @@
 		"Stats": "",
 		"Description": "The Automatic Documentation software creates Microsoft Documents automatically using Text and Template files.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ASL"],
-				"License Long Name": "Apache Software License",
-				"License Description": "A whole class of free software licenses, with versions available for individual constraints.",
-				"License Link": "https://www.apache.org/licenses/"
-			}
-		],
+		"License": ["ASL"],
 		"Languages": [
 			"Java"
 		],
@@ -2316,14 +2696,7 @@
 		"Stats": "",
 		"Description": "Code from the United States Agency for International Development (USAID) and Humanity United (HU) challenge for Atrocity Prevention Modeling in collaboration with NASA's Center of Excellence for Collaboration (CoECI). This package contains the top 5 solutions submitted for the 'Tech Challenge for Atrocity Prevention' competition.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2375,14 +2748,7 @@
 		"Stats": "",
 		"Description": "NASA Tournament Lab (NTL) challenge to develop an algorithm that can detect craters from imagery.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2435,14 +2801,7 @@
 		"Stats": "",
 		"Description": "Code from the United States Centers for Medicare & Medicaid Services (CMS) challenge in collaboration with NASA's Center of Excellence for Collaboration (CoECI), Harvard, and TopCoder developed an iPhone app and reporting web application used to track and compile transfers of value (e.g. gift, meal, speaking fee) from industry manufacturers (e.g. pharmaceutical companies) to physicians.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2494,14 +2853,7 @@
 		"Stats": "",
 		"Description": "Algorithm code to address the NTL Electrocardiogram (ECG) Challenge to develop an algorithm to optimize the contents for the medical kits that accompany astronauts on missions.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2607,14 +2959,7 @@
 		"Stats": "",
 		"Description": "39A is the software used to power the 2013 International Space Apps Challenge, a global hackathon focusing on space technology and issues.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -2776,14 +3121,7 @@
 		"Stats": "",
 		"Description": "This is the source code for the WordPress theme that powers code.nasa.gov. Code.nasa.gov expands NASA's open source activities, surfaces existing activities, and guides internal and external groups in open development, release, and contribution. In doing so, NASA hopes to lower barriers to building open technology in partnership with the public.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}
-		],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java"
 		],
@@ -3430,12 +3768,7 @@
 		"Stats": "",
 		"Description": "Apache OODT is NASA's first project to be stewarded at the open source Apache Software Foundation. OODT is middleware for information integration and for science data processing and retrieval. It provides components including file management, workflow management, resource management, and automated remote data acquisition, file crawling and ingestion, and science algorithm wrapping and integration.",
 		"Internal Code Repo": "",
-		"License": [{
-			"License Short Name": ["ALv2"],
-			"License Long Name": "Apache License 2.0",
-			"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-			"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-		}],
+		"License": ["ALv2"],
 		"Languages": [
 			"Java",
 			"Python"
@@ -3550,12 +3883,7 @@
 		"Stats": "",
 		"Description": "Datacasting is a RSS publish-subscribe method for delivering Earth Science data. A Feed Reader provides feed filtering, data download, and the ability to mash-up data with information related to geophysical events.",
 		"Internal Code Repo": "",
-		"License": [{
-			"License Short Name": ["BSD"],
-			"License Long Name": "Berkeley Source Distribution",
-			"License Description": "This permissive, free software license imposes minimal restrictions on the redistribution of covered software.",
-			"License Link": "http://en.wikipedia.org/wiki/BSD_licenses"
-		}],
+		"License": ["BSD"],
 		"Languages": [
 			"XML"
 		],
@@ -3613,12 +3941,7 @@
 		"Stats": "",
 		"Description": "The Interplanetary Overlay Network (ION) software distribution is an implementation of Delay-Tolerant Networking (DTN) architecture as described in Internet RFC 4838. It includes implementations of the DTN Bundle Protocol, the Licklider Transmission Protocol, and two CCSDS application protocols that have been adapted to run over the BP/LTP stack: the CCSDS File Delivery Protocol and Asynchronous Message Service.",
 		"Internal Code Repo": "",
-		"License": [{
-			"License Short Name": ["BSD"],
-			"License Long Name": "Berkeley Source Distribution",
-			"License Description": "This permissive, free software license imposes minimal restrictions on the redistribution of covered software.",
-			"License Link": "http://en.wikipedia.org/wiki/BSD_licenses"
-		}],
+		"License": ["BSD"],
 		"Languages": [
 			"XML"
 		],
@@ -3672,12 +3995,7 @@
 		"Stats": "",
 		"Description": "The Data Productivity Toolkit is a collection of linux command-line tools designed to facilitate the analysis of text-based data sets. Modeled after the general linux pipeline tools such as awk, grep, and sed, the kit provides powerful tools for selecting/combining data, performing statistics, and visualizing results. The tools are all written in python and in many instances provide a command-line API to basic python and numpy/scipy/matplotlib routines.",
 		"Internal Code Repo": "",
-		"License": [{
-			"License Short Name": ["BSD"],
-			"License Long Name": "Berkeley Source Distribution",
-			"License Description": "This permissive, free software license imposes minimal restrictions on the redistribution of covered software.",
-			"License Link": "http://en.wikipedia.org/wiki/BSD_licenses"
-		}],
+		"License": ["BSD"],
 		"Languages": [
 			"Python"
 		],
@@ -3936,7 +4254,7 @@
 		"Description": "Mutil is a set of standard utilities that employ multiple types of parallelism and other optimizations to achieve maximum performance on modern file systems. Multi-threading is used to ensure that nodes are kept as busy as possible. Double buffering allows individual operations within a single task to be overlapped using asynchronous I/O. Multi-node cooperation allows different nodes to take part in the same task. Split file processing allows multiple threads to operate concurrently on the same file. Finally, additional optimizations such as buffer management help eliminate other bottlenecks that can reduce performance. Mutil currently includes drop-in replacements for cp and md5sum from GNU coreutils, which have achieved 10/30x rates on one/many nodes.",
 		"Internal Code Repo": "",
 
-		"License Short Name": ["GPLv3", "GPL"],
+		"License": ["GPLv3", "GPL"],
 		"License Long Name": "GNU General Public License (GPL) version 3",
 		"License Description": "The latest version of the GNU GPL, this is a free software and copyleft license.",
 		"License Link": "http://www.gnu.org/licenses/gpl.html",
@@ -4338,19 +4656,7 @@
 		"Stats": "",
 		"Description": "ViSBARD (Visual System for Browsing, Analysis, and Retrieval of Data) is an interactive visualization and analysis tool for space physics data. It provides an integrated 3-D/2-D environment to analyze measurements across many spacecraft and MHD models.",
 		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source", {
-				"License Short Name": ["ALv2"],
-				"License Long Name": "Apache License 2.0",
-				"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-				"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-			}, {
-				"License Short Name": ["GPLv3", "GPL"],
-				"License Long Name": "GNU General Public License (GPL) version 3",
-				"License Description": "The latest version of the GNU GPL, this is a free software and copyleft license.",
-				"License Link": "http://www.gnu.org/licenses/gpl.html"
-			}
-		],
+		"License": ["ALv2", "GPLv3", "GPL"],
 		"Languages": [
 			"C",
 			"Java"
@@ -5914,12 +6220,7 @@
 		"External Link": "http://opensource.gsfc.nasa.gov/projects/gsca/index.php",
 		"Public Code Repo": "http://ojo-streamer.herokuapp.com/",
 		"Description": "The GeoSocial Consumer Application abstracts the work of interpreting the server interface, constructing workflows, and executing them by serving JavaScript executable code from each server.",
-		"License": [{
-			"License Short Name": ["ALv2"],
-			"License Long Name": "Apache License 2.0",
-			"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-			"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-		}],
+		"License": ["ALv2"],
 		"Categories": ["GEOSS", "space science", "data visualization"],
 		"Update_Date": "2015-02-27"
 	}, {
@@ -6074,12 +6375,7 @@
 		"External Link": "https://github.com/nasa/isle",
 		"Public Code Repo": "https://github.com/nasa/isle",
 		"Description": "This web application allows inventories of assets to be managed. Assets along with their specifications are added to the system and then used by users via a check-in/check-out function. The inventory can be browsed by category or using search. Users are given various roles within the system to allow them to perform certain functions such as view-only, check-in/check-out, modify, and full-control. Inventory managers can add and track detailed information on all inventory assets including manufacturer, storage location, custom attributes, and relationships with other assets. Assets can be found by browsing by category, search, location, or current user. Assets are checked out to specified locations by users.",
-		"License": [{
-			"License Short Name": ["ALv2"],
-			"License Long Name": "Apache License 2.0",
-			"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
-			"License Link": "https://www.apache.org/licenses/LICENSE-2.0"
-		}],
+		"License": ["ALv2"],
 		"Categories": [
 			"Web",
 			"PHP",
@@ -6153,16 +6449,23 @@
 "Update_Date": "2016-02-11"
 },
 {
-"NASA Center": "Langley Research Center",
-"Contributors": ["cesar.a.munoz@nasa.gov"],
-"Software": "Integrated Configurable Algorithms for Reliable Operations of Unmanned Systems (ICAROUS)",
-"External Link": "http://shemesh.larc.nasa.gov/people/cam/ICAROUS/",
-"Public Code Repo": "http://github.com/nasa/icarous",
-"Description": "ICAROUS is a software architecture that enables the robust integration
-of mission specific software modules and highly assured core software
-modules for building safety-centric autonomous unmanned aircraft
-applications.",
-"License": [ "NASA Open Source" ],
-"Categories": ["UAV", "Geofencing", "Detect and Avoid"],
-"Update_Date": "2016-08-19"
-}]
+	"NASA Center": "Jet Propulsion Laboratory",
+	"Contributors": [
+		"David Nelson",
+		"Sebastian Val"
+	],
+	"Software": "MINX",
+	"External Link": "http://misr.jpl.nasa.gov/",
+	"Public Code Repo": "https://github.com/nasa/MINX",
+	"Description": "MINX, which stands for MISR INteractive eXplorer, is an interactive visualization and analysis program written in IDL and designed to make MISR data more accessible to science users. Its principal use is to retrieve heights and motion for aerosol plumes and clouds using stereoscopic methods.",
+	"License": [
+		"NASA Open Source"
+	],
+	"Categories": [
+		"Toolkit",
+		"Visualization",
+		"Analysis"
+	],
+	"Update_Date": "2016-09-06"
+}
+]
