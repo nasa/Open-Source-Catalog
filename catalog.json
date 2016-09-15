@@ -411,7 +411,7 @@
 "Categories": ["Ground Data Systems", "Maps", "Decision Making"],
 "Update_Date": "2015-02-27"
 },
-	{
+{
 "NASA Center": "Langley Research Center",
 "Contributors": ["cesar.a.munoz@nasa.gov"],
 "Software": "Integrated Configurable Algorithms for Reliable Operations of Unmanned Systems (ICAROUS)",
@@ -419,10 +419,42 @@
 "Public Code Repo": "http://github.com/nasa/icarous",
 "Description": "ICAROUS is a software architecture that enables the robust integration of mission specific software modules and highly assured core software modules for building safety-centric autonomous unmanned aircraft applications.",
 "License": ["NASA Open Source"],
-"Categories": ["UAV", "Geofencing", "Detect and Avoid"],
+"Categories": ["UAS", "Geofencing", "Detect and Avoid"],
 "Update_Date": "2016-08-19"
 },
 {
+"NASA Center": "Langley Research Center",
+"Contributors": ["cesar.a.munoz@nasa.gov"],
+"Software": "Algorithms and Software for Computations with Polygons (PolyCARP)",
+"External Link": "http://github.com/nasa/polycarp",
+"Public Code Repo": "http://github.com/nasa/polycarp",
+"Description": "PolyCARP is a package of algorithms, including both their formal models and software implementations, for computing containment, collision, resolution, and recovery information for polygons. The intended applications of PolyCARP are related, but not limited, to safety critical systems in air traffic management.",
+"License": ["NASA Open Source"],
+"Categories": ["UAV", "Geofencing"],
+"Update_Date": "2016-09-14"
+},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["cesar.a.munoz@nasa.gov"],
+"Software": "Kodiak",
+"External Link": "http://shemesh.larc.nasa.gov/people/cam/Kodiak/",
+"Public Code Repo": "http://github.com/nasa/kodiak",
+"Description": "Kodiak is a C++ library that implements a generic branch and bound algorithm for rigorous numerical approximations. Particular instances of the branch and bound algorithm allow the user to refine and isolate solutions to systems of nonlinear equations and inequalities, global optimization problems, and bifurcation sets for systems of ODEs. Kodiak utilizes interval arithmetic (via the filib++ library) and Bernstein enclosure (for polynomials and rational functions) as self-validating enclosure methods. Symbolic operations support procedures such as automatic partial differentiation.",
+"License": ["NASA Open Source"],
+"Categories": ["Global Optimization", "Rigurous Polynomial Approximations", "Interval Arithmetic", "Non-linear Arithmetic"],
+"Update_Date": "2014-05-02"
+},
+{
+"NASA Center": "Langley Research Center",
+"Contributors": ["cesar.a.munoz@nasa.gov"],
+"Software": "DAIDALUS",
+"External Link": "http://shemesh.larc.nasa.gov/people/cam/DAIDALUS/",
+"Public Code Repo": "http://github.com/nasa/wellclear",
+"Description": "DAIDALUS is a reference implementation of a detect and avoid concept intended to support the integration of Unmanned Aircraft Systems into civil airspace. The WellClear repository includes definitions in Matlab of a family of well-clear violation volumes.",
+"License": ["NASA Open Source"],
+"Categories": ["UAS", "Detect and Avoid", "Well-Clear"],
+"Update_Date": "2014-04-23"
+}, {
 		"NASA Center": "Ames Research Center",
 		"Contributors": ["matthewjdaigle"],
 		"Software": "Prognostics Algorithm Library",
@@ -2244,115 +2276,6 @@
 		],
 		"New Date": "",
 		"Update_Date": "2014-05-05"
-	}, {
-		"NASA Center": "NASA Langley Research Center",
-		"Program Teams": [
-			""
-		],
-		"Contributors": [
-			"cesaramh",
-			"ds604"
-		],
-		"Sub-contractors": [
-			""
-		],
-		"Software": "Kodiak",
-		"Internal Link": "",
-		"External Link": "https://github.com/nasa/Kodiak",
-		"Public Code Repo": "https://github.com/nasa/Kodiak",
-		"Instructional Material": "",
-		"Stats": "",
-		"Description": "Library for rigorous verification of non-linear arithmetic.",
-		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source"
-		],
-		"Languages": [
-			"Java"
-		],
-		"Platform Requirements": [
-			""
-		],
-		"Dependent modules": [
-			""
-		],
-		"Dependent module URLs": [
-			""
-		],
-		"Component modules": [
-			""
-		],
-		"Component module URLs": [
-			""
-		],
-		"Industry": [
-			""
-		],
-		"Functionality": [
-			""
-		],
-		"Categories": [
-			"library",
-			"repository",
-			"non-linear arithmetic",
-			"verification"
-		],
-		"New Date": "",
-		"Update_Date": "2014-05-02"
-	}, {
-		"NASA Center": "NASA Langley Research Center",
-		"Program Teams": [
-			""
-		],
-		"Contributors": [
-			"cesaramh"
-		],
-		"Sub-contractors": [
-			""
-		],
-		"Software": "WellClear",
-		"Internal Link": "",
-		"External Link": "https://github.com/nasa/WellClear",
-		"Public Code Repo": "https://github.com/nasa/WellClear",
-		"Instructional Material": "",
-		"Stats": "",
-		"Description": "Well-Clear Boundary Models for Integration of UAS in the NAS.",
-		"Internal Code Repo": "",
-		"License": [
-			"NASA Open Source"
-		],
-		"Languages": [
-			"Matlab"
-		],
-		"Platform Requirements": [
-			""
-		],
-		"Dependent modules": [
-			""
-		],
-		"Dependent module URLs": [
-			""
-		],
-		"Component modules": [
-			""
-		],
-		"Component module URLs": [
-			""
-		],
-		"Industry": [
-			""
-		],
-		"Functionality": [
-			""
-		],
-		"Categories": [
-			"models",
-			"integration",
-			"boundary",
-			"UAS"
-		],
-		"New Date": "",
-		"Update_Date": "2014-04-23"
 	}, {
 		"NASA Center": "Center of Excellence for Collaboration (CoECI)",
 		"Program Teams": [
