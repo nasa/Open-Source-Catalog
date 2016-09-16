@@ -6393,17 +6393,12 @@
 },
 {
 	"NASA Center": "Jet Propulsion Laboratory",
-    "Contributors": [
-      "lewismc",
-      ""
-    ],
+    "Contributors": ["lewismc"],
     "Software": "Podaacpy",
     "External Link": "http://podaacpy.readthedocs.io/en/latest/",
     "Public Code Repo": "https://github.com/lewismc/podaacpy",
     "Description": "Podaacpy is a python utility library for interacting with NASA JPL’s PO.DAAC.",
-    "License": [
-      "Apache License v2.0"
-    ],
+    "License": ["ALv2"],
     "Categories": [
       "Framework",
       "Toolkit",
