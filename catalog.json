@@ -5446,16 +5446,6 @@
 		"Categories": ["electrical power system", "IVHM", "testbed", "ADAPT", "diagnostics", "prognostics"],
 		"Update_Date": "2008-05-30"
 	}, {
-		"NASA Center": "Ames Research Center",
-		"Contributors": ["Nikunj Oza"],
-		"Software": "C-MAPSS Aircraft Engine Simulator",
-		"External Link": "https://dashlink.arc.nasa.gov/",
-		"Public Code Repo": "https://dashlink.arc.nasa.gov/",
-		"Description": "The data provided is from a high fidelity system level engine simulation designed to simulate nominal and fault engine degradation over a series of flights. The flights are full flight recording sampled at 1 Hz and consists of 30 engine and flight condition parameters. Each flight contains 7 unique flight conditions for an approximately 90 min flight including ascent to cruise at 35K ft and descent back to sea level. The simulated data was created with a Matlab Simulink tool called C-MAPSS.",
-		"License": ["NASA Open Source"],
-		"Categories": ["engine", "aircraft", "simulation", "health"],
-		"Update_Date": "2009-06-09"
-	}, {
 		"NASA Center": "Glenn Research Center",
 		"Contributors": ["Nikunj Oza"],
 		"Software": "Disk Defect Data",
