@@ -6398,5 +6398,95 @@
       "Dataset Search"
     ],
     "Update_Date": "2016-09-15"
+},
+{
+	"NASA Center": "Ames Research Center",
+    "Contributors": ["bwstewart389", "Beak-man", "farahsalah", "Gagaus"],
+    "Software": "NASA WorldWind Research: SpaceBirds",
+    "External Link": "https://github.com/NASAWorldWindResearch/SpaceBirds/archive/master.zip",
+    "Public Code Repo": "https://github.com/NASAWorldWindResearch/SpaceBirds",
+    "Description": "SpaceBirds, a new innovative application intended as both a visual and educational application as well as a powerful tracking tool, can be used by professionals, students, and enthusiasts alike. The app is developed using NASA Web World Wind, and consists of an easy to use interface that allows the user to display all known tracked orbital objects and ground stations, and display their relative information, such as type, orbital period, low, medium, and high earth orbit, country of origin, and use, all in a 3D environment.",
+    "License": ["CC0"],
+    "Categories": [
+      "WorldWind",
+      "visual simulation",
+      "satellite",
+      "orbital dynamics",
+      "application"
+    ],
+    "Update_Date": "2016-09-23"
+},
+{
+	"NASA Center": "Ames Research Center",
+    "Contributors": ["KhaledSharif", "Beak-man", "farahsalah", "Gagaus", "bench4ng", "PJHogan"],
+    "Software": "NASA WorldWind Research: Quake-Hunter",
+    "External Link": "https://github.com/NASAWorldWindResearch/Quake-Hunter/archive/master.zip",
+    "Public Code Repo": "https://github.com/NASAWorldWindResearch/Quake-Hunter",
+    "Description": "3D visualization of earthquakes using their actual depth below the surface.",
+    "License": ["MIT"],
+    "Categories": [
+      "WorldWind",
+      "visual simulation",
+      "satellite",
+      "orbital dynamics",
+      "application"
+    ],
+    "Update_Date": "2016-09-21"
+},
+{
+	"NASA Center": "Ames Research Center",
+    "Contributors": ["KhaledSharif", "Beak-man", "farahsalah"],
+    "Software": "NASA WorldWind Research: WorldWeather",
+    "External Link": "https://github.com/NASAWorldWindResearch/WorldWeather/archive/master.zip",
+    "Public Code Repo": "https://github.com/NASAWorldWindResearch/WorldWeather",
+    "Description": "The largest three-dimensional web-based interactive browser of satellite, weather, climate, and other time-aware geospatial data on the web, built upon NASA's revolutionary WorldWind technology.",
+    "License": ["MIT"],
+    "Categories": [
+      "WorldWind",
+      "visual simulation",
+      "satellite",
+      "weather",
+			"climate",
+			"geospatial data",
+      "application"
+    ],
+    "Update_Date": "2016-09-14"
+},
+{
+	"NASA Center": "Ames Research Center",
+    "Contributors": ["emxsys"],
+    "Software": "NASA WorldWind Research: WorldWindExplorer",
+    "External Link": "https://github.com/NASAWorldWindResearch/WorldWindExplorer/archive/master.zip",
+    "Public Code Repo": "https://github.com/NASAWorldWindResearch/WorldWindExplorer",
+    "Description": "A geo-browser app framework based on NASA Web World Wind.",
+    "License": ["MIT"],
+    "Categories": [
+      "WorldWind",
+      "visual simulation",
+      "satellite",
+      "weather",
+			"climate",
+			"geospatial data",
+      "application"
+    ],
+    "Update_Date": "2016-09-09"
+},
+{
+	"NASA Center": "Ames Research Center",
+    "Contributors": ["KhaledSharif", "farahsalah", "Gagaus", "bench4ng", "PJHogan"],
+    "Software": "NASA WorldWind Research: EarthquakeApp",
+    "External Link": "https://github.com/NASAWorldWindResearch/EarthquakeApp/archive/master.zip",
+    "Public Code Repo": "https://github.com/NASAWorldWindResearch/EarthquakeApp",
+    "Description": "Magnetic Field Data Anomaly Detection Analysis Sandbox. Earthquake Signal Precursors, ESP, detection and forecast. This project aims to apply Dr. Friedemann Freund’s theory of earthquake precursor science. Dr. Freund's theory states that as stresses in the Earth’s crust increase during the time leading up to a major earthquake, atomic-scale defects in the mineral grains and along the boundaries between mineral grains become activated. The ultimate goal of this project is to observe live anomalous EM field fluctuations and accurately forecast an earthquake within a specified geographical range.",
+    "License": ["CC0"],
+    "Categories": [
+      "WorldWind",
+      "magnetic field data",
+      "satellite",
+      "earthquake",
+			"electromagnetic radiation",
+			"application"
+    ],
+    "Update_Date": "2016-08-06"
 }
 ]
