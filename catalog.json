@@ -6327,6 +6327,26 @@
 			"Fortran"
 		],
 		"Update_Date": "2016-07-13"
+	},{
+		"NASA Center": "Langley Research Center",
+		"Contributors": [
+			"Andrew Bergan",
+			"Frank Leone"
+		],
+		"Software": "Abaverify",
+		"External Link": "https://github.com/nasa/Abaverify",
+		"Public Code Repo": "https://github.com/nasa/Abaverify",
+		"Description": "A python package built on unittest for running verification tests on Abaqus user subroutines.",
+		"License": ["NASA Open Source"],
+		"Categories": [
+			"FEA",
+			"Abaqus",
+			"User Subroutines",
+			"Unit Tests",
+			"Integration Tests",
+			"Fortran"
+		],
+		"Update_Date": "2016-10-03"
 	},
 {
 "NASA Center": "Ames Research Center",
