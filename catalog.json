@@ -1,460 +1,422 @@
-[
-	{
-	"NASA Center": "Ames Research Center",
-	"Contributors": ["creon@nas.nasa.gov"],
-	"Software": "Viewpoints: Software for Visualization of Multivariate Data",
-	"External Link": "https://app.assembla.com/spaces/viewpoints/wiki/Home",
-	"Public Code Repo": "https://app.assembla.com/spaces/viewpoints/documents",
-	"Description": "Viewpoints (vp) is a visualization tool for exploring large, multidimensional data. It enables rapid interactive analysis of data sets containing >> 106 samples, limited only by available RAM, with an arbitrary number of attributes (or dimensions) per sample. Viewpoints was originaly created for analyzing data sets from current and upcoming NASA space science missions but it has now been used in areas ranging from aeronautical engineering, quantum chemistry, and computational fluid dynamics to virology, finance, aviation safety, and web server log mining.",
-	"License": ["NASA Open Source"],
-	"Categories": ["visualization"],
-	"Update_Date": "2011-12-02"
-	},
-	{
-	"NASA Center": "",
-	"Contributors": ["hpparvi"],
-	"Software": "PyTransit",
-	"External Link": "https://github.com/mrtommyb/ktransit",
-	"Public Code Repo": "https://github.com/mrtommyb/ktransit",
-	"Description": "Fast and easy-to-use tools for exoplanet transit light curve modelling with Python. PyTransit implements the quadratic Mandel & Agol and the Gimenéz transit models with various optimisations, and offers both a simple interface for model evaluation and a lower-level access for fine-tuning the model.",
-	"License": ["GPLv2"],
-	"Categories": ["Kepler"],
-	"Update_Date": "2013-12-02"
+[{
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["creon@nas.nasa.gov"],
+		"Software": "Viewpoints: Software for Visualization of Multivariate Data",
+		"External Link": "https://app.assembla.com/spaces/viewpoints/wiki/Home",
+		"Public Code Repo": "https://app.assembla.com/spaces/viewpoints/documents",
+		"Description": "Viewpoints (vp) is a visualization tool for exploring large, multidimensional data. It enables rapid interactive analysis of data sets containing >> 106 samples, limited only by available RAM, with an arbitrary number of attributes (or dimensions) per sample. Viewpoints was originaly created for analyzing data sets from current and upcoming NASA space science missions but it has now been used in areas ranging from aeronautical engineering, quantum chemistry, and computational fluid dynamics to virology, finance, aviation safety, and web server log mining.",
+		"License": ["NASA Open Source"],
+		"Categories": ["visualization"],
+		"Update_Date": "2011-12-02"
+	}, {
+		"NASA Center": "",
+		"Contributors": ["hpparvi"],
+		"Software": "PyTransit",
+		"External Link": "https://github.com/mrtommyb/ktransit",
+		"Public Code Repo": "https://github.com/mrtommyb/ktransit",
+		"Description": "Fast and easy-to-use tools for exoplanet transit light curve modelling with Python. PyTransit implements the quadratic Mandel & Agol and the Gimenéz transit models with various optimisations, and offers both a simple interface for model evaluation and a lower-level access for fine-tuning the model.",
+		"License": ["GPLv2"],
+		"Categories": ["Kepler"],
+		"Update_Date": "2013-12-02"
 	},
 
 	{
-	"NASA Center": "Ames Research Center",
-	"Contributors": ["thomas.barclay@nasa.gov"],
-	"Software": "ktransit",
-	"External Link": "https://github.com/mrtommyb/ktransit",
-	"Public Code Repo": "https://github.com/mrtommyb/ktransit",
-	"Description": "This python package contains routines to create and/or fit a transiting planet model. The underlying model is a Fortran implementation of the Mandel & Agol (2002) limb darkened transit model. The code will calculate a full orbital model and eccentricity can be allowed to vary.",
-	"License": ["GPLv3"],
-	"Categories": ["Kepler"],
-	"Update_Date": "2015-12-12"
-	},
-	{
-	"NASA Center": "",
-	"Contributors": ["dfm"],
-	"Software": "kplr",
-	"External Link": "http://dan.iel.fm/kplr/",
-	"Public Code Repo": "https://github.com/dfm/kplr",
-	"Description": "kplr provides a lightweight Pythonic interface to the catalogs and data. Below, I’ll describe the features provided by kplr but to get things started, let’s see an example of how you would go about finding the published parameters of a KOI and download the light curve data.",
-	"License": ["MIT"],
-	"Categories": ["Kepler"],
-	"Update_Date": "2015-05-26"
-	},
-	{
-	"NASA Center": "",
-	"Contributors": ["dfm"],
-	"Software": "ketu",
-	"External Link": "https://github.com/dfm/ketu",
-	"Public Code Repo": "https://github.com/dfm/ketu",
-	"Description": "The search for transiting exoplanets in K2 data.",
-	"License": ["MIT"],
-	"Categories": ["Kepler"],
-	"Update_Date": "2015-05-26"
-	},
-	{
-	"NASA Center": "",
-	"Contributors": ["benjaminpope", "hpparvi"],
-	"Software": "k2ps",
-	"External Link": "https://github.com/hpparvi/k2ps",
-	"Public Code Repo": "https://github.com/hpparvi/k2ps",
-	"Description": "Oxford K2 planet search pipeline. Searches for transit-like signals from the k2sc-detrended light curves.",
-	"License": ["MIT"],
-	"Categories": ["Kepler"],
-	"Update_Date": "2016-06-10"
-	},
-	{
-	"NASA Center": "",
-	"Contributors": ["rodluger"],
-	"Software": "everest",
-	"External Link": "http://staff.washington.edu/rodluger/everest_docs/",
-	"Public Code Repo": "https://github.com/rodluger/everest",
-	"Description": "EPIC Variability Extraction and Removal for Exoplanet Science Targets: A pipeline for de-trending K2 light curves with pixel level decorrelation and Gaussian processes. Here you'll find the Python code used to generate the EVEREST catalog, as well as tools for accessing and interacting with the de-trended light curves.",
-	"License": ["MIT"],
-	"Categories": ["Kepler"],
-	"Update_Date": "2015-11-24"
-	},
-	{
-	"NASA Center": "Ames Research Center",
-	"Contributors": ["geert.barentsen@nasa.gov"],
-	"Software": "K2mosaic",
-	"External Link": "https://github.com/barentsen/k2mosaic",
-	"Public Code Repo": "https://github.com/barentsen/k2mosaic",
-	"Description": "K2mosaic is a command-line tool that makes it easy to combine CCD pixel data obtained by NASA's Kepler space telescope into wide-field images. The need for this tool arises from the fact that the two-wheeled extended Kepler mission, K2, observed large clusters and moving targets (e.g. planets, comets, and asteroids). ",
-	"License": ["MIT"],
-	"Categories": ["Kepler"],
-	"Update_Date": "2015-11-24"
-	},
-	{
-	"NASA Center": "Ames Research Center",
-	"Contributors": ["jessie.dotson@nasa.gov"],
-	"Software": "kadenza",
-	"External Link": "https://github.com/KeplerGO/kadenza",
-	"Public Code Repo": "https://github.com/KeplerGO/kadenza",
-	"Description": "Converts raw cadence target data from the Kepler space telescope into astronomer-friendly FITS files.",
-	"License": ["MIT"],
-	"Categories": ["Kepler"],
-	"Update_Date": "2015-11-24"
-	},
-	{
-	"NASA Center": "Ames Research Center",
-	"Contributors": ["jessie.dotson@nasa.gov"],
-	"Software": "K2ephem",
-	"External Link": "https://keplerscience.arc.nasa.gov/software.html#k2ephem",
-	"Public Code Repo": "https://github.com/KeplerGO/K2ephem",
-	"Description": "Command-line tool to check whether a Solar System body is (or was) observable by NASA's K2 mission",
-	"License": ["MIT"],
-	"Categories": ["Kepler"],
-	"Update_Date": "2015-11-24"
-	},
-	{
-	"NASA Center": "Ames Research Center",
-	"Contributors": ["jessie.dotson@nasa.gov"],
-	"Software": "K2fov",
-	"External Link": "https://keplerscience.arc.nasa.gov/software.html#k2fov",
-	"Public Code Repo": "https://github.com/KeplerGO/K2fov",
-	"Description": "The K2fov Python package allows users to check whether a target is in the field of view of K2. In particular, the package adds the K2onSilicon and K2findCampaigns tools to the command line, which allow the visibility of targets to be checked during one (K2onSilicon) or all (K2findCampaigns) campaigns, respectively.",
-	"License": ["MIT"],
-	"Categories": ["Kepler"],
-	"Update_Date": "2014-02-07"
-	},
-	{
-	"NASA Center": "",
-	"Contributors": ["chrislgarry@gmail.com"],
-	"Software": "Apollo-11",
-	"External Link": "https://github.com/chrislgarry/Apollo-11",
-	"Public Code Repo": "https://github.com/chrislgarry/Apollo-11",
-	"Description": "Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099)",
-	"License": [],
-	"Categories": ["Apollo", "guidance computer", "AGC"],
-	"Update_Date": "2016-07-23"
-	},
-{
-"NASA Center": "Marshall Space Flight Center",
-"Contributors": ["manil.maskey@nasa.gov"],
-"Software": "CMR",
-"External Link": "https://github.com/ghrcdaac/cmr",
-"Public Code Repo": "https://github.com/ghrcdaac/cmr",
-"Description": "Python client library that abstracts CMR (Common Metadata Repository) API calls for search, ingest, update, and deletion of collections and granules.",
-"License": ["NASA Open Source"],
-"Categories": ["CMR", "API client", "Common Metadata Repository"],
-"Update_Date": "2016-08-10"
-},
-{
-"NASA Center": "Langley Research Center",
-"Contributors": ["Brian.D.Killough@nasa.gov"],
-"Software": "Data_Cube_v2",
-"External Link": "https://github.com/ceos-seo/Data_Cube_v2",
-"Public Code Repo": "https://github.com/ceos-seo/Data_Cube_v2",
-"Description": "The CEOS Data Cube Platform provides a flexible model to address these needs. The CEOS Data Cube Platform is a data processing platform for Earth science data, with a focus on remote-sensing data.",
-"License": ["ALv2"],
-"Categories": ["Data cube", "ceos-seo"],
-"Update_Date": "2016-06-20"
-},
-{
-"NASA Center": "Langley Research Center",
-"Contributors": ["mrb364", "Jwely"],
-"Software": "M-SRM",
-"External Link": "https://github.com/NASA-DEVELOP/METRIC",
-"Public Code Repo": "https://github.com/NASA-DEVELOP/METRIC",
-"Description": "Modified Snowmelt Runoff model for forecasting snowmelt in central northern Chile.",
-"License": ["NASA Open Source"],
-"Categories": ["Snowmelt Runoff model", "NASA-DEVELOP"],
-"Update_Date": "2015-03-04"
-},
-{
-"NASA Center": "Langley Research Center",
-"Contributors": ["mrb364", "Jwely"],
-"Software": "METRIC",
-"External Link": "https://github.com/NASA-DEVELOP/METRIC",
-"Public Code Repo": "https://github.com/NASA-DEVELOP/METRIC",
-"Description": "METRIC was developed for estimating evapotranspiration from landsat imagery and weather station data. It includes a short tutorial on the download method of properly formatted weather data. The easiest way to interface with the METRIC model is to add the python toolbox file \"pyt\" in arcmap and follow the user prompts.",
-"License": ["NASA Open Source"],
-"Categories": ["evapotranspiration", "landsat imagery", "NASA-DEVELOP"],
-"Update_Date": "2015-09-21"
-},
-{
-"NASA Center": "Langley Research Center",
-"Contributors": ["mrb364", "Jwely", "vickiely", "Smewhen"],
-"Software": "DSAT",
-"External Link": "https://github.com/NASA-DEVELOP/DSAT",
-"Public Code Repo": "https://github.com/NASA-DEVELOP/DSAT",
-"Description": "Drought Severity Assessment Tool (formerly Drought Severity Assessment - Decision Support Tool)",
-"License": ["NASA Open Source"],
-"Categories": ["Drought", "water resources", "NASA-DEVELOP"],
-"Update_Date": "2016-06-16"
-},
-	{
-"NASA Center": "Langley Research Center",
-"Contributors": ["mrb364", "Jwely"],
-"Software": "LaSTMoV",
-"External Link": "https://github.com/NASA-DEVELOP/LaSTMoV",
-"Public Code Repo": "https://github.com/NASA-DEVELOP/LaSTMoV",
-"Description": "Land Surface Temperature MODIS Visualization (LaSTMoV). Used to create heat vulnerability maps for Maricopa County using MYD11A1 V005 data.",
-"License": ["NASA Open Source"],
-"Categories": ["Land Surface Temperature", "MODIS", "Visualization", "NASA-DEVELOP"],
-"Update_Date": "2016-08-01"
-},
-	{
-"NASA Center": "Goddard Space Flight Center",
-"Contributors": ["aakash.ahamed@nasa.gov"],
-"Software": "DRIP - SLIP",
-"External Link": "https://github.com/NASA-DEVELOP/DRIP-SLIP",
-"Public Code Repo": "https://github.com/NASA-DEVELOP/DRIP-SLIP",
-"Description": "Landslide identification and extreme precipitation monitoring software. Detect spectral changes from Landsat imagery that may indicate landslides in Nepal.",
-"License": ["NASA Open Source"],
-"Categories": ["landslide", "precipitation monitoring", "LANDSAT", "NASA-DEVELOP"],
-"Update_Date": "2016-06-24"
-},
-	{
-	"NASA Center": "Langley Research Center",
-	"Contributors": ["Jwely"],
-	"Software": "dnppy",
-	"External Link": "https://nasa-develop.github.io/dnppy/",
-	"Public Code Repo": "https://github.com/NASA-DEVELOP/dnppy",
-	"Description": "DEVELOP National Program Python package for use with NASA data and GIS. dnppy is a collection of functions and classes for download, format, and analysis of NASA satelite data and anciliary NOAA datasets",
-	"License": ["NASA Open Source"],
-	"Categories": ["GIS", "NOAA", "satellite DATA"],
-	"Update_Date": "2015-01-15"
-	},
-{
-"NASA Center": "Langley Research Center",
-"Contributors": ["Seiji.Kato@NASA.gov"],
-"Software": "CERES/ARM Validation Experiment (CAVE)",
-"External Link": "http://www-cave.larc.nasa.gov/index.html",
-"Public Code Repo": "http://www-cave.larc.nasa.gov/LFLcode/Ed4_LaRC_FuLiou201501.tar.gz",
-"Description": "Data collected in the CAVE effort are meant for use in validation studies of Clouds & The Earths Radiant Energy System (CERES) instruments operating on the Suomi NPP and Earth Observing Systems(EOS)Terra & Aqua & Tropical Rainfall Measurement Mission (TRMM) satellites.",
-"License": ["NASA Open Source"],
-"Categories": ["validation", "CERES", "ARM"],
-"Update_Date": "2014-09-05"
-},
-{
-	"NASA Center": "Goddard Space Flight Center",
-	"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
-	"Software": "Memory Manager",
-	"External Link": "https://sourceforge.net/projects/cfs-mm/",
-	"Public Code Repo": "https://sourceforge.net/p/cfs-mm/code/ref/master/",
-	"Description": "The Memory Manager application (MM) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. ",
-	"License": ["NASA Open Source"],
-	"Categories": ["CFE", "CFS", "Core Flight System", "memory management"],
-	"Update_Date": "2015-02-27"
-},
-{
-"NASA Center": "Goddard Space Flight Center",
-"Contributors": ["dalia.b.kirschbaum@nasa.gov"],
-"Software": "Landslide Hazard Assessment for Situational Awareness (LHASA)",
-"External Link": "http://ojo-streamer.herokuapp.com/",
-"Public Code Repo": "https://github.com/vightel/ojo-processing",
-"Description": "Training materials on how to generate various products from NASA sources (and others) and store them on the cloud (AWS S3). Use the Open GeoSocial API for data distribution, visualization, discovery and sharing via social networks",
-"License": ["ALv2"],
-"Categories": ["earth sciences", "landslides"],
-"Update_Date": "2015-03-04"
-},
-{
-"NASA Center": "Goddard Space Flight Center",
-"Contributors": ["dalia.b.kirschbaum@nasa.gov"],
-"Software": "OJO Bot",
-"External Link": "https://github.com/vightel/ojo-bot",
-"Public Code Repo": "https://github.com/vightel/ojo-bot",
-"Description": "This is a prototype data processor/publisher for NASA.",
-"License": ["ALv2"],
-"Categories": ["earth sciences", "landslides"],
-"Update_Date": "2015-03-04"
-},
-	{
-"NASA Center": "Goddard Space Flight Center",
-"Contributors": ["eric.t.stoneking@nasa.gov"],
-"Software": "42",
-"External Link": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
-"Public Code Repo": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
-"Description": "Simulation for spacecraft attitude control system analysis and design",
-"License": ["NASA Open Source"],
-"Categories": ["simulator", "attitude control", "orbital dynamics"],
-"Update_Date": "2015-03-04"
-},
-{
-"NASA Center": "Goddard Space Flight Center",
-"Contributors": ["Steven.J.Kempler@nasa.gov"],
-"Software": "Simple, Scalable, Script-based Science Processing Archive (S4PA)",
-"External Link": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
-"Public Code Repo": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
-"Description": "The Simple, Scalable, Script-Based, Science Product Archive (S4PA) is a radically simplified data archive architecture for supporting our GES DISC users with online access to data. S4PA is already being used operationally and its deployment will beexpanded in the months and years to come.",
-"License": ["NASA Open Source"],
-"Categories": ["data archive", "GES"],
-"Update_Date": "2011-01-13"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["dimitra.giannakopoulou@nasa.gov"],
-"Software": "PSYCO: A Predicate-based Symbolic Compositional Reasoning environment",
-"External Link": "https://ti.arc.nasa.gov/m/groups/rse/papers/Giannakopoulou-CAV12.pdf",
-"Public Code Repo": "https://github.com/psycopaths/psyco",
-"Description": "jpf-psyco generates symbolic interfaces for software components using concolic execution.",
-"License": ["ALv2"],
-"Categories": ["symbolic learning", "temporal interfaces", "component methods"],
-"Update_Date": "2015-09-17"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["Paul.Kolano@nasa.gov"],
-"Software": "Restriping Tools for Lustre (Retools)",
-"External Link": "https://pkolano.github.io/projects/retools.html",
-"Public Code Repo": "https://github.com/pkolano/retools",
-"Description": "Retools is a set of modifications to the commonly used open source utilities bzip2, gzip, rsync, and tar that automatically selects the Lustre stripe count for created and/or extracted files according to the sizes of the files involved. By striping large files over a higher number of physical disks and small files over a lower number, aggregate I/O bandwidth for large files is maximized and the impact to the file system due to small files is minimized. These tools support the typical workflow in high performance computing environments where users compress large files and/or aggregate multiple small files into a single archive during remote transfers. Once uncompressed/unarchived into their original form, these files will be optimally striped for subsequent operations.",
-"License": ["NASA Open Source"],
-"Categories": ["utility", "disk striping", "Lustre file systems"],
-"Update_Date": "2014-01-28"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["stereo-pipeline@lists.nasa.gov",
-	"oleg-alexandrov",
-"ScottMcMichael",
-"broxtronix",
-"novas0x2a",
-"khusmann",
-"ljexplore",
-"anefian",
-"SmithB",
-"dshean",
-"trey0",
-"mstyer",
-"rbeyer",
-"harguess",
-"saravkin",
-"jlaura"],
-"Software": "Neo-Geography Toolkit (NGT)",
-"External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/ngt/stereo/",
-"Public Code Repo": "https://github.com/neogeographytoolkit/stereopipeline",
-"Description": "The NASA Ames Stereo Pipeline (ASP) is a suite of free and open source automated geodesy and stereogrammetry tools designed for processing stereo imagery captured from satellites (around Earth and other planets), robotic rovers, aerial cameras, and historical imagery, with and without accurate camera pose information. It produces cartographic products, including digital elevation models (DEMs), ortho-projected imagery, 3D models, and bundle-adjusted networks of cameras. ASP's data products are suitable for science analysis, mission planning, and public outreach.",
-"License": ["ALv2"],
-"Categories": ["geodesy", "stereogrammetry", "tools", "satellites imagery"],
-"Update_Date": "2012-05-11"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["maria.bualat@nasa.gov"],
-"Software": "Visual Environment for Remote Virtual Exploration (VERVE)",
-"External Link": "https://sourceforge.net/p/irg-verve/wiki/VERVE%20Wiki%20Home/",
-"Public Code Repo": "https://sourceforge.net/p/irg-verve/code/",
-"Description": "VERVE (Visual Environment for Remote Virtual Exploration) is a collection of software components for visualizing, monitoring, and commanding robots in remote environments. VERVE is developed by the Intelligent Robotics Group at NASA Ames Research Center and is part of the NASA Ensemble software ecosystem.",
-"License": ["ALv2"],
-"Categories": ["virtual environment", "robots"],
-"Update_Date": "2011-09-16"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["paul.kolano@nasa.gov"],
-"Software": "Multi-Threaded/Multi-Node Utilities (Mutil)",
-"External Link": "https://pkolano.github.io/projects/mutil.html",
-"Public Code Repo": "https://github.com/pkolano/mutil",
-"Description": "Copies between local file systems are a daily activity. Files are constantly being moved to locations accessible by systems with different functions and/or storage limits, being backed up and restored, or being moved due to upgraded and/or replaced hardware. Hence, maximizing the performance of copies as well as checksums that ensure the integrity of copies is desirable to minimize the turnaround time of user and administrator activities. Modern parallel file systems provide very high performance for such operations using a variety of techniques such as striping files across multiple disks to increase aggregate I/O bandwidth and spreading disks across multiple servers to increase aggregate interconnect bandwidth.",
-"License": ["LGPL"],
-"Categories": ["system administration", "file copying"],
-"Update_Date": "2010-09-27"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["corina.s.pasareanu@nasa.gov"],
-"Software": "Symbolic PathFinder (SPF)",
-"External Link": "http://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-symbc",
-"Public Code Repo": "http://babelfish.arc.nasa.gov/hg/jpf/jpf-symbc",
-"Description": "Symbolic PathFinder (SPF) combines symbolic execution with model checking and constraint solving for test case generation. In this tool, programs are executed on symbolic inputs representing multiple concrete inputs. Values of variables are represented as numeric constraints, generated from analysis of the code structure. These constraints are then solved to generate test inputs guaranteed to reach that part of code. Essentially SPF performs symbolic execution for Java programs at the bytecode level. Symbolic PathFinder uses the analysis engine of the Ames JPF model checking tool (i.e. jpf-core).",
-"License": ["NASA Open Source"],
-"Categories": ["symbolic execution", "model checking", "constraint solving", "Java"],
-"Update_Date": "2015-02-27"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["peter.c.mehlitz@nasa.gov"],
-"Software": "nu-Anomica",
-"External Link": "https://ti.arc.nasa.gov/opensource/projects/nu-anomica/",
-"Public Code Repo": "https://ti.arc.nasa.gov/opensource/projects/nu-anomica/",
-"Description": "One-class nu-Support Vector machine (SVMs) learning technique maps the input data into a much higher dimensional space and then uses a small portion of the training data (support vectors) to parametrize the decision surface that can linearly separate nu fraction of training points (labeled as anomalies) from the rest.",
-"License": ["NASA Open Source"],
-"Categories": ["SVM", "Support Vector Machine"],
-"Update_Date": "2009-11-06"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["peter.c.mehlitz@nasa.gov"],
-"Software": "Inverse Reinforcement Learning (IRL) Augmentation for PyMDPToolbox",
-"External Link": "http://nasarace.github.io/race/about.html",
-"Public Code Repo": "https://github.com/NASARace/race",
-"Description": "The Runtime for Airspace Concept Evaluation (RACE) is a software architecture and framework to build configurable, highly concurrent and distributed message based systems. Among other things, RACE can be used to rapidly build simulations that span several machines (including synchronized displays), interface existing hardware simulators and other live data feeds, and incorporate sophisticated visualization components such as NASA’s WorldWind viewer.",
-"License": ["ALv2"],
-"Categories": ["Airspace Simulation"],
-"Update_Date": "2016-04-26"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["michael.bloem@nasa.gov"],
-"Software": "Inverse Reinforcement Learning (IRL) Augmentation for PyMDPToolbox",
-"External Link": "https://github.com/nasa/pymdptoolbox",
-"Public Code Repo": "https://github.com/nasa/pymdptoolbox",
-"Description": "The MDP toolbox for Python by Sam Cordwell provides classes and functions for the resolution of descrete-time Markov Decision Processes. The list of algorithms that have been implemented includes backwards induction, linear programming, policy iteration, q-learning and value iteration along with several variations.",
-"License": ["NASA Open Source"],
-"Categories": ["Markov Decision Process", "MDP", "Decision Making", "IRL"],
-"Update_Date": "2015-02-27"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["terry.fong@nasa.gov"],
-"Software": "xGDS",
-"External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/xgds/",
-"Public Code Repo": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/xgds/",
-"Description": "xGDS (Exploration Ground Data Systems) synthesizes real world data (from sensors, robots, ROVs, mobile devices, etc) and human observations into rich, digital maps and displays for analysis, decision making, and collaboration. xGDS evolved from our work developing tools to control, monitor and collect data from autonomous rovers supporting NASA's terrestrial field science research. xGDS is a highly collaborative, interactive suite of web software.",
-"License": ["ALv2"],
-"Categories": ["Ground Data Systems", "Maps", "Decision Making"],
-"Update_Date": "2015-02-27"
-},
-{
-"NASA Center": "Langley Research Center",
-"Contributors": ["cesar.a.munoz@nasa.gov"],
-"Software": "ICAROUS",
-"External Link": "https://shemesh.larc.nasa.gov/fm/ICAROUS/",
-"Public Code Repo": "http://github.com/nasa/icarous",
-"Description": "ICAROUS is a software architecture that enables the robust integration of mission specific software modules and highly assured core software modules for building safety-centric autonomous unmanned aircraft applications.",
-"License": ["NASA Open Source"],
-"Categories": ["UAS", "Geofencing", "Detect and Avoid"],
-"Update_Date": "2016-08-19"
-},
-{
-"NASA Center": "Langley Research Center",
-"Contributors": ["cesar.a.munoz@nasa.gov"],
-"Software": "PolyCARP",
-"External Link": "https://shemesh.larc.nasa.gov/fm/PolyCARP",
-"Public Code Repo": "http://github.com/nasa/polycarp",
-"Description": "PolyCARP is a package of algorithms, including both their formal models and software implementations, for computing containment, collision, resolution, and recovery information for polygons. The intended applications of PolyCARP are related, but not limited, to safety critical systems in air traffic management.",
-"License": ["NASA Open Source"],
-"Categories": ["UAV", "Geofencing"],
-"Update_Date": "2016-09-14"
-},
-{
-"NASA Center": "Langley Research Center",
-"Contributors": ["cesar.a.munoz@nasa.gov"],
-"Software": "Kodiak",
-"External Link": "https://shemesh.larc.nasa.gov/fm/Kodiak/",
-"Public Code Repo": "http://github.com/nasa/kodiak",
-"Description": "Kodiak is a C++ library that implements a generic branch and bound algorithm for rigorous numerical approximations. Particular instances of the branch and bound algorithm allow the user to refine and isolate solutions to systems of nonlinear equations and inequalities, global optimization problems, and bifurcation sets for systems of ODEs. Kodiak utilizes interval arithmetic (via the filib++ library) and Bernstein enclosure (for polynomials and rational functions) as self-validating enclosure methods. Symbolic operations support procedures such as automatic partial differentiation.",
-"License": ["NASA Open Source"],
-"Categories": ["Global Optimization", "Rigurous Polynomial Approximations", "Interval Arithmetic", "Non-linear Arithmetic"],
-"Update_Date": "2014-05-02"
-},
-{
-"NASA Center": "Langley Research Center",
-"Contributors": ["cesar.a.munoz@nasa.gov"],
-"Software": "DAIDALUS",
-"External Link": "https://shemesh.larc.nasa.gov/fm/DAIDALUS/",
-"Public Code Repo": "http://github.com/nasa/wellclear",
-"Description": "DAIDALUS is a reference implementation of a detect and avoid concept intended to support the integration of Unmanned Aircraft Systems into civil airspace. The WellClear repository includes definitions in Matlab of a family of well-clear violation volumes.",
-"License": ["NASA Open Source"],
-"Categories": ["UAS", "Detect and Avoid", "Well-Clear"],
-"Update_Date": "2014-04-23"
-}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["thomas.barclay@nasa.gov"],
+		"Software": "ktransit",
+		"External Link": "https://github.com/mrtommyb/ktransit",
+		"Public Code Repo": "https://github.com/mrtommyb/ktransit",
+		"Description": "This python package contains routines to create and/or fit a transiting planet model. The underlying model is a Fortran implementation of the Mandel & Agol (2002) limb darkened transit model. The code will calculate a full orbital model and eccentricity can be allowed to vary.",
+		"License": ["GPLv3"],
+		"Categories": ["Kepler"],
+		"Update_Date": "2015-12-12"
+	}, {
+		"NASA Center": "",
+		"Contributors": ["dfm"],
+		"Software": "kplr",
+		"External Link": "http://dan.iel.fm/kplr/",
+		"Public Code Repo": "https://github.com/dfm/kplr",
+		"Description": "kplr provides a lightweight Pythonic interface to the catalogs and data. Below, I’ll describe the features provided by kplr but to get things started, let’s see an example of how you would go about finding the published parameters of a KOI and download the light curve data.",
+		"License": ["MIT"],
+		"Categories": ["Kepler"],
+		"Update_Date": "2015-05-26"
+	}, {
+		"NASA Center": "",
+		"Contributors": ["dfm"],
+		"Software": "ketu",
+		"External Link": "https://github.com/dfm/ketu",
+		"Public Code Repo": "https://github.com/dfm/ketu",
+		"Description": "The search for transiting exoplanets in K2 data.",
+		"License": ["MIT"],
+		"Categories": ["Kepler"],
+		"Update_Date": "2015-05-26"
+	}, {
+		"NASA Center": "",
+		"Contributors": ["benjaminpope", "hpparvi"],
+		"Software": "k2ps",
+		"External Link": "https://github.com/hpparvi/k2ps",
+		"Public Code Repo": "https://github.com/hpparvi/k2ps",
+		"Description": "Oxford K2 planet search pipeline. Searches for transit-like signals from the k2sc-detrended light curves.",
+		"License": ["MIT"],
+		"Categories": ["Kepler"],
+		"Update_Date": "2016-06-10"
+	}, {
+		"NASA Center": "",
+		"Contributors": ["rodluger"],
+		"Software": "everest",
+		"External Link": "http://staff.washington.edu/rodluger/everest_docs/",
+		"Public Code Repo": "https://github.com/rodluger/everest",
+		"Description": "EPIC Variability Extraction and Removal for Exoplanet Science Targets: A pipeline for de-trending K2 light curves with pixel level decorrelation and Gaussian processes. Here you'll find the Python code used to generate the EVEREST catalog, as well as tools for accessing and interacting with the de-trended light curves.",
+		"License": ["MIT"],
+		"Categories": ["Kepler"],
+		"Update_Date": "2015-11-24"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["geert.barentsen@nasa.gov"],
+		"Software": "K2mosaic",
+		"External Link": "https://github.com/barentsen/k2mosaic",
+		"Public Code Repo": "https://github.com/barentsen/k2mosaic",
+		"Description": "K2mosaic is a command-line tool that makes it easy to combine CCD pixel data obtained by NASA's Kepler space telescope into wide-field images. The need for this tool arises from the fact that the two-wheeled extended Kepler mission, K2, observed large clusters and moving targets (e.g. planets, comets, and asteroids). ",
+		"License": ["MIT"],
+		"Categories": ["Kepler"],
+		"Update_Date": "2015-11-24"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["jessie.dotson@nasa.gov"],
+		"Software": "kadenza",
+		"External Link": "https://github.com/KeplerGO/kadenza",
+		"Public Code Repo": "https://github.com/KeplerGO/kadenza",
+		"Description": "Converts raw cadence target data from the Kepler space telescope into astronomer-friendly FITS files.",
+		"License": ["MIT"],
+		"Categories": ["Kepler"],
+		"Update_Date": "2015-11-24"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["jessie.dotson@nasa.gov"],
+		"Software": "K2ephem",
+		"External Link": "https://keplerscience.arc.nasa.gov/software.html#k2ephem",
+		"Public Code Repo": "https://github.com/KeplerGO/K2ephem",
+		"Description": "Command-line tool to check whether a Solar System body is (or was) observable by NASA's K2 mission",
+		"License": ["MIT"],
+		"Categories": ["Kepler"],
+		"Update_Date": "2015-11-24"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["jessie.dotson@nasa.gov"],
+		"Software": "K2fov",
+		"External Link": "https://keplerscience.arc.nasa.gov/software.html#k2fov",
+		"Public Code Repo": "https://github.com/KeplerGO/K2fov",
+		"Description": "The K2fov Python package allows users to check whether a target is in the field of view of K2. In particular, the package adds the K2onSilicon and K2findCampaigns tools to the command line, which allow the visibility of targets to be checked during one (K2onSilicon) or all (K2findCampaigns) campaigns, respectively.",
+		"License": ["MIT"],
+		"Categories": ["Kepler"],
+		"Update_Date": "2014-02-07"
+	}, {
+		"NASA Center": "",
+		"Contributors": ["chrislgarry@gmail.com"],
+		"Software": "Apollo-11",
+		"External Link": "https://github.com/chrislgarry/Apollo-11",
+		"Public Code Repo": "https://github.com/chrislgarry/Apollo-11",
+		"Description": "Original Apollo 11 guidance computer (AGC) source code for Command Module (Comanche055) and Lunar Module (Luminary099)",
+		"License": [],
+		"Categories": ["Apollo", "guidance computer", "AGC"],
+		"Update_Date": "2016-07-23"
+	}, {
+		"NASA Center": "Marshall Space Flight Center",
+		"Contributors": ["manil.maskey@nasa.gov"],
+		"Software": "CMR",
+		"External Link": "https://github.com/ghrcdaac/cmr",
+		"Public Code Repo": "https://github.com/ghrcdaac/cmr",
+		"Description": "Python client library that abstracts CMR (Common Metadata Repository) API calls for search, ingest, update, and deletion of collections and granules.",
+		"License": ["NASA Open Source"],
+		"Categories": ["CMR", "API client", "Common Metadata Repository"],
+		"Update_Date": "2016-08-10"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["Brian.D.Killough@nasa.gov"],
+		"Software": "Data_Cube_v2",
+		"External Link": "https://github.com/ceos-seo/Data_Cube_v2",
+		"Public Code Repo": "https://github.com/ceos-seo/Data_Cube_v2",
+		"Description": "The CEOS Data Cube Platform provides a flexible model to address these needs. The CEOS Data Cube Platform is a data processing platform for Earth science data, with a focus on remote-sensing data.",
+		"License": ["ALv2"],
+		"Categories": ["Data cube", "ceos-seo"],
+		"Update_Date": "2016-06-20"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["mrb364", "Jwely"],
+		"Software": "M-SRM",
+		"External Link": "https://github.com/NASA-DEVELOP/METRIC",
+		"Public Code Repo": "https://github.com/NASA-DEVELOP/METRIC",
+		"Description": "Modified Snowmelt Runoff model for forecasting snowmelt in central northern Chile.",
+		"License": ["NASA Open Source"],
+		"Categories": ["Snowmelt Runoff model", "NASA-DEVELOP"],
+		"Update_Date": "2015-03-04"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["mrb364", "Jwely"],
+		"Software": "METRIC",
+		"External Link": "https://github.com/NASA-DEVELOP/METRIC",
+		"Public Code Repo": "https://github.com/NASA-DEVELOP/METRIC",
+		"Description": "METRIC was developed for estimating evapotranspiration from landsat imagery and weather station data. It includes a short tutorial on the download method of properly formatted weather data. The easiest way to interface with the METRIC model is to add the python toolbox file \"pyt\" in arcmap and follow the user prompts.",
+		"License": ["NASA Open Source"],
+		"Categories": ["evapotranspiration", "landsat imagery", "NASA-DEVELOP"],
+		"Update_Date": "2015-09-21"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["mrb364", "Jwely", "vickiely", "Smewhen"],
+		"Software": "DSAT",
+		"External Link": "https://github.com/NASA-DEVELOP/DSAT",
+		"Public Code Repo": "https://github.com/NASA-DEVELOP/DSAT",
+		"Description": "Drought Severity Assessment Tool (formerly Drought Severity Assessment - Decision Support Tool)",
+		"License": ["NASA Open Source"],
+		"Categories": ["Drought", "water resources", "NASA-DEVELOP"],
+		"Update_Date": "2016-06-16"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["mrb364", "Jwely"],
+		"Software": "LaSTMoV",
+		"External Link": "https://github.com/NASA-DEVELOP/LaSTMoV",
+		"Public Code Repo": "https://github.com/NASA-DEVELOP/LaSTMoV",
+		"Description": "Land Surface Temperature MODIS Visualization (LaSTMoV). Used to create heat vulnerability maps for Maricopa County using MYD11A1 V005 data.",
+		"License": ["NASA Open Source"],
+		"Categories": ["Land Surface Temperature", "MODIS", "Visualization", "NASA-DEVELOP"],
+		"Update_Date": "2016-08-01"
+	}, {
+		"NASA Center": "Goddard Space Flight Center",
+		"Contributors": ["aakash.ahamed@nasa.gov"],
+		"Software": "DRIP - SLIP",
+		"External Link": "https://github.com/NASA-DEVELOP/DRIP-SLIP",
+		"Public Code Repo": "https://github.com/NASA-DEVELOP/DRIP-SLIP",
+		"Description": "Landslide identification and extreme precipitation monitoring software. Detect spectral changes from Landsat imagery that may indicate landslides in Nepal.",
+		"License": ["NASA Open Source"],
+		"Categories": ["landslide", "precipitation monitoring", "LANDSAT", "NASA-DEVELOP"],
+		"Update_Date": "2016-06-24"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["Jwely"],
+		"Software": "dnppy",
+		"External Link": "https://nasa-develop.github.io/dnppy/",
+		"Public Code Repo": "https://github.com/NASA-DEVELOP/dnppy",
+		"Description": "DEVELOP National Program Python package for use with NASA data and GIS. dnppy is a collection of functions and classes for download, format, and analysis of NASA satelite data and anciliary NOAA datasets",
+		"License": ["NASA Open Source"],
+		"Categories": ["GIS", "NOAA", "satellite DATA"],
+		"Update_Date": "2015-01-15"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["Seiji.Kato@NASA.gov"],
+		"Software": "CERES/ARM Validation Experiment (CAVE)",
+		"External Link": "http://www-cave.larc.nasa.gov/index.html",
+		"Public Code Repo": "http://www-cave.larc.nasa.gov/LFLcode/Ed4_LaRC_FuLiou201501.tar.gz",
+		"Description": "Data collected in the CAVE effort are meant for use in validation studies of Clouds & The Earths Radiant Energy System (CERES) instruments operating on the Suomi NPP and Earth Observing Systems(EOS)Terra & Aqua & Tropical Rainfall Measurement Mission (TRMM) satellites.",
+		"License": ["NASA Open Source"],
+		"Categories": ["validation", "CERES", "ARM"],
+		"Update_Date": "2014-09-05"
+	}, {
+		"NASA Center": "Goddard Space Flight Center",
+		"Contributors": ["gsfc-softwarerelease@mail.nasa.gov"],
+		"Software": "Memory Manager",
+		"External Link": "https://sourceforge.net/projects/cfs-mm/",
+		"Public Code Repo": "https://sourceforge.net/p/cfs-mm/code/ref/master/",
+		"Description": "The Memory Manager application (MM) is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS. ",
+		"License": ["NASA Open Source"],
+		"Categories": ["CFE", "CFS", "Core Flight System", "memory management"],
+		"Update_Date": "2015-02-27"
+	}, {
+		"NASA Center": "Goddard Space Flight Center",
+		"Contributors": ["dalia.b.kirschbaum@nasa.gov"],
+		"Software": "Landslide Hazard Assessment for Situational Awareness (LHASA)",
+		"External Link": "http://ojo-streamer.herokuapp.com/",
+		"Public Code Repo": "https://github.com/vightel/ojo-processing",
+		"Description": "Training materials on how to generate various products from NASA sources (and others) and store them on the cloud (AWS S3). Use the Open GeoSocial API for data distribution, visualization, discovery and sharing via social networks",
+		"License": ["ALv2"],
+		"Categories": ["earth sciences", "landslides"],
+		"Update_Date": "2015-03-04"
+	}, {
+		"NASA Center": "Goddard Space Flight Center",
+		"Contributors": ["dalia.b.kirschbaum@nasa.gov"],
+		"Software": "OJO Bot",
+		"External Link": "https://github.com/vightel/ojo-bot",
+		"Public Code Repo": "https://github.com/vightel/ojo-bot",
+		"Description": "This is a prototype data processor/publisher for NASA.",
+		"License": ["ALv2"],
+		"Categories": ["earth sciences", "landslides"],
+		"Update_Date": "2015-03-04"
+	}, {
+		"NASA Center": "Goddard Space Flight Center",
+		"Contributors": ["eric.t.stoneking@nasa.gov"],
+		"Software": "42",
+		"External Link": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+		"Public Code Repo": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+		"Description": "Simulation for spacecraft attitude control system analysis and design",
+		"License": ["NASA Open Source"],
+		"Categories": ["simulator", "attitude control", "orbital dynamics"],
+		"Update_Date": "2015-03-04"
+	}, {
+		"NASA Center": "Goddard Space Flight Center",
+		"Contributors": ["Steven.J.Kempler@nasa.gov"],
+		"Software": "Simple, Scalable, Script-based Science Processing Archive (S4PA)",
+		"External Link": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+		"Public Code Repo": "http://disc.sci.gsfc.nasa.gov/additional/techlab/s4pa",
+		"Description": "The Simple, Scalable, Script-Based, Science Product Archive (S4PA) is a radically simplified data archive architecture for supporting our GES DISC users with online access to data. S4PA is already being used operationally and its deployment will beexpanded in the months and years to come.",
+		"License": ["NASA Open Source"],
+		"Categories": ["data archive", "GES"],
+		"Update_Date": "2011-01-13"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["dimitra.giannakopoulou@nasa.gov"],
+		"Software": "PSYCO: A Predicate-based Symbolic Compositional Reasoning environment",
+		"External Link": "https://ti.arc.nasa.gov/m/groups/rse/papers/Giannakopoulou-CAV12.pdf",
+		"Public Code Repo": "https://github.com/psycopaths/psyco",
+		"Description": "jpf-psyco generates symbolic interfaces for software components using concolic execution.",
+		"License": ["ALv2"],
+		"Categories": ["symbolic learning", "temporal interfaces", "component methods"],
+		"Update_Date": "2015-09-17"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["Paul.Kolano@nasa.gov"],
+		"Software": "Restriping Tools for Lustre (Retools)",
+		"External Link": "https://pkolano.github.io/projects/retools.html",
+		"Public Code Repo": "https://github.com/pkolano/retools",
+		"Description": "Retools is a set of modifications to the commonly used open source utilities bzip2, gzip, rsync, and tar that automatically selects the Lustre stripe count for created and/or extracted files according to the sizes of the files involved. By striping large files over a higher number of physical disks and small files over a lower number, aggregate I/O bandwidth for large files is maximized and the impact to the file system due to small files is minimized. These tools support the typical workflow in high performance computing environments where users compress large files and/or aggregate multiple small files into a single archive during remote transfers. Once uncompressed/unarchived into their original form, these files will be optimally striped for subsequent operations.",
+		"License": ["NASA Open Source"],
+		"Categories": ["utility", "disk striping", "Lustre file systems"],
+		"Update_Date": "2014-01-28"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["stereo-pipeline@lists.nasa.gov",
+			"oleg-alexandrov",
+			"ScottMcMichael",
+			"broxtronix",
+			"novas0x2a",
+			"khusmann",
+			"ljexplore",
+			"anefian",
+			"SmithB",
+			"dshean",
+			"trey0",
+			"mstyer",
+			"rbeyer",
+			"harguess",
+			"saravkin",
+			"jlaura"
+		],
+		"Software": "Neo-Geography Toolkit (NGT)",
+		"External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/ngt/stereo/",
+		"Public Code Repo": "https://github.com/neogeographytoolkit/stereopipeline",
+		"Description": "The NASA Ames Stereo Pipeline (ASP) is a suite of free and open source automated geodesy and stereogrammetry tools designed for processing stereo imagery captured from satellites (around Earth and other planets), robotic rovers, aerial cameras, and historical imagery, with and without accurate camera pose information. It produces cartographic products, including digital elevation models (DEMs), ortho-projected imagery, 3D models, and bundle-adjusted networks of cameras. ASP's data products are suitable for science analysis, mission planning, and public outreach.",
+		"License": ["ALv2"],
+		"Categories": ["geodesy", "stereogrammetry", "tools", "satellites imagery"],
+		"Update_Date": "2012-05-11"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["maria.bualat@nasa.gov"],
+		"Software": "Visual Environment for Remote Virtual Exploration (VERVE)",
+		"External Link": "https://sourceforge.net/p/irg-verve/wiki/VERVE%20Wiki%20Home/",
+		"Public Code Repo": "https://sourceforge.net/p/irg-verve/code/",
+		"Description": "VERVE (Visual Environment for Remote Virtual Exploration) is a collection of software components for visualizing, monitoring, and commanding robots in remote environments. VERVE is developed by the Intelligent Robotics Group at NASA Ames Research Center and is part of the NASA Ensemble software ecosystem.",
+		"License": ["ALv2"],
+		"Categories": ["virtual environment", "robots"],
+		"Update_Date": "2011-09-16"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["paul.kolano@nasa.gov"],
+		"Software": "Multi-Threaded/Multi-Node Utilities (Mutil)",
+		"External Link": "https://pkolano.github.io/projects/mutil.html",
+		"Public Code Repo": "https://github.com/pkolano/mutil",
+		"Description": "Copies between local file systems are a daily activity. Files are constantly being moved to locations accessible by systems with different functions and/or storage limits, being backed up and restored, or being moved due to upgraded and/or replaced hardware. Hence, maximizing the performance of copies as well as checksums that ensure the integrity of copies is desirable to minimize the turnaround time of user and administrator activities. Modern parallel file systems provide very high performance for such operations using a variety of techniques such as striping files across multiple disks to increase aggregate I/O bandwidth and spreading disks across multiple servers to increase aggregate interconnect bandwidth.",
+		"License": ["LGPL"],
+		"Categories": ["system administration", "file copying"],
+		"Update_Date": "2010-09-27"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["corina.s.pasareanu@nasa.gov"],
+		"Software": "Symbolic PathFinder (SPF)",
+		"External Link": "http://babelfish.arc.nasa.gov/trac/jpf/wiki/projects/jpf-symbc",
+		"Public Code Repo": "http://babelfish.arc.nasa.gov/hg/jpf/jpf-symbc",
+		"Description": "Symbolic PathFinder (SPF) combines symbolic execution with model checking and constraint solving for test case generation. In this tool, programs are executed on symbolic inputs representing multiple concrete inputs. Values of variables are represented as numeric constraints, generated from analysis of the code structure. These constraints are then solved to generate test inputs guaranteed to reach that part of code. Essentially SPF performs symbolic execution for Java programs at the bytecode level. Symbolic PathFinder uses the analysis engine of the Ames JPF model checking tool (i.e. jpf-core).",
+		"License": ["NASA Open Source"],
+		"Categories": ["symbolic execution", "model checking", "constraint solving", "Java"],
+		"Update_Date": "2015-02-27"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["peter.c.mehlitz@nasa.gov"],
+		"Software": "nu-Anomica",
+		"External Link": "https://ti.arc.nasa.gov/opensource/projects/nu-anomica/",
+		"Public Code Repo": "https://ti.arc.nasa.gov/opensource/projects/nu-anomica/",
+		"Description": "One-class nu-Support Vector machine (SVMs) learning technique maps the input data into a much higher dimensional space and then uses a small portion of the training data (support vectors) to parametrize the decision surface that can linearly separate nu fraction of training points (labeled as anomalies) from the rest.",
+		"License": ["NASA Open Source"],
+		"Categories": ["SVM", "Support Vector Machine"],
+		"Update_Date": "2009-11-06"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["peter.c.mehlitz@nasa.gov"],
+		"Software": "Inverse Reinforcement Learning (IRL) Augmentation for PyMDPToolbox",
+		"External Link": "http://nasarace.github.io/race/about.html",
+		"Public Code Repo": "https://github.com/NASARace/race",
+		"Description": "The Runtime for Airspace Concept Evaluation (RACE) is a software architecture and framework to build configurable, highly concurrent and distributed message based systems. Among other things, RACE can be used to rapidly build simulations that span several machines (including synchronized displays), interface existing hardware simulators and other live data feeds, and incorporate sophisticated visualization components such as NASA’s WorldWind viewer.",
+		"License": ["ALv2"],
+		"Categories": ["Airspace Simulation"],
+		"Update_Date": "2016-04-26"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["michael.bloem@nasa.gov"],
+		"Software": "Inverse Reinforcement Learning (IRL) Augmentation for PyMDPToolbox",
+		"External Link": "https://github.com/nasa/pymdptoolbox",
+		"Public Code Repo": "https://github.com/nasa/pymdptoolbox",
+		"Description": "The MDP toolbox for Python by Sam Cordwell provides classes and functions for the resolution of descrete-time Markov Decision Processes. The list of algorithms that have been implemented includes backwards induction, linear programming, policy iteration, q-learning and value iteration along with several variations.",
+		"License": ["NASA Open Source"],
+		"Categories": ["Markov Decision Process", "MDP", "Decision Making", "IRL"],
+		"Update_Date": "2015-02-27"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["terry.fong@nasa.gov"],
+		"Software": "xGDS",
+		"External Link": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/xgds/",
+		"Public Code Repo": "https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/xgds/",
+		"Description": "xGDS (Exploration Ground Data Systems) synthesizes real world data (from sensors, robots, ROVs, mobile devices, etc) and human observations into rich, digital maps and displays for analysis, decision making, and collaboration. xGDS evolved from our work developing tools to control, monitor and collect data from autonomous rovers supporting NASA's terrestrial field science research. xGDS is a highly collaborative, interactive suite of web software.",
+		"License": ["ALv2"],
+		"Categories": ["Ground Data Systems", "Maps", "Decision Making"],
+		"Update_Date": "2015-02-27"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["cesar.a.munoz@nasa.gov"],
+		"Software": "ICAROUS",
+		"External Link": "https://shemesh.larc.nasa.gov/fm/ICAROUS/",
+		"Public Code Repo": "http://github.com/nasa/icarous",
+		"Description": "ICAROUS is a software architecture that enables the robust integration of mission specific software modules and highly assured core software modules for building safety-centric autonomous unmanned aircraft applications.",
+		"License": ["NASA Open Source"],
+		"Categories": ["UAS", "Geofencing", "Detect and Avoid"],
+		"Update_Date": "2016-08-19"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["cesar.a.munoz@nasa.gov"],
+		"Software": "PolyCARP",
+		"External Link": "https://shemesh.larc.nasa.gov/fm/PolyCARP",
+		"Public Code Repo": "http://github.com/nasa/polycarp",
+		"Description": "PolyCARP is a package of algorithms, including both their formal models and software implementations, for computing containment, collision, resolution, and recovery information for polygons. The intended applications of PolyCARP are related, but not limited, to safety critical systems in air traffic management.",
+		"License": ["NASA Open Source"],
+		"Categories": ["UAV", "Geofencing"],
+		"Update_Date": "2016-09-14"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["cesar.a.munoz@nasa.gov"],
+		"Software": "Kodiak",
+		"External Link": "https://shemesh.larc.nasa.gov/fm/Kodiak/",
+		"Public Code Repo": "http://github.com/nasa/kodiak",
+		"Description": "Kodiak is a C++ library that implements a generic branch and bound algorithm for rigorous numerical approximations. Particular instances of the branch and bound algorithm allow the user to refine and isolate solutions to systems of nonlinear equations and inequalities, global optimization problems, and bifurcation sets for systems of ODEs. Kodiak utilizes interval arithmetic (via the filib++ library) and Bernstein enclosure (for polynomials and rational functions) as self-validating enclosure methods. Symbolic operations support procedures such as automatic partial differentiation.",
+		"License": ["NASA Open Source"],
+		"Categories": ["Global Optimization", "Rigurous Polynomial Approximations", "Interval Arithmetic", "Non-linear Arithmetic"],
+		"Update_Date": "2014-05-02"
+	}, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["cesar.a.munoz@nasa.gov"],
+		"Software": "DAIDALUS",
+		"External Link": "https://shemesh.larc.nasa.gov/fm/DAIDALUS/",
+		"Public Code Repo": "http://github.com/nasa/wellclear",
+		"Description": "DAIDALUS is a reference implementation of a detect and avoid concept intended to support the integration of Unmanned Aircraft Systems into civil airspace. The WellClear repository includes definitions in Matlab of a family of well-clear violation volumes.",
+		"License": ["NASA Open Source"],
+		"Categories": ["UAS", "Detect and Avoid", "Well-Clear"],
+		"Update_Date": "2014-04-23"
+	}, {
 		"NASA Center": "Ames Research Center",
 		"Contributors": ["matthewjdaigle"],
 		"Software": "Prognostics Algorithm Library",
@@ -6327,166 +6289,403 @@
 			"Fortran"
 		],
 		"Update_Date": "2016-07-13"
-	},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["rodney.martin@nasa.gov"],
-"Software": "Adverse Condition & Critical Event Prediction Toolbox (ACCEPT)",
-"External Link": "http://ti.arc.nasa.gov/opensource/projects/accept/",
-"Public Code Repo": "https://c3.nasa.gov/dashlink/static/media/algorithm/ACCEPT_osrelease_1.6.tar.gz",
-"Description": "ACCEPT is an open source machine learning code for model development to support both regression and detection modules, including fidelity analysis.",
-"License": [ "NASA Open Source" ],
-"Categories": ["machine learning", "model development", "regression", "detection"],
-"Update_Date": "2016-02-11"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["rodney.martin@nasa.gov"],
-"Software": "Kalman Filter Code Augmentation",
-"External Link": "http://ti.arc.nasa.gov/opensource/projects/kalman/",
-"Public Code Repo": "http://ti.arc.nasa.gov/m/opensource/downloads/KalmanFilterAugmentation.zip",
-"Description": "The Kalman Filter Code Augmentation release is a modification of Kalman Filter Toolbox, written by Kevin Murphy, 1998. It extends the existing open source software's capabilities and functionality by bookkeeping more detailed information on internal data structures, as well as ensuring the consistency of mathematical conventions used by subroutines that are part of a third-party tool called ASOS as part of the modification. Additional convergence criteria have also been included, as well as the possibility for establishing additional constraints and modelling paradigms.",
-"License": [ "NASA Open Source" ],
-"Categories": ["model development", "code augmentation"],
-"Update_Date": "2016-02-11"
-},
-{
-"NASA Center": "Ames Research Center",
-"Contributors": ["rodney.martin@nasa.gov"],
-"Software": "ROC Curve Code Augmentation",
-"External Link": "http://ti.arc.nasa.gov/opensource/projects/roc/",
-"Public Code Repo": "http://ti.arc.nasa.gov/m/opensource/downloads/ROC_Curve_Code_Augmentation.zip",
-"Description": "ROC (Receiver Operating Characteristic) curve Code Augmentation is a modification of ROC Curve code originally authored by G.C. Cawley that provides additional functionality. The inclusion of more detailed bookkeeping of new and existing internal data structures that provide more visibility into various performance measures is one of the new features.",
-"License": [ "NASA Open Source" ],
-"Categories": ["model development", "code augmentation"],
-"Update_Date": "2016-02-11"
-},
-{
-	"NASA Center": "Jet Propulsion Laboratory",
-	"Contributors": [
-		"David Nelson",
-		"Sebastian Val"
-	],
-	"Software": "MINX",
-	"External Link": "http://misr.jpl.nasa.gov/",
-	"Public Code Repo": "https://github.com/nasa/MINX",
-	"Description": "MINX, which stands for MISR INteractive eXplorer, is an interactive visualization and analysis program written in IDL and designed to make MISR data more accessible to science users. Its principal use is to retrieve heights and motion for aerosol plumes and clouds using stereoscopic methods.",
-	"License": [
-		"NASA Open Source"
-	],
-	"Categories": [
-		"Toolkit",
-		"Visualization",
-		"Analysis"
-	],
-	"Update_Date": "2016-09-06"
-},
-{
-	"NASA Center": "Jet Propulsion Laboratory",
-    "Contributors": ["lewismc"],
-    "Software": "Podaacpy",
-    "External Link": "http://podaacpy.readthedocs.io/en/latest/",
-    "Public Code Repo": "https://github.com/lewismc/podaacpy",
-    "Description": "Podaacpy is a python utility library for interacting with NASA JPL’s PO.DAAC.",
-    "License": ["ALv2"],
-    "Categories": [
-      "Framework",
-      "Toolkit",
-      "Web",
-      "Python",
-      "Subsetting",
-      "Dataset Search"
-    ],
-    "Update_Date": "2016-09-15"
-},
-{
-	"NASA Center": "Ames Research Center",
-    "Contributors": ["bwstewart389", "Beak-man", "farahsalah", "Gagaus"],
-    "Software": "NASA WorldWind Research: SpaceBirds",
-    "External Link": "https://github.com/NASAWorldWindResearch/SpaceBirds/archive/master.zip",
-    "Public Code Repo": "https://github.com/NASAWorldWindResearch/SpaceBirds",
-    "Description": "SpaceBirds, a new innovative application intended as both a visual and educational application as well as a powerful tracking tool, can be used by professionals, students, and enthusiasts alike. The app is developed using NASA Web World Wind, and consists of an easy to use interface that allows the user to display all known tracked orbital objects and ground stations, and display their relative information, such as type, orbital period, low, medium, and high earth orbit, country of origin, and use, all in a 3D environment.",
-    "License": ["CC0"],
-    "Categories": [
-      "WorldWind",
-      "visual simulation",
-      "satellite",
-      "orbital dynamics",
-      "application"
-    ],
-    "Update_Date": "2016-09-23"
-},
-{
-	"NASA Center": "Ames Research Center",
-    "Contributors": ["KhaledSharif", "Beak-man", "farahsalah", "Gagaus", "bench4ng", "PJHogan"],
-    "Software": "NASA WorldWind Research: Quake-Hunter",
-    "External Link": "https://github.com/NASAWorldWindResearch/Quake-Hunter/archive/master.zip",
-    "Public Code Repo": "https://github.com/NASAWorldWindResearch/Quake-Hunter",
-    "Description": "3D visualization of earthquakes using their actual depth below the surface.",
-    "License": ["MIT"],
-    "Categories": [
-      "WorldWind",
-      "visual simulation",
-      "satellite",
-      "orbital dynamics",
-      "application"
-    ],
-    "Update_Date": "2016-09-21"
-},
-{
-	"NASA Center": "Ames Research Center",
-    "Contributors": ["KhaledSharif", "Beak-man", "farahsalah"],
-    "Software": "NASA WorldWind Research: WorldWeather",
-    "External Link": "https://github.com/NASAWorldWindResearch/WorldWeather/archive/master.zip",
-    "Public Code Repo": "https://github.com/NASAWorldWindResearch/WorldWeather",
-    "Description": "The largest three-dimensional web-based interactive browser of satellite, weather, climate, and other time-aware geospatial data on the web, built upon NASA's revolutionary WorldWind technology.",
-    "License": ["MIT"],
-    "Categories": [
-      "WorldWind",
-      "visual simulation",
-      "satellite",
-      "weather",
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["rodney.martin@nasa.gov"],
+		"Software": "Adverse Condition & Critical Event Prediction Toolbox (ACCEPT)",
+		"External Link": "http://ti.arc.nasa.gov/opensource/projects/accept/",
+		"Public Code Repo": "https://c3.nasa.gov/dashlink/static/media/algorithm/ACCEPT_osrelease_1.6.tar.gz",
+		"Description": "ACCEPT is an open source machine learning code for model development to support both regression and detection modules, including fidelity analysis.",
+		"License": ["NASA Open Source"],
+		"Categories": ["machine learning", "model development", "regression", "detection"],
+		"Update_Date": "2016-02-11"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["rodney.martin@nasa.gov"],
+		"Software": "Kalman Filter Code Augmentation",
+		"External Link": "http://ti.arc.nasa.gov/opensource/projects/kalman/",
+		"Public Code Repo": "http://ti.arc.nasa.gov/m/opensource/downloads/KalmanFilterAugmentation.zip",
+		"Description": "The Kalman Filter Code Augmentation release is a modification of Kalman Filter Toolbox, written by Kevin Murphy, 1998. It extends the existing open source software's capabilities and functionality by bookkeeping more detailed information on internal data structures, as well as ensuring the consistency of mathematical conventions used by subroutines that are part of a third-party tool called ASOS as part of the modification. Additional convergence criteria have also been included, as well as the possibility for establishing additional constraints and modelling paradigms.",
+		"License": ["NASA Open Source"],
+		"Categories": ["model development", "code augmentation"],
+		"Update_Date": "2016-02-11"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["rodney.martin@nasa.gov"],
+		"Software": "ROC Curve Code Augmentation",
+		"External Link": "http://ti.arc.nasa.gov/opensource/projects/roc/",
+		"Public Code Repo": "http://ti.arc.nasa.gov/m/opensource/downloads/ROC_Curve_Code_Augmentation.zip",
+		"Description": "ROC (Receiver Operating Characteristic) curve Code Augmentation is a modification of ROC Curve code originally authored by G.C. Cawley that provides additional functionality. The inclusion of more detailed bookkeeping of new and existing internal data structures that provide more visibility into various performance measures is one of the new features.",
+		"License": ["NASA Open Source"],
+		"Categories": ["model development", "code augmentation"],
+		"Update_Date": "2016-02-11"
+	}, {
+		"NASA Center": "Jet Propulsion Laboratory",
+		"Contributors": [
+			"David Nelson",
+			"Sebastian Val"
+		],
+		"Software": "MINX",
+		"External Link": "http://misr.jpl.nasa.gov/",
+		"Public Code Repo": "https://github.com/nasa/MINX",
+		"Description": "MINX, which stands for MISR INteractive eXplorer, is an interactive visualization and analysis program written in IDL and designed to make MISR data more accessible to science users. Its principal use is to retrieve heights and motion for aerosol plumes and clouds using stereoscopic methods.",
+		"License": [
+			"NASA Open Source"
+		],
+		"Categories": [
+			"Toolkit",
+			"Visualization",
+			"Analysis"
+		],
+		"Update_Date": "2016-09-06"
+	}, {
+		"NASA Center": "Jet Propulsion Laboratory",
+		"Contributors": ["lewismc"],
+		"Software": "Podaacpy",
+		"External Link": "http://podaacpy.readthedocs.io/en/latest/",
+		"Public Code Repo": "https://github.com/lewismc/podaacpy",
+		"Description": "Podaacpy is a python utility library for interacting with NASA JPL’s PO.DAAC.",
+		"License": ["ALv2"],
+		"Categories": [
+			"Framework",
+			"Toolkit",
+			"Web",
+			"Python",
+			"Subsetting",
+			"Dataset Search"
+		],
+		"Update_Date": "2016-09-15"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["bwstewart389", "Beak-man", "farahsalah", "Gagaus"],
+		"Software": "NASA WorldWind Research: SpaceBirds",
+		"External Link": "https://github.com/NASAWorldWindResearch/SpaceBirds/archive/master.zip",
+		"Public Code Repo": "https://github.com/NASAWorldWindResearch/SpaceBirds",
+		"Description": "SpaceBirds, a new innovative application intended as both a visual and educational application as well as a powerful tracking tool, can be used by professionals, students, and enthusiasts alike. The app is developed using NASA Web World Wind, and consists of an easy to use interface that allows the user to display all known tracked orbital objects and ground stations, and display their relative information, such as type, orbital period, low, medium, and high earth orbit, country of origin, and use, all in a 3D environment.",
+		"License": ["CC0"],
+		"Categories": [
+			"WorldWind",
+			"visual simulation",
+			"satellite",
+			"orbital dynamics",
+			"application"
+		],
+		"Update_Date": "2016-09-23"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["KhaledSharif", "Beak-man", "farahsalah", "Gagaus", "bench4ng", "PJHogan"],
+		"Software": "NASA WorldWind Research: Quake-Hunter",
+		"External Link": "https://github.com/NASAWorldWindResearch/Quake-Hunter/archive/master.zip",
+		"Public Code Repo": "https://github.com/NASAWorldWindResearch/Quake-Hunter",
+		"Description": "3D visualization of earthquakes using their actual depth below the surface.",
+		"License": ["MIT"],
+		"Categories": [
+			"WorldWind",
+			"visual simulation",
+			"satellite",
+			"orbital dynamics",
+			"application"
+		],
+		"Update_Date": "2016-09-21"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["KhaledSharif", "Beak-man", "farahsalah"],
+		"Software": "NASA WorldWind Research: WorldWeather",
+		"External Link": "https://github.com/NASAWorldWindResearch/WorldWeather/archive/master.zip",
+		"Public Code Repo": "https://github.com/NASAWorldWindResearch/WorldWeather",
+		"Description": "The largest three-dimensional web-based interactive browser of satellite, weather, climate, and other time-aware geospatial data on the web, built upon NASA's revolutionary WorldWind technology.",
+		"License": ["MIT"],
+		"Categories": [
+			"WorldWind",
+			"visual simulation",
+			"satellite",
+			"weather",
 			"climate",
 			"geospatial data",
-      "application"
-    ],
-    "Update_Date": "2016-09-14"
-},
-{
-	"NASA Center": "Ames Research Center",
-    "Contributors": ["emxsys"],
-    "Software": "NASA WorldWind Research: WorldWindExplorer",
-    "External Link": "https://github.com/NASAWorldWindResearch/WorldWindExplorer/archive/master.zip",
-    "Public Code Repo": "https://github.com/NASAWorldWindResearch/WorldWindExplorer",
-    "Description": "A geo-browser app framework based on NASA Web World Wind.",
-    "License": ["MIT"],
-    "Categories": [
-      "WorldWind",
-      "visual simulation",
-      "satellite",
-      "weather",
+			"application"
+		],
+		"Update_Date": "2016-09-14"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["emxsys"],
+		"Software": "NASA WorldWind Research: WorldWindExplorer",
+		"External Link": "https://github.com/NASAWorldWindResearch/WorldWindExplorer/archive/master.zip",
+		"Public Code Repo": "https://github.com/NASAWorldWindResearch/WorldWindExplorer",
+		"Description": "A geo-browser app framework based on NASA Web World Wind.",
+		"License": ["MIT"],
+		"Categories": [
+			"WorldWind",
+			"visual simulation",
+			"satellite",
+			"weather",
 			"climate",
 			"geospatial data",
-      "application"
-    ],
-    "Update_Date": "2016-09-09"
-},
-{
-	"NASA Center": "Ames Research Center",
-    "Contributors": ["KhaledSharif", "farahsalah", "Gagaus", "bench4ng", "PJHogan"],
-    "Software": "NASA WorldWind Research: EarthquakeApp",
-    "External Link": "https://github.com/NASAWorldWindResearch/EarthquakeApp/archive/master.zip",
-    "Public Code Repo": "https://github.com/NASAWorldWindResearch/EarthquakeApp",
-    "Description": "Magnetic Field Data Anomaly Detection Analysis Sandbox. Earthquake Signal Precursors, ESP, detection and forecast. This project aims to apply Dr. Friedemann Freund’s theory of earthquake precursor science. Dr. Freund's theory states that as stresses in the Earth’s crust increase during the time leading up to a major earthquake, atomic-scale defects in the mineral grains and along the boundaries between mineral grains become activated. The ultimate goal of this project is to observe live anomalous EM field fluctuations and accurately forecast an earthquake within a specified geographical range.",
-    "License": ["CC0"],
-    "Categories": [
-      "WorldWind",
-      "magnetic field data",
-      "satellite",
-      "earthquake",
+			"application"
+		],
+		"Update_Date": "2016-09-09"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["KhaledSharif", "farahsalah", "Gagaus", "bench4ng", "PJHogan"],
+		"Software": "NASA WorldWind Research: EarthquakeApp",
+		"External Link": "https://github.com/NASAWorldWindResearch/EarthquakeApp/archive/master.zip",
+		"Public Code Repo": "https://github.com/NASAWorldWindResearch/EarthquakeApp",
+		"Description": "Magnetic Field Data Anomaly Detection Analysis Sandbox. Earthquake Signal Precursors, ESP, detection and forecast. This project aims to apply Dr. Friedemann Freund’s theory of earthquake precursor science. Dr. Freund's theory states that as stresses in the Earth’s crust increase during the time leading up to a major earthquake, atomic-scale defects in the mineral grains and along the boundaries between mineral grains become activated. The ultimate goal of this project is to observe live anomalous EM field fluctuations and accurately forecast an earthquake within a specified geographical range.",
+		"License": ["CC0"],
+		"Categories": [
+			"WorldWind",
+			"magnetic field data",
+			"satellite",
+			"earthquake",
 			"electromagnetic radiation",
 			"application"
-    ],
-    "Update_Date": "2016-08-06"
-}
+		],
+		"Update_Date": "2016-08-06"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["naylor-b", "swryan", "kmarstellar"],
+		"Software": "OpenMDAO: testflo",
+		"External Link": "https://github.com/OpenMDAO/testflo/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/testflo",
+		"Description": "A simple python testing framework that can run unit tests under MPI (or not).",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "unit testing", "MPI"
+		],
+		"Update_Date": "2016-09-28"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["naylor-b", "swryan", "kmarstellar", "Kenneth-T-Moore", "dwmunster", "JustinSGray", "hschilling", "crobinsonut", "thearn", "adamnagel", "relf", "timothy-thomas", "fcapristan", "fzahle", "jaredthomas68", "volgy", "amoondra", "ksmyth", "shamsheersc19", "pziegfeld", "sanbales", "lattmann", "jonathonw"],
+		"Software": "OpenMDAO",
+		"External Link": "https://github.com/OpenMDAO/OpenMDAO/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/OpenMDAO",
+		"Description": "OpenMDAO is a high-performance computing platform for systems analysis and optimization that enables you to decompose your models, making them easier to build and maintain, while still solving them in a tightly-coupled manner with efficient parallel numerical methods.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python", "openmdao", "systems analysis", "optimization"
+		],
+		"Update_Date": "2016-09-28"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["swryan", "kmarstellar"],
+		"Software": "OpenMDAO: benchmark",
+		"External Link": "https://github.com/OpenMDAO/benchmark/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/benchmark",
+		"Description": "Prototype of a benchmarking/regression tool.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "benchmark", "regression"
+		],
+		"Update_Date": "2016-09-14"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["swryan", "kmarstellar"],
+		"Software": "OpenMDAO: Cadre",
+		"External Link": "https://github.com/OpenMDAO/CADRE/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/CADRE",
+		"Description": "OpenMDAO plug-in.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "benchmark", "regression"
+		],
+		"Update_Date": "2016-08-11"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["jcchin", "thearn", "Kenneth-T-Moore"],
+		"Software": "OpenMDAO: NRELTraining",
+		"External Link": "https://github.com/OpenMDAO/NRELTraining/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/NRELTraining",
+		"Description": "An old problem used for NREL Training, converted to OpenMDAO 1.x",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "NREL", "training"
+		],
+		"Update_Date": "2016-06-10"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["hschilling"],
+		"Software": "OpenMDAO: NAS_Access",
+		"External Link": "https://github.com/OpenMDAO/NAS_Access/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/NAS_Access",
+		"Description": "An ExternalComponent that wraps and runs code on NASA's NAS Pleiades supercomputer. You must have an account on Pleiades to make use of this.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "NAS", "supercomputer"
+		],
+		"Update_Date": "2016-04-11"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["hwangjt", "naylor-b", "JustinSGray", "hschilling", "thearn"],
+		"Software": "OpenMDAO: MBI",
+		"External Link": "https://github.com/OpenMDAO/MBI/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/MBI",
+		"Description": "MBI sub-branch of the OpenMDAO repository.",
+		"License": ["ALv2"],
+		"Categories": [
+			"fortran",
+			"openmdao", "NAS", "supercomputer"
+		],
+		"Update_Date": "2016-04-11"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["fcapristan", "kmarsteller", "setowns1", "hschilling", "Kenneth-T-Moore", "pziegfeld"],
+		"Software": "OpenMDAO: flops_wrapper",
+		"External Link": "https://github.com/OpenMDAO/flops_wrapper/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/flops_wrapper",
+		"Description": "OpenMDAO component wrapper for FLOPS.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "flops"
+		],
+		"Update_Date": "2016-01-20"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["naylor-b", "swryan", "setowns1", "hschilling", "Kenneth-T-Moore", "pziegfeld", "JustinSGray", "justinopenmdao", "thearn", "crobinsonut", "cnkavanaugh", "cwmine", "jcchin", "dykeag", "eshendricks", "relf", "andrewning", "fzahle", "youngklee"],
+		"Software": "OpenMDAO: OpenMDAO-Framework",
+		"External Link": "https://github.com/OpenMDAO/OpenMDAO-Framework/archive/dev.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/OpenMDAO-Framework",
+		"Description": "A python based open-source (Apache 2.0) engineering analysis framework designed to facilitate the use of MDAO. To add issues, visit our user forums at http://www.openmdao.org/forum . NOTE: this version is no longer being developed. The current active version can be found here: https://github.com/OpenMDAO/OpenMDAO.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "framework", "MDAO"
+		],
+		"Update_Date": "2015-09-03"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["kmarsteller", "naylor-b", "Kenneth-T-Moore", "pziegfeld"],
+		"Software": "OpenMDAO: OpenMDAO-Procedures",
+		"External Link": "https://github.com/OpenMDAO/OpenMDAO-Procedures/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/OpenMDAO-Procedures",
+		"Description": "Procedures for OpenMDAO maintainers.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "mdao", "procedures", "maintainers"
+		],
+		"Update_Date": "2015-03-24"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["swryan", "crobinsonut", "hschilling"],
+		"Software": "OpenMDAO: OpenMDAO-airline-allocation",
+		"External Link": "https://github.com/OpenMDAO/airline-allocation/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/airline-allocation",
+		"Description": "Airline allocation problem.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "mdao", "airline", "allocation"
+		],
+		"Update_Date": "2015-02-17"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["swryan", "crobinsonut", "hschilling"],
+		"Software": "OpenMDAO: openmdao_testapp",
+		"External Link": "https://github.com/OpenMDAO/openmdao_testapp/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/openmdao_testapp",
+		"Description": "Web app to manage openmdao automated testing.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "mdao", "application", "testing"
+		],
+		"Update_Date": "2014-08-20"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["treforevans", "JustinSGray"],
+		"Software": "OpenMDAO: marathon-aircraft",
+		"External Link": "https://github.com/OpenMDAO/marathon-aircraft/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/marathon-aircraft",
+		"Description": "Aero-Velo Marathon Aircraft.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "mdao", "aeronautics", "aircraft"
+		],
+		"Update_Date": "2014-07-16"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["treforevans", "JustinSGray"],
+		"Software": "OpenMDAO: pyV3D",
+		"External Link": "https://github.com/OpenMDAO/pyV3D/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/pyV3D",
+		"Description": "Python web-based geometry viewer.",
+		"License": ["ALv2"],
+		"Categories": ["C", "openmdao", "mdao", "geometry", "viewer"],
+		"Update_Date": "2014-04-18"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["naylor-b", "Kenneth-T-Moore"],
+		"Software": "OpenMDAO: pygem",
+		"External Link": "https://github.com/OpenMDAO/pygem/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/pygem",
+		"Description": "Python wrappers for the GEM libraries diamond and quartz.",
+		"License": ["ALv2"],
+		"Categories": ["C", "openmdao", "mdao", "gem", "wrapper"],
+		"Update_Date": "2014-04-18"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["naylor-b", "JustinSGray"],
+		"Software": "OpenMDAO: GEM",
+		"External Link": "https://github.com/OpenMDAO/GEM/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/GEM",
+		"Description": "Geometry Environment for MDAO.",
+		"License": ["ALv2"],
+		"Categories": ["C", "openmdao", "mdao", "gem", "wrapper"],
+		"Update_Date": "2013-12-05"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["haimes", "JustinSGray"],
+		"Software": "OpenMDAO: EGADS",
+		"External Link": "https://github.com/OpenMDAO/EGADS/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/EGADS",
+		"Description": "EGADS: Engineering Geometry Aerospace Design System.",
+		"License": ["ALv2"],
+		"Categories": [
+			"C",
+			"openmdao", "mdao", "geometry", "wrapper", "aerospace"
+		],
+		"Update_Date": "2013-01-24"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["kmarsteller"],
+		"Software": "OpenMDAO: SimplePylab",
+		"External Link": "https://github.com/OpenMDAO/SimplePylab/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/SimplePylab",
+		"Description": "Simple script to create virtual environment with numpy, scipy, matplotlib and ipython.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "mdao", "gem", "geometry"
+		],
+		"Update_Date": "2013-12-04"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["JustinSGray"],
+		"Software": "OpenMDAO: EngSketchPad",
+		"External Link": "https://github.com/OpenMDAO/EngSketchPad/archive/master.zip",
+		"Public Code Repo": "https://github.com/OpenMDAO/EngSketchPad",
+		"Description": "ESP: The Engineering Sketch Pad.",
+		"License": ["ALv2"],
+		"Categories": [
+			"python",
+			"openmdao", "mdao"
+		],
+		"Update_Date": "2013-12-04"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["JustinSGray", "cheesie67", "thearn", "kmarsteller", "jcchin"],
+		"Software": "OpenMDAO: Pycycle",
+		"External Link": "https://github.com/JustinSGray/pyCycle/archive/master.zip",
+		"Public Code Repo": "https://github.com/JustinSGray/pyCycle",
+		"Description": "This plugin provides basic thermodynamic cycle modeling tools for OpenMDAO. It's main feature is the inclusion of a FlowStation variable that provides access to isentropic flow relationships. This is an OpenMDAO plugin, so you need to have already installed a version of OpenMDAO.",
+		"License": ["ALv2"],
+		"Categories": ["python", "openmdao", "mdao", "plugin", "modeling"],
+		"Update_Date": "2013-12-02"
+	}
 ]
