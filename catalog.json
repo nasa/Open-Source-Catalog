@@ -1,5 +1,4 @@
-[{
-		"NASA Center": "Ames Research Center",
+[{		"NASA Center": "Ames Research Center",
 		"Contributors": ["creon@nas.nasa.gov"],
 		"Software": "Viewpoints: Software for Visualization of Multivariate Data",
 		"External Link": "https://app.assembla.com/spaces/viewpoints/wiki/Home",
@@ -9,6 +8,26 @@
 		"Categories": ["visualization"],
 		"Update_Date": "2011-12-02"
 	}, {
+ 	 	"NASA Center": "Jet Propulsion Laboratory",
+    		"Contributors": ["Brian Rheingans","Jason Matthews","Charles Thompson","Sebastian Val"],
+    		"Software": "MISR Toolkit",
+    		"External Link": "http://misr.jpl.nasa.gov/",
+    		"Public Code Repo": "https://github.com/nasa/MISR-Toolkit",
+    		"Description": "The MISR Toolkit is a simplified programming interface to access MISR L1B2, L2 conventional and ancillary data products. It is an interface built upon HDF-EOS that knows about MISR data products.",
+    		"License": ["NASA Open Source"],
+    		"Categories": ["Toolkit","Visualization","Analysis","Earth Science"],
+    		"Update_Date": "2016-09-07"
+  	},{
+		"NASA Center": "Langley Research Center",
+  		"Contributors": ["Andrew Bergan","Frank Leone"],
+  		"Software": "Abaverify",
+  		"External Link": "https://github.com/nasa/Abaverify",
+  		"Public Code Repo": "https://github.com/nasa/Abaverify",
+  		"Description": "A python package built on unittest for running verification tests on Abaqus user subroutines.",
+ 		"License": ["NASA Open Source"],
+ 		"Categories": ["FEA","Abaqus","User Subroutines","Unit Tests","Integration Tests","Fortran"],
+  		"Update_Date": "2016-10-03"
+ 	},{
 		"NASA Center": "",
 		"Contributors": ["hpparvi"],
 		"Software": "PyTransit",
