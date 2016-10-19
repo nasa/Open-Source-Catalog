@@ -19,7 +19,6 @@
 		"Categories": ["Kepler"],
 		"Update_Date": "2013-12-02"
 	},
-
 	{
 		"NASA Center": "Ames Research Center",
 		"Contributors": ["thomas.barclay@nasa.gov"],
@@ -120,16 +119,6 @@
 		"License": [],
 		"Categories": ["Apollo", "guidance computer", "AGC"],
 		"Update_Date": "2016-07-23"
-	}, {
-		"NASA Center": "Marshall Space Flight Center",
-		"Contributors": ["manil.maskey@nasa.gov"],
-		"Software": "CMR",
-		"External Link": "https://github.com/ghrcdaac/cmr",
-		"Public Code Repo": "https://github.com/ghrcdaac/cmr",
-		"Description": "Python client library that abstracts CMR (Common Metadata Repository) API calls for search, ingest, update, and deletion of collections and granules.",
-		"License": ["NASA Open Source"],
-		"Categories": ["CMR", "API client", "Common Metadata Repository"],
-		"Update_Date": "2016-08-10"
 	}, {
 		"NASA Center": "Langley Research Center",
 		"Contributors": ["Brian.D.Killough@nasa.gov"],
@@ -1023,7 +1012,6 @@
 		],
 		"Update_Date": "2015-10-12"
 	},
-
 	{
 		"NASA Center": "Glenn Research Center",
 		"Contributors": [
@@ -1096,7 +1084,6 @@
 			"GIBS",
 			"OPeNDAP",
 			"Remote Sensing",
-			"Common Metadata Repository (CMR)",
 			"Data Discovery",
 			"Data Filtering",
 			"Data Visualization"
@@ -1145,7 +1132,6 @@
 		],
 		"Update_Date": "2015-07-07"
 	},
-
 	{
 		"NASA Center": "Marshall Space Flight Center",
 		"Contributors": [
@@ -1168,7 +1154,6 @@
 		],
 		"Update_Date": "2015-07-07"
 	},
-
 	{
 		"NASA Center": "Marshall Space Flight Center",
 		"Contributors": [
@@ -1191,7 +1176,6 @@
 		],
 		"Update_Date": "2015-07-07"
 	},
-
 	{
 		"NASA Center": "Langley Research Center",
 		"Contributors": [],
@@ -1849,7 +1833,6 @@
 		"New Date": "",
 		"Update_Date": "2014-08-15"
 	},
-
 	{
 		"NASA Center": "NASA\u201a\u00c4\u00f4s Center of Excellence for Collaboration",
 		"Program Teams": [
