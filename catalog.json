@@ -4836,6 +4836,63 @@
 		],
 		"New Date": "",
 		"Update_Date": "2014-09-16"
+	},{
+		"NASA Center": "Goddard Space Flight Center",
+		"Program Teams": [
+			""
+		],
+		"Contributors": [
+			"stevenhughes"
+		],
+		"Sub-contractors": [
+			""
+		],
+		"Software": "General Mission Analysis Tool (GMAT R2016a)",
+		"Internal Link": "",
+		"External Link": "http://gmat.gsfc.nasa.gov/",
+		"Public Code Repo": "https://sourceforge.net/projects/gmat/files/GMAT/GMAT-R2016a/",
+		"Instructional Material": "",
+		"Stats": "",
+		"Description": "The General Mission Analysis Tool (GMAT), developed at the Goddard Space Flight Center, is the world’s only enterprise, multi-mission, open source software system for space mission design, optimization, and navigation. The system supports missions in flight regimes ranging from low Earth orbit to lunar, libration point, and deep space missions. GMAT is developed by a team of NASA, private industry, public, and private contributors and is used for real-world mission support, engineering studies, as a tool for education, and public engagement.",
+		"Internal Code Repo": "",
+		"License": [
+			"NASA Open Source"
+		],
+		"Languages": [
+			"C++"
+		],
+		"Platform Requirements": [
+			""
+		],
+		"Dependent modules": [
+			""
+		],
+		"Dependent module URLs": [
+			""
+		],
+		"Component modules": [
+			""
+		],
+		"Component module URLs": [
+			""
+		],
+		"Industry": [
+			""
+		],
+		"Functionality": [
+			""
+		],
+		"Categories": [
+			"Simulations",
+			"visualization",
+			"mathematics",
+			"physics",
+			"mission",
+			"planning",
+			"tool"
+		],
+		"New Date": "",
+		"Update_Date": "2016-10-26"
 	}, {
 		"NASA Center": "Goddard Space Flight Center",
 		"Program Teams": [
