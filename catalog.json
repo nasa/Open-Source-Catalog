@@ -34,7 +34,7 @@
 		"External Link": "https://github.com/mrtommyb/ktransit",
 		"Public Code Repo": "https://github.com/mrtommyb/ktransit",
 		"Description": "Fast and easy-to-use tools for exoplanet transit light curve modelling with Python. PyTransit implements the quadratic Mandel & Agol and the Gimenéz transit models with various optimisations, and offers both a simple interface for model evaluation and a lower-level access for fine-tuning the model.",
-		"License": ["GPLv2"],
+		"License": ["GPLv3"],
 		"Categories": ["Kepler"],
 		"Update_Date": "2013-12-02"
 	},
