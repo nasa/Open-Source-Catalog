@@ -357,8 +357,8 @@
 	}, {
 		"NASA Center": "Ames Research Center",
 		"Contributors": ["peter.c.mehlitz@nasa.gov"],
-		"Software": "Inverse Reinforcement Learning (IRL) Augmentation for PyMDPToolbox",
-		"External Link": "http://nasarace.github.io/race/about.html",
+		"Software": "RACE - Runtime for Airspace Concept Evaluation",
+		"External Link": "https://github.com/NASARace/race/blob/master/README.md",
 		"Public Code Repo": "https://github.com/NASARace/race",
 		"Description": "The Runtime for Airspace Concept Evaluation (RACE) is a software architecture and framework to build configurable, highly concurrent and distributed message based systems. Among other things, RACE can be used to rapidly build simulations that span several machines (including synchronized displays), interface existing hardware simulators and other live data feeds, and incorporate sophisticated visualization components such as NASA’s WorldWind viewer.",
 		"License": ["ALv2"],
