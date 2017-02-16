@@ -6756,5 +6756,15 @@
 		"License": ["ALv2"],
 		"Categories": ["python", "openmdao", "mdao", "plugin", "modeling"],
 		"Update_Date": "2013-12-02"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["teubert","matthewjdaigle","jason-watkins"],
+		"Software": "GSAP: General Software Architecture for Prognostics",
+		"External Link": "https://github.com/Jnasa/GSAP/archive/master.zip",
+		"Public Code Repo": "https://github.com/nasa/GSAP",
+		"Description": "The Generic Software Architecture for Prognostics (GSAP) is a framework for applying prognostics. It makes applying prognostics easier by implementing many of the common elements across prognostic applications. The standard interface enables reuse of prognostic algorithms and models across systems using the GSAP framework.",
+		"License": ["NASA Open Source"],
+		"Categories": ["c++", "framework", "Prognostics", "PHM", "Health Management", "Health Monitoring"],
+		"Update_Date": "2017-01-20"
 	}
 ]
