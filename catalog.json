@@ -384,6 +384,16 @@
 		"License": ["ALv2"],
 		"Categories": ["Ground Data Systems", "Maps", "Decision Making"],
 		"Update_Date": "2015-02-27"
+	},  {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["cesar.a.munoz@nasa.gov"],
+		"Software": "PRECiSA",
+		"External Link": "http://precisa.nianet.org",
+		"Public Code Repo": "http://github.com/nasa/PRECiSA",
+		"Description": "PRECiSA is a fully automatic analyzer for the estimation of round-off errors of floating-point valued functional expressions. ",
+		"License": ["NASA Open Source"],
+		"Categories": ["PVS", "Floating-point Round-off Errors", "Static Analysis"],
+		"Update_Date": "2017-02-15"
 	}, {
 		"NASA Center": "Langley Research Center",
 		"Contributors": ["cesar.a.munoz@nasa.gov"],
