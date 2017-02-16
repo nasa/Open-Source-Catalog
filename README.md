@@ -3,7 +3,7 @@
 
 ##About
 
-This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](http://open.nasa.gov/about/) and contains a catalog of publically available NASA open source projects that are published on [code.nasa.gov] (http://code.nasa.gov). The catalog is persisted as a JSON file ```catalog.json``` and contains an array of projects.  As Code Sharing at NASA is a community effort, we encourage NASA developers to add a meta-record in to this catalog to publish their open source projects on code.nasa.gov.
+This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](http://open.nasa.gov/about/) and contains a catalog of publicly available NASA open source projects that are published on [code.nasa.gov](http://code.nasa.gov). The catalog is persisted as a JSON file ```catalog.json``` and contains an array of projects.  As Code Sharing at NASA is a community effort, we encourage NASA developers to add a meta-record in to this catalog to publish their open source projects on [code.nasa.gov](http://code.nasa.gov/).
 
 ##Requirements
 * Open Source software project approved for open source release by your [NASA Field Center SRA](http://code.nasa.gov/#/guide)
@@ -13,6 +13,7 @@ This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](htt
 ## Add your project
 
 * Create a project meta-record using the template from file required_fields_project_template.json:
+  * Note that Category labels longer than 24 characters will be truncated.
 ```
 {
 	"NASA Center": "Ames Research Center",
@@ -35,7 +36,7 @@ This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](htt
 }
 ```
 
-* Add your instatiated meta-record to the array in the catalog.json file via a pull request
+* Add your instantiated meta-record to the array in the catalog.json file via a pull request
 * Once the merge is complete, your project will be published on [code.nasa.gov](http://code.nasa.gov/)
 
 ##Thanks
