@@ -6801,5 +6801,23 @@
 			"WebCrawler"
 		],
 		"Update_Date": "2017-03-07"
-	}
+	},
+{
+	"NASA Center": "Marshall Space Flight Center",
+    "Contributors": [
+      "manilmaskey, amarouane"
+    ],
+    "Software": "pyCMR",
+    "External Link": "https://github.com/ghrcdaac/cmr/wiki",
+    "Public Code Repo": "https://github.com/ghrcdaac/cmr",
+    "Description": "Python client library that abstracts CMR API calls for search, ingest, update, and deletion of collections and granules.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "APL Client Library",
+      "Client SDK"
+    ],
+    "Update_Date": "2017-04-12"
+}
 ]
