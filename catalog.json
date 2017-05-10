@@ -6860,18 +6860,24 @@
 		"Update_Date": "2017-05-01"
 	},
 	{
-		"NASA Center": "Ames Research Center",
-		"Contributors": ["ksutka"],
-		"Software": "MAV",
-		"External Link": "https://github.com/nasa/MAV.git",
-		"Public Code Repo": "https://github.com/nasa/MAV",
-		"Description": "This consists of modeling, analysis, and visualization of ATM concepts.",
-		"License": ["NASA Open Source Agreement"],
-		"Categories": [
-			"MAV", "modeling", "analysis", "visualization", "ATM"
-		],
-		"Update_Date": "2017-03-03"
-	},
+    "NASA Center": "Ames Research Center",
+    "Contributors": [
+      "ksutka"
+    ],
+    "Software": "MAV",
+    "External Link": "https://github.com/nasa/MAV",
+    "Public Code Repo": "https://github.com/nasa/MAV",
+    "Description": "Modeling, Analysis, and Visualization (MAV) of ATM concepts",
+    "License": [
+      "Apache License 2.0"
+    ],
+    "Categories": [
+      "Toolkit",
+      "Analysis",
+      "Visualization"
+    ],
+    "Update_Date": "2017-03-03"
+},
 	{
 		"NASA Center": "Langley Research Center",
 		"Contributors": ["vickiely, Smewhen"],
