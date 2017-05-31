@@ -6942,5 +6942,27 @@
 			"imagery", "visualization", "application"
 		],
 		"Update_Date": "2017-05-05"
+	},
+        {
+		"NASA Center": "Marshall Space Flight Center",
+		"Contributors": [
+			"tjlang"
+		],
+		"Software": "Multiple-Doppler Radar Analysis Toolkit (MultiDop)",
+		"External Link": "https://github.com/nasa/MultiDop/wiki",
+		"Public Code Repo": "https://github.com/nasa/MultiDop",
+		"Description": "MultiDop is a Python-based interface between the C-based DDA code developed at University of Oklahoma and the Python Atmospheric Radiation Measurement Radar Toolkit (Py-ART) software developed at Argonne National Lab. Use this software to perform 3D wind analyses using 2-3 independent Doppler radars.",
+		"License": [
+			"NASA Open Source"
+		],
+		"Categories": [
+			"Earth Science",
+			"Toolkit",
+			"Meteorology",
+			"Radar",
+			"Doppler",
+			"Winds"
+		],
+		"Update_Date": "2017-05-31"
 	}
 ]
