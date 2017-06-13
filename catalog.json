@@ -6964,5 +6964,26 @@
 			"Winds"
 		],
 		"Update_Date": "2017-05-31"
+	},
+	{
+		"NASA Center": "Ames Research Center",
+	    	"Contributors": [
+	      		"Jeff Coughlin"
+	   	],
+	    	"Software": "Kepler DR25 Robovetter",
+	    	"External Link": "https://github.com/nasa/kepler-robovetter",
+	    	"Public Code Repo": "https://github.com/nasa/kepler-robovetter",
+	    	"Description": "The Kepler DR25 Robovetter code. The Robovetter dispositions Kepler Threshold Crossing Events (TCEs) into Planet Candidates (PCs) and False Positives (FPs) using sophisticated vetting metrics and decision-tree logic.",
+	    	"License": [
+	      		"NASA Open Source"
+	    	],
+	    	"Categories": [
+	      		"Kepler",
+	      		"DR25",
+	      		"Transits",
+			"Vetting"
+	  	],
+	    "Update_Date": "2017-06-12"
 	}
+
 ]
