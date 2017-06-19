@@ -6921,7 +6921,7 @@
 		"NASA Center": "Langley Research Center",
 		"Contributors": ["kdottiemo"],
 		"Software": "Move Away Superfluous Clouds (MASC)",
-		"External Link": "https://github.com/NASA-DEVELOP/MASC.git",
+		"External Link": "https://github.com/NASA-DEVELOP/MASC",
 		"Public Code Repo": "https://github.com/NASA-DEVELOP/MASC",
 		"Description": "This code removes clouds, cloud shadow, water, and snow pixels from Landsat scenes using the cloud mask layer that is provided with Landsat data.",
 		"License": ["NASA Open Source"],
