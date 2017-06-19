@@ -950,9 +950,9 @@
 		"Contributors": ["arc-sra-team@mail.nasa.gov"],
 		"Software": "NASA Tensegrity Robotics Toolkit (NTRT) v1",
 		"External Link": "https://github.com/NASA-Tensegrity-Robotics-Toolkit/NTRTsim",
-		"Public Code Repo": "https://github.com/NASA-Tensegrity-Robotics-Toolkit/NTRTsim/releases/tag/V1.1",
+		"Public Code Repo": "https://github.com/NASA-Tensegrity-Robotics-Toolkit/NTRTsim",
 		"Description": "The NASA Tensegrity Robotics Toolkit (NTRT) is a collection of C and MATLAB software modules for the modeling, simulation, and control of Tensegrity Robots. Tensegrity Robots are a biologically inspired approach to building robots based on the tension networks of tensegrity structures, which have no rigid connections between elements. The NTRT was created to enable: the rapid co-exploration of structures and controls in a physics based simulation environment; the development of tensegrity robotics algorithms such as structural analysis, kinematics, and motion planning; and the validation of the algorithms and controls on hardware prototypes of the tensegrity robots.",
-		"License": ["NASA Open Source"],
+		"License": ["ALv2"],
 		"Categories": ["Autonomous Systems"],
 		"Update_Date": "2015-01-09"
 	}, {
