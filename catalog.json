@@ -858,10 +858,10 @@
 	}, {
 		"NASA Center": "Langley Research Center",
 		"Contributors": ["larc-sra@mail.nasa.gov"],
-		"Software": "Tolerance Domain Specific Language",
-		"External Link": "https://github.com/kleb/nasarb/blob/master/uq4sim",
-		"Public Code Repo": "https://github.com/kleb/nasarb/blob/master/uq4sim/trunk/README.txt",
-		"Description": "This sensitivity task employs the Monte Carlo method. Thousands of simulations are run with randomly varied input parameters, and then statistical correlations are computed to determine the sensitivity of output parameters to each input parameter.",
+		"Software": "NASA Ruby",
+		"External Link": "https://github.com/kleb/nasarb",
+		"Public Code Repo": "https://github.com/kleb/nasarb",
+		"Description": "A home for NASA's open source Ruby software.  funit (Fortran unit testing framework.) fortran (Fortran utilities.) watch-paths (Poor man's file monitoring.) namelists (Generates webpage for creating namelists found in Fortran programs.) uq4sim (Uncertainty quantification for simulation.)",
 		"License": ["NASA Open Source"],
 		"Categories": ["Data and Image Processing"],
 		"Update_Date": "2008-06-16"
