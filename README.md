@@ -1,11 +1,11 @@
-#Open-Source-Catalog
+# Open-Source-Catalog
 
 
-##About
+## About
 
 This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](http://open.nasa.gov/about/) and contains a catalog of publicly available NASA open source projects that are published on [code.nasa.gov](http://code.nasa.gov). The catalog is persisted as a JSON file ```catalog.json``` and contains an array of projects.  As Code Sharing at NASA is a community effort, we encourage NASA developers to add a meta-record in to this catalog to publish their open source projects on [code.nasa.gov](http://code.nasa.gov/).
 
-##Requirements
+## Requirements
 * Open Source software project approved for open source release by your [NASA Field Center SRA](http://code.nasa.gov/#/guide)
 * Code Project hosted in a code repository (preferably GitHub.com) and visible to Internet Users
 * Meta record of your software project; instantiate ```required_fields_project_template.json```
@@ -39,5 +39,5 @@ This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](htt
 * Add your instantiated meta-record to the array in the catalog.json file via a pull request
 * Once the merge is complete, your project will be published on [code.nasa.gov](http://code.nasa.gov/)
 
-##Thanks
+## Thanks
 Special thanks goes out to [Chris Mattmann (NASA JPL)](https://github.com/chrismattmann), Sean Kelly (NASA JPL) and [Eric Whyne (DARPA)](https://github.com/ericwhyne) for their inspiration for this effort.
