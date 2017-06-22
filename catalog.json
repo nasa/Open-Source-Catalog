@@ -6989,8 +6989,7 @@
 	{
 		"NASA Center": "Ames Research Center",
     		"Contributors": [
-      			"Christopher J. Burke",
-			"Jeff Coughlin"
+      			"Christopher J. Burke"
     		],
     		"Software": "KeplerPORTs",
     		"External Link": "https://github.com/nasa/KeplerPORTs",
@@ -7002,7 +7001,13 @@
     		"Categories": [
       			"Kepler"
     		],
-    		"Update_Date": "2017-07-13",
+    		"Update_Date": "2017-07-13"
+	},
+ 	{
+		"NASA Center": "Ames Research Center",
+    		"Contributors": [
+			"Jeff Coughlin"
+    		],
 	    	"Software": "Kepler DR25 Robovetter",
 	    	"External Link": "https://github.com/nasa/kepler-robovetter",
 	    	"Public Code Repo": "https://github.com/nasa/kepler-robovetter",
