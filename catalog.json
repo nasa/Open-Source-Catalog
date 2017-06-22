@@ -6967,6 +6967,37 @@
 	},
 	{
 		"NASA Center": "Ames Research Center",
+    		"Contributors": [
+      			"Christopher J. Burke"
+    		],
+   		"Software": "Kepler-FLTI",
+    		"External Link": "https://github.com/nasa/Kepler-FLTI",
+    		"Public Code Repo": "https://github.com/nasa/Kepler-FLTI",
+    		"Description": " Illustrate using the Flux-Level Transit Injection (FLTI) Tests of the Kepler pipeline for Data Release 25.  This code generates the figures in the documentation of FLTI, Burke, C.J. and Catanzarite, J. 2017, Planet Detection Metrics: Per-Target Flux-Level Transit Injection Tests of TPS for Data Release 25, KSCI-19109-001",
+    		"License": [
+      			"NASA Open Source"
+    		],
+    		"Categories": [
+      			"Kepler"
+    		],
+    		"Update_Date": "2017-07-13"
+	},
+	{
+		"NASA Center": "Ames Research Center",
+    		"Contributors": [
+      			"Christopher J. Burke"
+    		],
+    		"Software": "KeplerPORTs",
+    		"External Link": "https://github.com/nasa/KeplerPORTs",
+    		"Public Code Repo": "https://github.com/nasa/KeplerPORTs",
+    		"Description": "Illustrate making use of numerous Kepler Planet Occurrence Rate Data Products for Data Release 25 and SOC 9.3 Kepler Pipeline version.  This code generates a detection contour according to the documentation Burke, C.J. and Catanzarite, J. 2017, Planet Detection Metrics: Per-Target Detection Contours for Data Release 25, KSCI-19111-001",
+    		"License": [
+      			"NASA Open Source"
+    		],
+    		"Categories": [
+      			"Kepler"
+    		],
+    		"Update_Date": "2017-07-13"
 	    	"Contributors": [
 	      		"Jeff Coughlin"
 	   	],
