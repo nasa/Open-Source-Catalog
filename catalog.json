@@ -977,13 +977,17 @@
 		"Update_Date": "2016-01-11"
 	}, {
 		"NASA Center": "Ames Research Center Center",
-		"Contributors": ["arc-sra-team@mail.nasa.gov"],
+		"Contributors": ["Joseph Rios"],
 		"Software": "Parallel Dantzig-Wolfe Decomposition",
-		"External Link": "http://sourceforge.net/projects/dwsolver",
-		"Public Code Repo": "http://sourceforge.net/projects/dwsolver/files/latest/download",
+		"External Link": "https://github.com/nasajoey/dwsolver",
+		"Public Code Repo": "https://github.com/nasajoey/dwsolver",
 		"Description": "This implementation of the Dantzig-Wolfe decomposition is built upon the GNU Linear Programming Kit. The technology provides a command-line tool for solving properly decomposed linear programs.",
 		"License": ["NASA Open Source"],
-		"Categories": ["Aeronautics"],
+		"Categories": [
+			"Aeronautics",
+			"Linear Programming",
+			"Optimization"
+		],
 		"Update_Date": "2015-02-28"
 	}, {
 		"NASA Center": "Langley Research Center",
