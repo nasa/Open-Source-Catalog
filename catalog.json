@@ -6989,7 +6989,8 @@
 	{
 		"NASA Center": "Ames Research Center",
     		"Contributors": [
-      			"Christopher J. Burke"
+      			"Christopher J. Burke",
+			"Jeff Coughlin"
     		],
     		"Software": "KeplerPORTs",
     		"External Link": "https://github.com/nasa/KeplerPORTs",
@@ -7001,10 +7002,7 @@
     		"Categories": [
       			"Kepler"
     		],
-    		"Update_Date": "2017-07-13"
-	    	"Contributors": [
-	      		"Jeff Coughlin"
-	   	],
+    		"Update_Date": "2017-07-13",
 	    	"Software": "Kepler DR25 Robovetter",
 	    	"External Link": "https://github.com/nasa/kepler-robovetter",
 	    	"Public Code Repo": "https://github.com/nasa/kepler-robovetter",
@@ -7019,6 +7017,136 @@
 			"Vetting"
 	  	],
 	    "Update_Date": "2017-06-12"
+	},
+ {
+		"NASA Center": "Ames Research Center",
+	    "Contributors": [
+	      "balhar-jakub",
+				"tag3",
+				"servetg",
+				"strikerM",
+				"revo09",
+				"pdavidc",
+				"emxsys",
+				"GabrielePrestifilippo",
+				"zglueck",
+				"carla-orru",
+				"AkeluX",
+				"RandolphKim",
+				"revision0"
+	    ],
+	    "Software": "WebWorldWind",
+	    "External Link": "https://github.com/NASAWorldWind/WebWorldWind",
+	    "Public Code Repo": "https://github.com/NASAWorldWind/WebWorldWind",
+	    "Description": "NASA World Wind in Java for HTML5",
+	    "License": [
+	      "NASA Open Source Agreement Version 1.3"
+	    ],
+	    "Categories": [
+	      "WorldWind",
+				"visual simulation",
+				"satellite",
+				"orbital dynamics",
+				"web application"
+	    ],
+	    "Update_Date": "2016-06-19"
+	},
+	{
+		"NASA Center": "Ames Research Center",
+	    "Contributors": [
+				"pdavidc",
+				"zglueck"
+	    ],
+	    "Software": "NASAWorldWind.github.io",
+	    "External Link": "https://github.com/NASAWorldWind/NASAWorldWind.github.io",
+	    "Public Code Repo": "https://github.com/NASAWorldWind/NASAWorldWind.github.io",
+	    "Description": "NASA World Wind organization website",
+	    "License": [
+	      "NASA Open Source Agreement Version 1.3"
+	    ],
+	    "Categories": [
+	      "WorldWind",
+				"visual simulation",
+				"satellite",
+				"orbital dynamics",
+				"github"
+	    ],
+	    "Update_Date": "2016-06-19"
+	},
+	{
+		"NASA Center": "Ames Research Center",
+	    "Contributors": [
+				"pdavidc",
+				"emxsys",
+				"zglueck",
+				"Beak-man"
+	    ],
+	    "Software": "WorldWindAndroid",
+	    "External Link": "https://github.com/NASAWorldWind/WorldWindAndroid",
+	    "Public Code Repo": "https://github.com/NASAWorldWind/WorldWindAndroid",
+	    "Description": "NASA World Wind in Java for Android",
+	    "License": [
+	      "NASA Open Source Agreement Version 1.3"
+	    ],
+	    "Categories": [
+	      "WorldWind",
+				"visual simulation",
+				"satellite",
+				"orbital dynamics",
+				"android",
+				"application"
+	    ],
+	    "Update_Date": "2016-06-19"
+	},
+	{
+		"NASA Center": "Ames Research Center",
+	    "Contributors": [
+				"pdavidc",
+				"emxsys"
+	    ],
+	    "Software": "WorldWindServerKit",
+	    "External Link": "https://github.com/NASAWorldWind/WorldWindServerKit",
+	    "Public Code Repo": "https://github.com/NASAWorldWind/WorldWindServerKit",
+	    "Description": "NASA World Wind map server kit",
+	    "License": [
+	      "GPLv2"
+	    ],
+	    "Categories": [
+	      "WorldWind",
+				"visual simulation",
+				"satellite",
+				"orbital dynamics",
+				"server kit",
+				"GeoServer",
+				"java"
+	    ],
+	    "Update_Date": "2016-06-19"
+	},
+	{
+		"NASA Center": "Ames Research Center",
+	    "Contributors": [
+				"pdavidc",
+				"emxsys",
+				"zglueck",
+				"tag3",
+				"moovida"
+	    ],
+	    "Software": "WorldWindJava",
+	    "External Link": "https://github.com/NASAWorldWind/WorldWindJava",
+	    "Public Code Repo": "https://github.com/NASAWorldWind/WorldWindJava",
+	    "Description": "NASA World Wind in Java",
+	    "License": [
+	      "NASA Open Source Agreement Version 1.3"
+	    ],
+	    "Categories": [
+	      "WorldWind",
+				"visual simulation",
+				"satellite",
+				"orbital dynamics",
+				"web application",
+				"java"
+	    ],
+	    "Update_Date": "2016-06-19"
 	}
 
 ]
