@@ -6837,8 +6837,8 @@
 			"manilmaskey, amarouane"
 		],
 		"Software": "pyCMR",
-		"External Link": "https://github.com/ghrcdaac/cmr/wiki",
-		"Public Code Repo": "https://github.com/ghrcdaac/cmr",
+		"External Link": "https://github.com/nasa/cmr/wiki",
+		"Public Code Repo": "https://github.com/nasa/cmr",
 		"Description": "Python client library that abstracts CMR API calls for search, ingest, update, and deletion of collections and granules.",
 		"License": [
 			"NASA Open Source"
@@ -6847,7 +6847,7 @@
 			"APL Client Library",
 			"Client SDK"
 		],
-		"Update_Date": "2017-04-12"
+		"Update_Date": "2017-08-16"
 	}, {
 		"NASA Center": "Ames Research Center",
 		"Contributors": ["mreese84"],
