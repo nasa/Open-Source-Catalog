@@ -10,6 +10,16 @@
 		"Update_Date": "2017-07-07"
 	},{
 		"NASA Center": "Ames Research Center",
+   	 	"Contributors": ["indranilroychoudhury", "matthewjdaigle"],
+    		"Software": "Virtual ADAPT",
+    		"External Link": "https://github.com/nasa/VirtualADAPT",
+    		"Public Code Repo": "https://github.com/nasa/VirtualADAPT",
+    		"Description": "VirtualADAPT is a high-fidelity, Matlab Simulink-based simulation testbed that emulates the Advanced Diagnostic and Prognostic Testbed (ADAPT) electrical power system hardware for running offline health management experiments. This simulation testbed models all components of the ADAPT hardware within the power storage and power distribution subsystems. The physical components of the testbed, i.e., the batteries, relays, and the loads, are replaced by simulation modules that generate the same dynamic behaviors as the hardware test bed.",
+    		"License": ["NASA Open Source"],
+    		"Categories": ["Electrical Power System","Simulation"],
+    		"Update_Date": "2017-10-10"
+	},{
+		"NASA Center": "Ames Research Center",
 		"Contributors": ["creon@nas.nasa.gov"],
 		"Software": "Viewpoints: Software for Visualization of Multivariate Data",
 		"External Link": "https://app.assembla.com/spaces/viewpoints/wiki/Home",
