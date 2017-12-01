@@ -7366,6 +7366,25 @@
      "Categories": ["Templates", "Fortran", "Containers"],
      "Languages": ["Fortran"],
      "Update_Date": "2018-01-18"
-}
+},
+	{
+		"NASA Center": "Glenn Research Center",
+		"Contributors": [
+			"JordanRHiggins"
+		],
+		"Software": "SAFE-DART",
+		"External Link": "https://github.com/nasa/SAFE-DART",
+		"Public Code Repo": "https://github.com/nasa/SAFE-DART",
+		"Description": "Software Architecture Framework for Extensibility using Dynamic Assembly of Reflective Types (SAFE-DART) is a framework for Qt-based C++ applications which simplifies the process of writing modular object-oriented code.",
+		"License": [
+			"NASA Open Source"
+		],
+		"Categories": [
+			"C++",
+			"Framework",
+			"Qt"
+		],
+		"Update_Date": "2017-12-01"
+	}
 
 ]
