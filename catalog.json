@@ -7322,9 +7322,7 @@
 
  {
      "NASA Center": "Goddard Space Flight Center",
-     "Contributors": [
-	 "tclune"
-    ],
+     "Contributors": ["tclune", "doronf-cortica"],
      "Software": "The Goddard Fortran Template Library",
      "External Link": "https://github.com/nasa/gFTL/wiki",
      "Public Code Repo": "https://github.com/nasa/gFTL",
