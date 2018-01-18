@@ -7318,6 +7318,23 @@
 				"ArcMap"
 			],
 			"Update_Date": "2016-06-23"
-	}
+	},
+
+ {
+     "NASA Center": "Goddard Space Flight Center",
+     "Contributors": [
+	 "tclune"
+    ],
+     "Software": "The Goddard Fortran Template Library",
+     "External Link": "https://github.com/nasa/gFTL/wiki",
+     "Public Code Repo": "https://github.com/nasa/gFTL",
+     "Description": "This project provides Fortran templates for defining software containers.   Of necessity the capabilities are a bit manual as compared to C++ STL, but still quite useful.  Container types supported for now are Vector, Set, and Map.   Contained objects can be specified as any intrinsic type or derived type.   This includes deferred length strings and/or unlimited polymorphic entities.   The container can contain a single static type or allow for subtypes.   In the polymorphic case, the container can either keep deep copies (allocatable) or shallow references (pointer).",
+     "License": ["ALv2"],
+     "License Long Name": "Apache License 2.0",
+     "License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
+     "License Link": "https://www.apache.org/licenses/LICENSE-2.0",
+     "Categories": ["Templates", "Fortran", "Containers"],
+     "Update_Date": "2018-01-18"
+}
 
 ]
