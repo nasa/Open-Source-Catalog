@@ -7332,6 +7332,7 @@
      "License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
      "License Link": "https://www.apache.org/licenses/LICENSE-2.0",
      "Categories": ["Templates", "Fortran", "Containers"],
+     "Languages": ["Fortran"],
      "Update_Date": "2018-01-18"
 }
 
