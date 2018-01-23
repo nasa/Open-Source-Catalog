@@ -7067,7 +7067,29 @@
 	  	],
 	    "Update_Date": "2017-06-12"
 	},
- {
+	{
+		"NASA Center": "Langley Research Center",
+		"Contributors": [
+			"jrwelstead",
+			"jfenbert"
+		],
+		"Software": "OpenVSP3Plugin",
+		"External Link": "https://github.com/nasa/openvsp3plugin",
+		"Public Code Repo": "https://github.com/nasa/openvsp3plugin",
+		"Description": "The OpenVSP3Plugin is a JAVA software tool that allows for the interface between OpenVSP and an analysis framework such as Phoenix Integration’s ModelCenter or the NASA developed OpenMDAO software. The OpenVSP3Plugin is designed to work on any computer desktop platform (Mac, Linux, and Windows) that has a local installation of JAVA.",
+		"License": ["ALv2"],
+		"License Long Name": "Apache License 2.0",
+		"License Description": "This free software license includes certain patent termination and indemnification provisions, compatible with GPL3.",
+		"License Link": "https://www.apache.org/licenses/LICENSE-2.0",
+		"Categories": [
+			"OpenVSP",
+			"Geometry",
+			"OpenMDAO",
+			"ModelCenter"
+		],
+		"Update_Date": "2017-12-8"
+	},
+	{
 		"NASA Center": "Ames Research Center",
 	    "Contributors": [
 	      "balhar-jakub",
