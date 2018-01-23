@@ -6819,12 +6819,22 @@
 		"NASA Center": "Ames Research Center",
 		"Contributors": ["teubert", "matthewjdaigle", "jason-watkins"],
 		"Software": "GSAP: General Software Architecture for Prognostics",
-		"External Link": "https://github.com/Jnasa/GSAP/archive/master.zip",
+		"External Link": "https://github.com/nasa/GSAP/archive/master.zip",
 		"Public Code Repo": "https://github.com/nasa/GSAP",
 		"Description": "The Generic Software Architecture for Prognostics (GSAP) is a framework for applying prognostics. It makes applying prognostics easier by implementing many of the common elements across prognostic applications. The standard interface enables reuse of prognostic algorithms and models across systems using the GSAP framework.",
 		"License": ["NASA Open Source"],
-		"Categories": ["c++", "framework", "Prognostics", "PHM", "Health Management", "Health Monitoring"],
+		"Categories": ["c++", "framework", "library", "Prognostics", "PHM", "Health Management", "Health Monitoring"],
 		"Update_Date": "2017-01-20"
+	}, {
+		"NASA Center": "Ames Research Center",
+		"Contributors": ["cullo7", "shankarsankararaman", "teubert"],
+		"Software": "C++ Random Variable Library",
+		"External Link": "https://github.com/nasa/RVLib/archive/master.zip",
+		"Public Code Repo": "https://github.com/nasa/RVLib",
+		"Description": "The RandomVariable Library is an C++ open source library for representing statistical uncertainty in a precise, readable, and usable manner. Value uncertainty can be represented with a parametric distribution such as Gaussian or a nonparametric distribution such as a weighted sample set. The library enables sampling from a parametric or fitting to a parametric distribution. Calculations may also be performed on multiple RandomVariable objects by sampling/overlaying techniques.",
+		"License": ["NASA Open Source"],
+		"Categories": ["c++", "library", "statistics", "uncertainty"],
+		"Update_Date": "2017-11-09"
 	}, {
 		"NASA Center": "Jet Propulsion Laboratory",
 		"Contributors": ["lewismc", "eniad "],
