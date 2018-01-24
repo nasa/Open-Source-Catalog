@@ -7407,5 +7407,25 @@
 			"Photographs"
 		],
 		"Update_Date": "2018-01-18"
-	}
+	},
+    {
+        "NASA Center": "Johnson Space Center",
+        "Contributors": [
+          "tam.m.ngo@nasa.gov"
+        ],
+        "Software": "CFS-101",
+        "External Link": "https://github.com/nasa/CFS-101",
+        "Public Code Repo": "https://github.com/nasa/CFS-101",
+        "Description": "An Introduction to CFS Application Development",
+        "License": [
+          "NASA Open Source"
+        ],
+        "Categories": [
+          "Framework",
+          "Training",
+          "Core Flight Software",
+          "CFS"
+        ],
+        "Update_Date": "2017-12-28"
+    }
 ]
