@@ -7385,6 +7385,27 @@
 			"Qt"
 		],
 		"Update_Date": "2017-12-01"
+	},
+	{
+		"NASA Center": "Marshall Space Flight Center",
+		"Contributors": [
+			"tjlang"
+		],
+		"Software": "ISS Camera Geolocate",
+		"External Link": "https://github.com/nasa/ISS_Camera_Geolocate/wiki",
+		"Public Code Repo": "https://github.com/nasa/ISS_Camera_Geolocate",
+		"Description": "Python software library that facilitates the geolocation of photographs and video frames from the International Space Station (ISS).",
+		"License": [
+			"NASA Open Source"
+		],
+		"Categories": [
+			"Earth Science",
+			"Toolkit",
+			"Meteorology",
+			"Cameras",
+			"ISS",
+			"Photographs"
+		],
+		"Update_Date": "2018-01-18"
 	}
-
 ]
