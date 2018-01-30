@@ -7427,5 +7427,17 @@
           "CFS"
         ],
         "Update_Date": "2017-12-28"
-    }
+    },
+  { 
+    "NASA Center": "Glenn Research Center",
+    "Contributors": ["scspiegel"],
+    "Software": "GFR",
+    "External Link": "https://github.com/nasa/gfr",
+    "Public Code Repo": "https://github.com/nasa/gfr",
+    "Description": "GFR (Glenn Flux Reconstruction) is a high-order computational fluid dynamics (CFD) Fortran code for large-eddy simulations. It is based on the simple and efficient flux reconstruction method and accurate to arbitrary order through a user-supplied input parameter. It is currently capable of using unstructured grids containing quadrilateral and hexahedra elements. The current release only supports UNIX-like operating systems.",
+    "License": ["NASA Open Source"],
+    "Categories": ["CFD", "LES", "Flux Reconstruction", "Fortran"],
+    "Languages": ["Fortran"],
+    "Update_Date": "2018-01-30"
+  }
 ]
