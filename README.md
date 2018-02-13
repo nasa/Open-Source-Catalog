@@ -32,7 +32,8 @@ This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](htt
       "Toolkit",
       "Web"
     ],
-    "Update_Date": "2014-09-23"
+    "Update_Date": "2014-09-23",
+    "Labor_Hours": 24
 }
 ```
 
