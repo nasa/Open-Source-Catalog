@@ -1,0 +1,26 @@
+{
+  "name": "open-source-catalog",
+  "version": "1.0.0",
+  "description": "NASA Open Source Catalog",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .json --ext .md",
+    "pretest": "npm run lint",
+    "test": "echo \"No tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasa/Open-Source-Catalog.git"
+  },
+  "author": "",
+  "license": "NASA-1.3",
+  "bugs": {
+    "url": "https://github.com/nasa/Open-Source-Catalog/issues"
+  },
+  "homepage": "https://github.com/nasa/Open-Source-Catalog#readme",
+  "devDependencies": {
+    "eslint": "^4.18.2",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-markdown": "^1.0.0-beta.6"
+  }
+}
