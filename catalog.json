@@ -7850,6 +7850,18 @@
     "Update_Date": "2018-01-30"
   },
   {
+  		"NASA Center": "Jet Propulsion Laboratory",
+  		"Contributors": ["Charles Thompson", "Jeffery Hall"],
+  		"Software": "MISR View",
+  		"External Link": "http://misr.jpl.nasa.gov/",
+  		"Public Code Repo": "https://github.com/nasa/MISR-View",
+  		"Description": "misr_view is a graphical user interface-driven display and analysis tool for use with MISR files that use the HDF-EOS 'grid' interface. The display and analysis tools include simultaneous display of several data planes through color assignment, contrast enhancement, pseudo coloring, data value query, image rotation, creation of stereo anaglyphs, zooming, linked analysis and view windows, vector overlays and map projections.",
+  		"License": ["NASA Open Source"],
+  		"Categories": ["Visualization", "Analysis", "Earth Science"],
+  		"Languages": ["IDL"],		
+  		"Update_Date": "2018-03-08"
+  	}, 
+  {
     "NASA Center": "Jet Propulsion Laboratory",
     "Contributors": ["Lewis.J.Mcgibbney@jpl.nasa.gov"],
     "Software": "Apache SensSoft (Incubating) UserALE.js",
@@ -7864,7 +7876,7 @@
   {
     "NASA Center": "Jet Propulsion Laboratory",
     "Contributors": ["Lewis.J.Mcgibbney@jpl.nasa.gov"],
-    "Software": "SWET Ontology Suite",
+    "Software": "SWEET Ontology Suite",
     "External Link": "https://github.com/ESIPFed/sweet",
     "Public Code Repo": "https://github.com/ESIPFed/sweet",
     "Description": "Apache SensSoft is a user activity logging and analytics system that enables developers to instrument and extract design and user insights from their applications. SensSoft incorporates a number of components that work together to provide user-experience researchers, project managers and software developers insights about how web applications are used. UserALE.js is an open source tool to quickly and efficiently instrument a JavaScript frontend application.",
