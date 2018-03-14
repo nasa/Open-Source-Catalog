@@ -7528,13 +7528,25 @@
   {
     "NASA Center": "Jet Propulsion Laboratory",
     "Contributors": ["Lewis.J.Mcgibbney@jpl.nasa.gov"],
-    "Software": "Apache SensSoft (Incubating) UserALE.js 1.0.0.",
+    "Software": "Apache SensSoft (Incubating) UserALE.js",
     "External Link": "http://senssoft.incubator.apache.org/",
     "Public Code Repo": "http://senssoft.incubator.apache.org/releases/",
     "Description": "Apache SensSoft is a user activity logging and analytics system that enables developers to instrument and extract design and user insights from their applications. SensSoft incorporates a number of components that work together to provide user-experience researchers, project managers and software developers insights about how web applications are used. UserALE.js is an open source tool to quickly and efficiently instrument a JavaScript frontend application.",
-    "License": ["Apache Software License v2.0"],
+    "License": ["ALv2"],
     "Categories": ["Logging", "Analytics", "Instrumentation"],
     "Languages": ["JavaScript"],
+    "Update_Date": "2018-03-13"
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": ["Lewis.J.Mcgibbney@jpl.nasa.gov"],
+    "Software": "SWET Ontology Suite",
+    "External Link": "https://github.com/ESIPFed/sweet",
+    "Public Code Repo": "https://github.com/ESIPFed/sweet",
+    "Description": "Apache SensSoft is a user activity logging and analytics system that enables developers to instrument and extract design and user insights from their applications. SensSoft incorporates a number of components that work together to provide user-experience researchers, project managers and software developers insights about how web applications are used. UserALE.js is an open source tool to quickly and efficiently instrument a JavaScript frontend application.",
+    "License": ["ALv2"],
+    "Categories": ["Ontology", "Earth System Science"],
+    "Languages": ["W3C Turtle"],
     "Update_Date": "2018-03-13"
   }
 ]
