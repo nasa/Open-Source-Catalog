@@ -7887,19 +7887,25 @@
   },
   {
     "NASA Center": "Langley Research Center",
-    "Contributors": [
-      "jordan.s.vaa@nasa.gov"
-    ],
+    "Contributors": ["jordan.s.vaa@nasa.gov"],
     "Software": "LCD",
     "External Link": "https://github.com/NASA-DEVELOP/LCD",
     "Public Code Repo": "https://github.com/NASA-DEVELOP/LCD",
     "Description": "The Normalized Difference Vegetation Index (NDVI) for the study time period is calculated and then compared to the maximum and minimum NDVI from a baseline range of years in order to calculate Relative Greenness (RG). The change in RG from the previous year is found, and this allows the user to identify abrupt change in vegetation.",
-    "License": [
-      "NASA Open Source"
-    ],
-    "Categories": [
-      "Data & Image Processing"
-    ],
+    "License": ["NASA Open Source"],
+    "Categories": ["Data & Image Processing"],
     "Update_Date": "2017-11-16"
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": ["Lewis.J.Mcgibbney@jpl.nasa.gov"],
+    "Software": "Podaacpy",
+    "External Link": "http://podaacpy.readthedocs.io/en/latest/",
+    "Public Code Repo": "https://github.com/nasa/podaacpy",
+    "Description": "Podaacpy is a python utility library for interacting with NASA JPL's Physical Oceanography Distributed Active Archive Center (PO.DAAC), which is an element of the Earth Observing System Data and Information System (EOSDIS).",
+    "License": ["ALv2"],
+    "Categories": ["toolkit"],
+    "Languages": ["Python"],
+    "Update_Date": "2018-03-14"
   }
 ]
