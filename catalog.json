@@ -7465,5 +7465,17 @@
     "Categories": ["CFD", "LES", "Flux Reconstruction", "Fortran"],
     "Languages": ["Fortran"],
     "Update_Date": "2018-01-30"
-  }
+  },
+	{
+		"NASA Center": "Jet Propulsion Laboratory",
+		"Contributors": ["Lewis.J.Mcgibbney@jpl.nasa.gov"],
+		"Software": "Apache SensSoft (Incubating) UserALE.js 1.0.0.",
+		"External Link": "http://senssoft.incubator.apache.org/",
+		"Public Code Repo": "http://senssoft.incubator.apache.org/releases/",
+		"Description": "Apache SensSoft is a user activity logging and analytics system that enables developers to instrument and extract design and user insights from their applications. SensSoft incorporates a number of components that work together to provide user-experience researchers, project managers and software developers insights about how web applications are used. UserALE.js is an open source tool to quickly and efficiently instrument a JavaScript frontend application.",
+		"License": ["Apache Software License v2.0"],
+		"Categories": ["Logging", "Analytics", "Instrumentation"],
+		"Languages": ["JavaScript"],
+		"Update_Date": "2018-03-13"
+	}
 ]
