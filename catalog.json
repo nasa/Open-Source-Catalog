@@ -9,7 +9,8 @@
     "License": ["ALv2"],
     "Categories": ["API", "Images"],
     "Update_Date": "2017-07-07"
-  }, {
+  },
+  {
   "NASA Center": "Ames Research Center",
   "Contributors": ["indranilroychoudhury", "matthewjdaigle"],
   "Software": "Virtual ADAPT",
@@ -7548,5 +7549,22 @@
     "Categories": ["Ontology", "Earth System Science"],
     "Languages": ["W3C Turtle"],
     "Update_Date": "2018-03-13"
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "jordan.s.vaa@nasa.gov"
+    ],
+    "Software": "LCD",
+    "External Link": "https://github.com/NASA-DEVELOP/LCD",
+    "Public Code Repo": "https://github.com/NASA-DEVELOP/LCD",
+    "Description": "The Normalized Difference Vegetation Index (NDVI) for the study time period is calculated and then compared to the maximum and minimum NDVI from a baseline range of years in order to calculate Relative Greenness (RG). The change in RG from the previous year is found, and this allows the user to identify abrupt change in vegetation.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Data & Image Processing"
+    ],
+    "Update_Date": "2017-11-16"
   }
 ]
