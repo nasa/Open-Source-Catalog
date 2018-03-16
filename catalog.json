@@ -7870,7 +7870,8 @@
     "License": ["NASA Open Source"],
     "Categories": ["Visualization", "Analysis", "Earth Science"],
     "Languages": ["IDL"],
-    "Update_Date": "2018-03-08"
+    "Update_Date": "2018-03-08",
+    "Labor_Hours": 0
   },
   {
     "NASA Center": "Jet Propulsion Laboratory",
