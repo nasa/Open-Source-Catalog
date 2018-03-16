@@ -7861,17 +7861,17 @@
     "Labor_Hours": 38464
   },
   {
-  		"NASA Center": "Jet Propulsion Laboratory",
-  		"Contributors": ["Charles Thompson", "Jeffery Hall"],
-  		"Software": "MISR View",
-  		"External Link": "http://misr.jpl.nasa.gov/",
-  		"Public Code Repo": "https://github.com/nasa/MISR-View",
-  		"Description": "misr_view is a graphical user interface-driven display and analysis tool for use with MISR files that use the HDF-EOS 'grid' interface. The display and analysis tools include simultaneous display of several data planes through color assignment, contrast enhancement, pseudo coloring, data value query, image rotation, creation of stereo anaglyphs, zooming, linked analysis and view windows, vector overlays and map projections.",
-  		"License": ["NASA Open Source"],
-  		"Categories": ["Visualization", "Analysis", "Earth Science"],
-  		"Languages": ["IDL"],		
-  		"Update_Date": "2018-03-08"
-  	}, 
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": ["Charles Thompson", "Jeffery Hall"],
+    "Software": "MISR View",
+    "External Link": "http://misr.jpl.nasa.gov/",
+    "Public Code Repo": "https://github.com/nasa/MISR-View",
+    "Description": "misr_view is a graphical user interface-driven display and analysis tool for use with MISR files that use the HDF-EOS 'grid' interface. The display and analysis tools include simultaneous display of several data planes through color assignment, contrast enhancement, pseudo coloring, data value query, image rotation, creation of stereo anaglyphs, zooming, linked analysis and view windows, vector overlays and map projections.",
+    "License": ["NASA Open Source"],
+    "Categories": ["Visualization", "Analysis", "Earth Science"],
+    "Languages": ["IDL"],
+    "Update_Date": "2018-03-08"
+  },
   {
     "NASA Center": "Jet Propulsion Laboratory",
     "Contributors": ["Lewis.J.Mcgibbney@jpl.nasa.gov"],
