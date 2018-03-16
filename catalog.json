@@ -2068,7 +2068,8 @@
       "planning",
       "metrics"
     ],
-    "New Date": ""
+    "New Date": "",
+    "Update_Date": "2016-03-29"
   },
   {
     "NASA Center": "NASA\u201a\u00c4\u00f4s Center of Excellence for Collaboration",
@@ -2628,7 +2629,8 @@
       "enrollment",
       "screening"
     ],
-    "New Date": ""
+    "New Date": "",
+    "Update_Date": "2014-01-14"
   },
   {
     "NASA Center": "NASA\u201a\u00c4\u00f4s Center of Excellence for Collaboration (CoECI)",
@@ -2844,7 +2846,8 @@
       "data mining",
       "prediction"
     ],
-    "New Date": ""
+    "New Date": "",
+    "Update_Date": "2013-12-03"
   },
   {
     "NASA Center": "NASA Tournament Lab",
@@ -3058,7 +3061,8 @@
       "application",
       "algorithm"
     ],
-    "New Date": ""
+    "New Date": "",
+    "Update_Date": "2013-10-24"
   },
   {
     "NASA Center": "Kennedy Space Center",
@@ -3166,7 +3170,8 @@
       "operations",
       "VADER"
     ],
-    "New Date": ""
+    "New Date": "",
+    "Update_Date": "2013-09-03"
   },
   {
     "NASA Center": "Headquarters",
@@ -3275,7 +3280,8 @@
       "code",
       "NASA"
     ],
-    "New Date": ""
+    "New Date": "",
+    "Update_Date": "2016-07-28"
   },
   {
     "NASA Center": "Headquarters",
@@ -3758,7 +3764,8 @@
       "repository",
       "catalog"
     ],
-    "New Date": ""
+    "New Date": "",
+    "Update_Date": "2014-12-01"
   },
   {
     "NASA Center": "Marshall Space Flight Center",
@@ -3993,7 +4000,8 @@
       "wrapping",
       "integration"
     ],
-    "New Date": ""
+    "New Date": "",
+    "Update_Date": "2018-02-04"
   },
   {
     "NASA Center": "Jet Propulsion Laboratory",
@@ -6363,7 +6371,8 @@
     "Public Code Repo": "http://www.astro.umd.edu/~harris/r/FITSio_2.0-0.zip",
     "Description": "FITSio is a contributed R package for reading and writing FITS images and reading binary tables within the R software environment. It has no dependencies other than the base R installation. The FITSio contributed package source code is available directly from the R project web site under the 'contributed extension packages' link.",
     "License": ["NASA Open Source"],
-    "Categories": ["data visualization", "data", "FITS", "flexible image transport system", "R language", "FITSio"]
+    "Categories": ["data visualization", "data", "FITS", "flexible image transport system", "R language", "FITSio"],
+    "Update_Date": "2016-11-26"
   },
   {
     "NASA Center": "Goddard Space Flight Center",
@@ -6376,7 +6385,8 @@
     "Categories": [
       "data visualization", "image processing", "data", "FITS", "flexible image transport system", "ESA", "ESO",
       "liberator", "adobe"
-    ]
+    ],
+    "Update_Date": "2012-02-21"
   },
   {
     "NASA Center": "Goddard Space Flight Center",
@@ -7847,7 +7857,8 @@
     "License": ["NASA Open Source"],
     "Categories": ["CFD", "LES", "Flux Reconstruction", "Fortran"],
     "Languages": ["Fortran"],
-    "Update_Date": "2018-01-30"
+    "Update_Date": "2018-01-30",
+    "Labor_Hours": 38464
   },
   {
   		"NASA Center": "Jet Propulsion Laboratory",
@@ -7871,7 +7882,8 @@
     "License": ["ALv2"],
     "Categories": ["Logging", "Analytics", "Instrumentation"],
     "Languages": ["JavaScript"],
-    "Update_Date": "2018-03-13"
+    "Update_Date": "2018-03-13",
+    "Labor_Hours": 0
   },
   {
     "NASA Center": "Jet Propulsion Laboratory",
@@ -7883,7 +7895,8 @@
     "License": ["ALv2"],
     "Categories": ["Ontology", "Earth System Science"],
     "Languages": ["W3C Turtle"],
-    "Update_Date": "2018-03-13"
+    "Update_Date": "2018-03-13",
+    "Labor_Hours": 96
   },
   {
     "NASA Center": "Langley Research Center",
@@ -7894,7 +7907,8 @@
     "Description": "The Normalized Difference Vegetation Index (NDVI) for the study time period is calculated and then compared to the maximum and minimum NDVI from a baseline range of years in order to calculate Relative Greenness (RG). The change in RG from the previous year is found, and this allows the user to identify abrupt change in vegetation.",
     "License": ["NASA Open Source"],
     "Categories": ["Data & Image Processing"],
-    "Update_Date": "2017-11-16"
+    "Update_Date": "2017-11-16",
+    "Labor_Hours": 0
   },
   {
     "NASA Center": "Jet Propulsion Laboratory",
@@ -7906,6 +7920,7 @@
     "License": ["ALv2"],
     "Categories": ["toolkit"],
     "Languages": ["Python"],
-    "Update_Date": "2018-03-14"
+    "Update_Date": "2018-03-14",
+    "Labor_Hours": 720
   }
 ]
