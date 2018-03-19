@@ -7936,5 +7936,23 @@
     "Languages": ["JavaScript"],
     "Update_Date": "2018-03-19",
     "Labor_Hours": 208
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "rba.eos@gmail.com", "Stanley Yu", "kenton.w.ross@nasa.gov", "Margaret Mulhern"
+    ],
+    "Software": "SET",
+    "External Link": "https://github.com/NASA-DEVELOP/SET",
+    "Public Code Repo": "https://github.com/NASA-DEVELOP/SET",
+    "Description": "Beta version of the Skyglow Estimation Toolbox. Documentation -> https://nasa-develop.github.io/SET/",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Data & Image Processing"
+    ],
+    "Update_Date": "2018-01-08",
+    "Labor_Hours": 20320
   }
 ]
