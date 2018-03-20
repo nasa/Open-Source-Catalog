@@ -7954,5 +7954,131 @@
     ],
     "Update_Date": "2018-01-08",
     "Labor_Hours": 20320
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "jordan.s.vaa@nasa.gov"
+    ],
+    "Software": "COVER",
+    "External Link": "https://github.com/NASA-DEVELOP/COVER",
+    "Public Code Repo": "https://github.com/NASA-DEVELOP/COVER",
+    "Description": "This code develops calibration models using linear regression models with in-situ field data. The calibration models are then used to predict biomass (log), nitrogen percent, and nitrogen content for Landsat images from 2006-2016. Model results and data tables are output as separate files for each field season (i.e. winter and spring seasons).",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Data & Image Processing"
+    ],
+    "Update_Date": "2018-03-2",
+    "Labor_Hours": 90
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "jordan.s.vaa@nasa.gov"
+    ],
+    "Software": "WRIT",
+    "External Link": "https://github.com/NASA-DEVELOP/WRIT",
+    "Public Code Repo": "https://github.com/NASA-DEVELOP/WRIT",
+    "Description": "For the AcoFixDual_Tool: Geolocates and rescales ACOLITE output to make it useful in ArcMap.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Data & Image Processing"
+    ],
+    "Update_Date": "2018-02-02",
+    "Labor_Hours": 40
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "jordan.s.vaa@nasa.gov"
+    ],
+    "Software": "SAVeTrEE",
+    "External Link": "https://github.com/NASA-DEVELOP/SAVeTrEE",
+    "Public Code Repo": "https://github.com/NASA-DEVELOP/SAVeTrEE",
+    "Description": "SAVeTrEE is a script within Google Earth Engine for classifying areas of vegetation mortality. It prompts the user for a year, duration, and spectral index for which a mortality map should be produced, then fits a trend line to an imagery time sequence of vegetative spectral index values calculated from Landsat multispectral data.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Data & Image Processing"
+    ],
+    "Update_Date": "2017-11-17",
+    "Labor_Hours": 160
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "jordan.s.vaa@nasa.gov"
+    ],
+    "Software": "RIFRAF",
+    "External Link": "https://github.com/NASA-DEVELOP/RIFRAF",
+    "Public Code Repo": "https://github.com/NASA-DEVELOP/RIFRAF",
+    "Description": "This software was created to address concerns of fire managers in the Missouri River Basin. Previously, fire managers inferred a regional fire risk from separate sources, (i.e. temperature maps, drought indices, and precipitation averages).",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Data & Image Processing"
+    ],
+    "Update_Date": "2017-11-20",
+    "Labor_Hours": 100
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "jordan.s.vaa@nasa.gov"
+    ],
+    "Software": "HAE",
+    "External Link": "https://github.com/NASA-DEVELOP/HAE",
+    "Public Code Repo": "https://github.com/NASA-DEVELOP/HAE",
+    "Description": "Using the cloud-based computing power of Google Earth Engine (GEE), the Hydrologic Anomaly Index (HAE) is capable of uploading and analyzing large amounts of Earth observation climate data for the purpose of hydrologic analysis and monitoring. The end-user will be able to pull from and modify a library of scripts that are stored in Earth Engine, as well as upload and access data stored on a private data catalog. The final stage of development of the tool will include a more user-friendly application built using Google’s App Engine, in which users will be able to display data products and interactive maps.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Data & Image Processing"
+    ],
+    "Update_Date": "2017-08-30",
+    "Labor_Hours": 500
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "jordan.s.vaa@nasa.gov"
+    ],
+    "Software": "CCROP",
+    "External Link": "https://github.com/NASA-DEVELOP/CCROP",
+    "Public Code Repo": "https://github.com/NASA-DEVELOP/CCROP",
+    "Description": "Cover Crop Remotely Observed Performance (CCROP): The Maryland Department of Agriculture (MDA) is interested in verifying winter cover crop implementation and analyzing cover crop productivity using satellite imagery.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Data & Image Processing"
+    ],
+    "Update_Date": "2017-08-07",
+    "Labor_Hours": 30
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "jordan.s.vaa@nasa.gov"
+    ],
+    "Software": "FAULT",
+    "External Link": "https://github.com/NASA-DEVELOP/FAULT",
+    "Public Code Repo": "https://github.com/NASA-DEVELOP/FAULT",
+    "Description": "Flood Analysis Utilizing Landsat and ArcMap Tools (FAULT): This product was created in an effort to automate flood analysis throughout the Mississippi River Basin.",
+    "License": [
+      "NASA Open Source"
+    ],
+    "Categories": [
+      "Data & Image Processing"
+    ],
+    "Update_Date": "2017-08-07",
+    "Labor_Hours": 120
   }
 ]
