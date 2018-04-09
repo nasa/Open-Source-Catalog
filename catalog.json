@@ -8081,5 +8081,23 @@
     ],
     "Update_Date": "2017-08-07",
     "Labor_Hours": 120
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "jtroberts",
+      "jeffreyrhall"
+    ],
+    "Software": "tiledwms",
+    "External Link": "https://github.com/nasajpl/tiledwms",
+    "Public Code Repo": "https://github.com/nasajpl/tiledwms",
+    "Description": "Tiled WMS is a software package consisting of image formatting and serving modules which facilitate the deployment of a web service capable of efficiently serving standards-based requests for georeferenced raster imagery at multiple spatial resolutions including, but not limited to, full spatial resolution. The software was originally developed at the Jet Propulsion Laboratory (JPL) to serve global daily composites of MODIS imagery. Since then, it has been deployed and repurposed in other installations, including at the Physical Oceanography Distributed Active Archive Center (PO.DAAC) in support of the State of the Oceans (SOTO) visualization tool (http://podaac-tools.jpl.nasa.gov/soto/), the Lunar Mapping and Modeling Project (LMMP) (http://lmmp.nasa.gov), and GIBS. Tiled WMS has also been used to serve data from JPL for NASA WorldWind and to produce movies at the Hayden Planetarium.",
+    "License": ["ALv2"],
+    "Categories": [
+      "Global Imagery Browse Services",
+      "GIBS"
+    ],
+    "Update_Date": "2013-12-05",
+    "Labor_Hours": 2144
   }
 ]
