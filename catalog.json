@@ -8099,8 +8099,7 @@
     ],
     "Update_Date": "2013-12-05",
     "Labor_Hours": 2144
-  }
-,
+  },
   {
     "NASA Center": "Jet Propulsion Laboratory",
     "Contributors": [
@@ -8119,5 +8118,25 @@
     ],
     "Update_Date": "2018-04-12",
     "Labor_Hours": 2496
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "wmb@waynemosesburke.com",
+      "adidier17",
+      "giuseppetotaro"
+    ],
+    "Software": "ASSESS",
+    "External Link": "https://github.com/nasa-jpl/ASSESS",
+    "Public Code Repo": "https://github.com/nasa-jpl/ASSESS",
+    "Description": "Automatic Semantic Search Engine for Suitable Standards (ASSESS)",
+    "License": ["ALv2"],
+    "Categories": [
+      "Automatic",
+      "Semantic",
+      "Search Engine"
+    ],
+    "Update_Date": "2017-09-12",
+    "Labor_Hours": 8208
   }
 ]
