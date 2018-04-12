@@ -8100,4 +8100,24 @@
     "Update_Date": "2013-12-05",
     "Labor_Hours": 2144
   }
+,
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "wmb@waynemosesburke.com",
+      "adidier17",
+      "asitang",
+      "vlall"
+    ],
+    "Software": "T-ENTacle",
+    "External Link": "https://github.com/nasa-jpl/T-ENTacle",
+    "Public Code Repo": "https://github.com/nasa-jpl/T-ENTacle",
+    "Description": "Extracting structured information from PDFs - and later, diagrams",
+    "License": ["ALv2"],
+    "Categories": [
+      "Extract information"
+    ],
+    "Update_Date": "2018-04-12",
+    "Labor_Hours": 2496
+  }
 ]
