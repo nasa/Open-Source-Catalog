@@ -8269,5 +8269,23 @@
     ],
     "Update_Date": "2018-04-12",
     "Labor_Hours": 151232
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "Normalized Database Schema Tables for JPL's Ontological Modeling Language (OML)",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml.tables",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml.tables",
+    "Description": "Definition of the normalized schema tables for JPL's Ontological Modeling Framework (OMF) at https://jpl-imce.github.io/gov.nasa.jpl.imce.oml.tables/.",
+    "License": ["ALv2"],
+    "Categories": [
+      "normalized schema tables",
+      "Ontological Modeling Framework (OMF)",
+      "OML"
+    ],
+    "Update_Date": "2018-04-11",
+    "Labor_Hours": 16400
   }
 ]
