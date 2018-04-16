@@ -8254,21 +8254,20 @@
   {
     "NASA Center": "Jet Propulsion Laboratory",
     "Contributors": [
-      "StevenJenkinsJPL",
-      "sjiherzig",
-      "NicolasRouquette"
+      "NicolasRouquette",
+      "dyates"
     ],
-    "Software": "Ontology Tools",
-    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.tools",
-    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.tools",
-    "Description": "A Collection of Tools for Processing Ontologies",
-    "License": ["ALv2"],
+    "Software": "Ontological Modeling Language (OML) Platform & Core Features",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml",
+    "Description": "Eclipse Tycho-based organization of the Ontological Modeling Language (OML)",
+    "License": ["NASA Open Source"],
     "Categories": [
-      "ontology processing tools",
-      "ontology",
-      "tools"
+      "Eclipse Tycho-based organization",
+      "Ontological Modeling Language",
+      "OML"
     ],
-    "Update_Date": "2018-04-14",
-    "Labor_Hours": 9824
+    "Update_Date": "2018-04-12",
+    "Labor_Hours": 151232
   }
 ]
