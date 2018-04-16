@@ -8211,7 +8211,8 @@
     "NASA Center": "Jet Propulsion Laboratory",
     "Contributors": [
       "StevenJenkinsJPL",
-      "sjiherzig"
+      "sjiherzig",
+      "NicolasRouquette"
     ],
     "Software": "Ontology Public",
     "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.public",
