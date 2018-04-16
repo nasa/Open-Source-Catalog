@@ -8206,5 +8206,25 @@
     ],
     "Update_Date": "2017-08-02",
     "Labor_Hours": 336
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "StevenJenkinsJPL",
+      "sjiherzig"
+    ],
+    "Software": "Ontology Public",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.public",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.public",
+    "Description": "JPL's IMCE ontologies for Model-Based Systems Engineering",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "ontology",
+      "model-based",
+      "systems engineering",
+      "engineering"
+    ],
+    "Update_Date": "2018-01-31",
+    "Labor_Hours": 177232
   }
 ]
