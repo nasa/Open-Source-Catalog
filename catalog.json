@@ -8138,5 +8138,26 @@
     ],
     "Update_Date": "2017-09-12",
     "Labor_Hours": 8208
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "Elliott Liggett",
+      "jackiryan"
+    ],
+    "Software": "LiveView",
+    "External Link": "https://github.com/nasa-jpl/LiveView",
+    "Public Code Repo": "https://github.com/nasa-jpl/LiveView",
+    "Description": "LiveView2 is a Qt frontend GUI for cuda_take, it displays focal plane data and basic analysis (such as the std. dev, dark subtraction, FFT, Spectral Profile, and Video Savant*-like* playback). Plots are implemented using the QCustomPlot library, which generates live color maps, bar graphs, and line graphs within the Qt C++ environment.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Qt frontend GUI",
+      "focal plane",
+      "QCustomPlot",
+      "Qt",
+      "C++"
+    ],
+    "Update_Date": "2018-04-16",
+    "Labor_Hours": 27072
   }
 ]
