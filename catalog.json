@@ -8159,5 +8159,52 @@
     ],
     "Update_Date": "2018-04-16",
     "Labor_Hours": 27072
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "Elliott Liggett",
+      "jackiryan"
+    ],
+    "Software": "LiveView",
+    "External Link": "https://github.com/nasa-jpl/LiveView",
+    "Public Code Repo": "https://github.com/nasa-jpl/LiveView",
+    "Description": "LiveView2 is a Qt frontend GUI for cuda_take, it displays focal plane data and basic analysis (such as the std. dev, dark subtraction, FFT, Spectral Profile, and Video Savant*-like* playback). Plots are implemented using the QCustomPlot library, which generates live color maps, bar graphs, and line graphs within the Qt C++ environment.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Qt frontend GUI",
+      "focal plane",
+      "QCustomPlot",
+      "Qt",
+      "C++"
+    ],
+    "Update_Date": "2018-04-16",
+    "Labor_Hours": 27072
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "StevenJenkinsJPL",
+      "sjiherzig"
+    ],
+    "Software": "Ontology Analysis",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.analysis",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.analysis",
+    "Description": "The ontology analysis workflow is intended for validating ontologies based on the core IMCE ontologies. It uses OWL ontologies (TODO: OML AS INPUT) as input, and produces test reports in the quasi-standard JUnit format. The following will walk through the environment setup, and give instructions on how to run the workflow (a) locally and (b) on a CI system such as Jenkins.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "ontology analysis",
+      "OWL ontologies",
+      "ontology",
+      "JUint",
+      "Jenkins",
+      "local",
+      "JRuby",
+      "SBT",
+      "Java 8 (JDK)",
+      "Make"
+    ],
+    "Update_Date": "2017-08-02",
+    "Labor_Hours": 336
   }
 ]
