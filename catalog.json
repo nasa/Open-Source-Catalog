@@ -8227,5 +8227,28 @@
     ],
     "Update_Date": "2018-01-31",
     "Labor_Hours": 177232
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "StevenJenkinsJPL",
+      "sjiherzig",
+      "NicolasRouquette",
+      "bsatoriu"
+    ],
+    "Software": "Ontology Workflow",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.workflow",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.workflow",
+    "Description": "The ontology processing and profile generation workflow is intended for validating and generating MagicDraw-compatible SysML profiles for core IMCE ontologies. It uses OWL ontologies (TODO: OML AS INPUT) as input. The following will walk through the environment setup, and give instructions on how to run the workflow (a) locally and (b) on a CI system such as Jenkins.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "MagicDraw-compatible",
+      "SysML profiles",
+      "OWL ontologies",
+      "ontology processing",
+      "ontology profile generation"
+    ],
+    "Update_Date": "2018-01-31",
+    "Labor_Hours": 5536
   }
 ]
