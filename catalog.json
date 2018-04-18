@@ -8299,7 +8299,7 @@
     "Description": "The Xcore OMF metamodel/schema is intended to be a single source for several derived artifacts whose contents is a projection of the OMF metamodel/schema. Among such artifacts, the cross-platform normalized database schema tables provide a single source specification for normalized database schema tables cross-compiled for several environments, including JVM (pure Java, pure Scala, mixed Java+Scala), JavaScript (Node.js), mixed (ScalaJS).",
     "License": ["ALv2"],
     "Categories": [
-      "cross-platform ",
+      "cross-platform",
       "normalized database schema",
       "tables",
       "Ontological Modeling Framework (OMF)",
@@ -8307,5 +8307,25 @@
     ],
     "Update_Date": "2018-04-11",
     "Labor_Hours": 10336
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "gov.nasa.jpl.imce.xml.catalog.scope",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.xml.catalog.scope",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.xml.catalog.scope",
+    "Description": "This is an enhancement of the Apache XML Commons Resolver library implementation of the OASIS XML Catalog 1.1 specification. OML uses an OASIS XML Catalog to establish a mapping between external URI references (i.e., http URIs) and corresponding local URI references (i.e., file URIs). Stanford's Protege Desktop uses OASIS XML Catalogs for the same purpose.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Apache",
+      "XML",
+      "Commons",
+      "Resolver",
+      "Library"
+    ],
+    "Update_Date": "2018-04-10",
+    "Labor_Hours": 288
   }
 ]
