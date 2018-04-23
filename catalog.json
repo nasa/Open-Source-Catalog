@@ -8367,5 +8367,25 @@
     ],
     "Update_Date": "2018-03-08",
     "Labor_Hours": 10080
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "OMF (Ontological Modeling Framework) Core Functional API",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.omf.scala.core",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.omf.scala.core",
+    "Description": "The OMG core functional API adopts techniques from the field of functional programming languages, particularly Scala, for specifying the vocabulary of ontological modeling as a set of abstract types (that is, no commitment implied or assumed about any implementation of these abstract types) and a set of functional operations on these abstract types (that is, operations in the mathematical sense of pure functions that compute output values based on input values). This functional paradigm for specifying a domain allows a clean separation between the domain of ontological modeling (i.e., the focus of the OMF Core Functional API) from specific bindings for standards-based technology frameworks such as W3C's OWL, OMG's UML/SysML and, potentially, others. More importantly, the functional nature of this OMF Core API allows decoupling algorithms for analyzing, constructing, auditing, verifying, reasoning about OMF ontological models independently of the particular technology in which these ontological models are represented.",
+    "License": ["ALv2"],
+    "Categories": [
+      "functional programming",
+      "API",
+      "ontological modeling",
+      "abstract types",
+      "ontological models"
+    ],
+    "Update_Date": "2018-03-08",
+    "Labor_Hours": 4656
   }
 ]
