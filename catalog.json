@@ -8426,5 +8426,27 @@
     ],
     "Update_Date": "2018-03-01",
     "Labor_Hours": 992
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette",
+      "StevenJenkinsJPL"
+    ],
+    "Software": "Configuration for setting up a Fuseki server for the IMCE ontology workflows",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.fuseki",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.fuseki",
+    "Description": "Configuration for setting up a Fuseki server for the IMCE ontology workflows",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "server",
+      "configuration",
+      "Fuseki",
+      "IMCE",
+      "ontology",
+      "workflow"
+    ],
+    "Update_Date": "2018-02-06",
+    "Labor_Hours": 32
   }
 ]
