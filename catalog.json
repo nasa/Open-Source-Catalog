@@ -8342,10 +8342,30 @@
       "Scala",
       "API",
       "Library",
+      "Ontological Modeling Framework",
+      "OMF"
+    ],
+    "Update_Date": "2018-03-08",
+    "Labor_Hours": 7072
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "OWL API binding for OMF (Ontological Modeling Framework)",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.omf.scala.binding.owlapi",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.omf.scala.binding.owlapi",
+    "Description": "The OWL API binding for OMF implements the OMF Core functional API using the OWL API. This particular binding captures the conventions and restrictions on the use of OWL2-DL adopted for the development of JPL's Integrated Model-Centric Engineering (IMCE) ontologies.",
+    "License": ["ALv2"],
+    "Categories": [
+      "OWL",
+      "API",
+      "binding",
       "Ontological Modeling Language",
       "OML"
     ],
     "Update_Date": "2018-03-08",
-    "Labor_Hours": 7072
+    "Labor_Hours": 10080
   }
 ]
