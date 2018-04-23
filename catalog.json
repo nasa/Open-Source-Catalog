@@ -8408,5 +8408,23 @@
     ],
     "Update_Date": "2018-03-08",
     "Labor_Hours": 3392
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "JPL's Ontological Modeling Language Specification Document",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml.doc",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml.doc",
+    "Description": "The documentation about the Ontological Modeling Language specification",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Ontological Modeling Language",
+      "OML",
+      "document"
+    ],
+    "Update_Date": "2018-03-01",
+    "Labor_Hours": 992
   }
 ]
