@@ -8387,5 +8387,26 @@
     ],
     "Update_Date": "2018-03-08",
     "Labor_Hours": 4656
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "Symbol table resolver for the JSON serialization of JPL's Ontological Modeling Framework Schema.",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml.resolver",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml.resolver",
+    "Description": "This library provides an implementation of the OML Resolver API.",
+    "License": ["ALv2"],
+    "Categories": [
+      "library",
+      "symbol table",
+      "resolver",
+      "JSON",
+      "serialization",
+      "ontological models"
+    ],
+    "Update_Date": "2018-03-08",
+    "Labor_Hours": 3392
   }
 ]
