@@ -8503,5 +8503,24 @@
     ],
     "Update_Date": "2017-10-18",
     "Labor_Hours": 16
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "IMCE Third-Party Scala Graph Libraries",
+    "External Link": "https://github.com/JPL-IMCE/imce.third_party.scala_graph_libraries",
+    "Public Code Repo": "https://github.com/JPL-IMCE/imce.third_party.scala_graph_libraries",
+    "Description": "This project builds an aggregates of several Scala libraries for graph data structures published by several organizations: com.assembla.scala-incubator (In-memory graph library intended to fit seamlessly into the Scala Collection Library), and net.liftweb (The JSON library from the Lift web framework for Scala).",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "aggregate",
+      "libraries",
+      "scala",
+      "graph"
+    ],
+    "Update_Date": "2017-10-06",
+    "Labor_Hours": 32
   }
 ]
