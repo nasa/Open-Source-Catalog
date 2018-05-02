@@ -8686,5 +8686,30 @@
     ],
     "Update_Date": "2017-06-27",
     "Labor_Hours": 128
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "Mapping from OTI models to Generic OMF",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.processor",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.processor",
+    "Description": "This repository provides mapping from OTI models (i.e., OMG Tool-neutral Interface for UML) to generic OMF (Ontological Modeling Framework).",
+    "License": ["ALv2"],
+    "Categories": [
+      "mapping",
+      "OTI",
+      "OMG",
+      "tool-neutral",
+      "UML",
+      "generic",
+      "OMF",
+      "Ontological",
+      "Modeling",
+      "Framework"
+    ],
+    "Update_Date": "2017-06-01",
+    "Labor_Hours": 1488
   }
 ]
