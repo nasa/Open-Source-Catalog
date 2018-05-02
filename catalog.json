@@ -8580,5 +8580,25 @@
     ],
     "Update_Date": "2018-05-01",
     "Labor_Hours": 15232
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "Launcher for IMCE's MagicDraw DynamicScripts Plugin",
+    "External Link": "https://github.com/JPL-IMCE/imce.dynamic_scripts.magicdraw.launcher",
+    "Public Code Repo": "https://github.com/JPL-IMCE/imce.dynamic_scripts.magicdraw.launcher",
+    "Description": "This launcher application follows the guidelines for starting MagicDraw 18.5 in a configuration for running MagicDraw 18.5 with the IMCE DynamicScripts plugin for MagicDraw 18.5. installed outside of the MagicDraw installation folder.",
+    "License": ["ALv2"],
+    "Categories": [
+      "launcher",
+      "IMCE",
+      "MagicDraw",
+      "DynamicScripts",
+      "plugin"
+    ],
+    "Update_Date": "2017-09-05",
+    "Labor_Hours": 208
   }
 ]
