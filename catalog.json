@@ -8646,5 +8646,26 @@
     ],
     "Update_Date": "2017-08-30",
     "Labor_Hours": 480
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette",
+      "sjiherzig"
+    ],
+    "Software": "Profile Generator - Batch Execution",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.batch",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.batch",
+    "Description": "This program will execute the profile generator application (gov.nasa.jpl.imce.profileGenerator.application), and will package the results. It depends on both the profile generator application and the ontology bundles produced.",
+    "License": ["ALv2"],
+    "Categories": [
+      "profile",
+      "generator",
+      "batch",
+      "execution",
+      "application"
+    ],
+    "Update_Date": "2017-08-29",
+    "Labor_Hours": 80
   }
 ]
