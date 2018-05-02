@@ -8711,5 +8711,28 @@
     ],
     "Update_Date": "2017-06-01",
     "Labor_Hours": 1488
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "Ontological Modeling Language core build (Xcore, Xtext, Xtend)",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml.core",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml.core",
+    "Description": "This repository provides simplified OML for exercising Xcore/Xtext/Xtend code generation and building using gradle.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Xcore",
+      "Xtext",
+      "Xtend",
+      "gradle",
+      "OML",
+      "Ontological",
+      "Modeling",
+      "Language"
+    ],
+    "Update_Date": "2017-05-09",
+    "Labor_Hours": 87104
   }
 ]
