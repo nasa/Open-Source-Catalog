@@ -8734,5 +8734,29 @@
     ],
     "Update_Date": "2017-05-09",
     "Labor_Hours": 87104
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette",
+      "sjiherzig"
+    ],
+    "Software": "A MagicDraw DynamicScript application for executing the IMCE profile generator from OMF bundles",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.application/graphs/contributors",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.application/graphs/contributors",
+    "Description": "Generator from Ontological Modeling Framework (OMF) vocabularies to profiles extending UML/SysML",
+    "License": ["ALv2"],
+    "Categories": [
+      "UML/SysML",
+      "profiles",
+      "vocabularies",
+      "generator",
+      "OMF",
+      "Ontological",
+      "Modeling",
+      "Framework"
+    ],
+    "Update_Date": "2017-04-18",
+    "Labor_Hours": 1168
   }
 ]
