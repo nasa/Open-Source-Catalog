@@ -8667,5 +8667,24 @@
     ],
     "Update_Date": "2017-08-29",
     "Labor_Hours": 80
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "Ontology Processor",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.processor",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.ontologies.processor",
+    "Description": "This repository contains the files required for creating a docker image with required software for ontology processing.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "docker",
+      "image",
+      "ontology",
+      "processing"
+    ],
+    "Update_Date": "2017-06-27",
+    "Labor_Hours": 128
   }
 ]
