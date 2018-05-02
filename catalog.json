@@ -8600,5 +8600,28 @@
     ],
     "Update_Date": "2017-09-05",
     "Labor_Hours": 208
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "IMCE MagicDraw Library for AspectJ-based MD API enhancements",
+    "External Link": "https://github.com/JPL-IMCE/imce.magicdraw.library.enhanced_api#imce-magicdraw-library-for-aspectj-based-md-api-enhancements",
+    "Public Code Repo": "https://github.com/JPL-IMCE/imce.magicdraw.library.enhanced_api#imce-magicdraw-library-for-aspectj-based-md-api-enhancements",
+    "Description": "To enable these enhancements at runtime in MD, this library uses the so-called load-time weaving strategy. AspectJ is an aspect-oriented extension to Java. Because AspectJ operates at the level of bytecode, it is also applicable to other languages like Scala that compile to the JVM.",
+    "License": ["ALv2"],
+    "Categories": [
+      "AspectJ",
+      "IMCE",
+      "MagicDraw",
+      "enhancement",
+      "browser",
+      "diagram",
+      "load-time",
+      "weaving"
+    ],
+    "Update_Date": "2017-02-28",
+    "Labor_Hours": 176
   }
 ]
