@@ -8623,5 +8623,28 @@
     ],
     "Update_Date": "2017-02-28",
     "Labor_Hours": 176
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "JPL Dynamic Scripts Generic DSL",
+    "External Link": "https://github.com/JPL-IMCE/imce.dynamic_scripts.generic_dsl",
+    "Public Code Repo": "https://github.com/JPL-IMCE/imce.dynamic_scripts.generic_dsl",
+    "Description": "A textual DSL for specifying browser, diagram & contextualized actions in a modeling tool. This project defines a tool-neutral, generic DSL for specifying 'dynamic scripts'. A dynamic script specifies the location of a modeling function compiled for the JVM that can be invoked for modeling elements matching the applicability criteria specified in the script. The genericity of this DSL is that the applicability criteria can be specified in terms of references to tool-neutral identifiers of metaclasses, stereotypes and library types and the context where scripts are to be made available to users is specified in terms of generic notions of model browser and diagrams; user-interface notions that are widely common to graphical modeling tools.",
+    "License": ["ALv2"],
+    "Categories": [
+      "tool-neutral",
+      "generic",
+      "DSL",
+      "dynamic scripts",
+      "browser",
+      "diagram",
+      "modeling",
+      "textual"
+    ],
+    "Update_Date": "2017-08-30",
+    "Labor_Hours": 480
   }
 ]
