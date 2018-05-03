@@ -8833,5 +8833,29 @@
     ],
     "Update_Date": "2016-12-13",
     "Labor_Hours": 16
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "ISO/IEC 80000 MagicDraw library resource from JPL's Integrated Model-Centric Engineering (IMCE)",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.metrology.isoiec80000.magicdraw.library",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.metrology.isoiec80000.magicdraw.library",
+    "Description": "This contains changes from previous versions. In IMCE.ISO80000-5 Thermodynamics::Units -- 'cubic metre ratio per pascasl' has a slot value: hasReducedFactors=false -- 'metre coefficient per kelvin' has a slot value: hasReducedFactors=false",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "ISO",
+      "IEC",
+      "MagicDraw",
+      "Library",
+      "IMCE",
+      "integrated",
+      "model",
+      "centric",
+      "engineering"
+    ],
+    "Update_Date": "2016-12-13",
+    "Labor_Hours": 16
   }
 ]
