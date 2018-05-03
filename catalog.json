@@ -8909,5 +8909,24 @@
     ],
     "Update_Date": "2016-11-04",
     "Labor_Hours": 112
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette",
+      "sjiherzig"
+    ],
+    "Software": "Profile Generator - Profile Model",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.model.profile",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.model.profile",
+    "Description": "Model for representing SysML profiles, used as an intermediate format in the profile generation process.",
+    "License": ["ALv2"],
+    "Categories": [
+      "profile",
+      "generator",
+      "SysML"
+    ],
+    "Update_Date": "2016-11-26",
+    "Labor_Hours": 272
   }
 ]
