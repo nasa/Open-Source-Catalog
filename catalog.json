@@ -8928,5 +8928,24 @@
     ],
     "Update_Date": "2016-11-26",
     "Labor_Hours": 272
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette",
+      "sjiherzig"
+    ],
+    "Software": "Profile Generator - Bundle Model",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.model.bundle",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.model.bundle",
+    "Description": "Model for representing digest bundles, used as an intermediate format in the profile generation process.",
+    "License": ["ALv2"],
+    "Categories": [
+      "digest",
+      "bundles",
+      "profile"
+    ],
+    "Update_Date": "2016-10-26",
+    "Labor_Hours": 208
   }
 ]
