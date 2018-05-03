@@ -8742,8 +8742,8 @@
       "sjiherzig"
     ],
     "Software": "A MagicDraw DynamicScript application for executing the IMCE profile generator from OMF bundles",
-    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.application/graphs/contributors",
-    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.application/graphs/contributors",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.application",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.profileGenerator.application",
     "Description": "Generator from Ontological Modeling Framework (OMF) vocabularies to profiles extending UML/SysML",
     "License": ["ALv2"],
     "Categories": [
