@@ -8758,5 +8758,28 @@
     ],
     "Update_Date": "2017-04-18",
     "Labor_Hours": 1168
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "sjiherzig"
+    ],
+    "Software": "IMCE Project Template",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.templates.scala.g8",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.templates.scala.g8",
+    "Description": "The IMCE Project Template is a Giter8 template project serving as the basis for new Scala projects within the IMCE build ecosystem. Meant for developers familiar with or new to the IMCE platform, this repository contains reference guides and general purpose build and publish scripts for integration with IMCE accounts on Travis CI, Bintray and Github.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Giter8",
+      "template",
+      "project",
+      "IMCE",
+      "Scala",
+      "TravisCI",
+      "Bintray",
+      "GitHub"
+    ],
+    "Update_Date": "2017-04-04",
+    "Labor_Hours": 48
   }
 ]
