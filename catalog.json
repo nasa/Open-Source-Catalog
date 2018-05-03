@@ -8839,23 +8839,18 @@
     "Contributors": [
       "NicolasRouquette"
     ],
-    "Software": "ISO/IEC 80000 MagicDraw library resource from JPL's Integrated Model-Centric Engineering (IMCE)",
-    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.metrology.isoiec80000.magicdraw.library",
-    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.metrology.isoiec80000.magicdraw.library",
-    "Description": "This contains changes from previous versions. In IMCE.ISO80000-5 Thermodynamics::Units -- 'cubic metre ratio per pascasl' has a slot value: hasReducedFactors=false -- 'metre coefficient per kelvin' has a slot value: hasReducedFactors=false",
+    "Software": "IMCE Third-Party Jena Libraries",
+    "External Link": "https://github.com/JPL-IMCE/imce.third_party.jena_libraries",
+    "Public Code Repo": "https://github.com/JPL-IMCE/imce.third_party.jena_libraries",
+    "Description": "This project builds an aggregate of several Apache Jena libraries published by the following organizations: 1) org.apache.jena A Java framework for building Semantic Web & Linked Data applications 2) org.apache.httpcomponents Toolset of low-level Java components focused on HTTP and associated protocols 3) xerces XML parsers for Java.",
     "License": ["NASA Open Source"],
     "Categories": [
-      "ISO",
-      "IEC",
-      "MagicDraw",
-      "Library",
-      "IMCE",
-      "integrated",
-      "model",
-      "centric",
-      "engineering"
+      "aggregate",
+      "Apache",
+      "Jena",
+      "libraries"
     ],
-    "Update_Date": "2016-12-13",
+    "Update_Date": "2017-01-12",
     "Labor_Hours": 16
   }
 ]
