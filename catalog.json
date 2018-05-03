@@ -8889,5 +8889,25 @@
     ],
     "Update_Date": "2016-11-18",
     "Labor_Hours": 96
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "Prototyping SPARK-based analysis of IMCE OMF Schema data",
+    "External Link": "https://github.com/JPL-IMCE/imce.spark.data",
+    "Public Code Repo": "https://github.com/JPL-IMCE/imce.spark.data",
+    "Description": "This is a prototype to explore SPARK idioms for loading & analyzing OMF Schema tabular data.",
+    "License": ["ALv2"],
+    "Categories": [
+      "prototype",
+      "SPARK",
+      "OMF",
+      "schema",
+      "tabular"
+    ],
+    "Update_Date": "2016-11-04",
+    "Labor_Hours": 112
   }
 ]
