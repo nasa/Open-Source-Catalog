@@ -8871,5 +8871,23 @@
     ],
     "Update_Date": "2017-01-11",
     "Labor_Hours": 7024
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "Configuration for Semmle Analysis of JPL's open-source projects",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.semmle",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.semmle",
+    "Description": "Configuration for Semmle Analysis of JPL's open-source projects",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "semmle",
+      "analysis",
+      "open-source"
+    ],
+    "Update_Date": "2016-11-18",
+    "Labor_Hours": 96
   }
 ]
