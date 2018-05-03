@@ -8852,5 +8852,24 @@
     ],
     "Update_Date": "2017-01-12",
     "Labor_Hours": 16
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "Project Usage Integrity Checker for MagicDraw 18",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.magicdraw.projectUsageIntegrityChecker",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.magicdraw.projectUsageIntegrityChecker",
+    "Description": "Project Usage Integrity Checker for MagicDraw 18",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "usage",
+      "integrity",
+      "checker",
+      "MagicDraw"
+    ],
+    "Update_Date": "2017-01-11",
+    "Labor_Hours": 7024
   }
 ]
