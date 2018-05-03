@@ -8781,5 +8781,33 @@
     ],
     "Update_Date": "2017-04-04",
     "Labor_Hours": 48
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": [
+      "NicolasRouquette"
+    ],
+    "Software": "Composite project for JPL's Integrated Model-Centric Engineering (IMCE) Ontological Modeling Language (OML) Specification",
+    "External Link": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml.specification.parent",
+    "Public Code Repo": "https://github.com/JPL-IMCE/gov.nasa.jpl.imce.oml.specification.parent",
+    "Description": "This is a multi-project of mostly Xcore/Xtext/Xtend sources used to generate several components (abstract syntax metamodel; concrete syntax parser, doc, ...). There are several Xtend-based code generators that produce Scala source code.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Xtend",
+      "generator",
+      "scala",
+      "composite",
+      "IMCE",
+      "integrated",
+      "model",
+      "centric",
+      "engineering",
+      "OML",
+      "ontological",
+      "modeling",
+      "language"
+    ],
+    "Update_Date": "2017-03-01",
+    "Labor_Hours": 6496
   }
 ]
