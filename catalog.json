@@ -5988,12 +5988,12 @@
     "NASA Center": "Goddard Space Flight Center",
     "Contributors": ["Thomas Clune"],
     "Software": "pFUnit",
-    "External Link": "http://opensource.gsfc.nasa.gov/projects/FUNIT/index.php",
-    "Public Code Repo": "http://opensource.gsfc.nasa.gov/projects/FUNIT/pFUnit.tar",
+    "External Link": "https://github.com/Goddard-Fortran-Ecosystem/pFUnit/wiki",
+    "Public Code Repo": "https://github.com/Goddard-Fortran-Ecosystem/pFUnit",
     "Description": "pFunit is a Fortran analog to various other xUnit testing frameworks which have been developed within the software community,and is intended to enable test driven development (TDD) within the scientific/technical programming community.",
     "License": ["NASA Open Source"],
     "Categories": ["testing", "test driven development", "software development"],
-    "Update_Date": "2015-02-27"
+    "Update_Date": "2018-05-02"
   },
   {
     "NASA Center": "Goddard Space Flight Center",
@@ -7776,8 +7776,8 @@
     "NASA Center": "Goddard Space Flight Center",
     "Contributors": ["tclune", "doronf-cortica"],
     "Software": "The Goddard Fortran Template Library",
-    "External Link": "https://github.com/nasa/gFTL/wiki",
-    "Public Code Repo": "https://github.com/nasa/gFTL",
+    "External Link": "https://github.com/Goddard-Fortran-Ecosystem/gFTL/wiki",
+    "Public Code Repo": "https://github.com/Goddard-Fortran-Ecosystem/gFTL",
     "Description": "This project provides Fortran templates for defining software containers.   Of necessity the capabilities are a bit manual as compared to C++ STL, but still quite useful.  Container types supported for now are Vector, Set, and Map.   Contained objects can be specified as any intrinsic type or derived type.   This includes deferred length strings and/or unlimited polymorphic entities.   The container can contain a single static type or allow for subtypes.   In the polymorphic case, the container can either keep deep copies (allocatable) or shallow references (pointer).",
     "License": ["ALv2"],
     "License Long Name": "Apache License 2.0",
@@ -7785,7 +7785,7 @@
     "License Link": "https://www.apache.org/licenses/LICENSE-2.0",
     "Categories": ["Templates", "Fortran", "Containers"],
     "Languages": ["Fortran"],
-    "Update_Date": "2018-01-18"
+    "Update_Date": "2018-05-02"
   },
   {
     "NASA Center": "Glenn Research Center",
