@@ -503,6 +503,18 @@
     "Update_Date": "2014-04-23"
   },
   {
+    "NASA Center": "Langley Research Center",
+    "Contributors": ["cesar.a.munoz@nasa.gov"],
+    "Software": "PLEXIL5",
+    "External Link": "https://shemesh.larc.nasa.gov/fm/PLEXIL/",
+    "Public Code Repo": "http://github.com/nasa/PLEXIL5",
+    "Description": "The Plan Execution Interchange Language (PLEXIL) is an open source synchronous language developed by NASA for commanding and monitoring autonomous systems. PLEXIL Formal Interactive Verification Environment (PLEXIL5) is a tool that implements a formal executable semantics of PLEXIL. PLEXIL5 provides a graphical interface that enable access to formal verification techniques such as model-checking, symbolic execution, theorem proving, and static analysis of plans. The graphical environment supports formula editing and visualization of counterexamples, interactive simulation of plans at different granularity levels, and random initialization of external environment variables.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "PLEXIL", "Formal Verification", "Operational Semantics", "Rewriting Logic", "Maude" ],
+    "Update_Date": "2018-05-10"
+  },
+  {
     "NASA Center": "Ames Research Center",
     "Contributors": ["matthewjdaigle"],
     "Software": "Prognostics Algorithm Library",
