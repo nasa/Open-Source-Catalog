@@ -3405,7 +3405,7 @@
     "Description": "OpenMDAO is an open-source, high-performance computing platform for systems analysis and multidisciplinary optimization, written in Python. OpenMDAO enables you to decompose your models, making them easier to build and maintain, while still solving them in a tightly coupled manner with efficient parallel numerical methods.",
     "License": ["NASA Open Source", "Apache 2.0"],
     "Languages":["Python"],
-    "Categories": ["Framework", "Analytics", "Code"],
+    "Categories": ["Framework", "Analysis", "Optimization", "Code"],
     "Update_Date": "2018-05-14"
   },
   {
@@ -6906,7 +6906,7 @@
     "Update_Date": "2016-08-06"
   },
   {
-    "NASA Center": "Ames Research Center",
+    "NASA Center": "Glenn Research Center",
     "Contributors": ["naylor-b", "swryan", "kmarstellar"],
     "Software": "OpenMDAO: testflo",
     "External Link": "https://github.com/OpenMDAO/testflo/archive/master.zip",
@@ -6920,25 +6920,8 @@
     "Update_Date": "2016-09-28"
   },
   {
-    "NASA Center": "Ames Research Center",
-    "Contributors": [
-      "naylor-b", "swryan", "kmarstellar", "Kenneth-T-Moore", "dwmunster", "JustinSGray", "hschilling", "crobinsonut",
-      "thearn", "adamnagel", "relf", "timothy-thomas", "fcapristan", "fzahle", "jaredthomas68", "volgy", "amoondra",
-      "ksmyth", "shamsheersc19", "pziegfeld", "sanbales", "lattmann", "jonathonw"
-    ],
-    "Software": "OpenMDAO",
-    "External Link": "https://github.com/OpenMDAO/OpenMDAO/archive/master.zip",
-    "Public Code Repo": "https://github.com/OpenMDAO/OpenMDAO",
-    "Description": "OpenMDAO is a high-performance computing platform for systems analysis and optimization that enables you to decompose your models, making them easier to build and maintain, while still solving them in a tightly-coupled manner with efficient parallel numerical methods.",
-    "License": ["ALv2"],
-    "Categories": [
-      "python", "openmdao", "systems analysis", "optimization"
-    ],
-    "Update_Date": "2016-09-28"
-  },
-  {
-    "NASA Center": "Ames Research Center",
-    "Contributors": ["swryan", "kmarstellar"],
+    "NASA Center": "Glenn Research Center",
+    "Contributors": ["swryan", "kmarsteller"],
     "Software": "OpenMDAO: benchmark",
     "External Link": "https://github.com/OpenMDAO/benchmark/archive/master.zip",
     "Public Code Repo": "https://github.com/OpenMDAO/benchmark",
@@ -6951,49 +6934,7 @@
     "Update_Date": "2016-09-14"
   },
   {
-    "NASA Center": "Ames Research Center",
-    "Contributors": ["swryan", "kmarstellar"],
-    "Software": "OpenMDAO: Cadre",
-    "External Link": "https://github.com/OpenMDAO/CADRE/archive/master.zip",
-    "Public Code Repo": "https://github.com/OpenMDAO/CADRE",
-    "Description": "OpenMDAO plug-in.",
-    "License": ["ALv2"],
-    "Categories": [
-      "python",
-      "openmdao", "benchmark", "regression"
-    ],
-    "Update_Date": "2016-08-11"
-  },
-  {
-    "NASA Center": "Ames Research Center",
-    "Contributors": ["jcchin", "thearn", "Kenneth-T-Moore"],
-    "Software": "OpenMDAO: NRELTraining",
-    "External Link": "https://github.com/OpenMDAO/NRELTraining/archive/master.zip",
-    "Public Code Repo": "https://github.com/OpenMDAO/NRELTraining",
-    "Description": "An old problem used for NREL Training, converted to OpenMDAO 1.x",
-    "License": ["ALv2"],
-    "Categories": [
-      "python",
-      "openmdao", "NREL", "training"
-    ],
-    "Update_Date": "2016-06-10"
-  },
-  {
-    "NASA Center": "Ames Research Center",
-    "Contributors": ["hschilling"],
-    "Software": "OpenMDAO: NAS_Access",
-    "External Link": "https://github.com/OpenMDAO/NAS_Access/archive/master.zip",
-    "Public Code Repo": "https://github.com/OpenMDAO/NAS_Access",
-    "Description": "An ExternalComponent that wraps and runs code on NASA's NAS Pleiades supercomputer. You must have an account on Pleiades to make use of this.",
-    "License": ["ALv2"],
-    "Categories": [
-      "python",
-      "openmdao", "NAS", "supercomputer"
-    ],
-    "Update_Date": "2016-04-11"
-  },
-  {
-    "NASA Center": "Ames Research Center",
+    "NASA Center": "Glenn Research Center",
     "Contributors": ["hwangjt", "naylor-b", "JustinSGray", "hschilling", "thearn"],
     "Software": "OpenMDAO: MBI",
     "External Link": "https://github.com/OpenMDAO/MBI/archive/master.zip",
@@ -7007,8 +6948,8 @@
     "Update_Date": "2016-04-11"
   },
   {
-    "NASA Center": "Ames Research Center",
-    "Contributors": ["fcapristan", "kmarsteller", "setowns1", "hschilling", "Kenneth-T-Moore", "pziegfeld"],
+    "NASA Center": "Glenn Research Center",
+    "Contributors": ["fcapristan", "setowns1", "hschilling", "Kenneth-T-Moore"],
     "Software": "OpenMDAO: flops_wrapper",
     "External Link": "https://github.com/OpenMDAO/flops_wrapper/archive/master.zip",
     "Public Code Repo": "https://github.com/OpenMDAO/flops_wrapper",
@@ -7021,82 +6962,7 @@
     "Update_Date": "2016-01-20"
   },
   {
-    "NASA Center": "Ames Research Center",
-    "Contributors": [
-      "naylor-b", "swryan", "setowns1", "hschilling", "Kenneth-T-Moore", "pziegfeld", "JustinSGray", "justinopenmdao",
-      "thearn", "crobinsonut", "cnkavanaugh", "cwmine", "jcchin", "dykeag", "eshendricks", "relf", "andrewning",
-      "fzahle",
-      "youngklee"
-    ],
-    "Software": "OpenMDAO: OpenMDAO-Framework",
-    "External Link": "https://github.com/OpenMDAO/OpenMDAO-Framework/archive/dev.zip",
-    "Public Code Repo": "https://github.com/OpenMDAO/OpenMDAO-Framework",
-    "Description": "A python based open-source (Apache 2.0) engineering analysis framework designed to facilitate the use of MDAO. To add issues, visit our user forums at http://www.openmdao.org/forum . NOTE: this version is no longer being developed. The current active version can be found here: https://github.com/OpenMDAO/OpenMDAO.",
-    "License": ["ALv2"],
-    "Categories": [
-      "python",
-      "openmdao", "framework", "MDAO"
-    ],
-    "Update_Date": "2015-09-03"
-  },
-  {
-    "NASA Center": "Ames Research Center",
-    "Contributors": ["kmarsteller", "naylor-b", "Kenneth-T-Moore", "pziegfeld"],
-    "Software": "OpenMDAO: OpenMDAO-Procedures",
-    "External Link": "https://github.com/OpenMDAO/OpenMDAO-Procedures/archive/master.zip",
-    "Public Code Repo": "https://github.com/OpenMDAO/OpenMDAO-Procedures",
-    "Description": "Procedures for OpenMDAO maintainers.",
-    "License": ["ALv2"],
-    "Categories": [
-      "python",
-      "openmdao", "mdao", "procedures", "maintainers"
-    ],
-    "Update_Date": "2015-03-24"
-  },
-  {
-    "NASA Center": "Ames Research Center",
-    "Contributors": ["swryan", "crobinsonut", "hschilling"],
-    "Software": "OpenMDAO: OpenMDAO-airline-allocation",
-    "External Link": "https://github.com/OpenMDAO/airline-allocation/archive/master.zip",
-    "Public Code Repo": "https://github.com/OpenMDAO/airline-allocation",
-    "Description": "Airline allocation problem.",
-    "License": ["ALv2"],
-    "Categories": [
-      "python",
-      "openmdao", "mdao", "airline", "allocation"
-    ],
-    "Update_Date": "2015-02-17"
-  },
-  {
-    "NASA Center": "Ames Research Center",
-    "Contributors": ["swryan", "crobinsonut", "hschilling"],
-    "Software": "OpenMDAO: openmdao_testapp",
-    "External Link": "https://github.com/OpenMDAO/openmdao_testapp/archive/master.zip",
-    "Public Code Repo": "https://github.com/OpenMDAO/openmdao_testapp",
-    "Description": "Web app to manage openmdao automated testing.",
-    "License": ["ALv2"],
-    "Categories": [
-      "python",
-      "openmdao", "mdao", "application", "testing"
-    ],
-    "Update_Date": "2014-08-20"
-  },
-  {
-    "NASA Center": "Ames Research Center",
-    "Contributors": ["treforevans", "JustinSGray"],
-    "Software": "OpenMDAO: marathon-aircraft",
-    "External Link": "https://github.com/OpenMDAO/marathon-aircraft/archive/master.zip",
-    "Public Code Repo": "https://github.com/OpenMDAO/marathon-aircraft",
-    "Description": "Aero-Velo Marathon Aircraft.",
-    "License": ["ALv2"],
-    "Categories": [
-      "python",
-      "openmdao", "mdao", "aeronautics", "aircraft"
-    ],
-    "Update_Date": "2014-07-16"
-  },
-  {
-    "NASA Center": "Ames Research Center",
+    "NASA Center": "Glenn Research Center",
     "Contributors": ["treforevans", "JustinSGray"],
     "Software": "OpenMDAO: pyV3D",
     "External Link": "https://github.com/OpenMDAO/pyV3D/archive/master.zip",
@@ -7107,7 +6973,7 @@
     "Update_Date": "2014-04-18"
   },
   {
-    "NASA Center": "Ames Research Center",
+    "NASA Center": "Glenn Research Center",
     "Contributors": ["naylor-b", "Kenneth-T-Moore"],
     "Software": "OpenMDAO: pygem",
     "External Link": "https://github.com/OpenMDAO/pygem/archive/master.zip",
@@ -7118,7 +6984,7 @@
     "Update_Date": "2014-04-18"
   },
   {
-    "NASA Center": "Ames Research Center",
+    "NASA Center": "Glenn Research Center",
     "Contributors": ["naylor-b", "JustinSGray"],
     "Software": "OpenMDAO: GEM",
     "External Link": "https://github.com/OpenMDAO/GEM/archive/master.zip",
@@ -7129,7 +6995,7 @@
     "Update_Date": "2013-12-05"
   },
   {
-    "NASA Center": "Ames Research Center",
+    "NASA Center": "Glenn Research Center",
     "Contributors": ["haimes", "JustinSGray"],
     "Software": "OpenMDAO: EGADS",
     "External Link": "https://github.com/OpenMDAO/EGADS/archive/master.zip",
@@ -7143,21 +7009,7 @@
     "Update_Date": "2013-01-24"
   },
   {
-    "NASA Center": "Ames Research Center",
-    "Contributors": ["kmarsteller"],
-    "Software": "OpenMDAO: SimplePylab",
-    "External Link": "https://github.com/OpenMDAO/SimplePylab/archive/master.zip",
-    "Public Code Repo": "https://github.com/OpenMDAO/SimplePylab",
-    "Description": "Simple script to create virtual environment with numpy, scipy, matplotlib and ipython.",
-    "License": ["ALv2"],
-    "Categories": [
-      "python",
-      "openmdao", "mdao", "gem", "geometry"
-    ],
-    "Update_Date": "2013-12-04"
-  },
-  {
-    "NASA Center": "Ames Research Center",
+    "NASA Center": "Glenn Research Center",
     "Contributors": ["JustinSGray"],
     "Software": "OpenMDAO: EngSketchPad",
     "External Link": "https://github.com/OpenMDAO/EngSketchPad/archive/master.zip",
@@ -7171,7 +7023,7 @@
     "Update_Date": "2013-12-04"
   },
   {
-    "NASA Center": "Ames Research Center",
+    "NASA Center": "Glenn Research Center",
     "Contributors": ["JustinSGray", "cheesie67", "thearn", "kmarsteller", "jcchin"],
     "Software": "OpenMDAO: Pycycle",
     "External Link": "https://github.com/JustinSGray/pyCycle/archive/master.zip",
