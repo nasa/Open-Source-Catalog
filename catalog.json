@@ -3398,7 +3398,7 @@
   },
   {
     "NASA Center": "Glenn Research Center",
-    "Contributors": ["naylor-b", "Kenneth-T-Moore", "swryan", "JustinSGray", "kmarsteller", "hschilling", "ryanfarr01", "rfalck",],
+    "Contributors": ["naylor-b", "Kenneth-T-Moore", "swryan", "JustinSGray", "kmarsteller", "hschilling", "ryanfarr01", "rfalck"],
     "Software": "OpenMDAO",
     "External Link": "https://github.com/OpenMDAO/OpenMDAO",
     "Public Code Repo": "https://github.com/OpenMDAO/OpenMDAO",
@@ -3406,7 +3406,7 @@
     "License": ["NASA Open Source", "Apache 2.0"],
     "Languages":["Python"],
     "Categories": ["Framework", "Analytics", "Code"],
-    "Update_Date": "2018-05-14",
+    "Update_Date": "2018-05-14"
   },
   {
     "NASA Center": "Ames Research Center",
