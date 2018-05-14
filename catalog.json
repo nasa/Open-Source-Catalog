@@ -3398,67 +3398,15 @@
   },
   {
     "NASA Center": "Glenn Research Center",
-    "Program Teams": [
-      ""
-    ],
-    "Contributors": [
-      "naylor-b",
-      "Kenneth-T-Moore",
-      "justinopenmdao",
-      "swryan",
-      "pziegfeld",
-      "setowns1",
-      "JustinSGray",
-      "cnkavanaugh",
-      "hschilling",
-      "kmarsteller",
-      "eshendricks"
-    ],
-    "Sub-contractors": [
-      ""
-    ],
-    "Software": "OpenMDAO-Framework",
-    "Internal Link": "",
-    "External Link": "https://github.com/nasa/OpenMDAO-Framework",
-    "Public Code Repo": "https://github.com/nasa/OpenMDAO-Framework",
-    "Instructional Material": "https://github.com/nasa/OpenMDAO-Framework/blob/dev/README.txt",
-    "Stats": "",
-    "Description": "OpenMDAO is an open-source Multidisciplinary Design Analysis and Optimization (MDAO) framework, written in Python. It helps users solve complex problems by allowing them to link together analysis codes from multiple disciplines at multiple levels of fidelity. The development effort for OpenMDAO is being led out of the NASA Glenn Research Center in the MDAO branch. The development effort is being funded by the Fundamental Aeronautic Program, Subsonic Fixe Wing project. The ultimate goal is to provide a flexible common analysis platform that can be shared between industry, academia, and government.",
-    "Internal Code Repo": "",
-    "License": [
-      "NASA Open Source"
-    ],
-    "Languages": [
-      "Python"
-    ],
-    "Platform Requirements": [
-      ""
-    ],
-    "Dependent modules": [
-      ""
-    ],
-    "Dependent module URLs": [
-      ""
-    ],
-    "Component modules": [
-      ""
-    ],
-    "Component module URLs": [
-      ""
-    ],
-    "Industry": [
-      ""
-    ],
-    "Functionality": [
-      ""
-    ],
-    "Categories": [
-      "analytics",
-      "code",
-      "open source"
-    ],
-    "New Date": "",
-    "Update_Date": "2011-12-28"
+    "Contributors": ["naylor-b", "Kenneth-T-Moore", "swryan", "JustinSGray", "kmarsteller", "hschilling", "ryanfarr01", "rfalck",],
+    "Software": "OpenMDAO",
+    "External Link": "https://github.com/OpenMDAO/OpenMDAO",
+    "Public Code Repo": "https://github.com/OpenMDAO/OpenMDAO",
+    "Description": "OpenMDAO is an open-source, high-performance computing platform for systems analysis and multidisciplinary optimization, written in Python. OpenMDAO enables you to decompose your models, making them easier to build and maintain, while still solving them in a tightly coupled manner with efficient parallel numerical methods.",
+    "License": ["NASA Open Source", "Apache 2.0"],
+    "Languages":["Python"],
+    "Categories": ["Framework", "Analytics", "Code"],
+    "Update_Date": "2018-05-14",
   },
   {
     "NASA Center": "Ames Research Center",
