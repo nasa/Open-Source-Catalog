@@ -8968,4 +8968,19 @@
     "Update_Date": "2016-10-24",
     "Labor_Hours": 16
   }
+{
+    "NASA Center": "Marshall Space Flight Center",
+    "Contributors":  ["gretastudier", "tkschuler"]
+    ],
+    "Software": "AprilNav",
+    "External Link":  "https://github.com/nasa/AprilNav",
+    "Public Code Repo": " https://github.com/nasa/AprilNav",
+    "Description": "AprilNav is a mobile indoor real-time landmark navigation system.",
+    "License": [
+      "NASA Open Source"],   
+    "Language": ["C++", "python"],
+    "Categories": [ "Tools", "Autonomous Systems", "Navigation" ], 
+    "Update_Date": "2017-07-16",
+    "Labor_Hours": 600 
+  }
 ]
