@@ -8970,8 +8970,7 @@
   }
 {
     "NASA Center": "Marshall Space Flight Center",
-    "Contributors":  ["gretastudier", "tkschuler"]
-    ],
+    "Contributors":  ["gretastudier", "tkschuler"],
     "Software": "AprilNav",
     "External Link":  "https://github.com/nasa/AprilNav",
     "Public Code Repo": " https://github.com/nasa/AprilNav",
