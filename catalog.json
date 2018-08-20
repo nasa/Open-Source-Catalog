@@ -8967,5 +8967,22 @@
     ],
     "Update_Date": "2016-10-24",
     "Labor_Hours": 16
+  },
+  {
+    "NASA Center": "Glenn Research Center",
+    "Contributors": [
+      "robfalck”,
+      "JustinSGray"
+    ],
+    "Software": "Dymos",
+    "External Link": "https://github.com/OpenMDAO/dymos",
+    "Public Code Repo": "https://github.com/OpenMDAO/dymos",
+    "Description": "Dymos is a library for solving general optimal control problems within the context of multidisciplinary optimization via the OpenMDAO multidisciplinary optimization framework.",
+    "License": ["ALv2"],
+    "Categories": [
+      "python", "openmdao", "optimal control", "trajectory optimization"
+    ],
+    "Update_Date": "2018-06-26",
+    "Labor_Hours": 2500
   }
 ]
