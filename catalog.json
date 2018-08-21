@@ -9051,5 +9051,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 752
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Contributors": [
+      "Curt Tilmes"
+    ],
+    "Software": "Perl 6 epoll",
+    "External Link": "https://software.nasa.gov/software/GSC-18030-1",
+    "Public Code Repo": "https://github.com/CurtTilmes/perl6-epoll",
+    "Description": "A simple wrapper exposing the Linux epoll(7) I/O event notification facility within Perl 6.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Perl 6", "linux", "notification", "wrapper"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 80
   }
 ]
