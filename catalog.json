@@ -9244,5 +9244,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Armstrong Flight Research Center",
+    "Contributors": [
+      "afrc-ipo-softwarecatalogue@mail.nasa.gov"
+    ],
+    "Software": "EZASE Easy Aeroservoelasticity",
+    "External Link": "https://software.nasa.gov/software/DRC-014-036",
+    "Public Code Repo": "https://software.nasa.gov/software/DRC-014-036",
+    "Description": "This is an easy-to-use MATLAB based finite element modeling and simulation tool for aeroservoelastic analysis of rectangular wings with trailing-edge control surfaces. It includes a tutorial on structural finite element modeling (FEM_Tutorial.m) using elements such as 12 DOF plates and 6 DOF beams. The aero tutorial (DLM_VLM_Tutorial.m) shows how to code doublet lattice and vortex lattice, with symmetry capability. Together the finite element and aero tutorials can be used to compare to experimental studies such as ground vibration testing, cantilever beam analysis, as well as wind tunnel testing. The primary code, EZASE.m, links structures and aero together in a commented way to produce a wing in flutter which can be controlled. The wing may include control surfaces or they can be excluded. A state space model with control surface inputs and accelerometer outputs can be produced. This model is used to design a PID control system and is tested using margin studies and pole plots. Other visualization methods such as V-g plots determined using the K-method are also included. The code is commented for Graduate and Undergraduate students of aeroservoelasticity who want to know the basic concepts of medium fidelity aeroservoelastic modeling. Not all methods are coded to industry standards. But students of the field including practicing engineers may find it useful for basic understanding; theoretical manuals for industry level codes tend to leave out many of the coding details. All of the details of the code are open sourced here and most of it is referenced at the top of the file to its source paper or book section. Two AIAA publications with one focusing on V&V with experimental wind tunnel test and ground vibration test data are also included.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "MATLAB", "finite", "element", "modeling", "simulation", "tool", "aeroservoelastic", "analysis", "rectangular", "wings", "trailing-edge", "control", "surfaces"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
   }
 ]
