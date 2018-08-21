@@ -9083,5 +9083,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 6688
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Contributors": [
+      "gsfc-softwarerequest@mail.nasa.gov"
+    ],
+    "Software": "General Mission Analysis Tool (GMAT) Version R2018a",
+    "External Link": "https://software.nasa.gov/software/GSC-18094-1",
+    "Public Code Repo": "https://sourceforge.net/projects/gmat/?source=navbar",
+    "Description": "The General Mission Analysis Tool (GMAT) is the world's only enterprise, multi-mission, open source software system for space mission design, optimization, and navigation. The system supports missions in flight regimes ranging from low Earth orbit to lunar, libration point, and deep space missions. GMAT is developed by a team of NASA, private industry, public, and private contributors and is used for real-world mission support, engineering studies, as a tool for education, and public engagement.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "open", "space", "mission", "orbit", "non-linear", "optimizer", "Solar Dynamics Observatory", "SDO", "Solar and Heliospheric Observatory", "SOHO", "Advanced Composition Explorer", "ACE", "Wind", "Transiting Exoplanet Survey Satellite", "TESS" , "Lunar Reconnaissance Orbiter", "LRO"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
   }
 ]
