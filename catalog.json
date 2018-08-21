@@ -9228,5 +9228,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Armstrong Flight Research Center",
+    "Contributors": [
+      "afrc-ipo-softwarecatalogue@mail.nasa.gov"
+    ],
+    "Software": "Blackbody VBA Excel Functions",
+    "External Link": "https://software.nasa.gov/software/DRC-015-017",
+    "Public Code Repo": "https://software.nasa.gov/software/DRC-015-017",
+    "Description": "In the analysis of radiation, it is helpful to be able to predict the heat transfer rate and the spectral distribution of the emitted energy. Presented here is a set of routines written in Microsoft Visual Basic for Applications (VBA) and incorporating functions specific to Microsoft Excel that are useful for predicting the radiative behavior of heated surfaces. These routines include functions for calculating important engineering quantities of primary importance to engineers and scientists such as radiative flux and spectral distributions. In addition, the routines also provide the capability to use such information to determine surface temperatures from spectral intensities and for calculating the sensitivity of these temperature measurements to unknowns in the input parameters.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "VBA", "excel", "predicting", "radiactive", "behavior", "heated", "surface"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
   }
 ]
