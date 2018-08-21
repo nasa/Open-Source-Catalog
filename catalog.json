@@ -9034,5 +9034,22 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 304
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Contributors": [
+      "Curt Tilmes",
+      "Fritz Zaucker"
+    ],
+    "Software": "Perl 6 DBPg PostgreSQL module",
+    "External Link": "https://software.nasa.gov/software/GSC-18031-1",
+    "Public Code Repo": "https://github.com/CurtTilmes/perl6-dbpg",
+    "Description": "PostgreSQL (https://www.postgresql.org) is an Open Source Relational Database Management System (RDBMS). It includes a C library (libpq) for interacting with the server over the network (https://www.postgresql.org/docs/10/static/libpq.html). This module provides a rich interface to the PostgreSQL libpq library for Perl 6. It includes capabilities for prepared query caching, database connection caching, exception handling, flexible type conversion (including Boolean, Date, DateTime, Byte Arrays, etc. as well as custom types), bulk data copy in and out, listen/notify, transactions, and cursors for large query processing.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "PostgreSQL", "Open", "Source", "Relational", "Database", "Management", "System", "RDBMD", "C library", "C", "caching", "conversion", "processing"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 752
   }
 ]
