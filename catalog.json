@@ -9163,5 +9163,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Langley ResearchCenter",
+    "Contributors": [
+      "larc-sra@mail.nasa.gov"
+    ],
+    "Software": "Stochastic Reduced Order Models with Python (SROMPy)",
+    "External Link": "https://software.nasa.gov/software/LAR-19359-1",
+    "Public Code Repo": "https://github.com/nasa/SROMPy",
+    "Description": "The Stochastic Reduced Order Models with Python (SROMPy) software package is code written in Python to help solve uncertainty quantification and propagation problems. Stochastic Reduced Order Models (SROMs) are low-dimensional, discrete representations of a given random vector being modeled that facilitate efficient stochastic calculations. SROMs can be viewed as a smart Monte Carlo method - using the concept for uncertainty propagation is similarly straightforward, but can significantly reduce computation time. An SROM is formed for a given target random vector by solving an optimization problem that determines it's parameters by minimizing the error between the statistics of the SROM and the target. Once the SROM is formed, it can be use to efficiently perform a probabilistic analysis. The SROMPy software package is a tool to solve the optimization problem efficiently to generate an SROM that can be used to propagate uncertainty through a given model.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "stochastic", "reduced", "order", "models", "python", "propagation", "low-dimensional", "discrete", "representations", "random", "vector", "calculations"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 1008
   }
 ]
