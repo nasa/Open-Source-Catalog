@@ -4,8 +4,6 @@
   "description": "NASA Open Source Catalog",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint . --ext .json --ext .md",
-    "pretest": "npm run lint",
     "test": "jest"
   },
   "repository": {
@@ -18,11 +16,7 @@
     "url": "https://github.com/nasa/Open-Source-Catalog/issues"
   },
   "homepage": "https://github.com/nasa/Open-Source-Catalog#readme",
-  "devDependencies": {
-    "eslint": "^5.4.0",
-    "eslint-plugin-json": "^1.2.1",
-    "eslint-plugin-markdown": "1.0.0-beta.6"
-  },
+  "devDependencies": {},
   "dependencies": {
     "jest": "^22.4.3",
     "lodash": "4.17.5"
