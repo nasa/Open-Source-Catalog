@@ -9017,5 +9017,22 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Contributors": [
+      "Klaus Pontoppidan",
+      "janerigby"
+    ],
+    "Software": "JWST Background Tools",
+    "External Link": "https://jwst.stsci.edu/news-events/news/News%20items/the-jwst-backgrounds-tool-is-now-available",
+    "Public Code Repo": "https://github.com/spacetelescope/jwst_backgrounds",
+    "Description": "jwst_backgrounds is a a simple program to predict the levels of background emission in JWST observations, for use in proposal planning. It accesses a precompiled background cache prepared by Space Telescope Science Institute. The background cache is hosted by the Mikulski Archive for Space Telescopes (MAST), so you need internet access to run the tool with the remote cache. It is possible to download the full background cache to your local machine. Instructions for downloading the background cache can be found at http://archive.stsci.edu/archive_news/2017/08-Aug/index.html#article1.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Mikulski", "Archive", "Space", "Telescopes", "Mikulski Archive for Space Telescopes", "MAST", "python", "predict", "background", "emission", "observations"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 304
   }
 ]
