@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/nasa/Open-Source-Catalog#readme",
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-plugin-json": "1.2.0",
+    "eslint": "^5.4.0",
+    "eslint-plugin-json": "^1.2.1",
     "eslint-plugin-markdown": "1.0.0-beta.6"
   },
   "dependencies": {
