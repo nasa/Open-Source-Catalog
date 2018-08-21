@@ -9308,5 +9308,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "larc-sra@mail.nasa.gov"
+    ],
+    "Software": "TAOW - Turbidity Assessment Over Water",
+    "External Link": "https://software.nasa.gov/software/LAR-19215-1",
+    "Public Code Repo": "https://software.nasa.gov/software/LAR-19215-1",
+    "Description": "The Chesapeake Bay Automation Script provides automation for the processing of atmospheric corrections. This python script pre-processes Landsat 8 and Sentinel-2 datasets that were atmospherically corrected by ACOLITE.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "turbidity", "assessment", "over", "water", "automation", "processing", "atmospheric", "corrections", "python", "Landsat 8", "Sentinel-2", "datasets"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
   }
 ]
