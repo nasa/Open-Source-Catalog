@@ -9067,5 +9067,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 80
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Contributors": [
+      "tclune"
+    ],
+    "Software": "Fortran Template Library (gFTL) for managing collections of objects via software containers",
+    "External Link": "https://software.nasa.gov/software/GSC-17742-1",
+    "Public Code Repo": "https://github.com/nasa/gFTL",
+    "Description": "This innovation creates the capability for Fortran software developers to routinely declare and use specialized software containers for arbitrary types of data. The capability is somewhat analogous to that of the C Standard Template Library but with important differences. Although the number of containers are expected to grow, the current supported cases are Vector, Map, and Set. Contained items can be of any intrinsic type or user-defined derived type. The user can also indicate that the contained objects are polymorphic and/or pointers with corresponding implications for the semantics of using those containers.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Fortran", "software", "containers"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 6688
   }
 ]
