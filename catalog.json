@@ -9324,5 +9324,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "larc-sra@mail.nasa.gov"
+    ],
+    "Software": "MaRSHE- Marsh Remote Sensing Health Evaluation",
+    "External Link": "https://software.nasa.gov/software/LAR-19211-1",
+    "Public Code Repo": "https://github.com/NASA-DEVELOP/MARSHe",
+    "Description": "This tool includes three general types of scripts. The first one extracts average NDVI values from Landsat 5 and Landsat 8 image collections for specified reference dates (typically a period of 10-15 years). Anomalies in NDVI values are then derived from Landsat 5 & 8 reference image collections from later dates (typically the year after the reference period to present). Various graphs and charts are produced showing positive and negative NDVI changes for specified points. The results are also visualized on the map as either areas of NDVI gain (displayed in green) or NDVI loss (displayed in red). The second types of scripts included scripts that perform unsupervised classifications to determine marsh extent for a variety of years and were made by applying a mask over the specified study area that incorporates elevation data to exclude regions over a specified height above average sea-level. These scripts require the user to choose classified pixel clusters that represent marsh land cover by using the Google Earth Inspector tab and then entering those values into the script to generate the marsh extent maps. Results of these scripts include classification maps for various years (2000, 2005, 2010, 2015, etc.). The user can then decide to export those results into either their Assets or their Drive, or both. A third type of script is used for statistics regarding the classified maps generated in the classification scripts. These statistics include total pixel number and total marsh area calculated into square meters after the marsh extent pixels are clipped to our study area (the State of Maryland).",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "marsh", "remote", "sensing", "health", "evaluation", "Landsat 5", "Landsat 8", "image"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 16
   }
 ]
