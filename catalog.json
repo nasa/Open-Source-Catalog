@@ -9119,7 +9119,7 @@
   {
     "NASA Center": "Kennedy Space Center",
     "Contributors": [
-      "Jason Duley"
+      "ksc-dl-software-request@mail.nasa.gov"
     ],
     "Software": "HLA2MPC 3.0, A software bridge between the IEEE 1516 (High Level Architecture) to the NASA MPC (Model Process Control) 3.0 telemetry language",
     "External Link": "https://software.nasa.gov/software/KSC-14109",
