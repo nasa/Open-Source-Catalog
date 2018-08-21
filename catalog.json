@@ -8994,12 +8994,29 @@
     "Software": "Simulation of Cryogenic Tank with Temperature Stratification",
     "External Link": "https://software.nasa.gov/software/ARC-17900-1",
     "Public Code Repo": "https://github.com/nasa/LH2Sim",
-    "Description": "'Simulation of Cryogenic Tank with Temperature Stratification' is a MATLAB-based simulation of temperature stratification effects for cryogenic fluid in a tank. It is a reduced dynamical model describing temperature stratification effects driven by natural convection in a liquid hydrogen cryogenic tank. It accounts for storage, loading, and unloading of cryogenic fluid.
+    "Description": "'Simulation of Cryogenic Tank with Temperature Stratification' is a MATLAB-based simulation of temperature stratification effects for cryogenic fluid in a tank. It is a reduced dynamical model describing temperature stratification effects driven by natural convection in a liquid hydrogen cryogenic tank. It accounts for storage, loading, and unloading of cryogenic fluid."
     "License": ["NASA Open Source"],
     "Categories": [
       "cryogenic", "temperature", "stratification", "MATLAB", "fluid", "hydrogen"
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 416
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Contributors": [
+      "Christopher Teubert",
+      "Matthew Daigle"
+    ],
+    "Ozone: ODE and Optimal Control Solver",
+    "External Link": "https://software.nasa.gov/software/LEW-19703-1",
+    "Public Code Repo": "https://software.nasa.gov/software/LEW-19703-1",
+    "Description": "Ozone is a Python software package that facilitates the solution of ordinary differential equations (ODEs) and optimal control problems. It is unique among similar libraries because of its capability to compute derivatives of the ODEs integrated outputs with respect to parameters, initial conditions, and the time interval. This is implemented in a manner that allows Ozone-based ODE models to be integrated in larger, potentially multidisciplinary models while using adjoint-type methods to compute derivatives for the larger model. In terms of the ODE integration, Ozone adopts the general linear methods (GLM) equations, allowing it to easily support a large library of Runge-Kutta and linear multistep methods. Ozone also supports multiple integration formulations, consisting of time-marching, solver-based, and optimizer-based approaches to solving the ODE. Ozone is built on top of NASAs OpenMDAO software framework."
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "ozone", "python", "ode", "ordinary", "differential", "equations"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
   }
 ]
