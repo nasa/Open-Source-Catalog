@@ -9356,5 +9356,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 29952
+  },
+  {
+    "NASA Center": "Ames Research Center",
+    "Contributors": [
+      "arc-sra-team@mail.nasa.gov"
+    ],
+    "Software": "Porous material Analysis Toolbox based on OpenFoam (PATO)",
+    "External Link": "https://software.nasa.gov/software/ARC-16680-1A",
+    "Public Code Repo": "https://pato.ac/",
+    "Description": "The Porous material Analysis Toolbox (PATO) is a modular analysis platform for multiphase porous reactive materials. It can be run as a simple Fourier heat transfer code or include more advanced features as internal decomposition (pyrolysis, vaporization), gas-gas and gas-solid chemical interactions (combustion, cracking, coking), gas species transport (convection, diffusion), and solid morphology evolutions (internal density changes, surface ablation). PATO is implemented as a C top level module of the open source (GNU GPL) computational fluid dynamics software program OpenFOAM. This offering is not approved or endorsed by OpenCFD Limited, the producer of the OpenFOAM software and owner of the OPENFOAM and OpenCFD trademarks. PATO also uses the open source (GNU LGPL) thermodynamics, transport, and chemistry library Mutation produced by the von Karman Institute for Fluid Dynamics.",
+    "License": ["ALv2"],
+    "Categories": [
+      "porous", "material", "analysis", "toolbox"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
   }
 ]
