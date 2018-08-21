@@ -9260,5 +9260,37 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "larc-sra@mail.nasa.gov"
+    ],
+    "Software": "A.S.I.T. - Automated Snow Index Tool",
+    "External Link": "https://software.nasa.gov/software/LAR-19128-1",
+    "Public Code Repo": "https://software.nasa.gov/software/LAR-19128-1",
+    "Description": "The software will load in image collections from Google Earth Engine from different sensors (Landsat 5, 7, and 8, Sentinel 2a, 2b) and the code will identify pixels meeting certain criteria as snow using two snow indices (Normalized Difference Snow Index (NDSI) and the Saito S3 Snow Index. Then the area of snow can be calculated for a region or for an individual watershed. Then a chart can be generated which would create a visual that shows the change in area covered by snow across images as a percentage of the whole area. As the sky islands stretch across much of Southeastern Arizona, the software also eliminates the need to download multiple images from differing rows/paths.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "automated", "snow", "index", "tool", "Google", "image", "earth", "engine"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Johnson Space Center",
+    "Contributors": [
+      "jsc-ttco-software-request@mail.nasa.gov"
+    ],
+    "Software": "CFS-101 Training",
+    "External Link": "https://software.nasa.gov/software/LAR-19128-1",
+    "Public Code Repo": "https://software.nasa.gov/software/LAR-19128-1",
+    "Description": "This is a training tool for individuals to learn how to develop software with NASA-developed Core Flight software (CFS) framework. No agreement is necessary through this catalog. Software is available at open source site.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "core", "flight", "software", "training", "framework"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 1
   }
 ]
