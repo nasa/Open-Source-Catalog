@@ -9292,5 +9292,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 1
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "larc-sra@mail.nasa.gov"
+    ],
+    "Software": "T-infinity",
+    "External Link": "https://software.nasa.gov/software/LAR-19180-1",
+    "Public Code Repo": "https://software.nasa.gov/software/LAR-19180-1",
+    "Description": "T-infinity is an API platform for multidisciplinary computational aeroscience applications.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "API", "platform", "multidisciplinary", "computational", "aeroscience", "applications"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
   }
 ]
