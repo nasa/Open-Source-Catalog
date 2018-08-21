@@ -9149,7 +9149,7 @@
     "Labor_Hours": 5216
   },
   {
-    "NASA Center": "Langley ResearchCenter",
+    "NASA Center": "Langley Research Center",
     "Contributors": [
       "larc-sra@mail.nasa.gov"
     ],
@@ -9165,7 +9165,7 @@
     "Labor_Hours": 0
   },
   {
-    "NASA Center": "Langley ResearchCenter",
+    "NASA Center": "Langley Research Center",
     "Contributors": [
       "larc-sra@mail.nasa.gov"
     ],
@@ -9181,7 +9181,7 @@
     "Labor_Hours": 1008
   },
   {
-    "NASA Center": "Langley ResearchCenter",
+    "NASA Center": "Langley Research Center",
     "Contributors": [
       "cesar.a.munoz@nasa.gov"
     ],
@@ -9197,7 +9197,7 @@
     "Labor_Hours": 42320
   },
   {
-    "NASA Center": "Langley ResearchCenter",
+    "NASA Center": "Langley Research Center",
     "Contributors": [
       "Tristan Schuler",
       "Greta Studier"
@@ -9212,5 +9212,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 2272
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "larc-sra@mail.nasa.gov"
+    ],
+    "Software": "Scalable Implementation of Finite Elements by NASA (ScIFEN)",
+    "External Link": "https://software.nasa.gov/software/LAR-18720-1",
+    "Public Code Repo": "https://software.nasa.gov/software/LAR-18720-1",
+    "Description": "The Scalable Implementation of Finite Elements by NASA (ScIFEN) package is a parallel finite element analysis code written in C++. It is designed to enable scalable solutions to computational mechanics problems by leveraging several open-source high performance computing libraries for numerical linear algebra routines and parallel input/output. ScIFEN supports several different finite element types, nonlinear material models, and boundary conditions and contains both implicit and explicit time integration procedures called ScIFEi and ScIFEx, respectively.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "Scalable", "Implementation", "Finite", "Elements", "parallel", "finite", "element", "analysis"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
   }
 ]
