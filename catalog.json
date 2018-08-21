@@ -9115,5 +9115,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Contributors": [
+      "Jason Duley"
+    ],
+    "Software": "HLA2MPC 3.0, A software bridge between the IEEE 1516 (High Level Architecture) to the NASA MPC (Model Process Control) 3.0 telemetry language",
+    "External Link": "https://software.nasa.gov/software/KSC-14109",
+    "Public Code Repo": "https://github.com/nasa/DON-Federate-HLA2MPC/graphs/contributors",
+    "Description": "HLA2MPC provides the link between HLA (High Level Architecture, IEEE 1516) Simulation Federation data and any MPC 3 compliant simulation or visualization tool. One such tool is DON, the Distributed Observer Network, now in version 3.1. DON 3.1 is available in the Software catalog at https://software.nasa.gov/software/KSC-13775.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "High", "Level", "Architecture", "HLA"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 9232
   }
 ]
