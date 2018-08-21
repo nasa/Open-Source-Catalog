@@ -9099,5 +9099,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Goddard Space Flight Center",
+    "Contributors": [
+      "gsfc-softwarerequest@mail.nasa.gov"
+    ],
+    "Software": "Conduit Content Management System",
+    "External Link": "https://software.nasa.gov/software/GSC-17730-1",
+    "Public Code Repo": "https://software.nasa.gov/software/GSC-17730-1",
+    "Description": "Conduit is a Content Management System and public website providing news, articles and general information about NASA's Earth Observing Systems' tools, capabilities and data. It provides content authorship and editing capabilities to owners of Earthdata website content, in addition to a public portal to the published content.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "content", "management", "system", "earth", "observing", "tools", "Earthdata"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
   }
 ]
