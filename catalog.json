@@ -9340,5 +9340,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 16
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": [
+      "larc-sra@mail.nasa.gov"
+    ],
+    "Software": "TLNS3D",
+    "External Link": "https://software.nasa.gov/software/LAR-16666-GS",
+    "Public Code Repo": "https://github.com/nasa/TLNS3D",
+    "Description": "This software was developed to solve Reynolds-averaged Navier-Stokes Equations to simulate turbulent, viscous flows over three-dimensional configurations. A general multiblock grid is used to model complex configurations. A multi-stage Runge-Kutta pseudo-time stepping scheme is coupled with residual smoothing and multigrid acceleration techniques to form an efficient algorithm. TLNS3D-MB was the first CFD code to demonstrate grid independent convergence rate for transonic viscous flows over wing/fuselage configurations.",
+    "License": ["ALv2"],
+    "Categories": [
+      "Reynolds-averaged", "Reynolds", "averaged", "Navier-Stokes", "Navier", "Stokes", "equations", "simulate", "turbulent", "viscous", "three-dimensional", "configurations"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 29952
   }
 ]
