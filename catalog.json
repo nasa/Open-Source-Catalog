@@ -9135,7 +9135,7 @@
   {
     "NASA Center": "Goddard Space Flight Center",
     "Contributors": [
-      "Jason Duley"
+      "cesar.a.munoz@nasa.gov"
     ],
     "Software": "Kodiak's Boolean Checker Software Module",
     "External Link": "https://software.nasa.gov/software/LAR-19222-1",
@@ -9147,5 +9147,21 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 5216
+  },
+  {
+    "NASA Center": "Langley ResearchCenter",
+    "Contributors": [
+      "larc-sra@mail.nasa.gov"
+    ],
+    "Software": "Open IsoEFIT",
+    "External Link": "https://software.nasa.gov/software/LAR-19306-1",
+    "Public Code Repo": "https://software.nasa.gov/software/LAR-19306-1",
+    "Description": "This is an ultrasound solver for an arbitrary geometry in isotropic materials.",
+    "License": ["NASA Open Source"],
+    "Categories": [
+      "ultrasound", "solver", "geometry", "isotropic", "materials"
+    ],
+    "Update_Date": "2018-08-21",
+    "Labor_Hours": 0
   }
 ]
