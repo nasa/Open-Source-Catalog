@@ -9369,5 +9369,29 @@
     ],
     "Update_Date": "2018-08-21",
     "Labor_Hours": 0
+  },
+  {
+    "NASA Center": "Jet Propulsion Laboratory",
+    "Contributors": ["jeremyabel", "mannytan", "ryburke", "kellyannl", "amenzies"],
+    "Software": "Access Mars",
+    "External Link": "https://accessmars.withgoogle.com/",
+    "Public Code Repo": "https://github.com/googlecreativelab/access-mars",
+    "Description": "The Curiosity rover has been on the surface of Mars for over five years. In that time, it has sent over 200,000 photos back to Earth. Using these photos, engineers at JPL have reconstructed the 3D surface of Mars for their scientists to use as a mission planning tool – surveying the terrain and identifying geologically significant areas for Curiosity to investigate further. And now you can explore the same Martian surface in your browser in an immersive WebVR experience. Access Mars features four important mission locations: the Landing Site, Pahrump Hills, Marias Pass, and Murray Buttes. Additionally, users can visit Curiosity's 'Current Location' for a look at where the rover has been in the past two to four weeks. And while you explore it all, JPL scientist Katie Stack Morgan will be your guide, teaching you about key mission details and highlighting points of interest.",
+    "License": ["ALv2"],
+    "Categories": ["Mars", "WebVR", "Curiosity Rover"],
+    "Update_Date": "2018-09-27",
+    "Labor_Hours": 60208
+  },
+  {
+    "NASA Center": "Kennedy Space Center",
+    "Contributors": ["maliska"],
+    "Software": "NASA Acronyms",
+    "External Link": "https://nasaacronyms.com/",
+    "Public Code Repo": "https://github.com/maliska/NASA-Acronyms",
+    "Description": "This is a tool for defining over 25,000 NASA acronyms.",
+    "License": ["MIT"],
+    "Categories": ["search", "tool", "nasa", "acronym"],
+    "Update_Date": "2018-09-27",
+    "Labor_Hours": 78128
   }
 ]
