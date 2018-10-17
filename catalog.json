@@ -9393,5 +9393,17 @@
     "Categories": ["search", "tool", "nasa", "acronym"],
     "Update_Date": "2018-09-27",
     "Labor_Hours": 78128
+  },
+  {
+    "NASA Center": "Langley Research Center",
+    "Contributors": ["ebilionis"],
+    "Software": "Sequential Monte Carlo Sampling with Python",
+    "External Link": "https://pypi.org/project/PySMC/",
+    "Public Code Repo": "https://github.com/PredictiveScienceLab/pysmc",
+    "Description": "pysmc is a Python package for sampling complicated probability densities using the celebrated Sequential Monte Carlo method. It is part of the Bayesian Exploration Statistical Toolbox (BEST) initiative. The coupling of the code with PyMC took part at the Mathematics and Computer Science Division at Argonne National Laboratory.",
+    "License": ["GPLv3"],
+    "Categories": ["sampling", "monte", "carlo", "pymc", "bayesian"],
+    "Update_Date": "2018-10-17",
+    "Labor_Hours": 1216
   }
 ]
