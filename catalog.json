@@ -12050,9 +12050,9 @@
         "Software": "Access Mars"
     }, 
     {
-        "Update_Date": "2018-09-27", 
+        "Update_Date": "2018-11-14", 
         "Description": "This is a tool for defining over 25,000 NASA acronyms.", 
-        "Public Code Repo": "https://github.com/maliska/NASA-Acronyms", 
+        "Public Code Repo": "https://github.com/nasa/NASA-Acronyms", 
         "License": [
             "MIT"
         ], 
@@ -12136,6 +12136,45 @@
             "uncertainty"
         ], 
         "Software": "Multi-Level Monte Carlo"
+    },
+    {
+        "Update_Date": "2018-11-14", 
+        "Description": "Python module for uncertainty quantification using a parallel sequential Monte Carlo sampler", 
+        "Public Code Repo": "https://github.com/nasa/SMCPy", 
+        "License": [
+            "NASA Open Source"
+        ], 
+        "NASA Center": "LARC", 
+        "External Link": "https://github.com/nasa/SMCPy", 
+        "Contributors": [
+            "peleser"
+        ], 
+        "Labor_Hours": 1120, 
+        "Categories": [
+            "uncertainty quantification",
+            "parameter estimation",
+            "model calibration"
+        ], 
+        "Software": "Sequential Monte Carlo Sampling with Python"
+    },
+    {
+        "Update_Date": "2018-11-14", 
+        "Description": "Bingo is an open source package for performing symbolic regression. Its emphasis lies on the efficient use of HPC resources. For the most part, things should work \"out of the box\", with a few dependencies that are standard in many python installs.", 
+        "Public Code Repo": "https://github.com/nasa/bingo", 
+        "License": [
+            "NASA Open Source"
+        ], 
+        "NASA Center": "LARC", 
+        "External Link": "https://github.com/nasa/bingo", 
+        "Contributors": [
+            "gbomarito"
+        ], 
+        "Labor_Hours": 34480, 
+        "Categories": [
+            "symbolic regression",
+            "HPC"
+        ], 
+        "Software": "Bingo"
     }
 
 ]
