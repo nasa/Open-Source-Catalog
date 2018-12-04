@@ -741,7 +741,17 @@
             "Decision Making"
         ], 
         "Software": "xGDS"
-    }, 
+    }, {
+		"NASA Center": "Langley Research Center",
+		"Contributors": ["cesar.a.munoz@nasa.gov"],
+		"Software": "CRATOUS",
+		"External Link": "http://github.com/nasa/cratous",
+		"Public Code Repo": "http://github.com/nasa/cratous",
+		"Description": "CRoss-Application Translator for Operational Unmanned Systems (CRATOUS) is a software bridge that enables the communication between AFRL's UxAS and NASA's ICAROUS.",
+		"License": ["NASA Open Source"],
+		"Categories": ["UAS", "ICAROUS", "UxAS"],
+		"Update_Date": "2018-12-04"
+	}, 
     {
         "Update_Date": "2017-02-15", 
         "Description": "PRECiSA is a fully automatic analyzer for the estimation of round-off errors of floating-point valued functional expressions. ", 
