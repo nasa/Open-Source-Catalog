@@ -12175,6 +12175,35 @@
             "HPC"
         ], 
         "Software": "Bingo"
+    },
+    {
+        "Update_Date": "2018-12-14",
+        "Description": "Enable Simulink vehicle simulation to communicate with and be controlled by PX4 autopilot.",
+        "Public Code Repo": "https://github.com/MichaelSkadan/PX4-Autopilot-Simulink-Interface",
+        "License": [
+            "NASA Open Source"
+        ],
+        "NASA Center": "Langley Research Center",
+        "External Link": "https://github.com/MichaelSkadan/PX4-Autopilot-Simulink-Interface",
+        "Contributors": [
+            "michael.j.skadan@nasa.gov"
+        ],
+        "Labor_Hours": 0,
+        "Categories": [
+            "PX4",
+            "Autopilot",
+            "Simulink",
+            "Matlab",
+            "C",
+            "Simulation",
+            "UAS",
+            "UAV",
+            "Flight Control",
+            "Autonomous Systems", 
+            "Navigation",
+            "Open Source"
+        ],
+        "Software": "PX4 Autopilot Simulink Interface"
     }
 
 ]
