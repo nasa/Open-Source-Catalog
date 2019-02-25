@@ -9499,16 +9499,17 @@
         "Description": "The Metadata Management Tool is a web application to assist users in managing metadata on various Nasa.gov applications.", 
         "Public Code Repo": "https://github.com/nasa/mmt", 
         "License": [
-            "NASA Open Source"
+            "Apache License 2.0"
         ], 
-        "NASA Center": "Ames Research Center", 
+        "NASA Center": "Goddard Space Flight Center", 
         "External Link": "https://github.com/nasa/mmt", 
         "Contributors": [
             "mreese84"
         ], 
         "Categories": [
             "CMR", 
-            "Ruby", 
+            "Ruby",
+            "javascript",
             "application"
         ], 
         "Software": "Metadata Management Tool (MMT)"
