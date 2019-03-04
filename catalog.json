@@ -12175,6 +12175,27 @@
             "HPC"
         ], 
         "Software": "Bingo"
+    },
+    {
+        "Update_Date": "2019-02-15",
+        "Description": "FPRoCk is a software library for checking satisfiability of a set of mixed real and floating-point constraints. If this set of constraints has at least one solution, it returns one of the solutions, otherwise it returns UNSAT indicating that the set is unsatisfiable.",
+        "Public Code Repo": "https://github.com/nasa/fprock",
+        "License": [
+            "NASA Open Source"
+        ],
+        "NASA Center": "LARC",
+        "External Link": "https://github.com/nasa/fprock",
+        "Contributors": [
+            "cesar.a.munoz@nasa.gov"
+        ],
+        "Labor_Hours": 500,
+        "Categories": [
+            "satisfiability (SAT) checker", 
+            "floating-point SAT solver", 
+            "real-number SAT solver", 
+            "mixed floating-point/real constraints"
+        ],
+        "Software": "FPRoCK"
     }
 
 ]
