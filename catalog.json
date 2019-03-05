@@ -8780,8 +8780,8 @@
         "Software": "MINX"
     }, 
     {
-        "Update_Date": "2016-11-18", 
-        "Description": "Podaacpy is a python utility library for interacting with NASA JPL\u2019s PO.DAAC.", 
+        "Update_Date": "2019-02-27", 
+        "Description": "Podaacpy is a python utility library for interacting with NASA JPLs PO.DAAC.", 
         "Public Code Repo": "https://github.com/nasa/podaacpy", 
         "License": [
             "ALv2"
@@ -8792,8 +8792,11 @@
             "lewismc", 
             "Omkar20895", 
             "jarifibrahim", 
-            "agoodm"
-        ], 
+            "agoodm",
+            "noah-de",
+            "kant"
+        ],
+        "Labor_Hours": 720,
         "Categories": [
             "Framework", 
             "Toolkit", 
@@ -8803,7 +8806,40 @@
             "Dataset Search"
         ], 
         "Software": "Podaacpy"
-    }, 
+    },
+    {
+        "Update_Date": "2019-02-27", 
+        "Description": "A meta-repository which essentially lists code related to all tools and services software for NASA JPL's PO.DAAC", 
+        "Public Code Repo": "https://github.com/nasa/podaac_tools_and_services", 
+        "License": [
+            "ALv2"
+        ], 
+        "NASA Center": "Jet Propulsion Laboratory", 
+        "External Link": "https://github.com/nasa/podaac_tools_and_services", 
+        "Contributors": [
+            "lewismc"
+        ],
+        "Labor_Hours": 1,
+        "Categories": [
+            "podaac", 
+            "tools", 
+            "services", 
+            "oceanography", 
+            "ocean-surface-topography", 
+            "ost",
+            "sea-surface-temperature",
+            "sst",
+            "ocean-winds",
+            "sea-surface-salinity",
+            "sss",
+            "gravity",
+            "ocean-circulation",
+            "sea",
+            "sea-ice",
+            "physical-oceanography"
+        ], 
+        "Software": "PO.DAAC Tools and Services"
+    },
     {
         "Update_Date": "2016-09-23", 
         "Description": "SpaceBirds, a new innovative application intended as both a visual and educational application as well as a powerful tracking tool, can be used by professionals, students, and enthusiasts alike. The app is developed using NASA Web World Wind, and consists of an easy to use interface that allows the user to display all known tracked orbital objects and ground stations, and display their relative information, such as type, orbital period, low, medium, and high earth orbit, country of origin, and use, all in a 3D environment.", 
@@ -10224,28 +10260,7 @@
             "Data & Image Processing"
         ], 
         "Software": "LCD"
-    }, 
-    {
-        "Update_Date": "2018-03-14", 
-        "Description": "Podaacpy is a python utility library for interacting with NASA JPL's Physical Oceanography Distributed Active Archive Center (PO.DAAC), which is an element of the Earth Observing System Data and Information System (EOSDIS).", 
-        "Public Code Repo": "https://github.com/nasa/podaacpy", 
-        "License": [
-            "ALv2"
-        ], 
-        "NASA Center": "Jet Propulsion Laboratory", 
-        "External Link": "http://podaacpy.readthedocs.io/en/latest/", 
-        "Languages": [
-            "Python"
-        ], 
-        "Contributors": [
-            "Lewis.J.Mcgibbney@jpl.nasa.gov"
-        ], 
-        "Labor_Hours": 720, 
-        "Categories": [
-            "toolkit"
-        ], 
-        "Software": "Podaacpy"
-    }, 
+    },
     {
         "Update_Date": "2018-03-19", 
         "Description": "We used the Google Earth Engine Code interface to create a classification of land use on the United States Virgin Islands (USVI). We used six classes: water, low density residential, high-density residential, forest/shrub, agriculture and barren. We included DEM, classification points, and landsat imagery bands to analyze the imagery.", 
@@ -12175,6 +12190,27 @@
             "HPC"
         ], 
         "Software": "Bingo"
+    },
+    {
+        "Update_Date": "2019-02-15",
+        "Description": "FPRoCk is a software library for checking satisfiability of a set of mixed real and floating-point constraints. If this set of constraints has at least one solution, it returns one of the solutions, otherwise it returns UNSAT indicating that the set is unsatisfiable.",
+        "Public Code Repo": "https://github.com/nasa/fprock",
+        "License": [
+            "NASA Open Source"
+        ],
+        "NASA Center": "LARC",
+        "External Link": "https://github.com/nasa/fprock",
+        "Contributors": [
+            "cesar.a.munoz@nasa.gov"
+        ],
+        "Labor_Hours": 500,
+        "Categories": [
+            "satisfiability (SAT) checker", 
+            "floating-point SAT solver", 
+            "real-number SAT solver", 
+            "mixed floating-point/real constraints"
+        ],
+        "Software": "FPRoCK"
     },
     {
         "Update_Date": "2018-12-14",
