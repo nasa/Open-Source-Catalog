@@ -2091,29 +2091,7 @@
             "GPM"
         ], 
         "Software": "Python Polarimetric Radar Beam Blockage Calculation (PyBlock)"
-    }, 
-    {
-        "Update_Date": "2015-07-07", 
-        "Description": "This Python package will calculate beam blockage in polarimetric weather radar data using the specific differential phase (KDP) and fully self-consistent (FSC) methods of Timothy J. Lang et al. (2009; J. Atmos. Oceanic Technol.).", 
-        "Public Code Repo": "https://github.com/nasa/PyBlock", 
-        "License": [
-            "NASA Open Source"
-        ], 
-        "NASA Center": "Marshall Space Flight Center", 
-        "External Link": "https://github.com/nasa/PyBlock/wiki", 
-        "Contributors": [
-            "tjlang"
-        ], 
-        "Categories": [
-            "Earth Science", 
-            "Toolkit", 
-            "Meteorology", 
-            "Radar", 
-            "Precipitation", 
-            "GPM"
-        ], 
-        "Software": "Python Polarimetric Radar Beam Blockage Calculation (PyBlock)"
-    }, 
+    },
     {
         "Update_Date": "2015-07-07", 
         "Description": "Python module that facilitates precipitation retrievals (e.g., hydrometeor type, precipitation rate, precipitation mass, particle size distribution information) from polarimetric weather radar data.", 
@@ -4970,67 +4948,7 @@
             ""
         ], 
         "Internal Link": ""
-    }, 
-    {
-        "Dependent modules": [
-            ""
-        ], 
-        "Stats": "", 
-        "Component modules": [
-            ""
-        ], 
-        "NASA Center": "Goddard Space Flight Center", 
-        "External Link": "http://sourceforge.net/projects/coreflightexec/files/cFE-6.1.1/", 
-        "Languages": [
-            "C"
-        ], 
-        "Functionality": [
-            ""
-        ], 
-        "Update_Date": "2012-01-20", 
-        "Internal Code Repo": "", 
-        "Description": "The Core Flight Executive is a portable, platform independent embedded system framework developed by NASA Goddard Space Flight Center. This framework is used as the basis for the flight software for satellite data systems and instruments, but can be used on other embedded systems. The Core Flight Executive is written in C and depends on another software library called the Operating System Abstraction Layer (OSAL). The OSAL is available at http://osal.sf.net and will be hosted on http://code.nasa.gov.", 
-        "Public Code Repo": "http://sourceforge.net/projects/coreflightexec/files/cFE-6.1.1/", 
-        "Sub-contractors": [
-            ""
-        ], 
-        "Categories": [
-            "framework", 
-            "flight", 
-            "software", 
-            "satellite", 
-            "data", 
-            "instruments", 
-            "embedded", 
-            "Operating System Abstraction Layer", 
-            "OSAL"
-        ], 
-        "New Date": "", 
-        "License": [
-            "NASA Open Source"
-        ], 
-        "Industry": [
-            ""
-        ], 
-        "Instructional Material": "", 
-        "Platform Requirements": [
-            ""
-        ], 
-        "Software": "Core Flight Executive (cFE)", 
-        "Contributors": [
-            "acudmore"
-        ], 
-        "Program Teams": [
-            ""
-        ], 
-        "Dependent module URLs": [
-            ""
-        ], 
-        "Component module URLs": [
-            ""
-        ], 
-        "Internal Link": ""
-    }, 
+    },
     {
         "Dependent modules": [
             ""
@@ -8330,26 +8248,7 @@
             "algorithm"
         ], 
         "Software": "EQFlux"
-    }, 
-    {
-        "Update_Date": "2015-02-27", 
-        "Description": "The NFMW reads Earth science models and produces web pages that display the desired area, time, and elevation, using WMS (Web Map Service).", 
-        "Public Code Repo": "http://opensource.gsfc.nasa.gov/projects/NFMW/nfmw-20081204.zip", 
-        "License": [
-            "NASA Open Source"
-        ], 
-        "NASA Center": "Goddard Space Flight Center", 
-        "External Link": "http://opensource.gsfc.nasa.gov/projects/NFMW/index.php", 
-        "Contributors": [
-            "Eric Sokolowsky"
-        ], 
-        "Categories": [
-            "web map service", 
-            "earth science", 
-            "data visualization"
-        ], 
-        "Software": "Forecast Model Web Map Service (NFMW)"
-    }, 
+    },
     {
         "Update_Date": "2015-02-27", 
         "Description": "The NFMW reads Earth science models and produces web pages that display the desired area, time, and elevation, using WMS (Web Map Service).", 
@@ -9548,26 +9447,7 @@
             "application"
         ], 
         "Software": "Metadata Management Tool (MMT)"
-    }, 
-    {
-        "Update_Date": "2017-05-01", 
-        "Description": "The Core Flight System (CFS) Command and Data Dictionary (CDD) utility, or CCDD, is a software tool for managing the data structures for CFS and CFS applications, including telemetry data structures, command information, and other data pertinent to a CFS project.", 
-        "Public Code Repo": "https://github.com/nasa/CCDD", 
-        "License": [
-            "NASA Open Source"
-        ], 
-        "NASA Center": "Langley Research Center", 
-        "External Link": "https://github.com/nasa/CCDD", 
-        "Contributors": [
-            "KevinMcCluney"
-        ], 
-        "Categories": [
-            "CFS", 
-            "java", 
-            "SQL"
-        ], 
-        "Software": "CFS Command and Data Dictionary Tool (CCDDT)"
-    }, 
+    },
     {
         "Update_Date": "2017-05-01", 
         "Description": "The Core Flight System (CFS) Command and Data Dictionary (CDD) utility, or CCDD, is a software tool for managing the data structures for CFS and CFS applications, including telemetry data structures, command information, and other data pertinent to a CFS project.", 
@@ -10491,30 +10371,7 @@
             "Search Engine"
         ], 
         "Software": "ASSESS"
-    }, 
-    {
-        "Update_Date": "2018-04-16", 
-        "Description": "LiveView2 is a Qt frontend GUI for cuda_take, it displays focal plane data and basic analysis (such as the std. dev, dark subtraction, FFT, Spectral Profile, and Video Savant*-like* playback). Plots are implemented using the QCustomPlot library, which generates live color maps, bar graphs, and line graphs within the Qt C++ environment.", 
-        "Public Code Repo": "https://github.com/nasa-jpl/LiveView", 
-        "License": [
-            "NASA Open Source"
-        ], 
-        "NASA Center": "Jet Propulsion Laboratory", 
-        "External Link": "https://github.com/nasa-jpl/LiveView", 
-        "Contributors": [
-            "Elliott Liggett", 
-            "jackiryan"
-        ], 
-        "Labor_Hours": 27072, 
-        "Categories": [
-            "Qt frontend GUI", 
-            "focal plane", 
-            "QCustomPlot", 
-            "Qt", 
-            "C++"
-        ], 
-        "Software": "LiveView"
-    }, 
+    },
     {
         "Update_Date": "2018-04-16", 
         "Description": "LiveView2 is a Qt frontend GUI for cuda_take, it displays focal plane data and basic analysis (such as the std. dev, dark subtraction, FFT, Spectral Profile, and Video Savant*-like* playback). Plots are implemented using the QCustomPlot library, which generates live color maps, bar graphs, and line graphs within the Qt C++ environment.", 
@@ -12084,29 +11941,7 @@
             "acronym"
         ], 
         "Software": "NASA Acronyms"
-    }, 
-    {
-        "Update_Date": "2018-10-17", 
-        "Description": "pysmc is a Python package for sampling complicated probability densities using the celebrated Sequential Monte Carlo method. It is part of the Bayesian Exploration Statistical Toolbox (BEST) initiative. The coupling of the code with PyMC took part at the Mathematics and Computer Science Division at Argonne National Laboratory.", 
-        "Public Code Repo": "https://github.com/PredictiveScienceLab/pysmc", 
-        "License": [
-            "GPLv3"
-        ], 
-        "NASA Center": "Langley Research Center", 
-        "External Link": "https://pypi.org/project/PySMC/", 
-        "Contributors": [
-            "ebilionis"
-        ], 
-        "Labor_Hours": 1216, 
-        "Categories": [
-            "sampling", 
-            "monte", 
-            "carlo", 
-            "pymc", 
-            "bayesian"
-        ], 
-        "Software": "Sequential Monte Carlo Sampling with Python"
-    }, 
+    },
     {
         "Update_Date": "2018-10-23", 
         "Description": "HyperSolve AD Mini-App uses an in-house developed AD tool that is based on operator-overloading to compute linearizations of a given function.", 
