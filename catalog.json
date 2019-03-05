@@ -8836,10 +8836,10 @@
             "ocean-circulation",
             "sea",
             "sea-ice",
-            "physical-oceanography",
+            "physical-oceanography"
         ], 
         "Software": "PO.DAAC Tools and Services"
-    }, 
+    },
     {
         "Update_Date": "2016-09-23", 
         "Description": "SpaceBirds, a new innovative application intended as both a visual and educational application as well as a powerful tracking tool, can be used by professionals, students, and enthusiasts alike. The app is developed using NASA Web World Wind, and consists of an easy to use interface that allows the user to display all known tracked orbital objects and ground stations, and display their relative information, such as type, orbital period, low, medium, and high earth orbit, country of origin, and use, all in a 3D environment.", 
