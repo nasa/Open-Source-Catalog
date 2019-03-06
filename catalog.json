@@ -1984,7 +1984,6 @@
     }, 
     {
         "Update_Date": "2016-04-28", 
-        "License Long Name": "GNU General Public License (GPL) version 2", 
         "Description": "The Channel  Emulator (CE) is a  software-based network testing tool.  Its primary functions are providing framing services, acting as a flexible protocol gateway, and providing network emulation capabilities.", 
         "Public Code Repo": "https://github.com/nasa/channel-emulator", 
         "License": [
@@ -2013,7 +2012,6 @@
     }, 
     {
         "Update_Date": "2017-06-29", 
-        "License Long Name": "NASA OPEN SOURCE AGREEMENT VERSION 1.3", 
         "Description": "A collection tools for analysis, display, and configuration of the Multipath Transmission Control Protocol (MPTCP)", 
         "Public Code Repo": "https://github.com/nasa/multipath-tcp-tools", 
         "License": [
@@ -2042,7 +2040,6 @@
     }, 
     {
         "Update_Date": "2015-09-03", 
-        "License Long Name": "Apache License 2.0", 
         "Description": "Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.", 
         "Public Code Repo": "https://github.com/nasa/earthdata-search", 
         "License": [
@@ -2156,7 +2153,6 @@
     }, 
     {
         "Update_Date": "2015-06-15", 
-        "License Long Name": "Apache License 2.0", 
         "Description": "Open MCT is an open source and web-based mission control framework for visualization of data on desktop and mobile devices. Open MCT is designed for analysis, visualization, operation, and support of spacecraft missions. Open MCT provides an extensible plugin system allowing it to be integrated with existing ground systems, and adapted to support multiple missions as well as non-space applications.", 
         "Public Code Repo": "https://github.com/nasa/openmctweb", 
         "License": [
@@ -2184,7 +2180,6 @@
     }, 
     {
         "Update_Date": "2015-04-13", 
-        "License Long Name": "Apache License 2.0", 
         "Description": "This code was created to support the Distributed Engine Control task as part of the Fixed Wing Aeronautics project. The purpose of this research was to enable multiple microcontrollers to speak with eacho ther per the protocol specified in the preliminary release of EADIN BUS. EADIN BUS is a candidate for distributed control systems on aircraft engines. The primary use of this code was to assist in the modeling of small local networks which contain 16 or fewer nodes. This communication protocol differs from typical internet protocols by using a master node which distributes information between nodes through a call and response system. The RS-485 network is simplex and thus does not allow multiple nodes to talk at the same time. No time synchronization between  nodes is required for this network. These factors enable the master to request information from sensors and command actuators, one at a time. In the current implementation, no information is passed from individual nodes without first going through the master node. While other communication protocols do exist like ModbusMaster and simple-modbus, the speed of these communication protocols on the RS-485 network was not sufficient for our needs which required message send to reply receipt times of 1 millisecond. Additionally, the other protocols did not implement the same message system as specified by the preliminary documents regarding the EADIN protocol.", 
         "Public Code Repo": "https://github.com/nasa/EADINLite", 
         "License": [
@@ -2206,7 +2201,6 @@
     }, 
     {
         "Update_Date": "2015-03-16", 
-        "License Long Name": "Apache License 2.0", 
         "Description": "Apache Open Climate Workbench provides a Climate Science library and a suite of tools built on top of it to facilitate multi-model and multi-observation comparisons and visualizations for Climate Scientists.", 
         "Public Code Repo": "https://github.com/apache/climate", 
         "License": [
@@ -2564,11 +2558,8 @@
         "License": [
             "ALv2"
         ], 
-        "Industry": [
-            ""
-        ], 
         "Instructional Material": "", 
-        "ProgramTeams": [
+        "Program Teams": [
             "Goddard Space Flight Center", 
             "Jet Propulsion Laboratory", 
             "Ames Research Center"
@@ -2622,10 +2613,7 @@
         "New Date": "", 
         "License": [
             "ALv2"
-        ], 
-        "Industry": [
-            ""
-        ], 
+        ],
         "Instructional Material": "", 
         "Platform Requirements": [
             ""
@@ -5116,7 +5104,6 @@
             ""
         ], 
         "Update_Date": "2013-05-01", 
-        "License Long Name": "GNU General Public License (GPL) version 3", 
         "Internal Code Repo": "", 
         "Description": "Mutil is a set of standard utilities that employ multiple types of parallelism and other optimizations to achieve maximum performance on modern file systems. Multi-threading is used to ensure that nodes are kept as busy as possible. Double buffering allows individual operations within a single task to be overlapped using asynchronous I/O. Multi-node cooperation allows different nodes to take part in the same task. Split file processing allows multiple threads to operate concurrently on the same file. Finally, additional optimizations such as buffer management help eliminate other bottlenecks that can reduce performance. Mutil currently includes drop-in replacements for cp and md5sum from GNU coreutils, which have achieved 10/30x rates on one/many nodes.", 
         "Public Code Repo": "http://sourceforge.net/projects/mutil/", 
@@ -6100,7 +6087,6 @@
         "Software": "TrickFMI: A Functional Mockup Interface (FMI) Standard Implementation for Trick Base Models and Simulations"
     }, 
     {
-        "Industries": [], 
         "Update_Date": "2007-10-30", 
         "Description": "You might have noticed that we were a bit vague about what JPF actually is. It started as a software model checker, but nowadays there are various different execution modes and extensions, hence we have to explain what JPF does without getting lost in details of its application. What all JPF modes, which are runtime configured and not hardwired, have in common is that they are used to verify Java programs, to: find and explain defects, collect \"deep\" runtime information like coverage metrics, deduce interesting test vectors and create corresponding test drivers and many more... Although classic SW model checking is only one of these applications, it is still what JPF is mostly associated with. People often confuse this with testing, and indeed JPFs notion of model checking can be close to systematic testing, so we throw in a little example that illustrates the differences. See http://babelfish.arc.nasa.gov/trac/jpf/wiki/intro/start", 
         "Public Code Repo": "http://babelfish.arc.nasa.gov/trac/jpf/wiki/install/repositories", 
@@ -9659,7 +9645,6 @@
     }, 
     {
         "Update_Date": "2017-12-8", 
-        "License Long Name": "Apache License 2.0", 
         "Description": "The OpenVSP3Plugin is a JAVA software tool that allows for the interface between OpenVSP and an analysis framework such as Phoenix Integration\u2019s ModelCenter or the NASA developed OpenMDAO software. The OpenVSP3Plugin is designed to work on any computer desktop platform (Mac, Linux, and Windows) that has a local installation of JAVA.", 
         "Public Code Repo": "https://github.com/nasa/openvsp3plugin", 
         "License": [
@@ -9945,7 +9930,6 @@
     }, 
     {
         "Update_Date": "2018-07-16", 
-        "License Long Name": "Apache License 2.0", 
         "Description": "This project provides Fortran templates for defining software containers.   Of necessity the capabilities are a bit manual as compared to C++ STL, but still quite useful.  Container types supported for now are Vector, Set, and Map.   Contained objects can be specified as any intrinsic type or derived type.   This includes deferred length strings and/or unlimited polymorphic entities.   The container can contain a single static type or allow for subtypes.   In the polymorphic case, the container can either keep deep copies (allocatable) or shallow references (pointer).", 
         "Public Code Repo": "https://github.com/Goddard-Fortran-Ecosystem/gFTL", 
         "License": [
@@ -11632,7 +11616,7 @@
             "gretastudier", 
             "tkschuler"
         ], 
-        "Language": [
+        "Languages": [
             "C++", 
             "python"
         ], 
