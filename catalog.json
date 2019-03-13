@@ -10285,7 +10285,7 @@
             "NASA Open Source"
         ],
         "NASA Center": "Langley Research Center",
-        "External Link": "https://github.com/MichaelSkadan/PX4-Autopilot-Simulink-Interface",
+        "External Link": "https://software.nasa.gov/software/LAR-19482-1",
         "Contributors": [
             "michael.j.skadan@nasa.gov"
         ],
@@ -10306,5 +10306,4 @@
         ],
         "Software": "PX4 Autopilot Simulink Interface"
     }
-
 ]
