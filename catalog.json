@@ -5676,7 +5676,31 @@
             "Toolkit"
         ], 
         "Software": "Podaacpy"
-    }, 
+    },
+    {
+        "Update_Date": "2019-03-30", 
+        "Public Code Repo": "https://github.com/nasa/iPReS", 
+        "Description": "The Internationalization (i18n) Product Retrieval Service is a web service and client providing i18n-type access to products and product metadata contained within NASA JPL's PO.DAAC.", 
+        "License": [
+            "NASA Open Source", 
+            "ALv2"
+        ], 
+        "NASA Center": "JPL", 
+        "External Link": "https://doi.org/10.5281/zenodo.2617379", 
+        "Contributors": [
+            "lewis.j.mcgibbney@nasa.gov"
+        ], 
+        "Labor_Hours": 200, 
+        "Categories": [
+            "podaac",
+            "internationalization",
+            "translation",
+            "product-metadata",
+            "clojure",
+            "machine-translation"
+        ], 
+        "Software": "iPReS"
+    },
     {
         "Update_Date": "2016-09-21", 
         "Public Code Repo": "https://github.com/NASAWorldWindResearch/Quake-Hunter", 
