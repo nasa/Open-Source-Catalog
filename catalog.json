@@ -12091,5 +12091,34 @@
             "LTTng"
         ], 
         "Software": "LAGER (Light-weight Accumulator Gathering Efficiently in Real-time)"
+    },
+    {
+        "NASA Center": "LaRC",
+        "Contributors": [
+            "michael.j.skadan@nasa.gov"
+        ],
+        "Software": "PX4 Autopilot Simulink Interface",
+        "External Link": "https://software.nasa.gov/software/LAR-19482-1",
+        "Public Code Repo": "https://github.com/MichaelSkadan/PX4-Autopilot-Simulink-Interface",
+        "Description": "Enable Simulink vehicle simulation to communicate with and be controlled by PX4 autopilot.",
+        "License": [
+            "NASA Open Source"
+        ],
+        "Categories": [
+            "PX4",
+            "Autopilot",
+            "Simulink",
+            "Matlab",
+            "C",
+            "Simulation",
+            "UAS",
+            "UAV",
+            "Flight Control",
+            "Autonomous Systems", 
+            "Navigation",
+            "Open Source"
+        ],
+        "Update_Date": "2019-03-20",
+        "Labor_Hours": 0
     }
 ]
