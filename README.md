@@ -43,9 +43,3 @@ This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](htt
 
 ## Thanks
 Special thanks goes out to [Chris Mattmann (NASA JPL)](https://github.com/chrismattmann), Sean Kelly (NASA JPL) and [Eric Whyne (DARPA)](https://github.com/ericwhyne) for their inspiration for this effort.
-appended text
-appended text
-NEW
-dfadsfadsf
-dfadsfadsf
-11232312312
