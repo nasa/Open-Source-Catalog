@@ -26,6 +26,5 @@
     "exemptionText": null
   },
   "identifier": "ARC-12015-1",
-  "local-id": "363071f9-8649-4f47-b90c-d485061ce857",
   "description": "This image compression software eliminates redundant and invisible image components using a discrete cosine transform (DCT). Each DCT coefficient is used to determine the perceived image quality and the bit rate of the image being compressed."
 }
