@@ -31577,7 +31577,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -31815,7 +31815,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -32144,7 +32144,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -32195,7 +32195,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://www.gnu.org/licenses/lgpl-3.0.en.html",
             "name": "LGPL"
           }
         ],
@@ -32244,7 +32244,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -33558,7 +33558,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -33836,7 +33836,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
             "name": "GPLv2"
           }
         ],
@@ -33963,7 +33963,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -34174,7 +34174,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -34233,19 +34233,19 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/EPL-1.0",
             "name": "EPL"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://www.mozilla.org/en-US/MPL/2.0/",
             "name": "MPLv2"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://www.gnu.org/licenses/lgpl-3.0.en.html",
             "name": "LGPL"
           }
         ],
@@ -34389,7 +34389,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -34600,7 +34600,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -35024,7 +35024,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -36255,7 +36255,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -36532,7 +36532,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -36599,7 +36599,7 @@
             "name": "Pending Release"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://creativecommons.org/publicdomain/zero/1.0",
             "name": "CC0"
           }
         ],
@@ -36679,7 +36679,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -36746,7 +36746,7 @@
             "name": "Pending Release"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -36803,7 +36803,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -36879,7 +36879,7 @@
             "name": "Pending Release"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://creativecommons.org/publicdomain/zero/1.0",
             "name": "CC0"
           }
         ],
@@ -36952,7 +36952,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -37077,7 +37077,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://www.gnu.org/licenses/gpl-3.0.en.html",
             "name": "GPLv3"
           }
         ],
@@ -37268,7 +37268,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -37923,7 +37923,7 @@
             "name": "NASA Open Source"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html",
             "name": "GPLv2"
           }
         ],
@@ -38947,7 +38947,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -38987,7 +38987,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -39143,7 +39143,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -39182,7 +39182,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -39302,7 +39302,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -39347,7 +39347,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -40246,7 +40246,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -40319,7 +40319,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -40831,7 +40831,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -40884,7 +40884,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -40927,7 +40927,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -41067,7 +41067,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -41959,11 +41959,11 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           },
           {
-            "URL": "https://example.com",
+            "URL": "https://www.gnu.org/licenses/gpl-3.0.en.html",
             "name": "GPLv3"
           }
         ],
@@ -45323,7 +45323,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -45374,7 +45374,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -45525,7 +45525,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -45571,7 +45571,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -45617,7 +45617,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -45668,7 +45668,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -45729,7 +45729,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -45794,7 +45794,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -45925,7 +45925,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -45982,7 +45982,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46034,7 +46034,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46086,7 +46086,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46133,7 +46133,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46180,7 +46180,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46227,7 +46227,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46274,7 +46274,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46322,7 +46322,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46364,7 +46364,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46404,7 +46404,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46501,7 +46501,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46595,7 +46595,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46810,7 +46810,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -46851,7 +46851,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -47291,7 +47291,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -47344,7 +47344,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -47394,7 +47394,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -47686,7 +47686,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -47728,7 +47728,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -47812,7 +47812,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -47854,7 +47854,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -47896,7 +47896,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -47939,7 +47939,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -48117,7 +48117,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -48277,7 +48277,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -48321,7 +48321,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -48363,7 +48363,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -48408,7 +48408,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -48453,7 +48453,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -48500,7 +48500,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -48588,7 +48588,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -48683,7 +48683,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -48988,7 +48988,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -49033,7 +49033,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -49078,7 +49078,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -49170,7 +49170,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -49407,7 +49407,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -49742,7 +49742,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
@@ -49802,7 +49802,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/Apache-2.0",
             "name": "Apache-2.0"
           }
         ],
