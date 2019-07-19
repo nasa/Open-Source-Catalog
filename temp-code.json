@@ -41300,8 +41300,8 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
-            "name": "BSD"
+            "URL": "https://opensource.org/licenses/BSD-3-Clause",
+            "name": "BSD-3-Clause"
           }
         ],
         "usageType": "openSource"
