@@ -25516,8 +25516,8 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://software.nasa.gov/faq",
-            "name": "BSD"
+            "URL": "https://opensource.org/licenses/BSD-3-Clause",
+            "name": "BSD-3-Clause"
           }
         ],
         "usageType": "governmentWideReuse",
@@ -31578,7 +31578,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -31816,7 +31816,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -32145,7 +32145,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -32245,7 +32245,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -33559,7 +33559,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -33964,7 +33964,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -34175,7 +34175,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -34234,7 +34234,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           },
           {
             "URL": "https://example.com",
@@ -34390,7 +34390,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -34601,7 +34601,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -35025,7 +35025,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -36256,7 +36256,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -36533,7 +36533,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -36953,7 +36953,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -37269,7 +37269,7 @@
           },
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource",
@@ -38489,7 +38489,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://www.gnu.org/licenses/gpl-3.0.en.html",
             "name": "GPLv3"
           }
         ],
@@ -38532,7 +38532,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -38575,7 +38575,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -38623,7 +38623,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -38676,7 +38676,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -38714,7 +38714,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -38752,7 +38752,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -38790,7 +38790,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -38828,7 +38828,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
@@ -38948,7 +38948,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -38988,7 +38988,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -39144,7 +39144,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -39183,7 +39183,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -39303,7 +39303,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -39348,7 +39348,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -40247,7 +40247,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -40320,7 +40320,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -40832,7 +40832,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ASL"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -40885,7 +40885,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -40928,7 +40928,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -41068,7 +41068,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -41360,8 +41360,8 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
-            "name": "BSD"
+            "URL": "https://opensource.org/licenses/BSD-3-Clause",
+            "name": "BSD-3-Clause"
           }
         ],
         "usageType": "openSource"
@@ -41403,8 +41403,8 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
-            "name": "BSD"
+            "URL": "https://opensource.org/licenses/BSD-3-Clause",
+            "name": "BSD-3-Clause"
           }
         ],
         "usageType": "openSource"
@@ -41672,7 +41672,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://www.gnu.org/licenses/gpl-3.0.en.html",
             "name": "GPLv3"
           }
         ],
@@ -41960,7 +41960,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           },
           {
             "URL": "https://example.com",
@@ -45324,7 +45324,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -45375,7 +45375,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -45526,7 +45526,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -45572,7 +45572,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -45618,7 +45618,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -45669,7 +45669,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -45730,7 +45730,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -45795,7 +45795,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -45926,7 +45926,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -45983,7 +45983,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46035,7 +46035,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46087,7 +46087,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46134,7 +46134,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46181,7 +46181,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46228,7 +46228,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46275,7 +46275,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46323,7 +46323,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46365,7 +46365,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46405,7 +46405,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46502,7 +46502,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46596,7 +46596,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46811,7 +46811,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -46852,7 +46852,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -47292,7 +47292,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -47345,7 +47345,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -47395,7 +47395,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -47687,7 +47687,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -47729,7 +47729,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -47813,7 +47813,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -47855,7 +47855,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -47897,7 +47897,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -47940,7 +47940,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -48118,7 +48118,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -48278,7 +48278,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -48322,7 +48322,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -48364,7 +48364,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -48409,7 +48409,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -48454,7 +48454,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -48501,7 +48501,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -48589,7 +48589,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -48684,7 +48684,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -48989,7 +48989,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -49034,7 +49034,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -49079,7 +49079,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -49171,7 +49171,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -49408,7 +49408,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -49743,7 +49743,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -49803,7 +49803,7 @@
         "licenses": [
           {
             "URL": "https://example.com",
-            "name": "ALv2"
+            "name": "Apache-2.0"
           }
         ],
         "usageType": "openSource"
@@ -49843,7 +49843,7 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://example.com",
+            "URL": "https://opensource.org/licenses/MIT",
             "name": "MIT"
           }
         ],
