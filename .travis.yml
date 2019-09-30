@@ -3,15 +3,12 @@ matrix:
     - language: python
       python:
         - '3.7'
+      requirements_file: ''
       script:
-        - python test.py
+        - python regenerate_catalog.py
     - language: node_js
       node_js:
         - 'node'
-      requirements_file: ''
       install:
         - npm install
       sudo: false
-notifications:
-  email:
-    - evantayloryates@gmail.com
