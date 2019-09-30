@@ -15,7 +15,7 @@ if 'code.json' in files.split():
 	f.close()
 	process1 = subprocess.Popen(["git", "add", "*"], stdout=subprocess.PIPE)
 	process2 = subprocess.Popen(["git", "commit", "-m", "automatic submit"], stdout=subprocess.PIPE)
-	process3 = subprocess.Popen(["git", "push"], stdout=subprocess.PIPE)
+	process3 = subprocess.Popen(["git", "push", "origin", "HEAD:Open-Source-Catalog"], stdout=subprocess.PIPE)
 
 else:
 	print("NO CODE.JSON DIFFS")
