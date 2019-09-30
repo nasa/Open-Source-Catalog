@@ -2,8 +2,8 @@ import os
 import subprocess
 import json
 
-# process = subprocess.Popen(["git", "diff", "--name-only", os.environ['TRAVIS_COMMIT_RANGE']], stdout=subprocess.PIPE)
-process = subprocess.Popen(["git", "diff", "--name-only"], stdout=subprocess.PIPE)
+process = subprocess.Popen(["git", "diff", "--name-only", os.environ['TRAVIS_COMMIT_RANGE']], stdout=subprocess.PIPE)
+# process = subprocess.Popen(["git", "diff", "--name-only"], stdout=subprocess.PIPE)
 files = process.communicate()[0].decode("utf-8")
 
 print(files.split())
