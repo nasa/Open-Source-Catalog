@@ -3,7 +3,7 @@ matrix:
     - language: python
       python:
         - '3.7'
-      after_success:
+      script:
         - python test.py
     - language: node_js
       node_js:
