@@ -8,6 +8,7 @@ matrix:
     - language: node_js
       node_js:
         - 'node'
+      requirements_file: ''
       install:
         - npm install
       sudo: false
