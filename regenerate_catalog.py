@@ -6,6 +6,7 @@ import json
 process = subprocess.Popen(["git", "diff", "--name-only"], stdout=subprocess.PIPE)
 files = process.communicate()[0].decode("utf-8")
 
+print(files.split())
 # Check if changes were made to code.json
 if 'code.json' in files.split():
 	print("REGENERATING CATALOG.JSON")
