@@ -1,12 +1,16 @@
 matrix:
   include:
+    - language: python
+      python:
+        - "2.7"
+      script:
+        - python test.py
     - language: node_js
       node_js:
         - 'node'
       install:
         - npm install
-    - langugae: python3.7
-      script:
-        - python test.py
-
-sudo: false
+      sudo: false
+notifications:
+  email:
+    - evantayloryates@gmail.com
