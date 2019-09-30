@@ -8,10 +8,11 @@ files = process.communicate()[0].decode("utf-8")
 # Check if changes were made to code.json
 if 'code.json' in files.split():
 	print("REGENERATING CATALOG.JSON")
-	f = open("./catalog.json", "r")
+	
 
 else:
 	print("NO CODE.JSON DIFFS")
+	f = open("./catalog.json", "r")
 	print(json.loads(f.read())[0]['Software'])
 
 
