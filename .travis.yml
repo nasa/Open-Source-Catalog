@@ -1,9 +1,12 @@
-language: node_js
-
-node_js:
-  - 'node'
-
-install:
-  - npm install
+matrix:
+  include:
+    - language: node_js
+      node_js:
+        - 'node'
+      install:
+        - npm install
+    - langugae: python3.7
+      script:
+        - python test.py
 
 sudo: false
