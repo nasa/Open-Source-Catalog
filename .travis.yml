@@ -2,8 +2,8 @@ matrix:
   include:
     - language: python
       python:
-        - "2.7"
-      script:
+        - '3.7'
+      after_success:
         - python test.py
     - language: node_js
       node_js:
