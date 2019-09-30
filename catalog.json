@@ -4,7 +4,7 @@
         "Description": "LAGER (Light-weight Accumulator Gathering Efficiently in Real-time) is a reliable software logging system designed to allow multiple logging sources to log to multiple end users.",
         "Public Code Repo": "https://github.com/nasa/lager",
         "License": [
-            "NASA Open Source v1.3"
+            "NASA Open Source"
         ],
         "NASA Center": "JSC",
         "External Link": "https://github.com/nasa/lager",
@@ -17048,7 +17048,7 @@
         "Description": "The Stored Command Absolute (SCA) application is a core Flight System (cFS) application that is a plug in to the Core Flight Executive (cFE) component of the cFS.  The SCA application allows a system to be commanded 24 hours a day using sequences of absolute time tagged command sequences.",
         "Public Code Repo": "https://github.com/nasa/SCA",
         "License": [
-            "NASA Open Source Agreement Version 1.3"
+            "NASA Open Source"
         ],
         "NASA Center": "GSFC",
         "External Link": "https://github.com/nasa/SCA",
@@ -17072,7 +17072,7 @@
         "Description": "LAGER (Light-weight Accumulator Gathering Efficiently in Real-time) is a reliable software logging system designed to allow multiple logging sources to log to multiple end users.",
         "Public Code Repo": "https://github.com/nasa/lager",
         "License": [
-            "NASA Open Source v1.3"
+            "NASA Open Source"
         ],
         "NASA Center": "JSC",
         "External Link": "https://github.com/nasa/lager",
