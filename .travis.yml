@@ -1,14 +1,9 @@
-matrix:
-  include:
-    - language: python
-      python:
-        - '3.7'
-      requirements_file: ''
-      script:
-        - python regenerate_catalog.py
-    - language: node_js
-      node_js:
-        - 'node'
-      install:
-        - npm install
-      sudo: false
+language: node_js
+
+node_js:
+  - 'node'
+
+install:
+  - npm install
+
+sudo: false
