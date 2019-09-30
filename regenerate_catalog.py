@@ -12,8 +12,9 @@ if 'code.json' in files.split():
 
 else:
 	print("NO CODE.JSON DIFFS")
-	f = open("./catalog.json", "r")
-	print(json.loads(f.read())[0]['Software'])
+	f = open("./catalog.json", "a")
+	f.write("This is a text addition")
+	f.close()
 
 
 
