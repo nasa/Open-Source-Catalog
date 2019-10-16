@@ -384,7 +384,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/ARC-14710-1",
             "date_AI_tags": "2019_October_03_at_01_06PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -3336,7 +3336,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/DRC-012-024",
             "date_AI_tags": "2019_October_03_at_01_12PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -3573,7 +3573,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-16074-1",
             "date_AI_tags": "2019_October_03_at_01_13PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -3612,7 +3612,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-18493-1",
             "date_AI_tags": "2019_October_03_at_01_13PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -3797,7 +3797,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-16582-1",
             "date_AI_tags": "2019_October_03_at_01_13PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -3885,7 +3885,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-16851-4",
             "date_AI_tags": "2019_October_03_at_01_14PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -4023,7 +4023,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-17052-1",
             "date_AI_tags": "2019_October_03_at_01_14PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -4212,7 +4212,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-17214-1",
             "date_AI_tags": "2019_October_03_at_01_14PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -4992,7 +4992,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-16325-1",
             "date_AI_tags": "2019_October_03_at_01_17PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -5477,7 +5477,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-18212-1",
             "date_AI_tags": "2019_October_03_at_01_18PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -5613,7 +5613,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-16330-1",
             "date_AI_tags": "2019_October_03_at_01_19PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -6094,7 +6094,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-16851-3",
             "date_AI_tags": "2019_October_03_at_01_20PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -6383,7 +6383,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-17294-1",
             "date_AI_tags": "2019_October_03_at_01_21PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -6872,7 +6872,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LEW-18460-1",
             "date_AI_tags": "2019_October_03_at_01_22PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -9982,7 +9982,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/GSC-15569-1",
             "date_AI_tags": "2019_October_03_at_01_28PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -10416,7 +10416,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/GSC-16065-1",
             "date_AI_tags": "2019_October_03_at_01_30PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -10552,7 +10552,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/GSC-15539-1",
             "date_AI_tags": "2019_October_03_at_01_30PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -11587,7 +11587,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/GSC-16845-1",
             "date_AI_tags": "2019_October_03_at_01_32PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -12751,7 +12751,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/NPO-19636-1",
             "date_AI_tags": "2019_October_03_at_01_35PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -12935,7 +12935,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/NPO-41133-1",
             "date_AI_tags": "2019_October_03_at_01_35PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -13173,7 +13173,7 @@
             "homepageURL": "https://software.nasa.gov/software/NPO-41986-1",
             "disclaimerURL": "https://download.jpl.nasa.gov/",
             "date_AI_tags": "2019_October_03_at_01_36PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -18232,7 +18232,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/NPO-47167-1",
             "date_AI_tags": "2019_October_03_at_01_47PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -18417,7 +18417,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/NPO-47166-1",
             "date_AI_tags": "2019_October_03_at_01_48PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -21231,7 +21231,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-25549-1",
             "date_AI_tags": "2019_October_03_at_01_54PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -21270,7 +21270,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-25574-1",
             "date_AI_tags": "2019_October_03_at_01_54PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -21309,7 +21309,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-25498-1",
             "date_AI_tags": "2019_October_03_at_01_54PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -21444,7 +21444,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-25587-1",
             "date_AI_tags": "2019_October_03_at_01_54PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -21681,7 +21681,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-25693-1",
             "date_AI_tags": "2019_October_03_at_01_55PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -22164,7 +22164,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-25409-1",
             "date_AI_tags": "2019_October_03_at_01_56PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -22353,7 +22353,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-25658-1",
             "date_AI_tags": "2019_October_03_at_01_57PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -22440,7 +22440,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-25187-1",
             "date_AI_tags": "2019_October_03_at_01_57PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -22776,7 +22776,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-25520-1",
             "date_AI_tags": "2019_October_03_at_01_57PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -26515,7 +26515,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-26234-1",
             "date_AI_tags": "2019_October_03_at_02_06PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -26604,7 +26604,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MSC-26184-1",
             "date_AI_tags": "2019_October_03_at_02_06PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -27721,7 +27721,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/KSC-13991",
             "date_AI_tags": "2019_October_03_at_02_08PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -28157,7 +28157,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LAR-16680-GS",
             "date_AI_tags": "2019_October_03_at_02_09PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -29698,7 +29698,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LAR-18746-1",
             "date_AI_tags": "2019_October_03_at_02_13PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -29737,7 +29737,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/LAR-18752-1",
             "date_AI_tags": "2019_October_03_at_02_13PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -30819,7 +30819,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MFS-31383-1",
             "date_AI_tags": "2019_October_03_at_02_16PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -31694,7 +31694,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MFS-32001-1",
             "date_AI_tags": "2019_October_03_at_02_17PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -32131,7 +32131,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MFS-31989-1",
             "date_AI_tags": "2019_October_03_at_02_18PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -32418,7 +32418,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MFS-31355-1",
             "date_AI_tags": "2019_October_03_at_02_19PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -33097,7 +33097,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MFS-33024-1",
             "date_AI_tags": "2019_October_03_at_02_21PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -33780,7 +33780,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/MFS-32970-1",
             "date_AI_tags": "2019_October_03_at_02_22PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -34406,7 +34406,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/ARC-utm-apis",
             "date_AI_tags": "2019_October_03_at_02_24PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -34446,7 +34446,7 @@
             "contributors": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_24PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -34484,7 +34484,7 @@
             "contributors": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_24PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -34521,7 +34521,7 @@
             "contributors": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_24PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -34558,7 +34558,7 @@
             "contributors": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_24PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -34898,7 +34898,7 @@
             "homepageURL": "https://software.nasa.gov/software/ARC-16075-1",
             "disclaimerURL": "https://ti.arc.nasa.gov/opensource/nosa/Libibvpp/",
             "date_AI_tags": "2019_October_03_at_02_25PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -38296,7 +38296,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/GSC-16010-1",
             "date_AI_tags": "2019_October_03_at_02_31PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -38832,7 +38832,7 @@
             "homepageURL": "https://software.nasa.gov/software/GSC-15992-1",
             "disclaimerURL": "https://opensource.gsfc.nasa.gov/projects/LHD/LHD_NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_32PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -40449,7 +40449,7 @@
             "homepageURL": "https://software.nasa.gov/software/LAR-17081-1",
             "disclaimerURL": "https://sourceforge.net/directory/license:bsd/",
             "date_AI_tags": "2019_October_03_at_02_35PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41091,7 +41091,7 @@
             "languages": [],
             "homepageURL": "https://software.nasa.gov/software/ARC-CitySmart",
             "date_AI_tags": "2019_October_03_at_02_37PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41129,7 +41129,7 @@
             "homepageURL": "https://software.nasa.gov/software/ARC-WxOps-WorldWind",
             "disclaimerURL": "https://worldwind.arc.nasa.gov/LICENSE.html",
             "date_AI_tags": "2019_October_03_at_02_37PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41217,7 +41217,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/georef_geocamutilweb/blob/master/LICENSE",
             "date_AI_tags": "2019_October_03_at_02_37PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41256,7 +41256,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/georef/blob/master/LICENSE-2.0.txt",
             "date_AI_tags": "2019_October_03_at_02_37PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41295,7 +41295,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/georef_deploy/blob/master/LICENSE",
             "date_AI_tags": "2019_October_03_at_02_37PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41334,7 +41334,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/georef_geocamtiepoint/blob/master/LICENSE",
             "date_AI_tags": "2019_October_03_at_02_37PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41425,7 +41425,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/openmct/blob/master/LICENSES.md",
             "date_AI_tags": "2019_October_03_at_02_37PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41569,7 +41569,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/openmct/blob/master/LICENSES.md",
             "date_AI_tags": "2019_October_03_at_02_38PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41606,7 +41606,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/kepler-pipeline/blob/master/README.md",
             "date_AI_tags": "2019_October_03_at_02_38PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41743,7 +41743,7 @@
             "contributors": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_38PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41782,7 +41782,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/fprime/blob/master/LICENSE.txt",
             "date_AI_tags": "2019_October_03_at_02_38PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41869,7 +41869,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/edsc-echoforms/blob/master/LICENSE",
             "date_AI_tags": "2019_October_03_at_02_38PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41906,7 +41906,7 @@
             "contributors": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_38PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -41944,7 +41944,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/SCH/blob/master/Core%20Flight%20System%20(CFS)%20NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -42031,7 +42031,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/SC/blob/master/Core%20Flight%20System%20(CFS)%20NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -42069,7 +42069,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/MD/blob/master/Core%20Flight%20System%20(CFS)%20NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -42107,7 +42107,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/HK/blob/master/Core%20Flight%20System%20(CFS)%20NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -42145,7 +42145,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/HS/blob/master/Core%20Flight%20System%20(CFS)%20NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -42183,7 +42183,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/LC/blob/master/Core%20Flight%20System%20(CFS)%20NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -42221,7 +42221,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/DS/blob/master/Core%20Flight%20System%20(CFS)%20NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -42259,7 +42259,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/CS/blob/master/Core%20Flight%20System%20(CFS)%20NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -42297,7 +42297,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/CF/blob/master/Core%20Flight%20System%20(CFS)%20NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -42332,7 +42332,7 @@
             "contributors": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -42370,7 +42370,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/FM/blob/master/Core%20Flight%20System%20(CFS)%20NOSA.pdf",
             "date_AI_tags": "2019_October_03_at_02_39PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -44211,7 +44211,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_42PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -46200,7 +46200,7 @@
             "supplementaryURLs": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_45PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -48800,7 +48800,7 @@
             "languages": [],
             "disclaimerURL": "http://www.apache.org/licenses/LICENSE-2.0.html",
             "date_AI_tags": "2019_October_03_at_02_49PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -48964,7 +48964,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/NASAWorldWindResearch/Quake-Hunter/blob/master/LICENSE",
             "date_AI_tags": "2019_October_03_at_02_49PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -49105,7 +49105,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/NASAWorldWindResearch/WorldWindExplorer/blob/master/LICENSE",
             "date_AI_tags": "2019_October_03_at_02_49PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -49493,7 +49493,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_50PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -49543,7 +49543,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_50PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -49653,7 +49653,7 @@
             "languages": [],
             "disclaimerURL": "https://github.com/nasa/MAV/blob/master/Apache%20License%202.0.pdf",
             "date_AI_tags": "2019_October_03_at_02_50PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -49764,7 +49764,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_50PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -50243,7 +50243,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_51PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -50302,7 +50302,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_51PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -50372,7 +50372,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_51PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -50531,7 +50531,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_52PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -50927,7 +50927,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_52PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -51227,7 +51227,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_53PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -51278,7 +51278,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_53PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -51438,7 +51438,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_53PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -51479,7 +51479,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_53PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -51679,7 +51679,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_54PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -51722,7 +51722,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_02_54PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -52466,7 +52466,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_55PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -53194,7 +53194,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_56PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -53752,7 +53752,7 @@
             "supplementaryURLs": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_57PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -53863,7 +53863,7 @@
             "supplementaryURLs": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_57PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -54036,7 +54036,7 @@
             "supplementaryURLs": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_57PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -54082,7 +54082,7 @@
             },
             "supplementaryURLs": [],
             "date_AI_tags": "2019_October_03_at_02_57PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -54549,7 +54549,7 @@
             "supplementaryURLs": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_02_58PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -56435,7 +56435,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_01PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -56541,7 +56541,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_01PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -57438,7 +57438,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_02PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -57708,7 +57708,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_03PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -58103,7 +58103,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_03PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -58504,7 +58504,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_04PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -59072,7 +59072,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_05PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -59447,7 +59447,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_05PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -59493,7 +59493,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_06PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -59653,7 +59653,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_06PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -59825,7 +59825,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_06PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -59879,7 +59879,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_06PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60093,7 +60093,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_06PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60142,7 +60142,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_06PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60196,7 +60196,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_06PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60260,7 +60260,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_07PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60328,7 +60328,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_07PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60533,7 +60533,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_07PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60588,7 +60588,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_07PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60643,7 +60643,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_07PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60693,7 +60693,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_07PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60743,7 +60743,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_07PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60793,7 +60793,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_07PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60843,7 +60843,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_07PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60894,7 +60894,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_07PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60939,7 +60939,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_08PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -60982,7 +60982,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_08PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -61328,7 +61328,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_08PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -61723,7 +61723,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_09PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -61814,7 +61814,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_09PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -62193,7 +62193,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_10PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -62246,7 +62246,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_10PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -62425,7 +62425,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_10PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -62546,7 +62546,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_11PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -62589,7 +62589,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_11PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -62912,7 +62912,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_11PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -62956,7 +62956,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_11PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -63008,7 +63008,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_11PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -63052,7 +63052,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_11PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -63268,7 +63268,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_12PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -63313,7 +63313,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_12PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -63648,7 +63648,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_12PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -63756,7 +63756,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_12PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -63809,7 +63809,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_12PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -64092,7 +64092,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_13PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -64136,7 +64136,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_13PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -64181,7 +64181,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_13PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -64229,7 +64229,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_13PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -64277,7 +64277,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_13PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -64643,7 +64643,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_14PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -64941,7 +64941,7 @@
             "supplementaryURLs": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_14PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -65235,7 +65235,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_15PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -65343,7 +65343,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_15PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -65387,7 +65387,7 @@
             "languages": [],
             "disclaimerURL": "https://example.com",
             "date_AI_tags": "2019_October_03_at_03_15PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -65602,7 +65602,7 @@
             "homepageURL": "https://software.nasa.gov/software/GSC-17452-1",
             "disclaimerURL": "https://github.com/nasa/LHASA/blob/master/LICENSE.pdf",
             "date_AI_tags": "2019_October_03_at_03_16PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -65759,7 +65759,7 @@
             "languages": [],
             "disclaimerURL": "https://www.example.com",
             "date_AI_tags": "2019_October_03_at_03_16PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -66308,7 +66308,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_17PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
@@ -66351,7 +66351,7 @@
             "supplementaryURLs": [],
             "languages": [],
             "date_AI_tags": "2019_October_03_at_03_17PM",
-            "sti_keywords_passed_thresholds": "",
+            "sti_keywords_passed_thresholds": [],
             "service_version": ""
         },
         {
