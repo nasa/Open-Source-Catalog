@@ -1,4 +1,5 @@
 {
+    "$schema" : "./code-nasa-schema.json",
     "measurementType": {
         "method": "linesOfCode"
     },
