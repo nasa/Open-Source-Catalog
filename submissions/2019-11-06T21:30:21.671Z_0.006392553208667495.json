@@ -1,0 +1,50 @@
+{
+  "payload": {
+    "repositoryURL": "www.google.com",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 1234,
+    "languages": [
+      "JavaScript"
+    ],
+    "name": "asdf",
+    "contributors": [
+      {
+        "name": "N/A",
+        "email": "N/A",
+        "github": "N/A"
+      }
+    ],
+    "tags": [
+      "a",
+      "b",
+      "c"
+    ],
+    "description": "asdf",
+    "contact": {
+      "email": "evantayloryates@gmail.com",
+      "name": "",
+      "phone": "",
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2019-10-17",
+      "metadataLastUpdated": "2019-11-06",
+      "created": "2019-10-01"
+    },
+    "organization": "JPL",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "EPL",
+          "URL": "https://opensource.org/licenses/EPL-1.0"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "AJv63bjqQQ61bQnxvmcZIw+JYnT8hYxUp1sU5hDWDjci2kWwug==",
+  "nonce": "LpFlsC8U+ayxdbyBhOoP0Kb2LJ+V4yoY"
+}
