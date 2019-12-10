@@ -61509,7 +61509,7 @@
     },
     {
       "repositoryURL": "https://github.com/ESIPFed/sweet",
-      "description": "Apache SensSoft is a user activity logging and analytics system that enables developers to instrument and extract design and user insights from their applications. SensSoft incorporates a number of components that work together to provide user-experience researchers, project managers and software developers insights about how web applications are used. UserALE.js is an open source tool to quickly and efficiently instrument a JavaScript frontend application.",
+      "description": "SWEET is a highly modular ontology suite with ~6000 concepts in ~200 separate ontologies covering Earth system science. SWEET is a mid-level ontology and consists of nine top-level concepts that can be used as a foundation for domain-specific ontologies that extend these top-level SWEET components. SWEET’s own domain-specific ontologies, which extend the upper level ontologies, can provide users interested in further developing a particular domain with a solid set of concepts to get started. SWEET ontologies are written in W3C Turtle; the Terse RDF Triple Language and are publicly available under the Apache License v2.0.",
       "contributors": [
         {
           "name": null,
@@ -61519,7 +61519,9 @@
       ],
       "tags": [
         "Ontology",
-        "Earth System Science"
+        "Earth System Science",
+        "ESIPFed",
+        "Semantic"
       ],
       "name": "SWEET Ontology Suite",
       "languages": [
@@ -61532,7 +61534,9 @@
       },
       "laborHours": 96,
       "date": {
-        "metadataLastUpdated": "2018-03-13"
+        "lastModified": "2019-12-09",
+        "metadataLastUpdated": "2019-12-09",
+        "created": "2017-01-01"
       },
       "organization": "JPL",
       "homepageURL": "https://github.com/ESIPFed/sweet",
@@ -61540,11 +61544,12 @@
       "permissions": {
         "licenses": [
           {
-            "URL": "https://opensource.org/licenses/Apache-2.0",
-            "name": "Apache-2.0"
+            "name": "Apache-2.0",
+            "URL": "https://opensource.org/licenses/Apache-2.0"
           }
         ],
-        "usageType": "openSource"
+        "usageType": "openSource",
+        "exemptionText": null
       },
       "supplementaryURLs": [],
       "sti_keywords_passed_thresholds": [
