@@ -48336,68 +48336,6 @@
       "date_AI_tags": "2019_October_03_at_02_48PM"
     },
     {
-      "repositoryURL": "https://github.com/nasa/nasa-latex-docs",
-      "description": "This is a flexible LaTeX document template designed to separate content from styling and remove all of the grunt work associated with creating professional documents. Can be used for technical reports as well as public documents such as research papers and conference papers.",
-      "contributors": [
-        {
-          "name": "walshahi",
-          "email": null,
-          "github": null
-        }
-      ],
-      "tags": [
-        "Reports",
-        "Documents",
-        "NASA",
-        "Papers",
-        "TeX",
-        "LaTeX"
-      ],
-      "contact": {
-        "email": "wahab.alshahin@nasa.gov",
-        "name": "",
-        "phone": ""
-      },
-      "laborHours": 944,
-      "date": {
-        "metadataLastUpdated": "2016-02-05"
-      },
-      "organization": "JSC",
-      "permissions": {
-        "licenses": [
-          {
-            "URL": "https://opensource.org/licenses/NASA-1.3",
-            "name": "NASA Open Source"
-          },
-          {
-            "URL": "https://opensource.org/licenses/NASA-1.3",
-            "name": "NASA Open Source"
-          }
-        ],
-        "usageType": "openSource",
-        "exemptionText": null
-      },
-      "homepageURL": "https://github.com/nasa/nasa-latex-docs/wiki",
-      "local-id": "e1983a76-4848-4b8c-9a6c-41b5453e2eec",
-      "name": "NASA LaTeX Docs",
-      "supplementaryURLs": [],
-      "languages": [],
-      "disclaimerURL": "https://example.com",
-      "sti_keywords_passed_thresholds": [
-        "nlp:computation",
-        "nlp:document",
-        "nlp:conference",
-        "nlp:research management",
-        "nlp:military technology",
-        "nlp:indexes (documentation)",
-        "nlp:information retrieval",
-        "nlp:research and development",
-        "nlp:data base"
-      ],
-      "service_version": "4.1.1",
-      "date_AI_tags": "2019_October_03_at_02_48PM"
-    },
-    {
       "repositoryURL": "https://github.com/nasa/isle",
       "description": "This web application allows inventories of assets to be managed. Assets along with their specifications are added to the system and then used by users via a check-in/check-out function. The inventory can be browsed by category or using search. Users are given various roles within the system to allow them to perform certain functions such as view-only, check-in/check-out, modify, and full-control. Inventory managers can add and track detailed information on all inventory assets including manufacturer, storage location, custom attributes, and relationships with other assets. Assets can be found by browsing by category, search, location, or current user. Assets are checked out to specified locations by users.",
       "contributors": [
