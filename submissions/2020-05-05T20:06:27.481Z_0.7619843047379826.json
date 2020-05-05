@@ -1,0 +1,53 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/delta",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 3000,
+    "languages": [
+      "Python"
+    ],
+    "name": "DELTA",
+    "contributors": [
+      {
+        "name": "Brian Coltin",
+        "email": "brian.coltin@nasa.gov",
+        "github": "bcoltin"
+      }
+    ],
+    "tags": [
+      "usg-artificial-intelligence",
+      "machine learning",
+      "remote sensing",
+      "satellite imagery",
+      "deep learning",
+      "tensorflow"
+    ],
+    "description": "DELTA (Deep Earth Learning, Training and Analysis) is a toolkit for deep learning on satellite imagery. DELTA allows Earth scientists to apply state of the art machine learning techniques to classify satellite imagery.",
+    "contact": {
+      "email": "brian.coltin@nasa.gov",
+      "name": "Brian Coltin",
+      "phone": null,
+      "URL": "https://ti.arc.nasa.gov/tech/asr/groups/intelligent-robotics/"
+    },
+    "date": {
+      "lastModified": "2020-05-05",
+      "metadataLastUpdated": "2020-05-05",
+      "created": "2019-04-02"
+    },
+    "organization": "ARC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "URL": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "Puu8PpkCmpsEbWyKVBP30t/Ay2kFMK0DymeZ/TNf27WY0C9Kdw==",
+  "nonce": "SZnzfspeBJNL5mb1iepQ/6iB94MdIPKw"
+}
