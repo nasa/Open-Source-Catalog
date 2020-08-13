@@ -1,0 +1,70 @@
+{
+  "payload": {
+    "repositoryURL": "https://ti.arc.nasa.gov/opensource/projects/mts-search",
+    "name": "Multivariate Time Series Search Capability to Identify Complex Patterns in Large Datasets",
+    "contributors": [
+      {
+        "name": null,
+        "email": "arc-sra-team@mail.nasa.gov",
+        "github": null
+      }
+    ],
+    "tags": [
+      "NASA",
+      "ARC",
+      "Data and Image Processing",
+      "Open Source",
+      "usg-artificial-intelligence",
+      "time-series",
+      "timeseries",
+      "multivariate"
+    ],
+    "contact": {
+      "email": "arc-sra-team@mail.nasa.gov",
+      "name": "",
+      "phone": ""
+    },
+    "laborHours": 240,
+    "date": {
+      "lastModified": "2020-08-12",
+      "metadataLastUpdated": "2020-08-12",
+      "created": "2012-03-31"
+    },
+    "organization": "ARC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "homepageURL": "https://ti.arc.nasa.gov/opensource/projects/mts-search/",
+    "local-id": "595e6d15-0cf7-478b-ba74-d24dcdcc7724",
+    "description": "This software allows the user to specify a time series over multiple variables to search within massive datasets. The tool will return a listing of events (a time series) from the database that spans multiple variables and is within a threshold distance from the query. Experiments on numerous real aviation datasets have demonstrated the algorithm's capability to uncover potential aircraft safety events (as validated by multiple aviation safety experts and airlines). ",
+    "supplementaryURLs": [
+      "https://software.nasa.gov/software/ARC-16452-1"
+    ],
+    "languages": [
+      "matlab"
+    ],
+    "disclaimerURL": "https://example.com",
+    "sti_keywords_passed_thresholds": [
+      "nlp:aircraft accident",
+      "nlp:time series analysi",
+      "nlp:flight safety",
+      "nlp:safety",
+      "nlp:civil aviation",
+      "nlp:airline operation",
+      "nlp:algorithm",
+      "nlp:query language",
+      "nlp:data base"
+    ],
+    "service_version": "4.1.1",
+    "date_AI_tags": "2019_October_03_at_02_43PM"
+  },
+  "contact_email": "BjkRp3U6pKirXnKM1QsdbA6ZXOFq5kKkwTPJ+a++Qny+fvzK1VtGkA==",
+  "nonce": "w1WKNhqhG2/qugZI+SsP9zJk3+VZS11I"
+}
