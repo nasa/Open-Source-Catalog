@@ -1,0 +1,52 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/Coordinate-systems-class-library",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 40,
+    "languages": [
+      "C++"
+    ],
+    "name": "Coordinate-systems-class-library",
+    "contributors": [
+      {
+        "name": "Justin Strickland",
+        "email": "justin.k.strickland@nasa.gov",
+        "github": "jkstrickland13"
+      }
+    ],
+    "tags": [
+      "NASA",
+      "LaRC",
+      "Open Source",
+      "Data and Image Processing",
+      "Modeling and Simulation"
+    ],
+    "description": "Library of classes representing various coordinate systems and providing the transformations between them. Coordinate systems represented are: East-North-Up (ENU), Downrange-Crossrange-Above (DCA), Latitude-Longitude-Altitude (LLA), Earth-Centered-Fixed (ECF), and Azimuth-Elevation-Range (AER).",
+    "contact": {
+      "email": "justin.k.strickland@nasa.gov",
+      "name": "Justin Strickland",
+      "phone": null,
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2021-09-24",
+      "metadataLastUpdated": "2020-04-09",
+      "created": "2013-12-05"
+    },
+    "organization": "LaRC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "2J4NI/v1Y/AHQk2PFTNAdfUFqZU3q/OZIfjV2yQunVGyj7CWTCB1yzeZqp4=",
+  "nonce": "AB3Cq5opt30gq7SX+JrWcfn12h3RB/Tx"
+}

@@ -1,0 +1,76 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/NASA-DEVELOP/GATER",
+    "description": "Geographic Applications for Transitioning Everglades Regions (GATER). Meant for running within the Google Earth Engine API, this JavaScript code provides an algorithm for cloud removal from Landsat scenes, and runs a classification scheme which classifies mangrove extent within Everglades National Park.",
+    "contributors": [
+      {
+        "name": "kdottiemo",
+        "email": null,
+        "github": null
+      },
+      {
+        "name": "egotschalk",
+        "email": null,
+        "github": null
+      }
+    ],
+    "tags": [
+      "algorithm",
+      "Google Earth API",
+      "NASA",
+      "Everglades National Park",
+      "Geographic Applications for Transitioning Everglades Regions",
+      "classification scheme",
+      "Landsat scenes",
+      "cloud removal",
+      "JavaScript",
+      "usg-artificial-intelligence"
+    ],
+    "contact": {
+      "email": "jeffry.w.ely@nasa.gov",
+      "name": "",
+      "phone": ""
+    },
+    "laborHours": 15376,
+    "date": {
+      "lastModified": "2020-08-12",
+      "metadataLastUpdated": "2020-08-12",
+      "created": "2016-06-22"
+    },
+    "organization": "LaRC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "homepageURL": "https://github.com/NASA-DEVELOP/GATER",
+    "local-id": "61059db6-8323-4e51-830b-db9336b0fc75",
+    "name": "GATER",
+    "supplementaryURLs": [],
+    "languages": [
+      "JavaScript"
+    ],
+    "disclaimerURL": "https://example.com",
+    "sti_keywords_passed_thresholds": [
+      "nlp:cloud",
+      "nlp:classification",
+      "nlp:image classification",
+      "nlp:landsat satellite",
+      "nlp:cloud cover",
+      "nlp:clouds (meteorology)",
+      "nlp:scene analysi",
+      "nlp:cloud physic",
+      "nlp:algorithm",
+      "nlp:satellite-borne photography"
+    ],
+    "service_version": "4.1.1",
+    "date_AI_tags": "2019_October_03_at_02_52PM"
+  },
+  "contact_email": "/6noriAfTrncQKtdn3WzBVAvzcEMUbsnQiMM4chzB2xLJJTN8bt/oQ==",
+  "nonce": "imBSa578ZrtlkVK8SEMXpk+w1DlNc7gP"
+}
