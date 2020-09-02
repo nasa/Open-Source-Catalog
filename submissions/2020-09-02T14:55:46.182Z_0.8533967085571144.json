@@ -1,0 +1,69 @@
+{
+  "payload": {
+    "repositoryURL": "https://ti.arc.nasa.gov/opensource/projects/autobayes",
+    "name": "AutoBayes: Automatic Design of Customized Analysis Algorithms and Programs",
+    "contributors": [
+      {
+        "name": null,
+        "email": "arc-sra-team@mail.nasa.gov",
+        "github": null
+      }
+    ],
+    "tags": [
+      "NASA",
+      "ARC",
+      "Data and Image Processing",
+      "Open Source",
+      "usg-artificial-intelligence"
+    ],
+    "contact": {
+      "email": "arc-sra-team@mail.nasa.gov",
+      "name": "",
+      "phone": ""
+    },
+    "laborHours": 1,
+    "date": {
+      "lastModified": "2020-09-01",
+      "metadataLastUpdated": "2020-09-02",
+      "created": "2011-07-20"
+    },
+    "organization": "ARC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "homepageURL": "https://ti.arc.nasa.gov/opensource/projects/autobayes/",
+    "local-id": "26ce6a58-fcf3-4bf8-b14c-4eb05b672c72",
+    "description": "AutoBayes uses extended Bayesian networks, a powerful symbolic system, and algorithm schemas to automatically generate efficient and customized programs for data analysis. It generates a standardized design document containing a graphical representation of the Bayesian network and of the details regarding the code's generation.",
+    "supplementaryURLs": [
+      "https://software.nasa.gov/software/ARC-16276-1"
+    ],
+    "languages": [
+      "Perl"
+    ],
+    "disclaimerURL": "https://ti.arc.nasa.gov/opensource/projects/autobayes/",
+    "sti_keywords_passed_thresholds": [
+      "nlp:network analysi",
+      "nlp:design analysi",
+      "nlp:computer aided design",
+      "nlp:neural net",
+      "nlp:computer network",
+      "nlp:symbol",
+      "nlp:bayes theorem",
+      "nlp:algorithm",
+      "nlp:data processing",
+      "nlp:data reduction"
+    ],
+    "service_version": "4.1.1",
+    "date_AI_tags": "2019_October_03_at_02_43PM",
+    "downloadURL": "https://ti.arc.nasa.gov/m/opensource/downloads/AUTOBAYES_07202011.tgz"
+  },
+  "contact_email": "tSmiCKBpFTX4EvVHiYmLp1f2HYnjh3cO1iiSfXoijzMOvFoxzaxm6A==",
+  "nonce": "Dl/Cx9OhkkDhETwSBxqMVuMAQthbg+IC"
+}
