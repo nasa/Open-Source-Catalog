@@ -1,0 +1,78 @@
+{
+  "payload": {
+    "repositoryURL": "https://ti.arc.nasa.gov/opensource/projects/mkad",
+    "name": "Multiple Kernel Anomaly Detection (MKAD) Algorithm",
+    "contributors": [
+      {
+        "name": "Dennis Koga",
+        "email": null,
+        "github": null
+      }
+    ],
+    "tags": [
+      "usg-artificial-intelligence",
+      "algorithm",
+      "MKAD",
+      "NASA",
+      "System Testing",
+      "Open Source",
+      "OCSVM",
+      "one class support vector machine",
+      "ARC",
+      "FOQA",
+      "multiple kernel anomaly detection",
+      "machine-learning",
+      "anomaly-detection",
+      "anomaly"
+    ],
+    "contact": {
+      "email": "arc-sra-team@mail.nasa.gov",
+      "name": "",
+      "phone": ""
+    },
+    "laborHours": 9648,
+    "date": {
+      "lastModified": "2020-09-01",
+      "metadataLastUpdated": "2020-09-02",
+      "created": "2015-05-06"
+    },
+    "organization": "ARC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "homepageURL": "https://ti.arc.nasa.gov/opensource/projects/mkad/",
+    "local-id": "a01b3064-8b29-4e32-8b83-e2df68e76366",
+    "description": "In offline mode, MKAD performs automated anomaly detection on large heterogeneous data sets that contain both discrete symbols and continuous data streams.",
+    "supplementaryURLs": [
+      "https://software.nasa.gov/software/ARC-16462-1"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "disclaimerURL": "https://ti.arc.nasa.gov/opensource/projects/mkad/",
+    "sti_keywords_passed_thresholds": [
+      "nlp:data management",
+      "nlp:warning system",
+      "nlp:digital data",
+      "nlp:data processing",
+      "nlp:detection",
+      "nlp:symbol",
+      "nlp:data sampling",
+      "nlp:data reduction",
+      "nlp:signal detection",
+      "nlp:data flow analysi"
+    ],
+    "service_version": "4.1.1",
+    "date_AI_tags": "2019_October_03_at_02_47PM",
+    "downloadURL": "https://ti.arc.nasa.gov/m/opensource/downloads/MKAD.tar.gz"
+  },
+  "contact_email": "LyrOKGru6R/iicRAhdHzv4er6cuh7ppO0H7xSjlBmL9iUgAefDxxnw==",
+  "nonce": "SrK5FSUXFjVBEKHpiH7nwJvaEuKQ442s"
+}
