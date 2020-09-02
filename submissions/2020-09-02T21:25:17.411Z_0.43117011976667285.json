@@ -1,0 +1,67 @@
+{
+  "payload": {
+    "repositoryURL": "https://ti.arc.nasa.gov/m/opensource/downloads/JavaGenes.0.7.68.tar.gz",
+    "description": "JavaGenes is a fairly general purpose evolutionary software system written in Java. It implements several versions of the genetic algorithm, simulated annealing, stochastic hill climbing and other search techniques. JavaGenes has been used to evolve molecules, atomic force field parameters, digital circuits, Earth Observing Satellite schedules, and antennas.",
+    "contributors": [
+      {
+        "name": "Dennis Koga",
+        "email": null,
+        "github": null
+      }
+    ],
+    "tags": [
+      "java",
+      "javagenes",
+      "genetic",
+      "algorithm",
+      "search",
+      "EOS",
+      "usg-artificial-intelligence",
+      "evolutionary-algorithms",
+      "evolutionary",
+      "machine-learning",
+      "annealing"
+    ],
+    "name": "JavaGenes",
+    "contact": {
+      "email": "dmitriy.kogan@jpl.nasa.gov",
+      "name": "Dennis Koga",
+      "phone": ""
+    },
+    "laborHours": 205936,
+    "date": {
+      "lastModified": "2020-09-01",
+      "metadataLastUpdated": "2020-09-02",
+      "created": "2014-04-15"
+    },
+    "organization": "ARC",
+    "homepageURL": "https://ti.arc.nasa.gov/opensource/projects/javagenes/",
+    "local-id": "cbcf9682-55e7-4f4c-942f-793fcd5cede2",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "supplementaryURLs": [],
+    "languages": [
+      "Java"
+    ],
+    "disclaimerURL": "https://example.com",
+    "sti_keywords_passed_thresholds": [
+      "nlp:algorithm",
+      "nlp:genetic algorithm",
+      "nlp:simulated annealing",
+      "nlp:circuit"
+    ],
+    "service_version": "4.1.1",
+    "date_AI_tags": "2019_October_03_at_03_01PM",
+    "downloadURL": "https://ti.arc.nasa.gov/m/opensource/downloads/JavaGenes.0.7.68.tar.gz"
+  },
+  "contact_email": "4LZ8xQqbw32KBkczf3Tq9d+6O59Owr/PjzbKdKBfFX4pXsOwxCAkMQ==",
+  "nonce": "pR6c92xnaESQykqY9WnFe4MpxSpyLwrn"
+}
