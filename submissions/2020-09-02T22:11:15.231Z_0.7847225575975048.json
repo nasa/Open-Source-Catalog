@@ -1,0 +1,63 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/concept-tagging-training",
+    "homepageURL": "https://github.com/nasa/concept-tagging-training",
+    "downloadURL": "https://github.com/nasa/concept-tagging-training/archive/master.zip",
+    "disclaimerURL": "https://raw.githubusercontent.com/nasa/concept-tagging-training/master/LICENSE",
+    "laborHours": 2080,
+    "languages": [
+      "Python"
+    ],
+    "name": "concept-tagging-training",
+    "contributors": [
+      {
+        "name": "N/A",
+        "email": "N/A",
+        "github": "abuonomo"
+      },
+      {
+        "name": "JustinGOSSES",
+        "email": "justin.c.gosses@nasa.gov",
+        "github": "N/A"
+      }
+    ],
+    "tags": [
+      "usg-artificial-intelligence",
+      "nlp",
+      "natural-language-processing",
+      "training",
+      "model-training",
+      "machine-learning",
+      "text",
+      "concepts",
+      "keywords",
+      "python",
+      "topic"
+    ],
+    "description": "Contains code for training NLP models that takes in text and predicts concepts & keywords from a list of 8000 standardized NASA keywords. Built to be trained on 3 million NASA STI text documents that is mostly abstracts but could take any text for training once put in same format. Predicts work best on text greater than 20 words and less than 2000 words. Code for the API that uses models trained by this repo is in `concept-tagging-api` repository.",
+    "contact": {
+      "email": "brian.a.thomas@nasa.gov",
+      "name": "",
+      "phone": "",
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2020-09-01",
+      "metadataLastUpdated": "2020-09-02",
+      "created": "2020-07-01"
+    },
+    "organization": "HQ",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "MIT",
+          "URL": "https://opensource.org/licenses/MIT"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "lw/YFcwIo3zLE4eIW7XP2T2hjXOAkNBqLQzo3qyIQV+HfH00uiT9MQ==",
+  "nonce": "Lhl0cUfIq/TZmJPVzI3I9NCEhQ2+Cx6e"
+}

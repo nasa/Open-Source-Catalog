@@ -1,0 +1,66 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/pymdptoolbox",
+    "description": "The MDP toolbox for Python by Sam Cordwell provides classes and functions for the resolution of descrete-time Markov Decision Processes. The list of algorithms that have been implemented includes backwards induction, linear programming, policy iteration, q-learning and value iteration along with several variations.",
+    "contributors": [
+      {
+        "name": null,
+        "email": "michael.bloem@nasa.gov",
+        "github": null
+      }
+    ],
+    "tags": [
+      "Markov Decision Process",
+      "MDP",
+      "Decision Making",
+      "IRL",
+      "usg-artificial-intelligence"
+    ],
+    "name": "Inverse Reinforcement Learning (IRL) Augmentation for PyMDPToolbox",
+    "contact": {
+      "email": "michael.bloem@nasa.gov",
+      "name": "",
+      "phone": ""
+    },
+    "laborHours": 1456,
+    "date": {
+      "lastModified": "2030-08-29",
+      "metadataLastUpdated": "2020-09-01",
+      "created": "2015-02-27"
+    },
+    "organization": "ARC",
+    "homepageURL": "https://github.com/nasa/pymdptoolbox",
+    "local-id": "ad8a6107-07c4-438a-b287-753a9c1ea3a9",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "supplementaryURLs": [],
+    "languages": [
+      "Python"
+    ],
+    "disclaimerURL": "https://example.com",
+    "sti_keywords_passed_thresholds": [
+      "nlp:decision theory",
+      "nlp:dynamic programming",
+      "nlp:mathematical programming",
+      "nlp:decision making",
+      "nlp:linear programming",
+      "nlp:machine learning",
+      "nlp:policy",
+      "nlp:high resolution",
+      "nlp:iteration",
+      "nlp:algorithm"
+    ],
+    "service_version": "4.1.1",
+    "date_AI_tags": "2019_October_03_at_02_54PM"
+  },
+  "contact_email": "mgPz6sQZ7ziB71ABOtxNaERqxJVdvV5+VdSrSozoyXugtPfwG0Kr3g==",
+  "nonce": "sy/R1BK6w1A8+W9vE2s6URRIjQ1oAY98"
+}
