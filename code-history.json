@@ -3736,5 +3736,65 @@
             "sti_keywords_passed_thresholds": [],
             "local-id": "ec80d566-ec73-11ea-8066-0050568333ce"
         }
+    ],
+    "d989e296-0fea-4a87-a47e-c76fb4afd06b": [
+        {
+            "repositoryURL": "https://github.com/nasa/code.nasa.gov",
+            "description": "This is the source code for the WordPress theme that powers code.nasa.gov. Code.nasa.gov expands NASA's open source activities, surfaces existing activities, and guides internal and external groups in open development, release, and contribution. In doing so, NASA hopes to lower barriers to building open technology in partnership with the public.",
+            "contributors": [
+                {
+                    "name": "seanherron",
+                    "email": null,
+                    "github": null
+                }
+            ],
+            "tags": [
+                "software",
+                "operations",
+                "open source",
+                "code",
+                "NASA"
+            ],
+            "name": "code.nasa.gov",
+            "languages": [
+                "Java"
+            ],
+            "contact": {
+                "email": "",
+                "name": "seanherron",
+                "phone": ""
+            },
+            "laborHours": 5456,
+            "date": {
+                "metadataLastUpdated": "2016-07-28"
+            },
+            "organization": "HQ",
+            "homepageURL": "https://github.com/nasa/code.nasa.gov",
+            "local-id": "d989e296-0fea-4a87-a47e-c76fb4afd06b",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://opensource.org/licenses/Apache-2.0",
+                        "name": "Apache-2.0"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "supplementaryURLs": [],
+            "sti_keywords_passed_thresholds": [
+                "nlp:group theory",
+                "nlp:computation",
+                "nlp:java (programming language)",
+                "nlp:product development",
+                "nlp:computerized simulation",
+                "nlp:defense program",
+                "nlp:symbol",
+                "nlp:research and development",
+                "nlp:technology utilization",
+                "nlp:technology assessment"
+            ],
+            "service_version": "4.1.1",
+            "date_AI_tags": "2019_October_03_at_02_58PM"
+        }
     ]
 }
