@@ -58917,19 +58917,19 @@
             },
             "supplementaryURLs": [],
             "sti_keywords_passed_thresholds": [
-                "nlp:computerized simulation",
-                "nlp:technology utilization",
-                "nlp:java (programming language)",
+                "nlp:group theory",
+                "nlp:research and development",
+                "nlp:product development",
                 "nlp:technology assessment",
+                "nlp:symbol",
+                "nlp:technology utilization",
                 "nlp:computation",
                 "nlp:defense program",
-                "nlp:symbol",
-                "nlp:product development",
-                "nlp:group theory",
-                "nlp:research and development"
+                "nlp:java (programming language)",
+                "nlp:computerized simulation"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2020_September_14_at_06_15PM"
+            "date_AI_tags": "2020_September_14_at_06_17PM"
         },
         {
             "repositoryURL": "https://github.com/nasa/StereoPipeline",
