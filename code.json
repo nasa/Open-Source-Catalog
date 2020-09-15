@@ -58887,7 +58887,7 @@
                 "code",
                 "NASA"
             ],
-            "name": "code.nasa.gov lets-go",
+            "name": "code.nasa.gov",
             "languages": [
                 "JavaScript"
             ],
@@ -58898,9 +58898,9 @@
             },
             "laborHours": 5456,
             "date": {
-                "lastModified": "2021-10-11",
+                "lastModified": "2021-11-11",
                 "metadataLastUpdated": "2020-09-14",
-                "created": "2016-07-01"
+                "created": "2016-08-01"
             },
             "organization": "HQ",
             "homepageURL": "https://code.nasa.gov",
@@ -58917,19 +58917,19 @@
             },
             "supplementaryURLs": [],
             "sti_keywords_passed_thresholds": [
-                "nlp:java (programming language)",
-                "nlp:symbol",
-                "nlp:group theory",
-                "nlp:computation",
-                "nlp:defense program",
-                "nlp:product development",
-                "nlp:technology assessment",
                 "nlp:technology utilization",
+                "nlp:research and development",
+                "nlp:group theory",
                 "nlp:computerized simulation",
-                "nlp:research and development"
+                "nlp:product development",
+                "nlp:symbol",
+                "nlp:computation",
+                "nlp:java (programming language)",
+                "nlp:defense program",
+                "nlp:technology assessment"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2020_September_14_at_06_30PM"
+            "date_AI_tags": "2020_September_14_at_07_30PM"
         },
         {
             "repositoryURL": "https://github.com/nasa/StereoPipeline",
