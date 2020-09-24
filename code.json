@@ -72690,8 +72690,7 @@
             "languages": [
                 "JavaScript",
                 "HTML",
-                "CSS",
-                "Apex"
+                "CSS"
             ],
             "name": "CTT",
             "contributors": [
@@ -72757,7 +72756,7 @@
                 "covid-19",
                 "contact tracing"
             ],
-            "description": "Contact Tracing and Tracking application",
+            "description": " In order to successfully meet NASA\u2019s goal of safely returning its 60,000 employees to on-site work in the wake of the COVID-19 global pandemic, the Agency transitioned its paper-based contact tracing and tracking solution to a more thorough, modern and unified application solution. The NASA Contact Tracing and Tracking (CTT) application on the Salesforce platform is aiding the organization in its efforts to trace and contain the spread of COVID-19 at its 14 facilities.",
             "contact": {
                 "email": "vanessa.l.pao@nasa.gov",
                 "name": "Vanessa Pao",
@@ -72765,9 +72764,9 @@
                 "URL": ""
             },
             "date": {
-                "lastModified": "2020-09-04",
-                "metadataLastUpdated": "2020-09-18",
-                "created": "2020-07-13"
+                "lastModified": "2020-10-04",
+                "metadataLastUpdated": "2020-09-24",
+                "created": "2020-08-13"
             },
             "organization": "HQ",
             "permissions": {
@@ -72780,9 +72779,17 @@
                 "usageType": "openSource",
                 "exemptionText": null
             },
-            "date_AI_tags": "2020_September_18_at_02_30PM",
-            "sti_keywords_passed_thresholds": "",
-            "service_version": "",
+            "date_AI_tags": "2020_September_24_at_12_30PM",
+            "sti_keywords_passed_thresholds": [
+                "nlp:tracking (position)",
+                "nlp:research facilitie",
+                "nlp:contact load",
+                "nlp:electric contact",
+                "nlp:wake",
+                "nlp:problem solving",
+                "nlp:turbulent wake"
+            ],
+            "service_version": "4.1.1",
             "local-id": "12ed0b2b-15cc-4fcf-8ef5-355a8f2e4399"
         }
     ]
