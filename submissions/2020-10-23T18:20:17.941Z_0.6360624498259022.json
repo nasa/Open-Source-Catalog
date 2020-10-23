@@ -1,0 +1,65 @@
+{
+  "payload": {
+    "repositoryURL": "github.com/nasa/Practical-Micromechanics",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 2000,
+    "languages": [
+      "MATLAB"
+    ],
+    "name": "Practical Micromechanics",
+    "contributors": [
+      {
+        "name": "Steve Arnold",
+        "email": "Steven.M.Arnold@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Jacob Aboudi",
+        "email": "aboudi@eng.tau.ac.il",
+        "github": "N/A"
+      }
+    ],
+    "tags": [
+      "Micromechanics",
+      "Thermoelastic",
+      "Composite Materials",
+      "Effective Properties",
+      "Classical Lamination Theory",
+      "Mori-Tanaka",
+      "Method of Cells",
+      "Generalized Method of Cells",
+      "High Fidelity Generalized Method of Cells",
+      "Failure Criteria",
+      "Margin of Safety",
+      "Allowables",
+      "Thermal Stresses"
+    ],
+    "description": "MATLAB software Associated with \"Practical Micromechanics of Composite Materials\" Book.  The intent of the book is to provide both students and practitioners with a solid understanding of micromechanics concepts and theories that can be used in practice and provide their theoretical underpinnings in a clear and concise manner. The power of these theories becomes particularly clear with their application (via the MATLAB\nsoftware suite) in multiscale modeling of composites, herein limited to classical lamination theory.\nThe compilation of scripts and functions enables a user to perform all examples and exercises presented in the Elsevier Book entitled \"Practical Micromechanics of Composite Materials\" by Prof Aboudi, Arnold and Bednarcyk, to be published in\n2021. Developed in MATLAB R2018a.",
+    "contact": {
+      "email": "brett.a.bednarcyk@nasa.gov",
+      "name": "Brett A. Bednarcyk",
+      "phone": null,
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2020-11-01",
+      "metadataLastUpdated": "2020-10-23",
+      "created": "2018-05-04"
+    },
+    "organization": "GRC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "UCAyx+g2kl8wsrVzAAl6t0CyYyZD84o2ROdy17yeGUApKFVlNrfWFg==",
+  "nonce": "8jqj8wx+MFP6fxwva0Clipi045slbTnE"
+}
