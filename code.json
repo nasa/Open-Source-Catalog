@@ -72867,6 +72867,68 @@
             "service_version": "4.1.1",
             "date_AI_tags": "2020_October_23_at_11_30AM",
             "local-id": "669278c3-7415-420c-a536-43aded120ed2"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/cFS-EDS-GroundStation",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 120,
+            "languages": [
+                "Python"
+            ],
+            "name": "cFS-EDS-GroundStation",
+            "contributors": [
+                {
+                    "name": "Mathew McCaskey",
+                    "email": "mathew.j.mccaskey@nasa.gov",
+                    "github": "mjmccaskey"
+                }
+            ],
+            "tags": [
+                "cFS",
+                "Core Flight System",
+                "EDS",
+                "Electronic Data Sheets",
+                "Telemetry",
+                "Telecommand"
+            ],
+            "description": "This software package primarily consists of a python based graphical user interface (GUI) which serves as a generic telemetry and telecommand system for any mission that uses core flight systems (cFS) with CCSDS Electronic Data Sheets (EDS) support.  The GUI utilizes python bindings to automatically read all of the information contained in the mission's EDS Library and Core Flight Executive (CFE) Mission Library.\n\nOn the telecommand side this allows instance names, topic names, and subcommand names to be automatically populated in drop-down menus.  Command that require a payload will produce text boxes or drop-down menus for user entry.  Finally, completed commands are packed and sent to the desired core flight instance.\n\nOn the telemetry side, the GUI will continuously listen for messages.  When messages arrive, they are decoded, the contents are displayed to the screen, sorted by topic, and saved internally.  Telemetry messages can be saved to binary files for further processing.\n\nAlso included are several utility python scripts.  Two such scripts perform the command sending and telemetry decoding functionality of the GUI.  The third reads in the saved telemetry data files and converts the messages into a CSV format which can be loaded in an Excel type program.",
+            "contact": {
+                "email": "mathew.j.mccaskey@nasa.gov",
+                "name": "",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2020-10-23",
+                "metadataLastUpdated": "2020-10-28",
+                "created": "2020-09-01"
+            },
+            "organization": "GRC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "Apache-2.0",
+                        "URL": "https://opensource.org/licenses/Apache-2.0"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:telemetry",
+                "nlp:systems analysi",
+                "nlp:biomedical data",
+                "nlp:message processing",
+                "nlp:software development tool",
+                "nlp:data processing",
+                "nlp:file maintenance (computers)",
+                "nlp:electronic equipment"
+            ],
+            "service_version": "4.1.1",
+            "date_AI_tags": "2020_October_28_at_02_15PM",
+            "local-id": "bb75ca56-7cc2-4ab0-be0c-0604d44a9621"
         }
     ]
 }
