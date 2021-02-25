@@ -1,0 +1,50 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/simupy-flight",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 120,
+    "languages": [
+      "Python"
+    ],
+    "name": "SimuPy Flight Vehicle Toolkit",
+    "contributors": [
+      {
+        "name": "Benjamin Margolis",
+        "email": "benjamin.margolis@nasa.gov",
+        "github": "sixpearls"
+      }
+    ],
+    "tags": [
+      "simulation",
+      "python",
+      "framework"
+    ],
+    "description": "This software library leverages open source scientific computing tools to implement an efficient simulation framework for flight vehicles in Python. Equations of motion are composed in blocks using the SimuPy library, an open source Python alternative to Simulink, and integrated using SciPys wrappers for standard Fortran implementations of ordinary differential equation solvers. Dynamics equations of the inertial state variables for the position, orientation, and their corresponding rates for integration are developed using the SymPy symbolic library and implemented using code generation. Kinematics equations are implemented through symbolic definition and code generation as well as leveraging other open source software that implements useful functions, such as the solutions to the inverse geodesy problem.",
+    "contact": {
+      "email": "benjamin.margolis@nasa.gov",
+      "name": "Benjamin Margolis",
+      "phone": 6506048933,
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2021-02-19",
+      "metadataLastUpdated": "2021-02-25",
+      "created": "2020-06-01"
+    },
+    "organization": "ARC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "EnzuTPzWleT428rgiLtAgdLwLsjQQYOnj7ti/2nRvgjriiSUZxMx5E0R",
+  "nonce": "XQK3m2TO1L3hjpAjkEnH9jqtI3e1lTTJ"
+}
