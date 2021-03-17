@@ -45,4 +45,3 @@ Create a project meta-record using the template from file required_fields_projec
 
 ## Thanks
 Special thanks goes out to [Chris Mattmann (NASA JPL)](https://github.com/chrismattmann), Sean Kelly (NASA JPL) and [Eric Whyne (DARPA)](https://github.com/ericwhyne) for their inspiration for this effort.
-hello
