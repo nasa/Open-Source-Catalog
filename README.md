@@ -11,9 +11,11 @@ This GitHub repository is maintained by the [NASA OCIO Open Innovation Team](htt
 * Code Project hosted in a code repository (preferably GitHub.com) and visible to Internet Users
 * Meta record of your software project; instantiate ```required_fields_project_template.json```
 
-## Add your project
-
-* Create a project meta-record using the template from file required_fields_project_template.json:
+## Add/Edit your project
+### OPTION 1
+If you are behind the NASA firewall, we recommend you use the online form located [here](https://developer.nasa.gov/pages/OpenInnovation/code-submission-app/)
+### OPTION 2
+Create a project meta-record using the template from file required_fields_project_template.json:
   * Note that Category labels longer than 24 characters will be truncated.
 ```
 {
