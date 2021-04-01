@@ -14663,10 +14663,15 @@
         "External Link": "https://github.com/OpenMDAO/CADRE/archive/master.zip"
     },
     {
-        "Update_Date": "2016-06-10",
-        "Description": "An old problem used for NREL Training, converted to OpenMDAO 1.x",
-        "Public Code Repo": "https://github.com/OpenMDAO/NRELTraining",
-        "NASA Center": "ARC",
+
+        "Update_Date": "2017-03-31", 
+        "Description": "The Metadata Management Tool is a web application to assist users in managing metadata on various Nasa.gov applications.", 
+        "Public Code Repo": "https://github.com/nasa/mmt", 
+        "License": [
+            "Apache License 2.0"
+        ], 
+        "NASA Center": "Goddard Space Flight Center", 
+        "External Link": "https://github.com/nasa/mmt", 
         "Contributors": [
             "jcchin",
             "thearn",
@@ -14674,19 +14679,13 @@
         ],
         "Labor_Hours": 3968,
         "Categories": [
-            "python",
-            "openmdao",
-            "NREL",
-            "training"
-        ],
-        "Categories_NLP": [],
-        "Languages": [],
-        "Software": "OpenMDAO: NRELTraining",
-        "License": [
-            "Apache-2.0"
-        ],
-        "External Link": "https://github.com/OpenMDAO/NRELTraining/archive/master.zip"
-    },
+            "CMR", 
+            "Ruby",
+            "javascript",
+            "application"
+        ], 
+        "Software": "Metadata Management Tool (MMT)"
+    }, 
     {
         "Update_Date": "2016-04-11",
         "Description": "MBI sub-branch of the OpenMDAO repository.",
@@ -18170,6 +18169,381 @@
         "External Link": "https://doi.org/10.5281/zenodo.2617379"
     },
     {
+        "Update_Date": "2021-03-05",
+        "Description": "Provides services for NASA Earth observing system data in the cloud using standards-based APIs",
+        "Public Code Repo": "https://github.com/nasa/harmony",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Patrick Quinn",
+            "Amy Steiker",
+            "Dana Shum",
+            "Chris Durbin",
+            "James Norton",
+            "Kevin Beam",
+            "Ryan Waters",
+            "Chris Domanti",
+            "Mahabaleshwara Hegde",
+            "Matt Hanson",
+            "Mike Gangl"
+        ],
+        "Labor_Hours": 5000,
+        "Categories": [
+            "Data Servers Processing and Handling",
+            "Remote Sensing",
+            "EOSDIS",
+            "Earth Science",
+            "Data Visualization",
+            "NASA",
+            "GSFC",
+            "Open Source",
+            "Data Transformation",
+            "Data Subsetting",
+            "Data Regridding",
+            "GIS"
+        ],
+        "Categories_NLP": [
+            "nlp:earth science",
+            "nlp:data management",
+            "nlp:data acquisition",
+            "nlp:remote sensing",
+            "nlp:data storage",
+            "nlp:information retrieval",
+            "nlp:on-line system",
+            "nlp:data retrieval",
+            "nlp:earth (planet)"
+        ],
+        "Languages": ["TypeScript"],
+        "Software": "Harmony",
+        "License": [
+            "NASA Open Source",
+            "Apache-2.0"
+        ],
+        "External Link": "https://harmony.earthdata.nasa.gov"
+    },
+    {
+        "Update_Date": "2021-03-05",
+        "Description": "Python client library for working with NASA’s Earth observing system data using NASA EOSDIS Harmony",
+        "Public Code Repo": "https://github.com/nasa/harmony-py",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Patrick Quinn",
+            "Amy Steiker",
+            "Chris Durbin",
+            "James Norton",
+            "Kevin Beam",
+            "Ryan Waters",
+            "Chris Domanti"
+        ],
+        "Labor_Hours": 500,
+        "Categories": [
+            "Remote Sensing",
+            "EOSDIS",
+            "Earth Science",
+            "Data Visualization",
+            "NASA",
+            "GSFC",
+            "Open Source",
+            "Data Transformation",
+            "Data Subsetting",
+            "Data Regridding",
+            "GIS"
+        ],
+        "Categories_NLP": [
+            "nlp:earth science",
+            "nlp:data management",
+            "nlp:data acquisition",
+            "nlp:remote sensing",
+            "nlp:data storage",
+            "nlp:information retrieval",
+            "nlp:data retrieval",
+            "nlp:earth (planet)"
+        ],
+        "Languages": ["Python"],
+        "Software": "Harmony Python Library",
+        "License": [
+            "NASA Open Source",
+            "Apache-2.0"
+        ],
+        "External Link": "https://harmony.earthdata.nasa.gov"
+    },
+    {
+        "Update_Date": "2021-03-05",
+        "Description": "Service that transforms NetCDF4 files into Zarr files within NASA EOSDIS Harmony",
+        "Public Code Repo": "https://github.com/nasa/harmony-netcdf-to-zarr",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Patrick Quinn",
+            "Amy Steiker",
+            "Chris Durbin",
+            "James Norton",
+            "Kevin Beam",
+            "Ryan Waters",
+            "Chris Domanti"
+        ],
+        "Labor_Hours": 1000,
+        "Categories": [
+            "Remote Sensing",
+            "EOSDIS",
+            "Earth Science",
+            "Data Visualization",
+            "NASA",
+            "GSFC",
+            "Open Source",
+            "Data Transformation",
+            "Data Subsetting",
+            "Data Regridding",
+            "GIS",
+            "NetCDF",
+            "Zarr"
+        ],
+        "Categories_NLP": [
+            "nlp:earth science",
+            "nlp:data management",
+            "nlp:data acquisition",
+            "nlp:remote sensing",
+            "nlp:data storage",
+            "nlp:information retrieval",
+            "nlp:data retrieval",
+            "nlp:earth (planet)"
+        ],
+        "Languages": ["Python"],
+        "Software": "Harmony NetCDF-to-Zarr Transformer",
+        "License": [
+            "NASA Open Source",
+            "Apache-2.0"
+        ],
+        "External Link": "https://harmony.earthdata.nasa.gov"
+    },
+    {
+        "Update_Date": "2021-03-05",
+        "Description": "Example service implementation for subsetting and reprojecting L3 data within NASA EOSDIS Harmony",
+        "Public Code Repo": "https://github.com/nasa/harmony-example-service",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Patrick Quinn",
+            "Amy Steiker",
+            "Chris Durbin",
+            "James Norton",
+            "Kevin Beam",
+            "Ryan Waters",
+            "Chris Domanti"
+        ],
+        "Labor_Hours": 1000,
+        "Categories": [
+            "Remote Sensing",
+            "EOSDIS",
+            "Earth Science",
+            "Data Visualization",
+            "NASA",
+            "GSFC",
+            "Open Source",
+            "Data Transformation",
+            "Data Subsetting",
+            "Data Regridding",
+            "GDAL",
+            "GIS"
+        ],
+        "Categories_NLP": [
+            "nlp:earth science",
+            "nlp:data management",
+            "nlp:data acquisition",
+            "nlp:remote sensing",
+            "nlp:data storage",
+            "nlp:information retrieval",
+            "nlp:data retrieval",
+            "nlp:earth (planet)"
+        ],
+        "Languages": ["Python"],
+        "Software": "Harmony Example Service",
+        "License": [
+            "NASA Open Source",
+            "Apache-2.0"
+        ],
+        "External Link": "https://harmony.earthdata.nasa.gov"
+    },
+    {
+        "Update_Date": "2021-03-05",
+        "Description": "Repository of tests to allow service authors and data stewards to verify their data transformations in EOSDIS Harmony",
+        "Public Code Repo": "https://github.com/nasa/harmony-regression-tests",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Patrick Quinn",
+            "Amy Steiker",
+            "Chris Durbin",
+            "James Norton",
+            "Kevin Beam",
+            "Ryan Waters",
+            "Chris Domanti"
+        ],
+        "Labor_Hours": 200,
+        "Categories": [
+            "Remote Sensing",
+            "EOSDIS",
+            "Earth Science",
+            "Data Visualization",
+            "NASA",
+            "GSFC",
+            "Open Source",
+            "Data Transformation",
+            "Data Subsetting",
+            "Data Regridding",
+            "GIS"
+        ],
+        "Categories_NLP": [
+            "nlp:earth science",
+            "nlp:data management",
+            "nlp:data acquisition",
+            "nlp:remote sensing",
+            "nlp:data storage",
+            "nlp:information retrieval",
+            "nlp:data retrieval",
+            "nlp:earth (planet)"
+        ],
+        "Languages": ["Python"],
+        "Software": "Harmony Python Service Library",
+        "License": [
+            "NASA Open Source",
+            "Apache-2.0"
+        ],
+        "External Link": "https://harmony.earthdata.nasa.gov"
+    },
+    {
+        "Update_Date": "2021-03-05",
+        "Description": "Python library to simplify adapting transformation services for use in NASA EOSDIS Harmony",
+        "Public Code Repo": "https://github.com/nasa/harmony-service-lib-py",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Patrick Quinn",
+            "Amy Steiker",
+            "Chris Durbin",
+            "James Norton",
+            "Kevin Beam",
+            "Ryan Waters",
+            "Chris Domanti"
+        ],
+        "Labor_Hours": 1000,
+        "Categories": [
+            "Remote Sensing",
+            "EOSDIS",
+            "Earth Science",
+            "Data Visualization",
+            "NASA",
+            "GSFC",
+            "Open Source",
+            "Data Transformation",
+            "Data Subsetting",
+            "Data Regridding",
+            "GIS"
+        ],
+        "Categories_NLP": [
+            "nlp:earth science",
+            "nlp:data management",
+            "nlp:data acquisition",
+            "nlp:remote sensing",
+            "nlp:data storage",
+            "nlp:information retrieval",
+            "nlp:data retrieval",
+            "nlp:earth (planet)"
+        ],
+        "Languages": ["Python"],
+        "Software": "Harmony Python Service Library",
+        "License": [
+            "NASA Open Source",
+            "Apache-2.0"
+        ],
+        "External Link": "https://harmony.earthdata.nasa.gov"
+    },
+    {
+        "Update_Date": "2021-03-05",
+        "Description": "QGIS plugin for working with NASA's Earth observing system data within EOSDIS Harmony",
+        "Public Code Repo": "https://github.com/nasa/harmony-qgis",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "James Norton",
+            "Patrick Quinn",
+            "Amy Steiker",
+            "Chris Durbin",
+            "Kevin Beam",
+            "Ryan Waters",
+            "Chris Domanti"
+        ],
+        "Labor_Hours": 200,
+        "Categories": [
+            "Remote Sensing",
+            "EOSDIS",
+            "Earth Science",
+            "Data Visualization",
+            "NASA",
+            "GSFC",
+            "Open Source",
+            "Data Transformation",
+            "Data Subsetting",
+            "Data Regridding",
+            "QGIS",
+            "GIS"
+        ],
+        "Categories_NLP": [
+            "nlp:earth science",
+            "nlp:data management",
+            "nlp:data acquisition",
+            "nlp:remote sensing",
+            "nlp:data storage",
+            "nlp:information retrieval",
+            "nlp:data retrieval",
+            "nlp:earth (planet)"
+        ],
+        "Languages": ["Python"],
+        "Software": "Harmony QGIS Plugin",
+        "License": [
+            "NASA Open Source",
+            "Apache-2.0"
+        ],
+        "External Link": "https://github.com/nasa/harmony-qgis"
+    },
+    {
+        "Update_Date": "2021-03-05",
+        "Description": "Zarr data store for efficiently accessing NetCDF4 data from NASA’s Earth observing system in the cloud using the Zarr Python library",
+        "Public Code Repo": "https://github.com/nasa/zarr-eosdis-store",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Patrick Quinn",
+            "Matt Hanson",
+            "Amy Steiker",
+            "Dana Shum"
+        ],
+        "Labor_Hours": 200,
+        "Categories": [
+            "Remote Sensing",
+            "EOSDIS",
+            "Earth Science",
+            "Data Visualization",
+            "NASA",
+            "GSFC",
+            "Open Source",
+            "Data Transformation",
+            "Data Subsetting",
+            "Data Regridding",
+            "Zarr"
+        ],
+        "Categories_NLP": [
+            "nlp:earth science",
+            "nlp:data management",
+            "nlp:data acquisition",
+            "nlp:remote sensing",
+            "nlp:data storage",
+            "nlp:information retrieval",
+            "nlp:data retrieval",
+            "nlp:earth (planet)"
+        ],
+        "Languages": ["Python"],
+        "Software": "Harmony Python Service Library",
+        "License": [
+            "NASA Open Source",
+            "Apache-2.0"
+        ],
+        "External Link": "https://github.com/nasa/zarr-eosdis-store"
+    },
+    {
         "Update_Date": "2019-10-03",
         "Description": "dsafdasfsadf",
         "Public Code Repo": "www.google.com",
@@ -18194,3 +18568,4 @@
         "External Link": ""
     }
 ]
+
