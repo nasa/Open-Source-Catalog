@@ -1,0 +1,55 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/HyperInSPACE",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 3000,
+    "languages": [
+      "Python"
+    ],
+    "name": "HyperInSPACE",
+    "contributors": [
+      {
+        "name": "Dirk Aurin",
+        "email": "dirk.a.aurin@nasa.gov",
+        "github": "oceancolorcoder"
+      }
+    ],
+    "tags": [
+      "ocean color",
+      "radiometry",
+      "remote sensing",
+      "validation",
+      "algorithm development",
+      "glint correction",
+      "HyperSAS",
+      "SeaBASS"
+    ],
+    "description": "Provide hyperspectral in situ support for the PACE mission by processing automated, above-water ocean color radiometry using state-of-the-art methods and protocols for quality assurance, uncertainty estimation/propagation, sky/sunglint correction, convolution to satellite wavebands, and ocean color product retrieval. Data output are formatted to text files for submission to the SeaBASS database and saved as comprehensive HDF5 records with automated processing reports. The package is designed to facilitate rigorous, flexible, and transparent data processing for the ocean color remote sensing community, particularly PIs funded by NASA to submit such radiometric data to SeaBASS. Radiometry processed in HyperInSPACE are used for water optical characterization, ocean color product retrieval algorithm development, and orbital platform validation.",
+    "contact": {
+      "email": "dirk.a.aurin@nasa.gov",
+      "name": "Dirk Aurin",
+      "phone": "",
+      "URL": "https://science.gsfc.nasa.gov/sed/bio/dirk.a.aurin"
+    },
+    "date": {
+      "lastModified": "2021-04-01",
+      "metadataLastUpdated": "2021-04-01",
+      "created": "2021-04-01"
+    },
+    "organization": "GSFC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "MIT",
+          "URL": "https://opensource.org/licenses/MIT"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "3aaG+Lc/ejUHlic6sQHvdFz2ghJSGEY7uPmk6z5LdTGpD20p9w==",
+  "nonce": "/CDEr1eCeINJLTxEkKFeoHGl8I8vNkR8"
+}
