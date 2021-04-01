@@ -72988,6 +72988,72 @@
             "service_version": "4.1.1",
             "date_AI_tags": "2021_February_25_at_08_15AM",
             "local-id": "51071867-7e46-4315-9255-9bfe7a99b246"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/HyperInSPACE",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 3000,
+            "languages": [
+                "Python"
+            ],
+            "name": "HyperInSPACE",
+            "contributors": [
+                {
+                    "name": "Dirk Aurin",
+                    "email": "dirk.a.aurin@nasa.gov",
+                    "github": "oceancolorcoder"
+                }
+            ],
+            "tags": [
+                "ocean color",
+                "radiometry",
+                "remote sensing",
+                "validation",
+                "algorithm development",
+                "glint correction",
+                "HyperSAS",
+                "SeaBASS"
+            ],
+            "description": "Provide hyperspectral in situ support for the PACE mission by processing automated, above-water ocean color radiometry using state-of-the-art methods and protocols for quality assurance, uncertainty estimation/propagation, sky/sunglint correction, convolution to satellite wavebands, and ocean color product retrieval. Data output are formatted to text files for submission to the SeaBASS database and saved as comprehensive HDF5 records with automated processing reports. The package is designed to facilitate rigorous, flexible, and transparent data processing for the ocean color remote sensing community, particularly PIs funded by NASA to submit such radiometric data to SeaBASS. Radiometry processed in HyperInSPACE are used for water optical characterization, ocean color product retrieval algorithm development, and orbital platform validation.",
+            "contact": {
+                "email": "dirk.a.aurin@nasa.gov",
+                "name": "Dirk Aurin",
+                "phone": "",
+                "URL": "https://science.gsfc.nasa.gov/sed/bio/dirk.a.aurin"
+            },
+            "date": {
+                "lastModified": "2021-04-01",
+                "metadataLastUpdated": "2021-04-01",
+                "created": "2021-04-01"
+            },
+            "organization": "GSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "MIT",
+                        "URL": "https://opensource.org/licenses/MIT"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:atmospheric correction",
+                "nlp:water color",
+                "nlp:proving",
+                "nlp:data processing",
+                "nlp:oceanography",
+                "nlp:remote sensing",
+                "nlp:algorithm",
+                "nlp:ocean",
+                "nlp:in situ measurement",
+                "nlp:data base"
+            ],
+            "service_version": "4.1.1",
+            "date_AI_tags": "2021_April_01_at_02_00PM",
+            "local-id": "ef3be4b6-2b5d-44fe-92ee-383da8f0b6f2"
         }
     ]
 }
