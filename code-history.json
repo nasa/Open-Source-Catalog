@@ -5183,5 +5183,78 @@
             "service_version": "",
             "local-id": "12ed0b2b-15cc-4fcf-8ef5-355a8f2e4399"
         }
+    ],
+    "1a02f545-6af8-4d1e-916d-8b50cd82d1e3": [
+        {
+            "repositoryURL": "https://sourceforge.net/projects/gmsec/files/latest/download",
+            "description": "The Goddard Mission Services Evolution Center (GMSEC) program was established in 2001 to coordinate ground and flight data systems development and services at GSFC with the ultimate goal to efficiently support current and future GSFC mission services. The GMSEC architecture is a ground systems architecture that spans the full mission lifecycle from development through operations. The architecture provides a secure, scalable and extensible communications and data system that supports all aspects of a mission from onboard processing through the Mission Operations Center (MOC) to public access on the Internet. The architecture includes an Application Programming Interface (API) and message bus to provide a publish and subscribe communication mechanism. The GMSEC architecture and source code are based on an enterprise architecture approach with a message-oriented cross-platform enterprise middleware (information software bus).",
+            "contributors": [
+                {
+                    "name": "bwiegand",
+                    "email": null,
+                    "github": null
+                },
+                {
+                    "name": "mhandy",
+                    "email": null,
+                    "github": null
+                }
+            ],
+            "tags": [
+                "mission",
+                "support",
+                "GMSEC",
+                "API",
+                "MOC",
+                "ground",
+                "data",
+                "flight",
+                "systems",
+                "middleware"
+            ],
+            "name": "Goddard Mission Services Evolution Center Architecture (GMSEC) API",
+            "languages": [
+                "C++",
+                "C",
+                "Java",
+                "Perl"
+            ],
+            "contact": {
+                "email": "",
+                "name": "bwiegand",
+                "phone": ""
+            },
+            "laborHours": 475120,
+            "date": {
+                "metadataLastUpdated": "2014-05-13"
+            },
+            "organization": "GSFC",
+            "homepageURL": "https://sourceforge.net/projects/gmsec/",
+            "local-id": "1a02f545-6af8-4d1e-916d-8b50cd82d1e3",
+            "permissions": {
+                "licenses": [
+                    {
+                        "URL": "https://opensource.org/licenses/NASA-1.3",
+                        "name": "NASA Open Source"
+                    }
+                ],
+                "usageType": "openSource"
+            },
+            "supplementaryURLs": [],
+            "disclaimerURL": "https://example.com",
+            "sti_keywords_passed_thresholds": [
+                "nlp:data system",
+                "nlp:airborne/spaceborne computer",
+                "nlp:distributed processing",
+                "nlp:information system",
+                "nlp:onboard data processing",
+                "nlp:channels (data transmission)",
+                "nlp:data transmission",
+                "nlp:architecture (computers)",
+                "nlp:data processing"
+            ],
+            "service_version": "4.1.1",
+            "date_AI_tags": "2019_October_03_at_03_00PM"
+        }
     ]
 }
