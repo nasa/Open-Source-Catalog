@@ -1,0 +1,88 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/GMSEC_API/releases/tag/API-4.8-release",
+    "description": "The Goddard Mission Services Evolution Center (GMSEC) program was established in 2001 to coordinate ground data systems development and services at GSFC with the ultimate goal to efficiently support current and future GSFC mission services. The GMSEC architecture is a ground systems architecture that spans the full mission lifecycle from development through operations. The architecture provides a secure, scalable and extensible communications and data system that supports all aspects of a mission from onboard processing through the Mission Operations Center (MOC) to public access on the Internet. The architecture includes an Application Programming Interface (API) and message bus to provide a publish and subscribe communication mechanism. The GMSEC architecture and source code are based on an enterprise architecture approach with a message-oriented cross-platform enterprise middleware (information software bus).",
+    "contributors": [
+      {
+        "name": "bwiegand",
+        "email": null,
+        "github": null
+      },
+      {
+        "name": "mhandy",
+        "email": null,
+        "github": null
+      },
+      {
+        "name": "dwhitney",
+        "email": "david.m.whitney@nasa.gov",
+        "github": "dmwhitne-583"
+      }
+    ],
+    "tags": [
+      "mission",
+      "support",
+      "GMSEC",
+      "API",
+      "MOC",
+      "ground",
+      "data",
+      "systems",
+      "middleware"
+    ],
+    "name": "Goddard Mission Services Evolution Center Architecture (GMSEC) API",
+    "languages": [
+      "Python",
+      "Java",
+      "C++",
+      "C",
+      "Ruby",
+      "C#",
+      "Perl"
+    ],
+    "contact": {
+      "email": "john.l.bugenhagen@nasa.gov",
+      "name": "Jay Bugenhagen",
+      "phone": ""
+    },
+    "laborHours": 475120,
+    "date": {
+      "lastModified": "2020-11-16",
+      "metadataLastUpdated": "2021-05-06",
+      "created": "2007-01-01"
+    },
+    "organization": "GSFC",
+    "homepageURL": "https://github.com/nasa/GMSEC_API",
+    "local-id": "1a02f545-6af8-4d1e-916d-8b50cd82d1e3",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        },
+        {
+          "URL": "N/A"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "supplementaryURLs": [],
+    "disclaimerURL": "https://example.com",
+    "sti_keywords_passed_thresholds": [
+      "nlp:data system",
+      "nlp:airborne/spaceborne computer",
+      "nlp:distributed processing",
+      "nlp:information system",
+      "nlp:onboard data processing",
+      "nlp:channels (data transmission)",
+      "nlp:data transmission",
+      "nlp:architecture (computers)",
+      "nlp:data processing"
+    ],
+    "service_version": "4.1.1",
+    "date_AI_tags": "2019_October_03_at_03_00PM"
+  },
+  "contact_email": "R9yEbYJlGsd7hKt0ZcMyLwdzR8EPOXzMC8FjvQOJGAHW0j0Nq8rWPQ==",
+  "nonce": "vbrTcxrRfx1kzRxaNHYquOF4Bm+5TWTu"
+}
