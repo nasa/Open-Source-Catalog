@@ -71774,7 +71774,7 @@
                 "licenses": [
                     {
                         "URL": "https://github.com/nasa/webgs/blob/master/LICENSE",
-                        "name": "NASA Open Source Agreement"
+                        "name": "NASA Open Source"
                     }
                 ],
                 "usageType": "openSource"
@@ -71835,7 +71835,7 @@
                 "licenses": [
                     {
                         "URL": "https://github.com/nasa/vscode-pvs/blob/master/LICENSE",
-                        "name": "NASA Open Source Agreement"
+                        "name": "NASA Open Source"
                     }
                 ],
                 "usageType": "openSource"
@@ -71888,7 +71888,7 @@
                 "licenses": [
                     {
                         "URL": "https://github.com/nasa/cpr/blob/master/LICENSE",
-                        "name": "NASA Open Source Agreement"
+                        "name": "NASA Open Source"
                     }
                 ],
                 "usageType": "openSource"
