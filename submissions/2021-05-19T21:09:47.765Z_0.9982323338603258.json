@@ -1,0 +1,50 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 123,
+    "languages": [
+      "JavaScript"
+    ],
+    "name": "Test",
+    "contributors": [
+      {
+        "name": "N/A",
+        "email": "N/A",
+        "github": "N/A"
+      }
+    ],
+    "tags": [
+      "a",
+      "a",
+      "a"
+    ],
+    "description": "adsfds",
+    "contact": {
+      "email": "evan.t.yates@nasa.gov",
+      "name": "",
+      "phone": "",
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2021-05-20",
+      "metadataLastUpdated": "2021-05-19",
+      "created": "2021-05-12"
+    },
+    "organization": "JPL",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "CC0",
+          "URL": "https://creativecommons.org/publicdomain/zero/1.0"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "XRqgqIgPTX8kCZpTXHd0gZR4zRH3//voPwB3/bEeBipYJr2E3A==",
+  "nonce": "X0SMjpjLiZ7P9ITMYzjAwteJ0p1/mMoZ"
+}
