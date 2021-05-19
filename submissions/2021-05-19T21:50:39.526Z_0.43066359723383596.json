@@ -1,0 +1,50 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 123,
+    "languages": [
+      "Python"
+    ],
+    "name": "Test",
+    "contributors": [
+      {
+        "name": "N/A",
+        "email": "N/A",
+        "github": "N/A"
+      }
+    ],
+    "tags": [
+      "adf",
+      "dfas",
+      "d"
+    ],
+    "description": "adsf",
+    "contact": {
+      "email": "evan.t.yates@nasa.gov",
+      "name": "",
+      "phone": "",
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2021-05-06",
+      "metadataLastUpdated": "2021-05-19",
+      "created": "2021-05-05"
+    },
+    "organization": "AFRC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "URL": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "Z+3k7zvhCIGNqX8bGy8UFJEc0/PeQFCBuqOC+eynWDzLq2l8Wg==",
+  "nonce": "p69VzU8CjnFpvIoCXy1XfHV0OY4WyhJj"
+}
