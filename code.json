@@ -71770,11 +71770,12 @@
             "permissions": {
                 "licenses": [
                     {
-                        "URL": "https://github.com/nasa/webgs/blob/master/LICENSE",
-                        "name": "NASA Open Source Agreement"
+                        "name": "NASA Open Source Agreement",
+                        "URL": "https://github.com/nasa/webgs/blob/master/LICENSE"
                     }
                 ],
-                "usageType": "openSource"
+                "usageType": "openSource",
+                "exemptionText": null
             },
             "tags": [
                 "Ground Control Station",
@@ -71782,9 +71783,9 @@
                 "ICAROUS"
             ],
             "date": {
-                "created": "2018-12-31",
-                "lastModified": "2019-09-01",
-                "metadataLastUpdated": "YYYY-MM-DD"
+                "lastModified": "2019-10-01",
+                "metadataLastUpdated": "2021-06-11",
+                "created": "2019-01-31"
             },
             "contact": {
                 "email": "larc-sra@mail.nasa.gov"
@@ -71811,19 +71812,18 @@
                     "email": "cesar.a.munoz@nasa.gov"
                 }
             ],
-            "organization": "NASA Langley Research Center",
+            "organization": "LaRC",
             "repositoryURL": "https://github.com/nasa/webgs",
             "externalURL": "https://shemesh.larc.nasa.gov/fm/WebGS/",
             "sti_keywords_passed_thresholds": [],
-            "laborHours": 0,
+            "laborHours": 1,
             "languages": [
-                "typescript",
-                "javascript",
-                "java",
-                "html",
-                "c/c++"
+                "C++"
             ],
-            "local-id": "ec80d7f0-ec73-11ea-8066-0050568333ce"
+            "local-id": "ec80d7f0-ec73-11ea-8066-0050568333ce",
+            "downloadURL": "https://github.com/nasa/GMSEC_API/releases/tag/API-4.8-release",
+            "service_version": "4.1.1",
+            "date_AI_tags": "2021_June_11_at_07_26AM"
         },
         {
             "name": "VSCode-PVS",
