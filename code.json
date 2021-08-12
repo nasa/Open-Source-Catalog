@@ -72447,6 +72447,9 @@
                 "concepts",
                 "keywords",
                 "python",
+                "topic",
+                "keyword",
+                "tag",
                 "topic"
             ],
             "description": "Contains code for training NLP models that takes in text and predicts concepts & keywords from a list of 8000 standardized NASA keywords. Built to be trained on 3 million NASA STI text documents that is mostly abstracts but could take any text for training once put in same format. Predicts work best on text greater than 20 words and less than 2000 words. Code for the API that uses models trained by this repo is in `concept-tagging-api` repository.",
@@ -72457,9 +72460,9 @@
                 "URL": ""
             },
             "date": {
-                "lastModified": "2020-09-01",
-                "metadataLastUpdated": "2020-09-02",
-                "created": "2020-07-01"
+                "lastModified": "2020-10-01",
+                "metadataLastUpdated": "2021-08-12",
+                "created": "2020-08-01"
             },
             "organization": "HQ",
             "permissions": {
@@ -72474,18 +72477,18 @@
             },
             "sti_keywords_passed_thresholds": [
                 "nlp:computation",
-                "nlp:linguistic",
-                "nlp:natural language processing",
-                "nlp:mathematical model",
-                "nlp:computerized simulation",
+                "nlp:symbol",
                 "nlp:error correcting code",
-                "nlp:education",
+                "nlp:computerized simulation",
                 "nlp:words (language)",
+                "nlp:education",
+                "nlp:linguistic",
+                "nlp:mathematical model",
                 "nlp:model",
-                "nlp:symbol"
+                "nlp:natural language processing"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2020_September_10_at_08_35AM",
+            "date_AI_tags": "2021_August_12_at_11_56AM",
             "local-id": "cc40a054-9052-4f83-85a7-d22a434b59d5"
         },
         {

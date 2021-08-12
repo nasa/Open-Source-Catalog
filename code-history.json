@@ -5319,5 +5319,84 @@
             "service_version": "4.1.1",
             "date_AI_tags": "2021_June_11_at_07_26AM"
         }
+    ],
+    "cc40a054-9052-4f83-85a7-d22a434b59d5": [
+        {
+            "repositoryURL": "https://github.com/nasa/concept-tagging-training",
+            "homepageURL": "https://github.com/nasa/concept-tagging-training",
+            "downloadURL": "https://github.com/nasa/concept-tagging-training/archive/master.zip",
+            "disclaimerURL": "https://raw.githubusercontent.com/nasa/concept-tagging-training/master/LICENSE",
+            "laborHours": 2080,
+            "languages": [
+                "Python"
+            ],
+            "name": "concept-tagging-training",
+            "contributors": [
+                {
+                    "name": "N/A",
+                    "email": "N/A",
+                    "github": "abuonomo"
+                },
+                {
+                    "name": "JustinGOSSES",
+                    "email": "justin.c.gosses@nasa.gov",
+                    "github": "N/A"
+                }
+            ],
+            "tags": [
+                "usg-artificial-intelligence",
+                "nlp",
+                "natural-language-processing",
+                "training",
+                "model-training",
+                "machine-learning",
+                "text",
+                "concepts",
+                "keywords",
+                "python",
+                "topic",
+                "keyword",
+                "tag",
+                "topic"
+            ],
+            "description": "Contains code for training NLP models that takes in text and predicts concepts & keywords from a list of 8000 standardized NASA keywords. Built to be trained on 3 million NASA STI text documents that is mostly abstracts but could take any text for training once put in same format. Predicts work best on text greater than 20 words and less than 2000 words. Code for the API that uses models trained by this repo is in `concept-tagging-api` repository.",
+            "contact": {
+                "email": "brian.a.thomas@nasa.gov",
+                "name": "",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2020-10-01",
+                "metadataLastUpdated": "2021-08-12",
+                "created": "2020-08-01"
+            },
+            "organization": "HQ",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "MIT",
+                        "URL": "https://opensource.org/licenses/MIT"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:computation",
+                "nlp:symbol",
+                "nlp:error correcting code",
+                "nlp:computerized simulation",
+                "nlp:words (language)",
+                "nlp:education",
+                "nlp:linguistic",
+                "nlp:mathematical model",
+                "nlp:model",
+                "nlp:natural language processing"
+            ],
+            "service_version": "4.1.1",
+            "date_AI_tags": "2021_August_12_at_11_56AM",
+            "local-id": "cc40a054-9052-4f83-85a7-d22a434b59d5"
+        }
     ]
 }
