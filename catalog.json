@@ -18544,6 +18544,59 @@
         "External Link": "https://github.com/nasa/zarr-eosdis-store"
     },
     {
+        "Update_Date": "2021-08-06",
+        "Description": "Software tool to build deep learning microscopy segmentation models with less training data. Leverages transfer learning from classification models trained on a large (>100,000 images) dataset of microscopy images.",
+        "Public Code Repo": "https://github.com/nasa/microscopy-segmentation-models",
+        "NASA Center": "GRC",
+        "Contributors": [
+            "Joshua Stuckner"
+        ],
+        "Labor_Hours": 1000,
+        "Categories": [
+            "usg-artificial-intelligence",
+            "segmentation",
+            "machine learning",
+            "deep learning",
+            "microscopy analysis",
+            "image analysis",
+            "transfer learning",
+            "pretraining"
+        ],
+        "Categories_NLP": [],
+        "Languages": ["Python"],
+        "Software": "microscopy-segmentation-models",
+        "License": [
+            "MIT"
+        ],
+        "External Link": ""
+    },
+        {
+        "Update_Date": "2021-08-06",
+        "Description": "Code to perform optimal experimental design using neural network surrogates.",
+        "Public Code Repo": "https://github.com/nasa/OED-with-NN-surrogates",
+        "NASA Center": "GRC",
+        "Contributors": [
+            "Joshua Stuckner",
+            "Matt Piekenbrock"
+        ],
+        "Labor_Hours": 1200,
+        "Categories": [
+            "usg-artificial-intelligence",
+            "optimal experimental design",
+            "machine learning",
+            "composite modeling",
+            "surrogate modeling",
+            "optimization"
+        ],
+        "Categories_NLP": [],
+        "Languages": ["R", "C++"],
+        "Software": "OED-with-NN-surrogates",
+        "License": [
+            "MIT"
+        ],
+        "External Link": ""
+    },
+    {
         "Update_Date": "2019-10-03",
         "Description": "dsafdasfsadf",
         "Public Code Repo": "www.google.com",
