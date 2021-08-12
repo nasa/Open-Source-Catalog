@@ -72528,7 +72528,8 @@
                 "natural-language-processing",
                 "concept",
                 "flask",
-                "docker"
+                "docker",
+                "tag"
             ],
             "description": "Contains code for the API that takes in text and predicts concepts & keywords from a list of standardized NASA keywords. API is for exposing models created with the repository `concept-tagging-training`. An API for exposing models created with concept-tagging-training code project. This project was written about here for the Federal Data Strategy Incubator Project. https://strategy.data.gov/proof-points/2019/05/28/improving-data-access-and-data-management-artificial-intelligence-generated-metadata-tags-at-nasa/",
             "contact": {
@@ -72538,9 +72539,9 @@
                 "URL": ""
             },
             "date": {
-                "lastModified": "2020-09-01",
-                "metadataLastUpdated": "2020-09-02",
-                "created": "2018-06-01"
+                "lastModified": "2020-10-01",
+                "metadataLastUpdated": "2021-08-12",
+                "created": "2018-07-01"
             },
             "organization": "HQ",
             "permissions": {
@@ -72554,19 +72555,19 @@
                 "exemptionText": null
             },
             "sti_keywords_passed_thresholds": [
-                "nlp:computation",
-                "nlp:project management",
-                "nlp:data structure",
-                "nlp:mathematical model",
                 "nlp:computerized simulation",
-                "nlp:error correcting code",
-                "nlp:education",
+                "nlp:data structure",
                 "nlp:model",
+                "nlp:education",
+                "nlp:computation",
                 "nlp:symbol",
+                "nlp:error correcting code",
+                "nlp:mathematical model",
+                "nlp:project management",
                 "nlp:computer assisted instruction"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2020_September_10_at_08_35AM",
+            "date_AI_tags": "2021_August_12_at_03_50PM",
             "local-id": "858d60c3-a598-4035-b3d4-cc6c0c7db9e4"
         },
         {
