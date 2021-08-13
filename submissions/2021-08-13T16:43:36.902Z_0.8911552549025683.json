@@ -1,0 +1,83 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/concept-tagging-api",
+    "homepageURL": "https://github.com/nasa/concept-tagging-api",
+    "downloadURL": "https://github.com/nasa/concept-tagging-api/archive/master.zip",
+    "disclaimerURL": "https://raw.githubusercontent.com/nasa/concept-tagging-api/master/LICENSE",
+    "laborHours": 500,
+    "languages": [
+      "JavaScript",
+      "Python",
+      "HTML",
+      "CSS"
+    ],
+    "name": "concept-tagging-api",
+    "contributors": [
+      {
+        "name": "Justin Gosses",
+        "email": "justin.c.gosses@nasa.gov",
+        "github": "JustinGOSSES"
+      },
+      {
+        "name": "Anthony Buonomo",
+        "email": "arb246@georgetown.edu",
+        "github": "abuonomo"
+      }
+    ],
+    "tags": [
+      "usg-artificial-intelligence",
+      "nlp",
+      "machine-learning",
+      "text",
+      "api",
+      "model",
+      "keyword",
+      "prediction",
+      "natural-language-processing",
+      "concept",
+      "flask",
+      "docker",
+      "test_b_20210813"
+    ],
+    "description": "Contains code for the API that takes in text and predicts concepts & keywords from a list of standardized NASA keywords. API is for exposing models created with the repository `concept-tagging-training`. An API for exposing models created with concept-tagging-training code project. This project was written about here for the Federal Data Strategy Incubator Project. https://strategy.data.gov/proof-points/2019/05/28/improving-data-access-and-data-management-artificial-intelligence-generated-metadata-tags-at-nasa/",
+    "contact": {
+      "email": "brian.a.thomas@nasa.gov",
+      "name": "Brian Thomas",
+      "phone": "",
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2020-10-01",
+      "metadataLastUpdated": "2021-08-13",
+      "created": "2018-07-01"
+    },
+    "organization": "HQ",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "MIT",
+          "URL": "https://opensource.org/licenses/MIT"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "sti_keywords_passed_thresholds": [
+      "nlp:computation",
+      "nlp:project management",
+      "nlp:data structure",
+      "nlp:mathematical model",
+      "nlp:computerized simulation",
+      "nlp:error correcting code",
+      "nlp:education",
+      "nlp:model",
+      "nlp:symbol",
+      "nlp:computer assisted instruction"
+    ],
+    "service_version": "4.1.1",
+    "date_AI_tags": "2020_September_10_at_08_35AM",
+    "local-id": "858d60c3-a598-4035-b3d4-cc6c0c7db9e4"
+  },
+  "contact_email": "hSLiq/8AnJXZbRmzWvsPQM7PLagPmiJ1e+diO2AUWQhXU4oy/n9LAg==",
+  "nonce": "FNdRWpqNx3NJgt//6XiPuBW4dI9DXRhD"
+}
