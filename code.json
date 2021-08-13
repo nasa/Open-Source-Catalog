@@ -72529,7 +72529,7 @@
                 "concept",
                 "flask",
                 "docker",
-                "test_f_20210813"
+                "test-g-20210813"
             ],
             "description": "Contains code for the API that takes in text and predicts concepts & keywords from a list of standardized NASA keywords. API is for exposing models created with the repository `concept-tagging-training`. An API for exposing models created with concept-tagging-training code project. This project was written about here for the Federal Data Strategy Incubator Project. https://strategy.data.gov/proof-points/2019/05/28/improving-data-access-and-data-management-artificial-intelligence-generated-metadata-tags-at-nasa/",
             "contact": {
@@ -72555,19 +72555,19 @@
                 "exemptionText": null
             },
             "sti_keywords_passed_thresholds": [
-                "nlp:model",
-                "nlp:symbol",
+                "nlp:education",
+                "nlp:project management",
                 "nlp:error correcting code",
-                "nlp:mathematical model",
+                "nlp:symbol",
                 "nlp:computerized simulation",
+                "nlp:computer assisted instruction",
                 "nlp:data structure",
                 "nlp:computation",
-                "nlp:education",
-                "nlp:computer assisted instruction",
-                "nlp:project management"
+                "nlp:model",
+                "nlp:mathematical model"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2021_August_13_at_01_06PM",
+            "date_AI_tags": "2021_August_13_at_01_12PM",
             "local-id": "858d60c3-a598-4035-b3d4-cc6c0c7db9e4"
         },
         {
