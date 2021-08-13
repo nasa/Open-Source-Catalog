@@ -72450,8 +72450,7 @@
                 "topic",
                 "keyword",
                 "tag",
-                "topic",
-                "test-a"
+                "topic"
             ],
             "description": "Contains code for training NLP models that takes in text and predicts concepts & keywords from a list of 8000 standardized NASA keywords. Built to be trained on 3 million NASA STI text documents that is mostly abstracts but could take any text for training once put in same format. Predicts work best on text greater than 20 words and less than 2000 words. Code for the API that uses models trained by this repo is in `concept-tagging-api` repository.",
             "contact": {
@@ -72461,9 +72460,9 @@
                 "URL": ""
             },
             "date": {
-                "lastModified": "2020-11-01",
+                "lastModified": "2020-12-01",
                 "metadataLastUpdated": "2021-08-13",
-                "created": "2020-09-01"
+                "created": "2020-10-01"
             },
             "organization": "HQ",
             "permissions": {
@@ -72477,19 +72476,19 @@
                 "exemptionText": null
             },
             "sti_keywords_passed_thresholds": [
-                "nlp:education",
-                "nlp:words (language)",
-                "nlp:symbol",
-                "nlp:mathematical model",
-                "nlp:computerized simulation",
-                "nlp:error correcting code",
-                "nlp:computation",
                 "nlp:model",
+                "nlp:mathematical model",
                 "nlp:natural language processing",
-                "nlp:linguistic"
+                "nlp:computation",
+                "nlp:linguistic",
+                "nlp:symbol",
+                "nlp:error correcting code",
+                "nlp:words (language)",
+                "nlp:education",
+                "nlp:computerized simulation"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2021_August_13_at_03_34PM",
+            "date_AI_tags": "2021_August_13_at_03_45PM",
             "local-id": "cc40a054-9052-4f83-85a7-d22a434b59d5"
         },
         {
