@@ -73067,6 +73067,74 @@
             "service_version": "4.1.1",
             "date_AI_tags": "2021_April_01_at_02_00PM",
             "local-id": "ef3be4b6-2b5d-44fe-92ee-383da8f0b6f2"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/legacy-mars-global-climate-model",
+            "homepageURL": "https://www.nasa.gov/mars-climate-modeling-center-ames",
+            "downloadURL": "",
+            "disclaimerURL": "https://github.com/nasa/legacy-mars-global-climate-model/blob/main/README.md",
+            "laborHours": 80000,
+            "languages": [
+                "Markdown",
+                "Fortran",
+                "IDL"
+            ],
+            "name": "legacy-mars-global-climate-model",
+            "contributors": [
+                {
+                    "name": "Richard Urata",
+                    "email": "richard.a.urata@nasa.gov",
+                    "github": "rurata"
+                }
+            ],
+            "tags": [
+                "Mars",
+                "atmosphere",
+                "global climate model",
+                "dust",
+                "microphysics",
+                "Ames",
+                "clouds",
+                "GCM"
+            ],
+            "description": "We present the NASA Ames Legacy Mars Global Climate Model for public release. This model uses a modified version of the ARIES/GEOS dynamical core coupled with a set of Mars physics packages to simulate the martian climate. The physics packages include the treatment of surface properties, a ground temperature model, a planetary boundary layer scheme, water and carbon dioxide sublimation/condensation physics, a water ice cloud microphysical scheme, the use of a moment method for tracer transport, a semi-interactive dust tracking scheme, and a two-stream radiative transfer code based on correlated-k\u2019s.",
+            "contact": {
+                "email": "melinda.a.kahre@nasa.gov",
+                "name": "Melinda Kahre",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2021-09-10",
+                "metadataLastUpdated": "2021-09-10",
+                "created": "1993-02-25"
+            },
+            "organization": "ARC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "NASA Open Source",
+                        "URL": "https://opensource.org/licenses/NASA-1.3"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:carbon dioxide",
+                "nlp:ice",
+                "nlp:cosmic dust",
+                "nlp:numerical analysi",
+                "nlp:water",
+                "nlp:mathematical model",
+                "nlp:surface temperature",
+                "nlp:model",
+                "nlp:dust",
+                "nlp:radiative transfer"
+            ],
+            "service_version": "4.1.1",
+            "date_AI_tags": "2021_September_10_at_01_45PM",
+            "local-id": "2797e6f0-a8a0-4f32-b743-7fbc9764fb38"
         }
     ]
 }
