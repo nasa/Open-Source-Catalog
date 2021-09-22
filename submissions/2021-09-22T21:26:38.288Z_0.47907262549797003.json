@@ -1,0 +1,72 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/earth-imagery-api",
+    "homepageURL": "https://github.com/nasa/earth-imagery-api",
+    "downloadURL": "https://github.com/nasa/earth-imagery-api/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/nasa/earth-imagery-api/blob/main/README.md",
+    "laborHours": 200,
+    "languages": [
+      "JavaScript",
+      "Python",
+      "HTML",
+      "CSS",
+      "Markdown"
+    ],
+    "name": "earth-imagery-api",
+    "contributors": [
+      {
+        "name": "Justin Gosses",
+        "email": "N/A",
+        "github": "JustinGOSSES"
+      },
+      {
+        "name": "N/A",
+        "email": "N/A",
+        "github": "jnbetancourt"
+      },
+      {
+        "name": "N/A",
+        "email": "N/A",
+        "github": "jasonduley"
+      }
+    ],
+    "tags": [
+      "earth",
+      "earth-imagery",
+      "earth-observation",
+      "landsat",
+      "flask",
+      "python",
+      "api",
+      "google-earth-engine",
+      "gee",
+      "beginner-friendly",
+      "start"
+    ],
+    "description": "The code repository for earth-imagery-api on https://api.nasa.gov/ . This repository contains a flask API that provides satellite imagery. It is designed to be very simple and easy to use with minimal functionality and is provided to the public through api.nasa.gov. It focuses on one Earth imagery product, Landsat 8 for those new to coding and API calls.",
+    "contact": {
+      "email": "nasa-data@lists.arc.nasa.gov",
+      "name": "NASA Office of Chief Information Officer Open Innovation Program Staff",
+      "phone": "",
+      "URL": "https://api.nasa.gov"
+    },
+    "date": {
+      "lastModified": "2021-09-01",
+      "metadataLastUpdated": "2021-09-22",
+      "created": "2013-01-01"
+    },
+    "organization": "JSC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "URL": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "4rcCrUhaoR0D/zrvZBlYhI2qXAyO5xNfCcd4x2kKVDuu0QGgWafBCg==",
+  "nonce": "cFYbW+AI4yhYvOOq/uQrBBxTv/pw0iRJ"
+}
