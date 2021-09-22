@@ -73178,7 +73178,8 @@
                 "google-earth-engine",
                 "gee",
                 "beginner-friendly",
-                "start"
+                "start",
+                "satellite"
             ],
             "description": "The code repository for earth-imagery-api on https://api.nasa.gov/ . This repository contains a flask API that provides satellite imagery. It is designed to be very simple and easy to use with minimal functionality and is provided to the public through api.nasa.gov. It focuses on one Earth imagery product, Landsat 8 for those new to coding and API calls.",
             "contact": {
@@ -73188,9 +73189,9 @@
                 "URL": "https://api.nasa.gov"
             },
             "date": {
-                "lastModified": "2021-09-01",
+                "lastModified": "2021-10-01",
                 "metadataLastUpdated": "2021-09-22",
-                "created": "2013-01-01"
+                "created": "2013-02-01"
             },
             "organization": "JSC",
             "permissions": {
@@ -73204,19 +73205,19 @@
                 "exemptionText": null
             },
             "sti_keywords_passed_thresholds": [
+                "nlp:satellite observation",
+                "nlp:meteorological satellite",
+                "nlp:satellite-borne photography",
+                "nlp:satellite imagery",
+                "nlp:landsat satellite",
+                "nlp:infrared imagery",
                 "nlp:earth (planet)",
                 "nlp:imagery",
                 "nlp:earth surface",
-                "nlp:landsat satellite",
-                "nlp:synchronous satellite",
-                "nlp:satellite observation",
-                "nlp:satellite imagery",
-                "nlp:meteorological satellite",
-                "nlp:infrared imagery",
-                "nlp:satellite-borne photography"
+                "nlp:synchronous satellite"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2021_September_22_at_02_30PM",
+            "date_AI_tags": "2021_September_22_at_04_45PM",
             "local-id": "44099303-a14f-4a80-8cf1-f7623ef69a6b"
         }
     ]
