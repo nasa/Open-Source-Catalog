@@ -73181,7 +73181,7 @@
                 "start",
                 "satellite"
             ],
-            "description": "The code repository for earth-imagery-api on https://api.nasa.gov/ . This repository contains a flask API that provides satellite imagery. It is designed to be very simple and easy to use with minimal functionality and is provided to the public through api.nasa.gov. It focuses on one Earth imagery product, Landsat 8 for those new to coding and API calls.",
+            "description": "The code repository for earth-imagery-api on https://api.nasa.gov/ . This repository contains a Flask API that provides satellite imagery. It is designed to be very simple and easy to use with minimal functionality and is provided to the public through api.nasa.gov. It focuses on one Earth imagery product, Landsat 8 for those new to coding and API calls.",
             "contact": {
                 "email": "nasa-data@lists.arc.nasa.gov",
                 "name": "NASA Office of Chief Information Officer Open Innovation Program Staff",
@@ -73189,9 +73189,9 @@
                 "URL": "https://api.nasa.gov"
             },
             "date": {
-                "lastModified": "2021-10-01",
-                "metadataLastUpdated": "2021-09-22",
-                "created": "2013-02-01"
+                "lastModified": "2021-11-01",
+                "metadataLastUpdated": "2021-09-23",
+                "created": "2013-03-01"
             },
             "organization": "JSC",
             "permissions": {
@@ -73205,19 +73205,19 @@
                 "exemptionText": null
             },
             "sti_keywords_passed_thresholds": [
-                "nlp:satellite observation",
-                "nlp:meteorological satellite",
-                "nlp:satellite-borne photography",
-                "nlp:satellite imagery",
-                "nlp:landsat satellite",
                 "nlp:infrared imagery",
+                "nlp:synchronous satellite",
                 "nlp:earth (planet)",
-                "nlp:imagery",
+                "nlp:satellite observation",
                 "nlp:earth surface",
-                "nlp:synchronous satellite"
+                "nlp:satellite imagery",
+                "nlp:imagery",
+                "nlp:landsat satellite",
+                "nlp:satellite-borne photography",
+                "nlp:meteorological satellite"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2021_September_22_at_04_45PM",
+            "date_AI_tags": "2021_September_23_at_02_30PM",
             "local-id": "44099303-a14f-4a80-8cf1-f7623ef69a6b"
         },
         {
