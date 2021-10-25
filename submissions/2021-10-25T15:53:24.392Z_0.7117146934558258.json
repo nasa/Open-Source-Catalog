@@ -1,0 +1,52 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/1d-pinn-reconstruction",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 400,
+    "languages": [
+      "Python"
+    ],
+    "name": "1D PINN Reconstruction",
+    "contributors": [
+      {
+        "name": "Chris Bard",
+        "email": "christopher.bard@nasa.gov",
+        "github": "heliobard"
+      }
+    ],
+    "tags": [
+      "usg-artificial-intelligence",
+      "Physics Informed Neural Network",
+      "PINN",
+      "reconstruction",
+      "MHD"
+    ],
+    "description": "This is the code for \"Neural Network Reconstruction of Plasma Space-Time\" by C. Bard and J. Dorelli (DOI: 10.3389/fspas.2021.732275). It is a Physics-Informed Transformer Neural Network which was used to reconstruct one-dimensional (M)HD shocktubes from partial samples. Includes source code, data, and jupyter notebooks for scientific reproduction.",
+    "contact": {
+      "email": "christopher.bard@nasa.gov",
+      "name": "Chris Bard",
+      "phone": "",
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2021-10-06",
+      "metadataLastUpdated": "2021-10-25",
+      "created": "2021-10-06"
+    },
+    "organization": "GSFC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "o8OTlvSNUn0g2984HVHtV9esxkyVuEmys9Y+OMYuzG3mAKRJNe0oPgI=",
+  "nonce": "SS/hNK76ShtqEnZksAlXfzZ98ZS/HOd/"
+}
