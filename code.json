@@ -43614,7 +43614,8 @@
                 "NASA",
                 "APOD",
                 "astronomy",
-                "photos"
+                "photos",
+                "starter"
             ],
             "contact": {
                 "email": "jennifer.n.betancourt@nasa.gov",
@@ -43623,9 +43624,9 @@
             },
             "laborHours": 320,
             "date": {
-                "lastModified": "2020-07-06",
-                "metadataLastUpdated": "2020-08-04",
-                "created": "2016-01-01"
+                "lastModified": "2020-08-06",
+                "metadataLastUpdated": "2021-10-29",
+                "created": "2016-02-01"
             },
             "organization": "HQ",
             "permissions": {
@@ -43649,892 +43650,19 @@
             ],
             "disclaimerURL": "https://github.com/nasa/apod-api/blob/master/LICENSE",
             "sti_keywords_passed_thresholds": [
-                "query language",
-                "computation",
-                "telecommunication",
-                "graphs (charts)",
-                "world wide web",
-                "information retrieval",
-                "gates (circuits)",
-                "computerized simulation",
-                "operators (mathematics)",
-                "java (programming language)"
+                "nlp:world wide web",
+                "nlp:operators (mathematics)",
+                "nlp:computerized simulation",
+                "nlp:graphs (charts)",
+                "nlp:computation",
+                "nlp:telecommunication",
+                "nlp:gates (circuits)",
+                "nlp:information retrieval",
+                "nlp:java (programming language)",
+                "nlp:query language"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2019_October_03_at_02_40PM",
-            "results": {
-                "code": 200,
-                "interface_version": "2.0.0",
-                "messages": [],
-                "payload": {
-                    "features": {
-                        "a microservice": "NOUN_CHUNK",
-                        "api": "NOUN",
-                        "app": "PROPN",
-                        "astronomy": "PROPN",
-                        "astronomy picture": "NOUN_CHUNK",
-                        "aws": "PROPN",
-                        "day": "PROPN",
-                        "day api service": "NOUN_CHUNK",
-                        "engine": "PROPN",
-                        "flask": "PROPN",
-                        "flask micro framework": "NOUN_CHUNK",
-                        "framework": "NOUN",
-                        "google": "PROPN",
-                        "google app engine": "NOUN_CHUNK",
-                        "microservice": "NOUN",
-                        "picture": "PROPN",
-                        "python": "PROPN",
-                        "service": "NOUN"
-                    },
-                    "pmc_keywords": {
-                        "taxonomi": {
-                            "likelihood": 1.0,
-                            "unstemmed": "taxonomy"
-                        }
-                    },
-                    "probability_threshold": 0.2,
-                    "request_id": "1",
-                    "sti_keywords": [
-                        {
-                            "keyword": "query language",
-                            "probability": 0.41729430362936065,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "QUERY LANGUAGES"
-                        },
-                        {
-                            "keyword": "computation",
-                            "probability": 0.39577263893780457,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COMPUTATION"
-                        },
-                        {
-                            "keyword": "telecommunication",
-                            "probability": 0.3879401439782657,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "TELECOMMUNICATION"
-                        },
-                        {
-                            "keyword": "graphs (charts)",
-                            "probability": 0.36889697741345817,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "GRAPHS (CHARTS)"
-                        },
-                        {
-                            "keyword": "world wide web",
-                            "probability": 0.3638282011333776,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "WORLD WIDE WEB"
-                        },
-                        {
-                            "keyword": "information retrieval",
-                            "probability": 0.361748529931072,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "INFORMATION RETRIEVAL"
-                        },
-                        {
-                            "keyword": "gates (circuits)",
-                            "probability": 0.3604585340286279,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "GATES (CIRCUITS)"
-                        },
-                        {
-                            "keyword": "computerized simulation",
-                            "probability": 0.360141359188185,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COMPUTERIZED SIMULATION"
-                        },
-                        {
-                            "keyword": "operators (mathematics)",
-                            "probability": 0.3533461043693125,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "OPERATORS (MATHEMATICS)"
-                        },
-                        {
-                            "keyword": "java (programming language)",
-                            "probability": 0.33933076641709203,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "JAVA (PROGRAMMING LANGUAGE)"
-                        },
-                        {
-                            "keyword": "message processing",
-                            "probability": 0.3261808192644817,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "MESSAGE PROCESSING"
-                        },
-                        {
-                            "keyword": "policy",
-                            "probability": 0.323548761204606,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "POLICIES"
-                        },
-                        {
-                            "keyword": "packet switching",
-                            "probability": 0.31086614755219544,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "PACKET SWITCHING"
-                        },
-                        {
-                            "keyword": "queueing theory",
-                            "probability": 0.30849045575984335,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "QUEUEING THEORY"
-                        },
-                        {
-                            "keyword": "protocol (computers)",
-                            "probability": 0.30749491434875,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "PROTOCOL (COMPUTERS)"
-                        },
-                        {
-                            "keyword": "hardware description language",
-                            "probability": 0.29944031332899534,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "HARDWARE DESCRIPTION LANGUAGES"
-                        },
-                        {
-                            "keyword": "standard",
-                            "probability": 0.2931013210619223,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "STANDARDS"
-                        },
-                        {
-                            "keyword": "semantic",
-                            "probability": 0.2922325071792869,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "SEMANTICS"
-                        },
-                        {
-                            "keyword": "traffic",
-                            "probability": 0.28642576958839094,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "TRAFFIC"
-                        },
-                        {
-                            "keyword": "bandwidth",
-                            "probability": 0.2803635328064991,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "BANDWIDTH"
-                        },
-                        {
-                            "keyword": "computer information security",
-                            "probability": 0.27874785702206384,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COMPUTER INFORMATION SECURITY"
-                        },
-                        {
-                            "keyword": "management information system",
-                            "probability": 0.2767720487547797,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "MANAGEMENT INFORMATION SYSTEMS"
-                        },
-                        {
-                            "keyword": "industrial management",
-                            "probability": 0.2763288413266969,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "INDUSTRIAL MANAGEMENT"
-                        },
-                        {
-                            "keyword": "probability theory",
-                            "probability": 0.2754255395377992,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "PROBABILITY THEORY"
-                        },
-                        {
-                            "keyword": "communication",
-                            "probability": 0.27535480403183893,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COMMUNICATION"
-                        },
-                        {
-                            "keyword": "grammar",
-                            "probability": 0.2736766618641695,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "GRAMMARS"
-                        },
-                        {
-                            "keyword": "data transmission",
-                            "probability": 0.2722870685932999,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "DATA TRANSMISSION"
-                        },
-                        {
-                            "keyword": "human-computer interface",
-                            "probability": 0.2698647250643263,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "HUMAN-COMPUTER INTERFACE"
-                        },
-                        {
-                            "keyword": "hydroelectricity",
-                            "probability": 0.2678026451252101,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "HYDROELECTRICITY"
-                        },
-                        {
-                            "keyword": "logic programming",
-                            "probability": 0.2644048526854018,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "LOGIC PROGRAMMING"
-                        },
-                        {
-                            "keyword": "packets (communication)",
-                            "probability": 0.26348656704481516,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "PACKETS (COMMUNICATION)"
-                        },
-                        {
-                            "keyword": "personal computer",
-                            "probability": 0.2624313973622974,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "PERSONAL COMPUTERS"
-                        },
-                        {
-                            "keyword": "elastic propertie",
-                            "probability": 0.26051642599475533,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "ELASTIC PROPERTIES"
-                        },
-                        {
-                            "keyword": "economic",
-                            "probability": 0.25930216960059943,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "ECONOMICS"
-                        },
-                        {
-                            "keyword": "color",
-                            "probability": 0.25917424432990444,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COLOR"
-                        },
-                        {
-                            "keyword": "research and development",
-                            "probability": 0.2589293177873174,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "RESEARCH AND DEVELOPMENT"
-                        },
-                        {
-                            "keyword": "probability density function",
-                            "probability": 0.2582376566657394,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "PROBABILITY DENSITY FUNCTIONS"
-                        },
-                        {
-                            "keyword": "image processing",
-                            "probability": 0.25751208052382485,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "IMAGE PROCESSING"
-                        },
-                        {
-                            "keyword": "quantum mechanic",
-                            "probability": 0.2574960915971608,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "QUANTUM MECHANICS"
-                        },
-                        {
-                            "keyword": "multimedia",
-                            "probability": 0.25717499876374245,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "MULTIMEDIA"
-                        },
-                        {
-                            "keyword": "data retrieval",
-                            "probability": 0.2553666853648331,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "DATA RETRIEVAL"
-                        },
-                        {
-                            "keyword": "information management",
-                            "probability": 0.2541321388659631,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "INFORMATION MANAGEMENT"
-                        },
-                        {
-                            "keyword": "information system",
-                            "probability": 0.25252488340019774,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "INFORMATION SYSTEMS"
-                        },
-                        {
-                            "keyword": "coding",
-                            "probability": 0.25237897532199255,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CODING"
-                        },
-                        {
-                            "keyword": "industry",
-                            "probability": 0.2516979119383729,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "INDUSTRIES"
-                        },
-                        {
-                            "keyword": "language",
-                            "probability": 0.25159202048650325,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "LANGUAGES"
-                        },
-                        {
-                            "keyword": "character recognition",
-                            "probability": 0.24671373161985904,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CHARACTER RECOGNITION"
-                        },
-                        {
-                            "keyword": "interoperability",
-                            "probability": 0.24513712619883668,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "INTEROPERABILITY"
-                        },
-                        {
-                            "keyword": "boolean algebra",
-                            "probability": 0.24443699039675432,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "BOOLEAN ALGEBRA"
-                        },
-                        {
-                            "keyword": "warning system",
-                            "probability": 0.24420031279229124,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "WARNING SYSTEMS"
-                        },
-                        {
-                            "keyword": "natural language processing",
-                            "probability": 0.24054738476406792,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "NATURAL LANGUAGE PROCESSING"
-                        },
-                        {
-                            "keyword": "warfare",
-                            "probability": 0.24003688410273244,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "WARFARE"
-                        },
-                        {
-                            "keyword": "classification",
-                            "probability": 0.2400218372539408,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CLASSIFICATIONS"
-                        },
-                        {
-                            "keyword": "data link",
-                            "probability": 0.238951205057089,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "DATA LINKS"
-                        },
-                        {
-                            "keyword": "topology",
-                            "probability": 0.2388721855130184,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "TOPOLOGY"
-                        },
-                        {
-                            "keyword": "poisson density function",
-                            "probability": 0.23809668175174728,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "POISSON DENSITY FUNCTIONS"
-                        },
-                        {
-                            "keyword": "fortran",
-                            "probability": 0.23575878155357263,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "FORTRAN"
-                        },
-                        {
-                            "keyword": "object-oriented programming",
-                            "probability": 0.23466888492012752,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "OBJECT-ORIENTED PROGRAMMING"
-                        },
-                        {
-                            "keyword": "confidence limit",
-                            "probability": 0.23297690886834013,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CONFIDENCE LIMITS"
-                        },
-                        {
-                            "keyword": "concurrent engineering",
-                            "probability": 0.23247408540555825,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CONCURRENT ENGINEERING"
-                        },
-                        {
-                            "keyword": "equivalence",
-                            "probability": 0.23229203660448444,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "EQUIVALENCE"
-                        },
-                        {
-                            "keyword": "random variable",
-                            "probability": 0.23223526353877308,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "RANDOM VARIABLES"
-                        },
-                        {
-                            "keyword": "buffer storage",
-                            "probability": 0.23163424035001773,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "BUFFER STORAGE"
-                        },
-                        {
-                            "keyword": "graphical user interface",
-                            "probability": 0.23113261963720005,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "GRAPHICAL USER INTERFACE"
-                        },
-                        {
-                            "keyword": "cost reduction",
-                            "probability": 0.23058330130413787,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COST REDUCTION"
-                        },
-                        {
-                            "keyword": "planning",
-                            "probability": 0.230548168189571,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "PLANNING"
-                        },
-                        {
-                            "keyword": "c++ (programming language)",
-                            "probability": 0.23039387223074456,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "C++ (PROGRAMMING LANGUAGE)"
-                        },
-                        {
-                            "keyword": "computer program",
-                            "probability": 0.22993555269819158,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COMPUTER PROGRAMS"
-                        },
-                        {
-                            "keyword": "maintenance",
-                            "probability": 0.2296832634826284,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "MAINTENANCE"
-                        },
-                        {
-                            "keyword": "position (location)",
-                            "probability": 0.22917742577478087,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "POSITION (LOCATION)"
-                        },
-                        {
-                            "keyword": "markov chain",
-                            "probability": 0.2284328436777855,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "MARKOV CHAINS"
-                        },
-                        {
-                            "keyword": "personnel",
-                            "probability": 0.22806226326208456,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "PERSONNEL"
-                        },
-                        {
-                            "keyword": "resource allocation",
-                            "probability": 0.2280304659888506,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "RESOURCE ALLOCATION"
-                        },
-                        {
-                            "keyword": "interface",
-                            "probability": 0.22776032637418497,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "INTERFACES"
-                        },
-                        {
-                            "keyword": "local area network",
-                            "probability": 0.22627718217760218,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "LOCAL AREA NETWORKS"
-                        },
-                        {
-                            "keyword": "trees (mathematics)",
-                            "probability": 0.22626659462122398,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "TREES (MATHEMATICS)"
-                        },
-                        {
-                            "keyword": "military operation",
-                            "probability": 0.2261219516032256,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "MILITARY OPERATIONS"
-                        },
-                        {
-                            "keyword": "symmetry",
-                            "probability": 0.2257789100151416,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "SYMMETRY"
-                        },
-                        {
-                            "keyword": "cost",
-                            "probability": 0.22545122476629856,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COSTS"
-                        },
-                        {
-                            "keyword": "entropy",
-                            "probability": 0.2251790906462493,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "ENTROPY"
-                        },
-                        {
-                            "keyword": "convexity",
-                            "probability": 0.22437013545821397,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CONVEXITY"
-                        },
-                        {
-                            "keyword": "mission planning",
-                            "probability": 0.2237618586802786,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "MISSION PLANNING"
-                        },
-                        {
-                            "keyword": "petri net",
-                            "probability": 0.22368117621858322,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "PETRI NETS"
-                        },
-                        {
-                            "keyword": "fiber optic",
-                            "probability": 0.22348655724168742,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "FIBER OPTICS"
-                        },
-                        {
-                            "keyword": "linguistic",
-                            "probability": 0.22259141861593215,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "LINGUISTICS"
-                        },
-                        {
-                            "keyword": "software reliability",
-                            "probability": 0.2215141651822163,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "SOFTWARE RELIABILITY"
-                        },
-                        {
-                            "keyword": "series expansion",
-                            "probability": 0.22095436007610683,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "SERIES EXPANSION"
-                        },
-                        {
-                            "keyword": "architecture (computers)",
-                            "probability": 0.22084776791248542,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "ARCHITECTURE (COMPUTERS)"
-                        },
-                        {
-                            "keyword": "access control",
-                            "probability": 0.21993178682661912,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "ACCESS CONTROL"
-                        },
-                        {
-                            "keyword": "computer network",
-                            "probability": 0.21987291943827278,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COMPUTER NETWORKS"
-                        },
-                        {
-                            "keyword": "error correcting code",
-                            "probability": 0.21961328530133106,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "ERROR CORRECTING CODES"
-                        },
-                        {
-                            "keyword": "management planning",
-                            "probability": 0.2183684042643937,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "MANAGEMENT PLANNING"
-                        },
-                        {
-                            "keyword": "calculu",
-                            "probability": 0.21802821945393025,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CALCULUS"
-                        },
-                        {
-                            "keyword": "runge-kutta method",
-                            "probability": 0.21762748741392757,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "RUNGE-KUTTA METHOD"
-                        },
-                        {
-                            "keyword": "switching",
-                            "probability": 0.21715165841204864,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "SWITCHING"
-                        },
-                        {
-                            "keyword": "computer storage device",
-                            "probability": 0.2170821113971532,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COMPUTER STORAGE DEVICES"
-                        },
-                        {
-                            "keyword": "theorem proving",
-                            "probability": 0.21653878331003396,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "THEOREM PROVING"
-                        },
-                        {
-                            "keyword": "library",
-                            "probability": 0.21550686182574064,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "LIBRARIES"
-                        },
-                        {
-                            "keyword": "internet",
-                            "probability": 0.2149404501314346,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "INTERNETS"
-                        },
-                        {
-                            "keyword": "support system",
-                            "probability": 0.21488652788175377,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "SUPPORT SYSTEMS"
-                        },
-                        {
-                            "keyword": "wave equation",
-                            "probability": 0.2146929118653234,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "WAVE EQUATIONS"
-                        },
-                        {
-                            "keyword": "camera",
-                            "probability": 0.21456258889186985,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CAMERAS"
-                        },
-                        {
-                            "keyword": "communication network",
-                            "probability": 0.21454500475433755,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COMMUNICATION NETWORKS"
-                        },
-                        {
-                            "keyword": "speech recognition",
-                            "probability": 0.2142998197234483,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "SPEECH RECOGNITION"
-                        },
-                        {
-                            "keyword": "high level language",
-                            "probability": 0.2132614850312461,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "HIGH LEVEL LANGUAGES"
-                        },
-                        {
-                            "keyword": "network",
-                            "probability": 0.21252661000105766,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "NETWORKS"
-                        },
-                        {
-                            "keyword": "hilbert space",
-                            "probability": 0.21228852036432413,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "HILBERT SPACE"
-                        },
-                        {
-                            "keyword": "software reuse",
-                            "probability": 0.21148024138146918,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "SOFTWARE REUSE"
-                        },
-                        {
-                            "keyword": "diffusion",
-                            "probability": 0.21106168346301898,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "DIFFUSION"
-                        },
-                        {
-                            "keyword": "knowledge representation",
-                            "probability": 0.20987256475914634,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "KNOWLEDGE REPRESENTATION"
-                        },
-                        {
-                            "keyword": "speech",
-                            "probability": 0.20949044379845097,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "SPEECH"
-                        },
-                        {
-                            "keyword": "manifolds (mathematics)",
-                            "probability": 0.209283605920456,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "MANIFOLDS (MATHEMATICS)"
-                        },
-                        {
-                            "keyword": "conservation law",
-                            "probability": 0.2090602704574531,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CONSERVATION LAWS"
-                        },
-                        {
-                            "keyword": "constraint",
-                            "probability": 0.208788203424829,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CONSTRAINTS"
-                        },
-                        {
-                            "keyword": "numerical analysi",
-                            "probability": 0.20854080508261896,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "NUMERICAL ANALYSIS"
-                        },
-                        {
-                            "keyword": "imaging technique",
-                            "probability": 0.2083364703458179,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "IMAGING TECHNIQUES"
-                        },
-                        {
-                            "keyword": "sequencing",
-                            "probability": 0.2083214763987179,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "SEQUENCING"
-                        },
-                        {
-                            "keyword": "mathematical logic",
-                            "probability": 0.2074743754171675,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "MATHEMATICAL LOGIC"
-                        },
-                        {
-                            "keyword": "h-infinity control",
-                            "probability": 0.20730236166135188,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "H-INFINITY CONTROL"
-                        },
-                        {
-                            "keyword": "three dimensional body",
-                            "probability": 0.20674603298670863,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "THREE DIMENSIONAL BODIES"
-                        },
-                        {
-                            "keyword": "computer programming",
-                            "probability": 0.206703339586664,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COMPUTER PROGRAMMING"
-                        },
-                        {
-                            "keyword": "white noise",
-                            "probability": 0.2066690381051965,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "WHITE NOISE"
-                        },
-                        {
-                            "keyword": "correlation",
-                            "probability": 0.20592388386026383,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "CORRELATION"
-                        },
-                        {
-                            "keyword": "proving",
-                            "probability": 0.20507432086023772,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "PROVING"
-                        },
-                        {
-                            "keyword": "trajectory control",
-                            "probability": 0.20423903322947165,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "TRAJECTORY CONTROL"
-                        },
-                        {
-                            "keyword": "compensator",
-                            "probability": 0.20397035195938293,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "COMPENSATORS"
-                        },
-                        {
-                            "keyword": "algorithm",
-                            "probability": 0.20392841805363365,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "ALGORITHMS"
-                        },
-                        {
-                            "keyword": "identifying",
-                            "probability": 0.20385537002629436,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "IDENTIFYING"
-                        },
-                        {
-                            "keyword": "binary data",
-                            "probability": 0.20367948352758178,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "BINARY DATA"
-                        },
-                        {
-                            "keyword": "knowledge bases (artificial intelligence)",
-                            "probability": 0.20327855508083734,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "KNOWLEDGE BASES (ARTIFICIAL INTELLIGENCE)"
-                        },
-                        {
-                            "keyword": "recursive function",
-                            "probability": 0.20288826240718327,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "RECURSIVE FUNCTIONS"
-                        },
-                        {
-                            "keyword": "random process",
-                            "probability": 0.20286171410835244,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "RANDOM PROCESSES"
-                        },
-                        {
-                            "keyword": "deformation",
-                            "probability": 0.20112161648148424,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "DEFORMATION"
-                        },
-                        {
-                            "keyword": "existence theorem",
-                            "probability": 0.2009332459343396,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "EXISTENCE THEOREMS"
-                        },
-                        {
-                            "keyword": "decision support system",
-                            "probability": 0.20076629973304888,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "DECISION SUPPORT SYSTEMS"
-                        },
-                        {
-                            "keyword": "fault detection",
-                            "probability": 0.20004647603621226,
-                            "topic": "mathematical and computer sciences",
-                            "unstemmed": "FAULT DETECTION"
-                        }
-                    ],
-                    "subjects": {},
-                    "topic_probabilties": {
-                        "aeronautics": 0.011990431696176529,
-                        "astronautics": 0.012642460875213146,
-                        "chemistry and materials": 0.004367556888610125,
-                        "engineering": 0.010075594298541546,
-                        "general": 0.0039903256110847,
-                        "geosciences": 0.011771162040531635,
-                        "life sciences": 0.009509537369012833,
-                        "mathematical and computer sciences": 0.910495400428772,
-                        "physics": 0.0023326589725911617,
-                        "social and information sciences": 0.04098457470536232,
-                        "space sciences": 0.13987843692302704
-                    },
-                    "topic_threshold": 0.2,
-                    "topics": [
-                        "mathematical and computer sciences"
-                    ]
-                },
-                "service_version": "4.1.1",
-                "status": "okay"
-            }
+            "date_AI_tags": "2021_November_08_at_10_12AM"
         },
         {
             "repositoryURL": "https://app.assembla.com/spaces/viewpoints/documents",
@@ -73179,7 +72307,8 @@
                 "gee",
                 "beginner-friendly",
                 "start",
-                "satellite"
+                "satellite",
+                "satellite-imagery"
             ],
             "description": "The code repository for earth-imagery-api on https://api.nasa.gov/ . This repository contains a Flask API that provides satellite imagery. It is designed to be very simple and easy to use with minimal functionality and is provided to the public through api.nasa.gov. It focuses on one Earth imagery product, Landsat 8 for those new to coding and API calls.",
             "contact": {
@@ -73189,9 +72318,9 @@
                 "URL": "https://api.nasa.gov"
             },
             "date": {
-                "lastModified": "2021-11-01",
-                "metadataLastUpdated": "2021-09-23",
-                "created": "2013-03-01"
+                "lastModified": "2021-12-01",
+                "metadataLastUpdated": "2021-09-24",
+                "created": "2013-04-01"
             },
             "organization": "JSC",
             "permissions": {
@@ -73206,18 +72335,18 @@
             },
             "sti_keywords_passed_thresholds": [
                 "nlp:infrared imagery",
-                "nlp:synchronous satellite",
-                "nlp:earth (planet)",
-                "nlp:satellite observation",
-                "nlp:earth surface",
-                "nlp:satellite imagery",
                 "nlp:imagery",
+                "nlp:satellite observation",
+                "nlp:earth (planet)",
+                "nlp:meteorological satellite",
+                "nlp:synchronous satellite",
                 "nlp:landsat satellite",
                 "nlp:satellite-borne photography",
-                "nlp:meteorological satellite"
+                "nlp:satellite imagery",
+                "nlp:earth surface"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2021_September_23_at_02_30PM",
+            "date_AI_tags": "2021_November_08_at_10_12AM",
             "local-id": "44099303-a14f-4a80-8cf1-f7623ef69a6b"
         },
         {
@@ -73281,6 +72410,133 @@
             "service_version": "4.1.1",
             "date_AI_tags": "2021_September_23_at_11_45AM",
             "local-id": "9fa212c1-f2f5-4082-81af-465553d01e3b"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/1d-pinn-reconstruction",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 300,
+            "languages": [
+                "Python"
+            ],
+            "name": "1d-pinn-reconstruction",
+            "contributors": [
+                {
+                    "name": "Chris Bard",
+                    "email": "christopher.bard@nasa.gov",
+                    "github": "heliobard"
+                }
+            ],
+            "tags": [
+                "usg-artificial-intelligence",
+                "Physics-Informed Neural Network",
+                "PINN",
+                "MHD",
+                "Reconstruction",
+                "Plasma"
+            ],
+            "description": "This is the code for \"Neural Network Reconstruction of Plasma Space-Time\" by C.Bard and J.Dorelli (DOI: 10.3389/fspas.2021.732275). It is a Physics-Informed Transformer Neural Network which was used to reconstruct one-dimensional (M)HD shocktubes from partial samples. Includes source code, data, and jupyter notebooks for scientific reproduction.",
+            "contact": {
+                "email": "christopher.bard@nasa.gov",
+                "name": "Chris Bard",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2021-10-05",
+                "metadataLastUpdated": "2021-10-08",
+                "created": "2021-10-05"
+            },
+            "organization": "GSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "NASA Open Source",
+                        "URL": "https://opensource.org/licenses/NASA-1.3"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:plasma radiation",
+                "nlp:plasma generator",
+                "nlp:space plasma",
+                "nlp:plasma density",
+                "nlp:plasma physic",
+                "nlp:plasma dynamic",
+                "nlp:light source",
+                "nlp:neural net",
+                "nlp:plasmas (physics)",
+                "nlp:space charge"
+            ],
+            "service_version": "4.1.1",
+            "date_AI_tags": "2021_November_08_at_10_12AM",
+            "local-id": "8900ea24-c7b7-414e-9e83-32b0468a40db"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/1d-pinn-reconstruction",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 400,
+            "languages": [
+                "Python"
+            ],
+            "name": "1D PINN Reconstruction",
+            "contributors": [
+                {
+                    "name": "Chris Bard",
+                    "email": "christopher.bard@nasa.gov",
+                    "github": "heliobard"
+                }
+            ],
+            "tags": [
+                "usg-artificial-intelligence",
+                "Physics Informed Neural Network",
+                "PINN",
+                "reconstruction",
+                "MHD"
+            ],
+            "description": "This is the code for \"Neural Network Reconstruction of Plasma Space-Time\" by C. Bard and J. Dorelli (DOI: 10.3389/fspas.2021.732275). It is a Physics-Informed Transformer Neural Network which was used to reconstruct one-dimensional (M)HD shocktubes from partial samples. Includes source code, data, and jupyter notebooks for scientific reproduction.",
+            "contact": {
+                "email": "christopher.bard@nasa.gov",
+                "name": "Chris Bard",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2021-10-06",
+                "metadataLastUpdated": "2021-10-25",
+                "created": "2021-10-06"
+            },
+            "organization": "GSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "NASA Open Source",
+                        "URL": "https://opensource.org/licenses/NASA-1.3"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:plasma radiation",
+                "nlp:plasma generator",
+                "nlp:space plasma",
+                "nlp:plasma density",
+                "nlp:plasma physic",
+                "nlp:plasma dynamic",
+                "nlp:light source",
+                "nlp:neural net",
+                "nlp:plasmas (physics)",
+                "nlp:space charge"
+            ],
+            "service_version": "4.1.1",
+            "date_AI_tags": "2021_November_08_at_10_12AM",
+            "local-id": "afa5ed77-65e2-4df0-8770-e67e79375daf"
         }
     ]
 }
