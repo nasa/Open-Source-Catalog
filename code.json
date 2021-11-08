@@ -43615,7 +43615,8 @@
                 "APOD",
                 "astronomy",
                 "photos",
-                "starter"
+                "starter",
+                "starter-friendly"
             ],
             "contact": {
                 "email": "jennifer.n.betancourt@nasa.gov",
@@ -43624,9 +43625,9 @@
             },
             "laborHours": 320,
             "date": {
-                "lastModified": "2020-08-06",
-                "metadataLastUpdated": "2021-10-29",
-                "created": "2016-02-01"
+                "lastModified": "2020-09-06",
+                "metadataLastUpdated": "2021-11-08",
+                "created": "2016-03-01"
             },
             "organization": "HQ",
             "permissions": {
@@ -43650,19 +43651,19 @@
             ],
             "disclaimerURL": "https://github.com/nasa/apod-api/blob/master/LICENSE",
             "sti_keywords_passed_thresholds": [
-                "nlp:java (programming language)",
+                "nlp:graphs (charts)",
+                "nlp:computerized simulation",
+                "nlp:information retrieval",
                 "nlp:telecommunication",
+                "nlp:world wide web",
                 "nlp:operators (mathematics)",
                 "nlp:gates (circuits)",
-                "nlp:information retrieval",
-                "nlp:computerized simulation",
                 "nlp:computation",
-                "nlp:query language",
-                "nlp:world wide web",
-                "nlp:graphs (charts)"
+                "nlp:java (programming language)",
+                "nlp:query language"
             ],
             "service_version": "4.1.1",
-            "date_AI_tags": "2021_November_08_at_12_45PM"
+            "date_AI_tags": "2021_November_08_at_01_00PM"
         },
         {
             "repositoryURL": "https://app.assembla.com/spaces/viewpoints/documents",
