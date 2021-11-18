@@ -72665,6 +72665,70 @@
             "service_version": "4.1.1",
             "date_AI_tags": "2021_November_08_at_12_45PM",
             "local-id": "a9e3a03f-77be-434d-b286-ee7f13706804"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/SALaD",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 2080,
+            "languages": [
+                "Python"
+            ],
+            "name": "SALaD",
+            "contributors": [
+                {
+                    "name": "Thomas Stanley",
+                    "email": "thomas.a.stanley@nasa.gov",
+                    "github": "thomasastanley"
+                },
+                {
+                    "name": "Dalia Kirschbaum",
+                    "email": "dalia.b.kirschbaum@nasa.gov",
+                    "github": "N/A"
+                }
+            ],
+            "tags": [
+                "usg-artificial-intelligence",
+                "Landslides",
+                "Object based image analysis"
+            ],
+            "description": "SALaD (Semi-Automatic Landslide Detection) is a landslide mapping system. SALaD utilizes Object-based Image Analysis and Random Forest to map landslides. It requires optical imagery, a DEM, corner coordinates of a training area, and manually mapped landslides within the training area.",
+            "contact": {
+                "email": "pukar.m.amatya@nasa.gov",
+                "name": "Pukar Amatya",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2021-11-17",
+                "metadataLastUpdated": "2021-11-18",
+                "created": "2019-01-01"
+            },
+            "organization": "GSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "NASA Open Source",
+                        "URL": "https://opensource.org/licenses/NASA-1.3"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:image processing",
+                "nlp:mapping",
+                "nlp:image analysi",
+                "nlp:thematic mapping",
+                "nlp:imagery",
+                "nlp:forest",
+                "nlp:imaging technique",
+                "nlp:recognition"
+            ],
+            "service_version": "4.1.1",
+            "date_AI_tags": "2021_November_18_at_11_00AM",
+            "local-id": "d0eb79eb-5882-4d36-8f82-bb4fa85b7845"
         }
     ]
 }
