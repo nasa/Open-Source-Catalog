@@ -1,0 +1,86 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/apod-api",
+    "name": "APOD API",
+    "contributors": [
+      {
+        "name": null,
+        "email": "brian.a.thomas@nasa.gov",
+        "github": null
+      },
+      {
+        "name": null,
+        "email": "jennifer.n.betancourt@nasa.gov",
+        "github": null
+      },
+      {
+        "name": "N/A",
+        "email": "evan.t.yates@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "N/A",
+        "email": "justin.c.gosses@nasa.gov",
+        "github": "N/A"
+      }
+    ],
+    "tags": [
+      "Images",
+      "API",
+      "NASA",
+      "APOD",
+      "astronomy",
+      "photos",
+      "starter",
+      "starter-friendly"
+    ],
+    "contact": {
+      "email": "jennifer.n.betancourt@nasa.gov",
+      "name": "Brian.a.thomas@nasa.gov",
+      "phone": ""
+    },
+    "laborHours": 320,
+    "date": {
+      "lastModified": "2020-11-06",
+      "metadataLastUpdated": "2021-12-09",
+      "created": "2016-05-01"
+    },
+    "organization": "HQ",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "URL": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "homepageURL": "https://github.com/nasa/apod-api",
+    "local-id": "e02d8367-e496-4d8e-b5fa-ef3ce6a4886e",
+    "description": "Astronomy Picture of the Day API service. A microservice written in Python which may be run on Google App Engine with the Flask micro framework or AWS.",
+    "supplementaryURLs": [
+      "https://software.nasa.gov/software/HQ-APOD"
+    ],
+    "languages": [
+      "Python"
+    ],
+    "disclaimerURL": "https://github.com/nasa/apod-api/blob/master/LICENSE",
+    "sti_keywords_passed_thresholds": [
+      "nlp:world wide web",
+      "nlp:operators (mathematics)",
+      "nlp:telecommunication",
+      "nlp:computerized simulation",
+      "nlp:graphs (charts)",
+      "nlp:java (programming language)",
+      "nlp:computation",
+      "nlp:query language",
+      "nlp:gates (circuits)",
+      "nlp:information retrieval"
+    ],
+    "service_version": "4.1.1",
+    "date_AI_tags": "2021_December_08_at_02_54PM"
+  },
+  "contact_email": "weFs7Ks+pT7fr8TUwj6kdeGW5F8vo9+2v5+gObK/T/+qJ1LHF0EW",
+  "nonce": "B14ZCkm9vEPQIcctV4zQ9ZXZSdVnZEvN"
+}
