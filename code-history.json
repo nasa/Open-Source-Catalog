@@ -7501,5 +7501,60 @@
             "date_AI_tags": "2021_September_22_at_04_45PM",
             "local-id": "44099303-a14f-4a80-8cf1-f7623ef69a6b"
         }
+    ],
+    "552d49a2-4350-4fe3-bc8b-ffafaff94b5e": [
+        {
+            "repositoryURL": "https://github.com/nasa/NASA-Acronyms",
+            "description": "This is a tool for defining over 10,000 NASA acronyms.",
+            "contributors": [
+                {
+                    "name": "maliska",
+                    "email": null,
+                    "github": null
+                }
+            ],
+            "tags": [
+                "search",
+                "tool",
+                "nasa",
+                "acronym"
+            ],
+            "name": "NASA Acronyms",
+            "contact": {
+                "email": "joel.d.malissa@nasa.gov",
+                "name": "Joel Malissa",
+                "phone": ""
+            },
+            "laborHours": 100,
+            "date": {
+                "lastModified": "2021-05-26",
+                "metadataLastUpdated": "2021-12-10",
+                "created": "2016-08-26"
+            },
+            "organization": "GSFC",
+            "homepageURL": "https://nasaacronyms.com/",
+            "local-id": "552d49a2-4350-4fe3-bc8b-ffafaff94b5e",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "MIT",
+                        "URL": "https://opensource.org/licenses/MIT"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "supplementaryURLs": [],
+            "languages": [
+                "JavaScript",
+                "Python",
+                "HTML",
+                "CSS",
+                "JSON"
+            ],
+            "date_AI_tags": "2021_December_10_at_11_45AM",
+            "sti_keywords_passed_thresholds": [],
+            "service_version": "4.1.1"
+        }
     ]
 }
