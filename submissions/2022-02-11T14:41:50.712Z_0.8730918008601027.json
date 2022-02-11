@@ -1,0 +1,68 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa-petal/PeTaL",
+    "homepageURL": "https://github.com/nasa-petal/PeTaL",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 1000,
+    "languages": [
+      "JavaScript",
+      "Python",
+      "HTML",
+      "CSS"
+    ],
+    "name": "PeTaL",
+    "contributors": [
+      {
+        "name": "Herb Schilling",
+        "email": "hschilling@nasa.gov",
+        "github": "hschilling"
+      }
+    ],
+    "tags": [
+      "usg-artificial-intelligence",
+      "biomimicry",
+      "design",
+      "tool",
+      "webapp",
+      "nature-inspired"
+    ],
+    "description": "The Periodic Table of Life (PeTaL, pronounced petal) is intended to be a design tool to enable a deeper understanding of natural systems and to enable the creation or improvement of nature-inspired systems. The tool includes an unstructured database, data analytics tools and a web-based user interface. Three levels of information are expected to be captured: morphology that would aid designers by providing context-specific physical design rules, function-morphology relationships to provide nature-inspired solution strategies, and system-level relationships that involve the interaction of several biological models including flow of resources and energy. In its current form, PeTaL is structured as a large NoSQL database that will be accessible to researchers and citizen scientists. It includes entomological and paleontological data from the Cleveland Museum of Natural History (CMNH) in Cleveland, OH, the Cincinnati Museum Center in Cincinnati, OH and the Smithsonian. PeTaL can display relationships between biological models, geography, and environment through maps and plots. These may be used to glean patterns or design rules. Data can also be downloaded for further analysis. A more systematic design process is under development that will allow multiple models to be used for the various stages of design.",
+    "contact": {
+      "email": "vikram.shyam-1@nasa.gov",
+      "name": "",
+      "phone": "",
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2020-01-29",
+      "metadataLastUpdated": "2022-02-11",
+      "created": "2020-01-29"
+    },
+    "organization": "GRC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "sti_keywords_passed_thresholds": [
+      "nlp:model",
+      "nlp:cognition",
+      "nlp:mathematical model",
+      "nlp:data base",
+      "nlp:biology",
+      "nlp:morphology",
+      "nlp:human-computer interface"
+    ],
+    "local-id": "ec80d566-ec73-11ea-8066-0050568333ce",
+    "service_version": "4.1.1",
+    "date_AI_tags": "2020_September_14_at_12_48PM"
+  },
+  "contact_email": "d0cUF6Q6jPSqQbGk4b5HXcel2Za3NHWkhfw1AMQYz6WlAS6ykqtC",
+  "nonce": "EMYyH4JFMQD5ae6idxkpUsudbvRpy65c"
+}
