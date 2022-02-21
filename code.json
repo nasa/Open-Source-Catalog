@@ -72741,6 +72741,73 @@
             "service_version": "4.1.1",
             "date_AI_tags": "2021_November_18_at_11_00AM",
             "local-id": "d0eb79eb-5882-4d36-8f82-bb4fa85b7845"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/GHRC-FieldCampaign-eXplorer-UI",
+            "homepageURL": "",
+            "downloadURL": "https://github.com/nasa/GHRC-FieldCampaign-eXplorer-UI/archive/refs/heads/main.zip",
+            "disclaimerURL": "",
+            "laborHours": 2000,
+            "languages": [
+                "JavaScript",
+                "React",
+                "UI",
+                "3D Visualization"
+            ],
+            "name": "GHRC-FieldCampaign-eXplorer-UI",
+            "contributors": [
+                {
+                    "name": "Navaneeth Selvaraj",
+                    "email": "navaneeth.rangaswamyselvaraj@nasa.gov",
+                    "github": "navaneethrs"
+                }
+            ],
+            "tags": [
+                "Javascript",
+                "UI",
+                "React",
+                "Hydrometeorology ",
+                "data",
+                "fcx"
+            ],
+            "description": "The Field Campaign eXplorer (FCX) is developed at the Global Hydrometeorology Resource Center (GHRC) to address data exploration needs in portraying the interactive nature of multiple datasets that are obtained in a concerted field campaign.\n\nThe FCX has been built to explore the diverse multi-stream coincident datasets through several field campaigns whose data are managed and archived at GHRC. FCX is a web-based and cloud-native system that visualizes multiple datasets in a time-dynamic, 3-dimensional display with supplemental data analysis. The web-based feature delivers visualization without the requirement of a graphical software system and being cloud-native allows for sharing of the data and visualization.\n\nFCX offers a system for coincident visualization and analysis. Scientific analysis typically requires intercomparisons and cross-references. This enables the investigation of the environment and how individual observations come together to explain the larger whole. FCX offers a means with which to more readily bring together many, often disparate, datasets in a common frame of reference without requiring the user to develop these capabilities. Further, as more data become publicly available in the cloud, FCX\u2019s open source abilities facilitate not only cross-DAAC collaborations but ultimately cross-organization collaborations.",
+            "contact": {
+                "email": "will.ellett@nasa.gov",
+                "name": "Will Ellett",
+                "phone": 2569617810,
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2022-02-17",
+                "metadataLastUpdated": "2022-02-21",
+                "created": "2015-10-01"
+            },
+            "organization": "MSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "Apache-2.0",
+                        "URL": "https://opensource.org/licenses/Apache-2.0"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:scientific visualization",
+                "nlp:data processing",
+                "nlp:clouds (meteorology)",
+                "nlp:graphical user interface",
+                "nlp:real time operation",
+                "nlp:display device",
+                "nlp:software development tool",
+                "nlp:computer graphic",
+                "nlp:world wide web",
+                "nlp:interactive control"
+            ],
+            "service_version": "5.0.12",
+            "date_AI_tags": "2022_February_21_at_09_45AM",
+            "local-id": "f5fdc107-f669-4bb9-ba48-093febb1e59d"
         }
     ]
 }
