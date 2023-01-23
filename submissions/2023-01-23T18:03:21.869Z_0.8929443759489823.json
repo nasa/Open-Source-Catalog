@@ -1,0 +1,50 @@
+{
+  "payload": {
+    "repositoryURL": "https://ti.arc.nasa.gov/opensource/projects/mission-simulation-toolkit/",
+    "homepageURL": "https://ti.arc.nasa.gov/opensource/projects/mission-simulation-toolkit/",
+    "downloadURL": "https://ti.arc.nasa.gov/opensource/projects/mission-simulation-toolkit/",
+    "disclaimerURL": "",
+    "laborHours": 1,
+    "languages": [
+      "JavaScript"
+    ],
+    "name": "test2023",
+    "contributors": [
+      {
+        "name": "Daniel Rendon",
+        "email": "daniel.c.rendon@nasa.gov",
+        "github": "dcrendon"
+      }
+    ],
+    "tags": [
+      "tag1",
+      "tag2",
+      "tag3"
+    ],
+    "description": "test2023",
+    "contact": {
+      "email": "darith.s.yim@nasa.gov",
+      "name": "Darith Yim",
+      "phone": 8324839057,
+      "URL": "www.nasa.gov"
+    },
+    "date": {
+      "lastModified": "2023-01-23",
+      "metadataLastUpdated": "2023-01-23",
+      "created": "2023-01-23"
+    },
+    "organization": "JSC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "HuggYuRdFWrs6nJS8lQ1FrOnhJMZlK68cqqsTmPMYG1Z9/2rZg==",
+  "nonce": "neqyaD1Aa8aXQZtaX9Ek92WdVOtP4Zoa"
+}
