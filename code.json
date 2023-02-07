@@ -69622,7 +69622,8 @@
                 "search",
                 "tool",
                 "nasa",
-                "acronym"
+                "acronym",
+                "testing"
             ],
             "name": "NASA Acronyms",
             "contact": {
@@ -69632,9 +69633,9 @@
             },
             "laborHours": 100,
             "date": {
-                "lastModified": "2021-05-26",
-                "metadataLastUpdated": "2021-12-10",
-                "created": "2016-08-26"
+                "lastModified": "2021-06-26",
+                "metadataLastUpdated": "2023-02-07",
+                "created": "2016-09-26"
             },
             "organization": "GSFC",
             "homepageURL": "https://nasaacronyms.com/",
@@ -69657,9 +69658,9 @@
                 "CSS",
                 "JSON"
             ],
-            "date_AI_tags": "2021_December_10_at_11_45AM",
+            "date_AI_tags": "2023_February_07_at_07_30AM",
             "sti_keywords_passed_thresholds": [],
-            "service_version": "4.1.1"
+            "service_version": "5.0.12"
         },
         {
             "repositoryURL": "https://github.com/T-infinity/miniapps",
