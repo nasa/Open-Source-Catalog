@@ -1,0 +1,65 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/NASA-IMPACT/hls-project",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 30000,
+    "languages": [
+      "Python",
+      "C",
+      "Markdown",
+      "XML",
+      "JSON"
+    ],
+    "name": "Harmonized Landsat Sentinel-2",
+    "contributors": [
+      {
+        "name": "Brian Freitag",
+        "email": "brian.m.freitag@nasa.gov",
+        "github": "freitagb"
+      },
+      {
+        "name": "Sean Harkins",
+        "email": "sean@developmentseed.org",
+        "github": "sharkinsspatial"
+      },
+      {
+        "name": "Junchang Ju",
+        "email": "junchang.ju@nasa.gov",
+        "github": "junchangju"
+      }
+    ],
+    "tags": [
+      "Remote Sensing",
+      "Image Processing",
+      "Land Cover Change",
+      "Global Environmental Change"
+    ],
+    "description": "The Harmonized Landsat and Sentinel-2 (HLS) project is a NASA initiative and collaboration with USGS to produce compatible surface reflectance data from a virtual constellation of satellite sensors, the Operational Land Imager and Multi-Spectral Instrument, onboard the Landsat and Sentinel-2 remote sensing satellites respectively. The combined measurement enables global land observation every 2-3 days at moderate (30 m) spatial resolution. The HLS data products can be regarded as the building blocks for a data cube so that a user may examine any pixel through time, and treat the near-daily reflectance time series as though it came from a single sensor.",
+    "contact": {
+      "email": "john.j.mandel@nasa.gov",
+      "name": "John Mandel",
+      "phone": 4342704640,
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2023-05-18",
+      "metadataLastUpdated": "2023-05-18",
+      "created": "2019-07-26"
+    },
+    "organization": "MSFC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "MIT",
+          "URL": "https://opensource.org/licenses/MIT"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "xl6t1dtUqo/5q+SoXpyEtNu8cK1H+ZoWKaXBG/At6taTuLVn6Co=",
+  "nonce": "JkpuEV8XeP+hg5sYwCuE5vKZ2yPtcyhV"
+}
