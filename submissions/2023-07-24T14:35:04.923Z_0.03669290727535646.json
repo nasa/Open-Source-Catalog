@@ -1,0 +1,142 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/upsp-processing",
+    "homepageURL": "https://nasa.github.io/upsp-processing",
+    "downloadURL": "https://github.com/nasa/upsp-processing/archive/refs/heads/master.zip",
+    "disclaimerURL": "",
+    "laborHours": 6000,
+    "languages": [
+      "Python",
+      "C++",
+      "C",
+      "Markdown"
+    ],
+    "name": "upsp-processing",
+    "contributors": [
+      {
+        "name": "Jessica Powell",
+        "email": "jmpowell595@gmail.com",
+        "github": "N/A"
+      },
+      {
+        "name": "Marc Shaw-Lecerf",
+        "email": "marc.a.shaw-lecerf@nasa.gov",
+        "github": "marclecerf"
+      },
+      {
+        "name": "Scott Murman",
+        "email": "scott.murman@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Kenneth Lyons",
+        "email": "kenneth.r.lyons@nasa.gov",
+        "github": "ixjlyons"
+      },
+      {
+        "name": "David Ellsworth",
+        "email": "david.ellsworth@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Bron Nelson",
+        "email": "bron.c.nelson@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Tim Sandstrom",
+        "email": "timothy.a.sandstrom@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Nicholas Califano",
+        "email": "nicholas.w.califano@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Nettie Roozeboom",
+        "email": "nettie.roozeboom@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "David Murakami",
+        "email": "david.d.murakami@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Patrick Moran",
+        "email": "patrick.moran@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Chris Henze",
+        "email": "chris.henze@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Jie Li",
+        "email": "jie.li-1@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Jennifer Baerny",
+        "email": "jennifer.baerny@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "E. Lara Lash",
+        "email": "elizabeth.l.lash@nasa.gov",
+        "github": "N/A"
+      },
+      {
+        "name": "Paul Stremel",
+        "email": "paul.m.stremel@nasa.gov",
+        "github": "N/A"
+      }
+    ],
+    "tags": [
+      "python",
+      "macos",
+      "linux",
+      "opencv",
+      "computer-vision",
+      "hpc",
+      "signal-processing",
+      "computer-graphics",
+      "OpenMP",
+      "MPI",
+      "parallel-computing",
+      "scientific-computing",
+      "turbulence",
+      "opencv-python",
+      "aeroacoustics",
+      "photron",
+      "scientific-computing-with-python"
+    ],
+    "description": "Software for processing high-speed video recordings from Unsteady Pressure-Sensitive Paint (UPSP) measurement systems.",
+    "contact": {
+      "email": "marc.a.shaw-lecerf@nasa.gov",
+      "name": "Marc Shaw-Lecerf",
+      "phone": 2487013350,
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2023-07-21",
+      "metadataLastUpdated": "2023-07-24",
+      "created": "2015-09-01"
+    },
+    "organization": "ARC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "rpYYx/jWldbcjwDfXctsi67XX+RPaqXg4Ms789PK1dCgdp5Zy3/WPuWsug==",
+  "nonce": "+XHr84S28SJAnok6Fp7d2kONfBd3IyRY"
+}
