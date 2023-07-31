@@ -73105,6 +73105,211 @@
             "service_version": "5.0.12",
             "date_AI_tags": "2023_May_18_at_01_00PM",
             "local-id": "33b70524-6fb9-49b3-8e6d-ce206df7bb17"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/earthdata-varinfo",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 100,
+            "languages": [
+                "Python"
+            ],
+            "name": "earthdata-varinfo",
+            "contributors": [
+                {
+                    "name": "Owen Littlejohns",
+                    "email": "owen.m.littlejohns@nasa.gov",
+                    "github": "owenlittlejohns"
+                }
+            ],
+            "tags": [
+                "metadata",
+                "earth-observation",
+                "nasa-eosdis",
+                "variable",
+                "NetCDF-4"
+            ],
+            "description": "earthdata-varinfo is a Python package developed as part of the NASA Earth Observing System Data and Information System (EOSDIS) for parsing Earth Observation science granule structure. earthdata-varinfo extracts relationships between science variables and their associations metadata, such as coordinates. This package also includes the capability to generate Unified Metadata Model Variable (UMM-Var) metadata record that are compatible with the NASA EOSDIS Common Metadata Repository (CMR).\n\nearthdata-varinfo can be installed from PyPI via pip.",
+            "contact": {
+                "email": "owen.m.littlejohns@nasa.gov",
+                "name": "Owen Littlejohns",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2023-06-21",
+                "metadataLastUpdated": "2023-06-22",
+                "created": "2021-03-21"
+            },
+            "organization": "GSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "Apache-2.0",
+                        "URL": "https://opensource.org/licenses/Apache-2.0"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:random variable",
+                "nlp:geodetic coordinate",
+                "nlp:earth science",
+                "nlp:variable star",
+                "nlp:truss",
+                "nlp:coordinate",
+                "nlp:astronomical coordinate",
+                "nlp:electronic packaging",
+                "nlp:geography",
+                "nlp:structural analysi"
+            ],
+            "service_version": "5.0.12",
+            "date_AI_tags": "2023_July_31_at_01_15PM",
+            "local-id": "49c90f15-8a6a-48b8-bfd8-134a1c92388c"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/upsp-processing",
+            "homepageURL": "https://nasa.github.io/upsp-processing",
+            "downloadURL": "https://github.com/nasa/upsp-processing/archive/refs/heads/master.zip",
+            "disclaimerURL": "",
+            "laborHours": 6000,
+            "languages": [
+                "Python",
+                "C++",
+                "C",
+                "Markdown"
+            ],
+            "name": "upsp-processing",
+            "contributors": [
+                {
+                    "name": "Jessica Powell",
+                    "email": "jmpowell595@gmail.com",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Marc Shaw-Lecerf",
+                    "email": "marc.a.shaw-lecerf@nasa.gov",
+                    "github": "marclecerf"
+                },
+                {
+                    "name": "Scott Murman",
+                    "email": "scott.murman@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Kenneth Lyons",
+                    "email": "kenneth.r.lyons@nasa.gov",
+                    "github": "ixjlyons"
+                },
+                {
+                    "name": "David Ellsworth",
+                    "email": "david.ellsworth@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Bron Nelson",
+                    "email": "bron.c.nelson@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Tim Sandstrom",
+                    "email": "timothy.a.sandstrom@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Nicholas Califano",
+                    "email": "nicholas.w.califano@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Nettie Roozeboom",
+                    "email": "nettie.roozeboom@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "David Murakami",
+                    "email": "david.d.murakami@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Patrick Moran",
+                    "email": "patrick.moran@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Chris Henze",
+                    "email": "chris.henze@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Jie Li",
+                    "email": "jie.li-1@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Jennifer Baerny",
+                    "email": "jennifer.baerny@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "E. Lara Lash",
+                    "email": "elizabeth.l.lash@nasa.gov",
+                    "github": "N/A"
+                },
+                {
+                    "name": "Paul Stremel",
+                    "email": "paul.m.stremel@nasa.gov",
+                    "github": "N/A"
+                }
+            ],
+            "tags": [
+                "python",
+                "macos",
+                "linux",
+                "opencv",
+                "computer-vision",
+                "hpc",
+                "signal-processing",
+                "computer-graphics",
+                "OpenMP",
+                "MPI",
+                "parallel-computing",
+                "scientific-computing",
+                "turbulence",
+                "opencv-python",
+                "aeroacoustics",
+                "photron",
+                "scientific-computing-with-python"
+            ],
+            "description": "Software for processing high-speed video recordings from Unsteady Pressure-Sensitive Paint (UPSP) measurement systems.",
+            "contact": {
+                "email": "marc.a.shaw-lecerf@nasa.gov",
+                "name": "Marc Shaw-Lecerf",
+                "phone": 2487013350,
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2023-07-21",
+                "metadataLastUpdated": "2023-07-24",
+                "created": "2015-09-01"
+            },
+            "organization": "ARC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "NASA Open Source",
+                        "URL": "https://opensource.org/licenses/NASA-1.3"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "date_AI_tags": "2023_July_31_at_01_15PM",
+            "sti_keywords_passed_thresholds": "",
+            "service_version": "",
+            "local-id": "fb93e906-7212-4321-9e5f-f938202f4687"
         }
     ]
 }
