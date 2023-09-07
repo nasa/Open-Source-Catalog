@@ -73310,6 +73310,66 @@
             "sti_keywords_passed_thresholds": "",
             "service_version": "",
             "local-id": "fb93e906-7212-4321-9e5f-f938202f4687"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/ncompare",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": -1,
+            "languages": [
+                "Python",
+                "Markdown",
+                "Jupyter Notebook"
+            ],
+            "name": "ncompare",
+            "contributors": [
+                {
+                    "name": "Daniel Kaufman",
+                    "email": "daniel.kaufman@nasa.gov",
+                    "github": "danielfromearth"
+                }
+            ],
+            "tags": [
+                "data-comparison",
+                "netcdf",
+                "hierarchical-data",
+                "command-line"
+            ],
+            "description": "Compares the structure of netCDF files at the command line and optional writes a report detailing the comparison results.",
+            "contact": {
+                "email": "daniel.kaufman@nasa.gov",
+                "name": "Daniel Kaufman",
+                "phone": null,
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2023-09-06",
+                "metadataLastUpdated": "2023-09-07",
+                "created": "2022-07-27"
+            },
+            "organization": "LaRC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "NASA Open Source Agreement 1.3",
+                        "URL": "https://github.com/nasa/ncompare/blob/main/license/LAR-20274-1_ncompare%20%20NetCDF%20structural%20comparison%20tool_NOSA%201.3.pdf"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:line spectra",
+                "nlp:transmission line",
+                "nlp:on-line system",
+                "nlp:command and control",
+                "nlp:structural analysi",
+                "nlp:comparison"
+            ],
+            "service_version": "5.0.12",
+            "date_AI_tags": "2023_September_07_at_02_15PM",
+            "local-id": "7d4e0006-389f-4dbe-bf74-d111fcde1e57"
         }
     ]
 }
