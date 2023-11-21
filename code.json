@@ -73435,6 +73435,56 @@
             "sti_keywords_passed_thresholds": "",
             "service_version": "",
             "local-id": "8ce682c9-ae0d-4644-80cf-9862c462e420"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/Open-Source-Catalog",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 1,
+            "languages": [
+                "JavaScript"
+            ],
+            "name": "test-plz-delete-2",
+            "contributors": [
+                {
+                    "name": "daniel rendon",
+                    "email": "daniel.c.rendon@nasa.gov",
+                    "github": "dcrendon"
+                }
+            ],
+            "tags": [
+                "test1",
+                "test2",
+                "test3"
+            ],
+            "description": "test-plz-delete-2",
+            "contact": {
+                "email": "daniel.c.rendon@nasa.gov",
+                "name": "",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2023-11-21",
+                "metadataLastUpdated": "2023-11-21",
+                "created": "2023-11-21"
+            },
+            "organization": "JSC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "MIT",
+                        "URL": "https://opensource.org/licenses/MIT"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "date_AI_tags": "2023_November_21_at_08_10PM",
+            "sti_keywords_passed_thresholds": "",
+            "service_version": "",
+            "local-id": "6443a0a0-0aaa-4925-b3e7-b6e7b5e258cd"
         }
     ]
 }
