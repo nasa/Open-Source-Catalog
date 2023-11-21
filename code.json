@@ -73385,6 +73385,56 @@
             "service_version": "5.0.12",
             "date_AI_tags": "2023_October_10_at_09_30AM",
             "local-id": "bf601b57-455a-4740-b39f-e72f7fa573a5"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/code-nasa-gov",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 1,
+            "languages": [
+                "JavaScript"
+            ],
+            "name": "test-plz-delete",
+            "contributors": [
+                {
+                    "name": "daniel rendon",
+                    "email": "daniel.c.rendon@nasa.gov",
+                    "github": "dcrendon"
+                }
+            ],
+            "tags": [
+                "test",
+                "test2",
+                "test3"
+            ],
+            "description": "test-plz-delete",
+            "contact": {
+                "email": "daniel.c.rendon@nasa.gov",
+                "name": "daniel rendon",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2023-11-21",
+                "metadataLastUpdated": "2023-11-21",
+                "created": "2023-11-21"
+            },
+            "organization": "JSC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "MIT",
+                        "URL": "https://opensource.org/licenses/MIT"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "date_AI_tags": "2023_November_21_at_11_15AM",
+            "sti_keywords_passed_thresholds": "",
+            "service_version": "",
+            "local-id": "8ce682c9-ae0d-4644-80cf-9862c462e420"
         }
     ]
 }
