@@ -19401,6 +19401,56 @@
         "External Link": ""
     },
     {
+        "Update_Date": "2023-05-08",
+        "Description": "This software was built in python and uses machine learning algorithms to detect severe storm signatures (above anvil cirrus plumes and overshooting tops) in geostationary satellite imagery. The software can be run by providing a configuration file or the software will prompt the user with a series of questions intended to determine the type of model they want to run. The model can be run in a real-time mode or archived run mode. The real-time mode downloads the latest satellite data from the Google Cloud and detects the severe storm signatures in it. The archived run mode detects the severe storm signatures for any user defined date ranges. Right now, the model is only able to detect these severe storm signatures for GOES-16 and GOES-17 satellite data, but we plan to eventually allow for more geostationary satellites.",
+        "Public Code Repo": "https://github.com/cooneyj023/svrstormsig",
+        "NASA Center": "LaRC",
+        "Contributors": [
+            "John Cooney",
+            "john.w.cooney@nasa.gov",
+            "cooneyj023",
+            "Kristopher Bedka",
+            "kristopher.m.bedka@nasa.gov",
+            "N/A",
+            "Charles Liles",
+            "charles.a.liles@nasa.gov",
+            "Charles-Liles"
+        ],
+        "Labor_Hours": 240,
+        "Categories": [
+            "usg-artificial-intelligence",
+            "NASA",
+            "LaRC",
+            "Open Source",
+            "OT",
+            "AACP",
+            "overshooting-tops",
+            "above-anvil-cirrus-plumes",
+            "goes-16",
+            "goes-17",
+            "severe-storm-signatures",
+            "geostationary-satellite"
+        ],
+        "Languages": [],
+        "Software": "ml-id-severe-storm-signatures",
+        "License": [
+            "NASA Open Source"
+        ],
+        "Categories_NLP": [
+            "nlp:time series analysi",
+            "nlp:storms (meteorology)",
+            "nlp:cirrus cloud",
+            "nlp:storm",
+            "nlp:software development tool",
+            "nlp:file maintenance (computers)",
+            "nlp:real time operation",
+            "nlp:plume",
+            "nlp:algorithm",
+            "nlp:mathematical model"
+        ],
+        "External Link": "code.nasa.gov"
+    },
+    {
         "Update_Date": "2023-05-11",
         "Description": "Severe weather clouds exhibit distinct patterns in satellite imagery. These patterns, commonly referred to as overshooting cloud tops (OTs) and above anvil cirrus plumes (AACPs), are routinely observed by the human-eye in satellite imagery atop the most intense storms on Earth. With the latest geostationary high spatio-temporal resolution satellite imagers such as, GOES-16 and GOES-17, these severe weather patterns are being observed better than ever before. Advances in deep learning methods allow us to not only detect these signatures but also automate the detection process for real-time applications. Our software code was developed in Python and contains up to 3 model types, U-Net, MultiResU-Net, and AttentionU-Net with varying geostationary satellite channels used as model inputs. The MultiresU-Net model has been found to identify the severe storm signatures better than the other 2 model types and will likely be the only model packaged in the software release. The models' were trained using a large database of OT and AACP patterns identified from human analysts based on 1-minute GOES-16 ABI imagery. In testing, the models have been shown to successfully detect OTs and AACPs with high precision. The software has also successfully been run for real-time and archived applications. The goal of this software is for users to accurately detect these severe storm signatures for a variety of forecast and research applications.",
         "Public Code Repo": "https://github.com/nasa/svrstormsig",
@@ -19697,12 +19747,12 @@
         "External Link": ""
     },
     {
-        "Update_Date": "2023-01-20",
+        "Update_Date": "2023-11-21",
         "Description": "test-plz-delete",
-        "Public Code Repo": "https://developer.nasa.gov/OpenInnovation/code-submission-app",
+        "Public Code Repo": "https://github.com/nasa/code-nasa-gov",
         "NASA Center": "JSC",
         "Contributors": [
-            "daniel",
+            "daniel rendon",
             "daniel.c.rendon@nasa.gov",
             "dcrendon"
         ],
@@ -19715,7 +19765,31 @@
         "Languages": [],
         "Software": "test-plz-delete",
         "License": [
-            "NASA Open Source"
+            "MIT"
+        ],
+        "Categories_NLP": "",
+        "External Link": ""
+    },
+    {
+        "Update_Date": "2023-11-21",
+        "Description": "test-plz-delete-2",
+        "Public Code Repo": "https://github.com/nasa/Open-Source-Catalog",
+        "NASA Center": "JSC",
+        "Contributors": [
+            "daniel rendon",
+            "daniel.c.rendon@nasa.gov",
+            "dcrendon"
+        ],
+        "Labor_Hours": 1,
+        "Categories": [
+            "test1",
+            "test2",
+            "test3"
+        ],
+        "Languages": [],
+        "Software": "test-plz-delete-2",
+        "License": [
+            "MIT"
         ],
         "Categories_NLP": "",
         "External Link": ""
