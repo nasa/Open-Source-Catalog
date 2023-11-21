@@ -1,0 +1,50 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/code-nasa-gov",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 1,
+    "languages": [
+      "JavaScript"
+    ],
+    "name": "test-plz-delete",
+    "contributors": [
+      {
+        "name": "daniel rendon",
+        "email": "daniel.c.rendon@nasa.gov",
+        "github": "dcrendon"
+      }
+    ],
+    "tags": [
+      "test",
+      "test2",
+      "test3"
+    ],
+    "description": "test-plz-delete",
+    "contact": {
+      "email": "daniel.c.rendon@nasa.gov",
+      "name": "daniel rendon",
+      "phone": "",
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2023-11-21",
+      "metadataLastUpdated": "2023-11-21",
+      "created": "2023-11-21"
+    },
+    "organization": "JSC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "MIT",
+          "URL": "https://opensource.org/licenses/MIT"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "tHxBuMpNQntARKhCaIVK8fKDk+k8mhoVZz6vAVWnW/EUhuhlCP4vKA==",
+  "nonce": "SrdPHrmm8OBYkZftIpzO2KGRPPswyBnm"
+}
