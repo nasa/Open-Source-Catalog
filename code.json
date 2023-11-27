@@ -73485,6 +73485,56 @@
             "sti_keywords_passed_thresholds": "",
             "service_version": "",
             "local-id": "6443a0a0-0aaa-4925-b3e7-b6e7b5e258cd"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/code-nasa-gov",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 1,
+            "languages": [
+                "JavaScript"
+            ],
+            "name": "test-jeff",
+            "contributors": [
+                {
+                    "name": "Jeffery Rubio",
+                    "email": "jeffery.j.rubio@nasa.gov",
+                    "github": "rubioJeffery"
+                }
+            ],
+            "tags": [
+                "usg-artificial-intelligence",
+                "nasa",
+                "tst"
+            ],
+            "description": "test project",
+            "contact": {
+                "email": "jeffery.j.rubio@nasa.gov",
+                "name": "Jeffery Rubio",
+                "phone": null,
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2023-11-06",
+                "metadataLastUpdated": "2023-11-27",
+                "created": "2023-11-06"
+            },
+            "organization": "AFRC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "Apache-2.0",
+                        "URL": "https://opensource.org/licenses/Apache-2.0"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "date_AI_tags": "2023_November_27_at_05_42PM",
+            "sti_keywords_passed_thresholds": "",
+            "service_version": "",
+            "local-id": "ce8ebbc8-fa63-4f35-8799-15c9046536c6"
         }
     ]
 }
