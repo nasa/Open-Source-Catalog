@@ -19793,5 +19793,29 @@
         ],
         "Categories_NLP": "",
         "External Link": ""
+    },
+    {
+        "Update_Date": "2023-11-27",
+        "Description": "test project",
+        "Public Code Repo": "https://github.com/nasa/code-nasa-gov",
+        "NASA Center": "AFRC",
+        "Contributors": [
+            "Jeffery Rubio",
+            "jeffery.j.rubio@nasa.gov",
+            "rubioJeffery"
+        ],
+        "Labor_Hours": 1,
+        "Categories": [
+            "usg-artificial-intelligence",
+            "nasa",
+            "tst"
+        ],
+        "Languages": [],
+        "Software": "test-jeff",
+        "License": [
+            "Apache-2.0"
+        ],
+        "Categories_NLP": "",
+        "External Link": ""
     }
 ]
