@@ -1,0 +1,50 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/code-nasa-gov",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 3,
+    "languages": [
+      "JavaScript"
+    ],
+    "name": "test-tessa",
+    "contributors": [
+      {
+        "name": "tessa brazda",
+        "email": "tessa.m.brazda@nasa.gov",
+        "github": "darith27"
+      }
+    ],
+    "tags": [
+      "test1",
+      "test2",
+      "test3"
+    ],
+    "description": "test-tessa",
+    "contact": {
+      "email": "tessa.m.brazda@nasa.gov",
+      "name": "",
+      "phone": "",
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2023-11-30",
+      "metadataLastUpdated": "2023-11-29",
+      "created": "2023-11-21"
+    },
+    "organization": "JSC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "K1p/ohaIWxWOFL8cEl0GDLgpwsUEtNDITCiOD434kLqSlAnmHlNx",
+  "nonce": "Cey+hiD3/HMg2z8U6kYZpJExd77/jk25"
+}
