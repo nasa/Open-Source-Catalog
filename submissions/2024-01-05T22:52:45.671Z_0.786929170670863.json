@@ -1,0 +1,82 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/harmony-swath-projector",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 500,
+    "languages": [
+      "Python"
+    ],
+    "name": "nasa/harmony-swath-projector",
+    "contributors": [
+      {
+        "name": "Owen Littlejohns",
+        "email": "owen.m.littlejohns@nasa.gov",
+        "github": "owenlittlejohns"
+      },
+      {
+        "name": "David Auty",
+        "email": "david.p.auty@nasa.gov",
+        "github": "autydp"
+      },
+      {
+        "name": "Patrick Quinn",
+        "email": "patrick.m.quinn@nasa.gov",
+        "github": "bilts"
+      },
+      {
+        "name": "Kevin Beam",
+        "email": "kevin.beam@colorado.edu",
+        "github": "kbeamnsidc"
+      },
+      {
+        "name": "Chris Durbin",
+        "email": "christopher.d.durbin@nasa.gov",
+        "github": "chris-durbin"
+      },
+      {
+        "name": "Slav Korolev",
+        "email": "vyacheslav.s.korolev@nasa.gov",
+        "github": "vskorole"
+      }
+    ],
+    "tags": [
+      "reprojection",
+      "earthdata",
+      "swath",
+      "NetCDF-4",
+      "netcdf",
+      "L2"
+    ],
+    "description": "The Harmony Swath Projector repository contains the source code and Docker images for a Harmony (harmony.earthdata.nasa.gov) backend service, which will project L2 swath data into a specified regular grid. This service was developed as part of the NASA EOSDIS Evolution and Development (EED) contract.",
+    "contact": {
+      "email": "owen.m.littlejohns@nasa.gov",
+      "name": "Owen Littlejohns",
+      "phone": null,
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2024-01-04",
+      "metadataLastUpdated": "2024-01-05",
+      "created": "2019-11-14"
+    },
+    "organization": "GSFC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "URL": "https://opensource.org/licenses/Apache-2.0"
+        },
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "zTDgC9nx1fqO9eKc1CkgNcP9eh1N8MBoV+N4g/HXtGjD73BZofMhfCQVaw==",
+  "nonce": "o1eMHz/g6qEbVBjOQ6FxBZN1obb/qBRF"
+}
