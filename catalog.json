@@ -19889,5 +19889,59 @@
         ],
         "Categories_NLP": "",
         "External Link": ""
+    },
+    {
+        "Update_Date": "2024-01-05",
+        "Description": "The Harmony Swath Projector repository contains the source code and Docker images for a Harmony (harmony.earthdata.nasa.gov) backend service, which will project L2 swath data into a specified regular grid. This service was developed as part of the NASA EOSDIS Evolution and Development (EED) contract.",
+        "Public Code Repo": "https://github.com/nasa/harmony-swath-projector",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Owen Littlejohns",
+            "owen.m.littlejohns@nasa.gov",
+            "owenlittlejohns",
+            "David Auty",
+            "david.p.auty@nasa.gov",
+            "autydp",
+            "Patrick Quinn",
+            "patrick.m.quinn@nasa.gov",
+            "bilts",
+            "Kevin Beam",
+            "kevin.beam@colorado.edu",
+            "kbeamnsidc",
+            "Chris Durbin",
+            "christopher.d.durbin@nasa.gov",
+            "chris-durbin",
+            "Slav Korolev",
+            "vyacheslav.s.korolev@nasa.gov",
+            "vskorole"
+        ],
+        "Labor_Hours": 500,
+        "Categories": [
+            "reprojection",
+            "earthdata",
+            "swath",
+            "NetCDF-4",
+            "netcdf",
+            "L2"
+        ],
+        "Languages": [],
+        "Software": "nasa/harmony-swath-projector",
+        "License": [
+            "Apache-2.0",
+            "NASA Open Source"
+        ],
+        "Categories_NLP": [
+            "nlp:ion source",
+            "nlp:binary code",
+            "nlp:neutron source",
+            "nlp:x ray source",
+            "nlp:signal encoding",
+            "nlp:radiation source",
+            "nlp:computational grid",
+            "nlp:image processing",
+            "nlp:light source",
+            "nlp:image"
+        ],
+        "External Link": ""
     }
 ]
