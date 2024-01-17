@@ -73882,7 +73882,7 @@
                 "test2",
                 "test3"
             ],
-            "description": "test",
+            "description": "test just updated",
             "contact": {
                 "email": "tessa.m.brazda@nasa.gov",
                 "name": "",
@@ -73890,9 +73890,9 @@
                 "URL": ""
             },
             "date": {
-                "lastModified": "2024-01-17",
+                "lastModified": "2024-02-17",
                 "metadataLastUpdated": "2024-01-17",
-                "created": "2024-01-02"
+                "created": "2024-02-02"
             },
             "organization": "JSC",
             "permissions": {
@@ -73905,9 +73905,9 @@
                 "usageType": "openSource",
                 "exemptionText": null
             },
-            "date_AI_tags": "2024_January_17_at_08_56PM",
-            "sti_keywords_passed_thresholds": "",
-            "service_version": "",
+            "date_AI_tags": "2024_January_17_at_09_11PM",
+            "sti_keywords_passed_thresholds": [],
+            "service_version": "5.0.12",
             "local-id": "2e2b0bb4-2d2b-4a0f-885a-15396bc83c2f"
         }
     ]
