@@ -19946,7 +19946,7 @@
     },
     {
         "Update_Date": "2024-01-17",
-        "Description": "test",
+        "Description": "test just updated",
         "Public Code Repo": "github.com/code",
         "NASA Center": "JSC",
         "Contributors": [
@@ -19965,7 +19965,7 @@
         "License": [
             "NASA Open Source"
         ],
-        "Categories_NLP": "",
+        "Categories_NLP": [],
         "External Link": ""
     }
 ]
