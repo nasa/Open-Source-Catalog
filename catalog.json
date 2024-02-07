@@ -19967,5 +19967,46 @@
         ],
         "Categories_NLP": [],
         "External Link": ""
+    },
+    {
+        "Update_Date": "2024-02-07",
+        "Description": "The Harmony Browse Image Generator (HyBIG) is a Harmony backend service developed as part of the NASA Earth Observing System Data and Information System (EOSDIS). HyBIG offers reformatting of GeoTIFF data files into browse imagery that is compatible with the NASA Global Imagery Browse Services (GIBS). GIBS imagery is used to power NASA tools such as Worldview (https://worldview.earthdata.nasa.gov).",
+        "Public Code Repo": "https://github.com/nasa/harmony-browse-image-generator",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Owen Littlejohns",
+            "owen.m.littlejohns@nasa.gov",
+            "owenlittlejohns",
+            "Matthew Savoie",
+            "matthew.savoie@",
+            "flamingbear"
+        ],
+        "Labor_Hours": 100,
+        "Categories": [
+            "eosdis-harmony",
+            "browse-imagery",
+            "gibs",
+            "global-imagery-browse-service",
+            "reformatting"
+        ],
+        "Languages": [],
+        "Software": "Harmony Browse Image Generator (HyBIG)",
+        "License": [
+            "Apache-2.0",
+            "NASA Open Source"
+        ],
+        "Categories_NLP": [
+            "nlp:satellite-borne photography",
+            "nlp:radar imagery",
+            "nlp:image",
+            "nlp:imaging technique",
+            "nlp:file maintenance (computers)",
+            "nlp:image analysi",
+            "nlp:image processing",
+            "nlp:imagery",
+            "nlp:video data",
+            "nlp:image enhancement"
+        ],
+        "External Link": ""
     }
 ]
