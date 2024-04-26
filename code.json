@@ -73982,6 +73982,77 @@
             "service_version": "5.0.12",
             "date_AI_tags": "2024_February_07_at_06_11PM",
             "local-id": "ba6453d2-cde8-4468-ad98-942097d10a0e"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/harmony-regridding-service",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 100,
+            "languages": [
+                "Python",
+                "Markdown"
+            ],
+            "name": "Harmony Regridding Service",
+            "contributors": [
+                {
+                    "name": "Owen Littlejohns",
+                    "email": "owen.m.littlejohns@nasa.gov",
+                    "github": "owenlittlejohns"
+                },
+                {
+                    "name": "Matthew Savoie",
+                    "email": "matthew.savoie@colorado.edu",
+                    "github": "flamingbear"
+                }
+            ],
+            "tags": [
+                "eosdis-harmony",
+                "regridding",
+                "reprojection"
+            ],
+            "description": "The Harmony Regridding Service is a Harmony (harmony.earthdata.nasa.gov) backend service developed as part of the NASA Earth Observing System Data and Information System (EOSDIS). This service offers regridding of gridded (L3 or L4) Earth Science data. The repository contains source code and CI/CD which is used to create a Docker image for use in Harmony. This Docker image is hosted as a repository package.",
+            "contact": {
+                "email": "owen.m.littlejohns@nasa.gov",
+                "name": "",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2024-04-25",
+                "metadataLastUpdated": "2024-04-26",
+                "created": "2023-01-20"
+            },
+            "organization": "GSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "Apache-2.0",
+                        "URL": "https://opensource.org/licenses/Apache-2.0"
+                    },
+                    {
+                        "name": "NASA Open Source",
+                        "URL": "https://opensource.org/licenses/NASA-1.3"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:ion source",
+                "nlp:signal encoding",
+                "nlp:binary code",
+                "nlp:meteorological service",
+                "nlp:image analysi",
+                "nlp:radiation source",
+                "nlp:image",
+                "nlp:image processing",
+                "nlp:x ray source",
+                "nlp:light source"
+            ],
+            "service_version": "5.0.12",
+            "date_AI_tags": "2024_April_26_at_03_40PM",
+            "local-id": "e25a353e-b4db-46fc-902e-238dd4e2628b"
         }
     ]
 }

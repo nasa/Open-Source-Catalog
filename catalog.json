@@ -20008,5 +20008,44 @@
             "nlp:image enhancement"
         ],
         "External Link": ""
+    },
+    {
+        "Update_Date": "2024-04-26",
+        "Description": "The Harmony Regridding Service is a Harmony (harmony.earthdata.nasa.gov) backend service developed as part of the NASA Earth Observing System Data and Information System (EOSDIS). This service offers regridding of gridded (L3 or L4) Earth Science data. The repository contains source code and CI/CD which is used to create a Docker image for use in Harmony. This Docker image is hosted as a repository package.",
+        "Public Code Repo": "https://github.com/nasa/harmony-regridding-service",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Owen Littlejohns",
+            "owen.m.littlejohns@nasa.gov",
+            "owenlittlejohns",
+            "Matthew Savoie",
+            "matthew.savoie@colorado.edu",
+            "flamingbear"
+        ],
+        "Labor_Hours": 100,
+        "Categories": [
+            "eosdis-harmony",
+            "regridding",
+            "reprojection"
+        ],
+        "Languages": [],
+        "Software": "Harmony Regridding Service",
+        "License": [
+            "Apache-2.0",
+            "NASA Open Source"
+        ],
+        "Categories_NLP": [
+            "nlp:ion source",
+            "nlp:signal encoding",
+            "nlp:binary code",
+            "nlp:meteorological service",
+            "nlp:image analysi",
+            "nlp:radiation source",
+            "nlp:image",
+            "nlp:image processing",
+            "nlp:x ray source",
+            "nlp:light source"
+        ],
+        "External Link": ""
     }
 ]
