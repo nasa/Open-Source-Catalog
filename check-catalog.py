@@ -11,7 +11,7 @@ f.close()
 
 def check(n):
 	for pr in cod:
-		if n == pr['name']:
+		if n == pr['Name']:
 			# print('YES')
 			return True
 	print('   NO')
