@@ -25,7 +25,7 @@ test('Catalog entries have all required fields', () => {
     });
 });
 
-test('Catalog entries have correct types', () => {
+
     _.each(catalog, (entry) => {
         _.forOwn(requiredFieldsTemplate, (templateEntry, propertyName) => {
             if (_.has(entry, propertyName)) {
