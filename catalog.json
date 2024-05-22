@@ -20047,5 +20047,41 @@
             "nlp:light source"
         ],
         "External Link": ""
+    },
+    {
+        "Update_Date": "2024-05-22",
+        "Description": "The generic Urban Air Mobility (GUAM) github repository is a NASA created Matlab\u00ae/Simulink\u00ae simulation whose focus is to provide access for the Urban Air Mobility (UAM) and Advanced Air Mobility (AAM) research communities to a complete six degree-of-freedom, non-linear, single rigid-body simulation architecture to facilitate perception, control and machine learning research focused on autonomous flight of novel aircraft configurations.  The release of this simulation framework is intended to overcome barriers to collaboration and exchange within the eVTOL autonomous flight research community.\nAdditionally, the GUAM simulation is the basis for collaboration/comparison of a series of Challenge Problems posed to the autonomous flight research community.  These problem series are sets of increasing difficult autonomous flight tasks (e.g., trajectory tracking, stationary obstacle avoidance, moving intruder avoidance, vehicle control effector failure detection and mitigation).  The challenge problems will be a rolling set of challenges including performance assessment metrics, which allows researchers to baseline and assess the state of the art in autonomous transition vehicle flight using common vehicles and simulation framework.\n",
+        "Public Code Repo": "https://github.com/nasa/Generic-Urban-Air-Mobility-GUAM",
+        "NASA Center": "LaRC",
+        "Contributors": [
+            "Michael Acheson",
+            "michael.j.acheson@nasa.gov",
+            "macheson1"
+        ],
+        "Labor_Hours": 4000,
+        "Categories": [
+            "Autonomous Flight",
+            "Urban Air Mobility",
+            "Advanced Air Mobility",
+            "eVTOL"
+        ],
+        "Languages": [],
+        "Software": "Generic-Urban-Air-Mobility-GUAM",
+        "License": [
+            "NASA Open Source"
+        ],
+        "Categories_NLP": [
+            "nlp:degrees of freedom",
+            "nlp:learning",
+            "nlp:simulation",
+            "nlp:trajectory",
+            "nlp:machine learning",
+            "nlp:flight simulation",
+            "nlp:autonomous navigation",
+            "nlp:autonomy",
+            "nlp:manual control",
+            "nlp:aircraft control"
+        ],
+        "External Link": "https://nari.arc.nasa.gov/ttt-ram/community"
     }
 ]
