@@ -74037,6 +74037,65 @@
             "service_version": "5.0.12",
             "date_AI_tags": "2024_May_22_at_02_28PM",
             "local-id": "8d491bf3-1a6a-464e-8c2c-c408e7d0f846"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/GHRC-PyLOT",
+            "homepageURL": "",
+            "downloadURL": "https://github.com/nasa/GHRC-PyLOT/archive/refs/tags/v3.0.2.zip",
+            "disclaimerURL": "",
+            "laborHours": 300,
+            "languages": [
+                "Python"
+            ],
+            "name": "GHRC-PyLOT",
+            "contributors": [
+                {
+                    "name": "Michael Hall",
+                    "email": "michael.l.hall@nasa.gov",
+                    "github": "Michaellh0080"
+                }
+            ],
+            "tags": [
+                "python"
+            ],
+            "description": "PyLOT is a command line utility that was written to help DAAC operators in working with the Cumulus discovery and ingest stack. There are some issues that can be difficult to resolve using only the Cumulus dashboard or existing tools, so this was written to be an expandable and sharable tool. It has a plugin for the Cumulus API and a few other plugins for querying the Cumulus RDS cluster and OpenSearch that are available once deployed.",
+            "contact": {
+                "email": "will.ellett@nasa.gov",
+                "name": "Will Ellett",
+                "phone": 2569617808,
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2024-07-19",
+                "metadataLastUpdated": "2024-07-22",
+                "created": "2022-06-07"
+            },
+            "organization": "MSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "Apache-2.0",
+                        "URL": "https://opensource.org/licenses/Apache-2.0"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:transmission line",
+                "nlp:software development tool",
+                "nlp:operators (mathematics)",
+                "nlp:on-line system",
+                "nlp:line spectra",
+                "nlp:computer systems performance",
+                "nlp:lines of force",
+                "nlp:theorem proving",
+                "nlp:utility",
+                "nlp:command and control"
+            ],
+            "service_version": "5.0.12",
+            "date_AI_tags": "2024_July_22_at_06_35PM",
+            "local-id": "0393ae44-2c37-4bdb-9e8d-1d0c48c218ad"
         }
     ]
 }
