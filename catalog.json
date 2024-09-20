@@ -20116,5 +20116,40 @@
             "nlp:command and control"
         ],
         "External Link": ""
+    },
+    {
+        "Update_Date": "2024-09-20",
+        "Description": "The GHRC Cloud Browse repository is intended to provide seamless access to unauthenticated BROWSE images from NASA datasets. It offers a user-friendly interface for browsing, downloading, and interacting with BROWSE images and supporting documents. ",
+        "Public Code Repo": "https://github.com/nasa/GHRC-Cloud-Browse",
+        "NASA Center": "MSFC",
+        "Contributors": [
+            "Navaneeth Selvaraj",
+            "ns0066@uah.edu",
+            "NVD26"
+        ],
+        "Labor_Hours": 500,
+        "Categories": [
+            "React",
+            "AWS S3 List API",
+            "BROWSE"
+        ],
+        "Languages": [],
+        "Software": "GHRC-Cloud-Browse",
+        "License": [
+            "Apache-2.0"
+        ],
+        "Categories_NLP": [
+            "nlp:access control",
+            "nlp:human-computer interface",
+            "nlp:graphical user interface",
+            "nlp:interface",
+            "nlp:information retrieval",
+            "nlp:image processing",
+            "nlp:interface stability",
+            "nlp:data retrieval",
+            "nlp:user requirement",
+            "nlp:image"
+        ],
+        "External Link": "https://ghrc.earthdata.nasa.gov/browseui"
     }
 ]
