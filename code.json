@@ -74176,6 +74176,73 @@
             "service_version": "5.0.12",
             "date_AI_tags": "2024_July_22_at_06_35PM",
             "local-id": "0393ae44-2c37-4bdb-9e8d-1d0c48c218ad"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/GHRC-Cloud-Browse",
+            "homepageURL": "https://ghrc.earthdata.nasa.gov/browseui",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 500,
+            "languages": [
+                "JavaScript",
+                "TypeScript",
+                "HTML",
+                "CSS",
+                "Markdown",
+                "XML",
+                "JSON"
+            ],
+            "name": "GHRC-Cloud-Browse",
+            "contributors": [
+                {
+                    "name": "Navaneeth Selvaraj",
+                    "email": "ns0066@uah.edu",
+                    "github": "NVD26"
+                }
+            ],
+            "tags": [
+                "React",
+                "AWS S3 List API",
+                "BROWSE"
+            ],
+            "description": "The GHRC Cloud Browse repository is intended to provide seamless access to unauthenticated BROWSE images from NASA datasets. It offers a user-friendly interface for browsing, downloading, and interacting with BROWSE images and supporting documents. ",
+            "contact": {
+                "email": "ns0066@uah.edu",
+                "name": "Navaneeth Selvaraj",
+                "phone": 2569617545,
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2024-09-20",
+                "metadataLastUpdated": "2024-09-20",
+                "created": "2023-01-15"
+            },
+            "organization": "MSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "Apache-2.0",
+                        "URL": "https://opensource.org/licenses/Apache-2.0"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:access control",
+                "nlp:human-computer interface",
+                "nlp:graphical user interface",
+                "nlp:interface",
+                "nlp:information retrieval",
+                "nlp:image processing",
+                "nlp:interface stability",
+                "nlp:data retrieval",
+                "nlp:user requirement",
+                "nlp:image"
+            ],
+            "service_version": "5.0.12",
+            "date_AI_tags": "2024_September_20_at_06_33PM",
+            "local-id": "fabb34c9-2839-4f77-b383-18490a599eb6"
         }
     ]
 }
