@@ -20151,5 +20151,47 @@
             "nlp:image"
         ],
         "External Link": "https://ghrc.earthdata.nasa.gov/browseui"
+    },
+    {
+        "Update_Date": "2024-11-14",
+        "Description": "GIANT is an API for performing various kinds of Optical Navigation in simple python scripts. It provides all of the necessary tools to be able to easily perform most OpNav tasks including geometric camera calibration, attitude estimation, unresolved body center finding, resolved body center finding, limb based navigation, surface feature navigation, image planning, and much more.",
+        "Public Code Repo": "github.com/nasa/giant",
+        "NASA Center": "GSFC",
+        "Contributors": [
+            "Andrew Liounis",
+            "andrew.j.liounis@nasa.gov",
+            "aliounis"
+        ],
+        "Labor_Hours": 6261,
+        "Categories": [
+            "optical navigation",
+            "OpNav",
+            "terrain relative navigation",
+            "trn",
+            "surface feature navigation",
+            "sfn",
+            "camera calibration",
+            "image processing",
+            "computer vision",
+            "ray tracing"
+        ],
+        "Languages": [],
+        "Software": "Goddard Image Analysis and Navigation Tool",
+        "License": [
+            "NASA Open Source"
+        ],
+        "Categories_NLP": [
+            "nlp:attitude (inclination)",
+            "nlp:image processing",
+            "nlp:camera",
+            "nlp:navigation",
+            "nlp:limbs (anatomy)",
+            "nlp:attitude control",
+            "nlp:image analysi",
+            "nlp:space navigation",
+            "nlp:infrared imagery",
+            "nlp:calibrating"
+        ],
+        "External Link": "https://aliounis.github.io/giant_documentation/"
     }
 ]
