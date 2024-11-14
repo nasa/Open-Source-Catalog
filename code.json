@@ -74243,6 +74243,75 @@
             "service_version": "5.0.12",
             "date_AI_tags": "2024_September_20_at_06_33PM",
             "local-id": "fabb34c9-2839-4f77-b383-18490a599eb6"
+        },
+        {
+            "repositoryURL": "github.com/nasa/giant",
+            "homepageURL": "https://aliounis.github.io/giant_documentation/",
+            "downloadURL": "https://github.com/nasa/giant/archive/refs/tags/v1.0.6.zip",
+            "disclaimerURL": "",
+            "laborHours": 6261,
+            "languages": [
+                "Python",
+                "Cython"
+            ],
+            "name": "Goddard Image Analysis and Navigation Tool",
+            "contributors": [
+                {
+                    "name": "Andrew Liounis",
+                    "email": "andrew.j.liounis@nasa.gov",
+                    "github": "aliounis"
+                }
+            ],
+            "tags": [
+                "optical navigation",
+                "OpNav",
+                "terrain relative navigation",
+                "trn",
+                "surface feature navigation",
+                "sfn",
+                "camera calibration",
+                "image processing",
+                "computer vision",
+                "ray tracing"
+            ],
+            "description": "GIANT is an API for performing various kinds of Optical Navigation in simple python scripts. It provides all of the necessary tools to be able to easily perform most OpNav tasks including geometric camera calibration, attitude estimation, unresolved body center finding, resolved body center finding, limb based navigation, surface feature navigation, image planning, and much more.",
+            "contact": {
+                "email": "andrew.j.liounis@nasa.gov",
+                "name": "Andrew Liounis",
+                "phone": 3012862856,
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2024-06-26",
+                "metadataLastUpdated": "2024-11-14",
+                "created": "2015-09-01"
+            },
+            "organization": "GSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "NASA Open Source",
+                        "URL": "https://opensource.org/licenses/NASA-1.3"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:attitude (inclination)",
+                "nlp:image processing",
+                "nlp:camera",
+                "nlp:navigation",
+                "nlp:limbs (anatomy)",
+                "nlp:attitude control",
+                "nlp:image analysi",
+                "nlp:space navigation",
+                "nlp:infrared imagery",
+                "nlp:calibrating"
+            ],
+            "service_version": "5.0.12",
+            "date_AI_tags": "2024_November_14_at_06_22PM",
+            "local-id": "36fb9192-b9b5-4d56-b909-4bd4c8bc3e60"
         }
     ]
 }
