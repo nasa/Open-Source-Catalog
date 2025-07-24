@@ -20193,5 +20193,35 @@
             "nlp:calibrating"
         ],
         "External Link": "https://aliounis.github.io/giant_documentation/"
+    },
+    {
+        "Update_Date": "2025-07-24",
+        "Description": "This is a test and only a test. Please remove me after testing.",
+        "Public Code Repo": "https://github.com/nasa/test-repo",
+        "NASA Center": "JSC",
+        "Contributors": [
+            "Daniel Rendon",
+            "daniel.c.rendon@nasa.gov",
+            "dcrendon",
+            "Tessa Brazda",
+            "tessa.m.brazda@nasa.gov",
+            "tmbrazda",
+            "Andre Gueret",
+            "andre.gueret@nasa.gov",
+            "andreNASA"
+        ],
+        "Labor_Hours": 500,
+        "Categories": [
+            "usg-artificial-intelligence",
+            "earth",
+            "neo"
+        ],
+        "Languages": [],
+        "Software": "test-darith",
+        "License": [
+            "NASA Open Source"
+        ],
+        "Categories_NLP": "",
+        "External Link": "https://nasa.github.io/test-repo"
     }
 ]
