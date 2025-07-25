@@ -20223,5 +20223,46 @@
         ],
         "Categories_NLP": "",
         "External Link": "https://nasa.github.io/test-repo"
+    },
+    {
+        "Update_Date": "2025-07-25",
+        "Description": "Cumulus-API-Python is a Python client library that abstracts CUMULUS API calls to interact with the Cumulus Framework, such as monitoring status or creating, editing, and deleting records. This is the same API that powers the Cumulus dashboard.",
+        "Public Code Repo": "https://github.com/nasa/Cumulus-API-Python",
+        "NASA Center": "MSFC",
+        "Contributors": [
+            "Charles Collins",
+            "cbc0024@uah.edu",
+            "ccollinsuah",
+            "Payton Ireland",
+            "pi0003@uah.edu",
+            "PAIreland",
+            "Eddie Campos",
+            "ebc0007@uah.edu",
+            "camposeddie"
+        ],
+        "Labor_Hours": 64,
+        "Categories": [
+            "python",
+            "Cumulus",
+            "data"
+        ],
+        "Languages": [],
+        "Software": "Cumulus-API-Python",
+        "License": [
+            "Apache-2.0"
+        ],
+        "Categories_NLP": [
+            "nlp:library",
+            "nlp:client server system",
+            "nlp:computer design",
+            "nlp:computer systems performance",
+            "nlp:file maintenance (computers)",
+            "nlp:theorem proving",
+            "nlp:ultraviolet spectra",
+            "nlp:computer systems design",
+            "nlp:information retrieval",
+            "nlp:management information system"
+        ],
+        "External Link": ""
     }
 ]

@@ -74375,6 +74375,77 @@
             "sti_keywords_passed_thresholds": "",
             "service_version": "",
             "local-id": "29b746ba-469b-4f8d-8e9d-792034131b6c"
+        },
+        {
+            "repositoryURL": "https://github.com/nasa/Cumulus-API-Python",
+            "homepageURL": "",
+            "downloadURL": "",
+            "disclaimerURL": "",
+            "laborHours": 64,
+            "languages": [
+                "Python"
+            ],
+            "name": "Cumulus-API-Python",
+            "contributors": [
+                {
+                    "name": "Charles Collins",
+                    "email": "cbc0024@uah.edu",
+                    "github": "ccollinsuah"
+                },
+                {
+                    "name": "Payton Ireland",
+                    "email": "pi0003@uah.edu",
+                    "github": "PAIreland"
+                },
+                {
+                    "name": "Eddie Campos",
+                    "email": "ebc0007@uah.edu",
+                    "github": "camposeddie"
+                }
+            ],
+            "tags": [
+                "python",
+                "Cumulus",
+                "data"
+            ],
+            "description": "Cumulus-API-Python is a Python client library that abstracts CUMULUS API calls to interact with the Cumulus Framework, such as monitoring status or creating, editing, and deleting records. This is the same API that powers the Cumulus dashboard.",
+            "contact": {
+                "email": "cbc0024@uah.edu",
+                "name": "Charles Collins",
+                "phone": "",
+                "URL": ""
+            },
+            "date": {
+                "lastModified": "2025-06-25",
+                "metadataLastUpdated": "2025-07-25",
+                "created": "2020-05-12"
+            },
+            "organization": "MSFC",
+            "permissions": {
+                "licenses": [
+                    {
+                        "name": "Apache-2.0",
+                        "URL": "https://opensource.org/licenses/Apache-2.0"
+                    }
+                ],
+                "usageType": "openSource",
+                "exemptionText": null
+            },
+            "sti_keywords_passed_thresholds": [
+                "nlp:library",
+                "nlp:client server system",
+                "nlp:computer design",
+                "nlp:computer systems performance",
+                "nlp:file maintenance (computers)",
+                "nlp:theorem proving",
+                "nlp:ultraviolet spectra",
+                "nlp:computer systems design",
+                "nlp:information retrieval",
+                "nlp:management information system"
+            ],
+            "service_version": "5.0.12",
+            "date_AI_tags": "2025_July_25_at_03_05PM",
+            "local-id": "587d4086-3f59-4ff6-a94f-1fea79e76944"
         }
     ]
 }
