@@ -1,0 +1,60 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/Cumulus-API-Python",
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "laborHours": 64,
+    "languages": [
+      "Python"
+    ],
+    "name": "Cumulus-API-Python",
+    "contributors": [
+      {
+        "name": "Charles Collins",
+        "email": "cbc0024@uah.edu",
+        "github": "ccollinsuah"
+      },
+      {
+        "name": "Payton Ireland",
+        "email": "pi0003@uah.edu",
+        "github": "PAIreland"
+      },
+      {
+        "name": "Eddie Campos",
+        "email": "ebc0007@uah.edu",
+        "github": "camposeddie"
+      }
+    ],
+    "tags": [
+      "python",
+      "Cumulus",
+      "data"
+    ],
+    "description": "Cumulus-API-Python is a Python client library that abstracts CUMULUS API calls to interact with the Cumulus Framework, such as monitoring status or creating, editing, and deleting records. This is the same API that powers the Cumulus dashboard.",
+    "contact": {
+      "email": "cbc0024@uah.edu",
+      "name": "Charles Collins",
+      "phone": "",
+      "URL": ""
+    },
+    "date": {
+      "lastModified": "2025-06-25",
+      "metadataLastUpdated": "2025-07-25",
+      "created": "2020-05-12"
+    },
+    "organization": "MSFC",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "URL": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "VHrT0Hp9og5UEheDc4DJ4PbPv6OGV8eidIRRPSY8Ww==",
+  "nonce": "8ijtuet/bRgPR6/wfYFB1BfzHNK6/sDC"
+}
