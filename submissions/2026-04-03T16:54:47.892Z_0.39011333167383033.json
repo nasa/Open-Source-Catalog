@@ -1,0 +1,67 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/Goddard-Fortran-Ecosystem/pFUnit",
+    "description": "pFunit is a Fortran analog to various other xUnit testing frameworks which have been developed within the software community,and is intended to enable test driven development (TDD) within the scientific/technical programming community.",
+    "contributors": [
+      {
+        "name": "Thomas Clune",
+        "email": null,
+        "github": null
+      }
+    ],
+    "tags": [
+      "testing",
+      "test driven development",
+      "software development"
+    ],
+    "name": "pFUnit",
+    "contact": {
+      "email": "thomas.l.clune@nasa.gov",
+      "name": "Thomas Clune",
+      "phone": "",
+      "URL": ""
+    },
+    "laborHours": 2272,
+    "date": {
+      "lastModified": "2026-01-01",
+      "metadataLastUpdated": "2026-04-03",
+      "created": "2006-01-01"
+    },
+    "organization": "GSFC",
+    "homepageURL": "https://github.com/Goddard-Fortran-Ecosystem/pFUnit",
+    "local-id": "0c2efaa4-1c79-4754-8c82-ba35f7ee075e",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    },
+    "supplementaryURLs": [],
+    "languages": [
+      "Python",
+      "Fortran"
+    ],
+    "disclaimerURL": "https://example.com",
+    "sti_keywords_passed_thresholds": [
+      "nlp:evaluation",
+      "nlp:mathematical programming",
+      "nlp:electronic equipment test",
+      "nlp:automatic test equipment",
+      "nlp:software reliability",
+      "nlp:statistical test",
+      "nlp:software development tool",
+      "nlp:program verification (computers)",
+      "nlp:fortran",
+      "nlp:performance test"
+    ],
+    "service_version": "4.1.1",
+    "date_AI_tags": "2019_October_03_at_03_03PM",
+    "downloadURL": "https://github.com/Goddard-Fortran-Ecosystem/pFUnit.git"
+  },
+  "contact_email": "AoSaQ5HTe2rT8DWAVNwv4AdixqJmU7mtOndcxogSC7y8RM5TpH3s",
+  "nonce": "jBnCgWOAFWW8wnx1iHSKQ6CqZ/NXJrHC"
+}
