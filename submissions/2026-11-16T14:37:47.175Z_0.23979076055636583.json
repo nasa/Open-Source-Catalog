@@ -1,0 +1,62 @@
+{
+  "payload": {
+    "repositoryURL": "https://github.com/nasa/spacewasm",
+    "homepageURL": "https://github.com/nasa/spacewasm",
+    "downloadURL": "https://github.com/nasa/spacewasm/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/nasa/spacewasm/blob/main/LICENSE",
+    "laborHours": 1000,
+    "languages": [
+      "C",
+      "Rust"
+    ],
+    "name": "SpaceWasm",
+    "contributors": [
+      {
+        "name": "Andrei Tumbar",
+        "email": "Andrei.Tumbar@jpl.nasa.gov",
+        "github": "Kronos3"
+      },
+      {
+        "name": "Steven Myint",
+        "email": "Steven.Myint@jpl.nasa.gov",
+        "github": "myint"
+      }
+    ],
+    "tags": [
+      "webassembly",
+      "wasm",
+      "flight-software",
+      "embedded-systems",
+      "spacecraft",
+      "interpreter",
+      "sandboxing",
+      "sequencing",
+      "fprime"
+    ],
+    "description": "SpaceWasm is a flight-compliant implementation of the WebAssembly (Wasm 1.0) specification for interpreting Wasm binaries onboard spacecraft, developed at NASA JPL Robotics. It is the interpreter behind F´'s Svc::WasmSequencer (F´ v4.4.0). Each module runs in its own sandbox with a fixed interface to flight software, a bounded instruction budget, and memory-safety traps, so autonomy and command sequencing code can be updated without risking safety-critical flight software. It streams and validates Wasm in fixed memory, and targets flight processors including ARM and RISC-V.",
+    "contact": {
+      "email": "Steven.Myint@jpl.nasa.gov",
+      "name": "Steven Myint",
+      "phone": 6263144090,
+      "URL": "https://www-robotics.jpl.nasa.gov/who-we-are/people/steven_myint/"
+    },
+    "date": {
+      "lastModified": "2026-11-15",
+      "metadataLastUpdated": "2026-11-16",
+      "created": "2026-04-07"
+    },
+    "organization": "JPL",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "Apache-2.0",
+          "URL": "https://opensource.org/licenses/Apache-2.0"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "BeYeT/XPfKmABkguPErDaVQnMXJVnZOn1//+qGUlWcZ+Hn9kUuL/xrI=",
+  "nonce": "Vzs36yrMQjXx0xEtdK+tjkID8NAABV8m"
+}
