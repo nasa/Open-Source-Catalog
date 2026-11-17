@@ -1,9 +1,13 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema",
   "title": "Code.nasa.gov Inventory",
-  "description": "Code.nasa.gov code catolog, adapted frrom code.gov's federal source code catalog",
+  "description": "Code.nasa.gov code catalog, adapted from code.gov's federal source code catalog",
   "type": "object",
-  "properties": {
+    "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Relative path or URI of the JSON Schema this document is validated against."
+    },
     "measurementType": {
         "type": "object",
         "description": "An object containing description of the open source measurement method.",
