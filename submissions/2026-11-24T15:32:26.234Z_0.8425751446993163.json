@@ -1,0 +1,51 @@
+{
+  "payload": {
+    "repositoryURL": "https://www.nasa.gov/darith/repo",
+    "homepageURL": "https://www.nasa.gov/darith/repo",
+    "downloadURL": "https://www.nasa.gov/darith/repo",
+    "disclaimerURL": "https://www.nasa.gov/darith/repo",
+    "laborHours": 100,
+    "languages": [
+      "JavaScript",
+      "Python"
+    ],
+    "name": "darith-repo",
+    "contributors": [
+      {
+        "name": "darith yim",
+        "email": "darith.s.yim@nasa.gov",
+        "github": "darith27"
+      }
+    ],
+    "tags": [
+      "space",
+      "foods",
+      "asteroids"
+    ],
+    "description": "darith repo",
+    "contact": {
+      "email": "darith.s.yim@nasa.gov",
+      "name": "darith yim",
+      "phone": 1234567890,
+      "URL": "https://www.nasa.gov/darith"
+    },
+    "date": {
+      "lastModified": "2026-11-01",
+      "metadataLastUpdated": "2026-11-24",
+      "created": "2026-07-01"
+    },
+    "organization": "HQ",
+    "permissions": {
+      "licenses": [
+        {
+          "name": "NASA Open Source",
+          "URL": "https://opensource.org/licenses/NASA-1.3"
+        }
+      ],
+      "usageType": "openSource",
+      "exemptionText": null
+    }
+  },
+  "contact_email": "Ot7TGz4ow7ZZvRHD4m8u0MmCsKEF4/93ficbT1uT0VJmTvFIhg==",
+  "nonce": "khQptOFqjhFv9hEhfeZlGt/70vsxxf0S"
+}
